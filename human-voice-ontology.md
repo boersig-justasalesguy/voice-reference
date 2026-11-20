@@ -1,6 +1,6 @@
 # Human Voice Ontology for B2B Communication
 
-Comparative style analysis of three sources: classic correspondence, institutional analysts, and Latio, with an AI baseline (section 7), sales-message validation (section 8) and earnings-call speech (section 9). Compiled 2026-11-19; sales and earnings findings merged 2026-11-19.
+Comparative style analysis of three sources: classic correspondence, institutional analysts, and Latio, with an AI baseline (section 7), sales-message validation (section 8) and earnings-call speech (section 9) and tone-position scoring (section 10). Compiled 2026-11-19; sales, earnings, set-2 and tone findings merged 2026-11-19.
 
 ---
 
@@ -101,6 +101,8 @@ Every marker (M##) and human pattern (H##) has a **Tags** line with five fields:
 | confirmed-quality | Separates strong from weak messages, against dataset labels only |
 | revised / narrowed | Scope changed by later evidence |
 | partial | Weak precision |
+| measured | Quantified against a partial or proxy human target only |
+| replicated 2 sets | Same result on two independent labeled sales sets (still labeler-only) |
 | unsupported | Not borne out by the data |
 | corpus-only | Seen in the human sources but not yet tested against AI or outcomes |
 
@@ -242,7 +244,7 @@ Each marker lists its category, what it looks like, where it was observed, and w
 
 ### M01. Ceremonial preamble
 - **Category:** structural
-- **Tags:** `src: CF CL SL` · `ev: obs lab` · `ch: email dm voicemail` · `reg: stranger exec` · `status: confirmed-quality`
+- **Tags:** `src: CF CL SL` · `ev: obs lab` · `ch: email dm voicemail` · `reg: stranger exec` · `status: confirmed-quality (labeler only; replicated 2 sets)`
 - **What it looks like:** one or more sentences of context, goodwill or self-positioning before the purpose of the message.
 - **Observed:** Collins delays his purpose until near the end (C-PP13). Contrast the first-sentence decision in C-LH and C-LG.
 - **When it matters:** fatal in a cold outreach first line and in executive messages. It is acceptable in condolence notes and in a single reconnecting clause (C-DG).
@@ -350,7 +352,7 @@ Each marker lists its category, what it looks like, where it was observed, and w
 
 ### M14. Self-promotional superlatives
 - **Category:** sales_cliche
-- **Tags:** `src: IN PW SL` · `ev: obs lab` · `ch: email dm voicemail` · `reg: stranger exec` · `status: confirmed-quality`
+- **Tags:** `src: IN PW SL` · `ev: obs lab` · `ch: email dm voicemail` · `reg: stranger exec` · `status: confirmed-quality (labeler only; replicated 2 sets)`
 - **What it looks like:** "world's leading," "premier," "most hyped," "hottest."
 - **Observed:** G-P1, G-P4, I-1, L-P8.
 - **When it matters:** fatal in outreach to strangers and to executives.
@@ -398,7 +400,7 @@ Each marker lists its category, what it looks like, where it was observed, and w
 
 ### M20. Rhetorical contrast frames ("not X but Y," "not just," "it's not about X")
 - **Category:** structural
-- **Tags:** `src: AB PW SL` · `ev: meas lab` · `ch: all` · `reg: all` · `status: narrowed: rhetorical-only`
+- **Tags:** `src: AB PW SL` · `ev: meas lab` · `ch: all` · `reg: all` · `status: narrowed: rhetorical-only (replicated 2 sets)`
 - **What it looks like:** a claim built by rejecting a strawman first.
 - **Scope (narrowed, section 8):** flag only *rhetorical* contrasts, where the rejected view is a strawman nobody in the conversation holds. Do **not** flag *mechanism* contrasts that explain how something works, e.g. "managers approve instead of texting 14 people" or "reviews suggested edits rather than starting from a blank document".
   - In the labelled sales set, 85% of messages containing "instead of" or "rather than" were labelled strong and 0% weak, because those contrasts carry the mechanism (H20).
@@ -417,14 +419,14 @@ Each marker lists its category, what it looks like, where it was observed, and w
 
 ### M22. Transformation hype verbs
 - **Category:** sales_cliche
-- **Tags:** `src: SL` · `ev: lab` · `ch: email dm voicemail call` · `reg: stranger exec` · `status: confirmed-quality (labeler only)`
+- **Tags:** `src: SL` · `ev: lab` · `ch: email dm voicemail call` · `reg: stranger exec` · `status: confirmed-quality (labeler only; replicated 2 sets)`
 - **What it looks like:** "transform your business", "unlock", "empower", "streamline", "revolutionize", "supercharge", "take X to the next level", "digital transformation".
 - **Observed:** 12 of 835 labelled sales messages; 92% of them were labelled weak (section 8). The institutional version is M04.
 - **When it matters:** fatal in outreach. It is rare, so it catches only a few weak messages.
 
 ### M23. Manufactured urgency and pressure on the ask
 - **Category:** sales_cliche
-- **Tags:** `src: SL` · `ev: lab code` · `ch: email dm call` · `reg: stranger` · `status: confirmed-quality (labeler only)`
+- **Tags:** `src: SL` · `ev: lab code` · `ch: email dm call` · `reg: stranger` · `status: confirmed-quality (labeler only; replicated 2 sets)`
 - **What it looks like:**
   - Invented deadlines or scarcity ("time is running out", "spots filling fast", "offer expires").
   - Fixed meeting times offered before any interest is shown.
@@ -455,6 +457,26 @@ Each marker lists its category, what it looks like, where it was observed, and w
   - In blind coding, about 70% of AI answers recite figures nobody asked for, against 0–8% of human answers (two coders, r = 0.77).
   - AI answers pivot to a talking point in 54–79% of cases, against 4–38% for human answers.
 - **When it matters:** fatal in any reply that is supposed to be live: a DM, a call answer, a follow-up email. Acceptable in a written report or prepared remarks.
+
+### M25. Written register in a spoken channel
+- **Category:** structural
+- **Tags:** `src: SL ES` · `ev: meas` · `ch: call voicemail spoken` · `reg: stranger exec` · `status: measured (partial human target)`
+- **What it looks like:** a call script, voicemail or video script that reads like an email:
+  - almost no discourse openers ("So…", "Look…", "Yeah…");
+  - no first-person stance ("I think");
+  - few stance markers ("I mean", "kind of");
+  - sentence lengths more uniform than people actually speak.
+- **Observed (section 10):** 362 AI-written call, voicemail and video scripts from both sales sets, scored against live executive speech. They sit at 0.32 on the AI → human scale.
+
+  | Measure | Scripts | Live speech | AI default |
+  |---|---|---|---|
+  | Discourse openers per 1,000 words | 3.5 | 26.6 | 6.2 |
+  | First-person stance per 1,000 words | 0.9 | 7.2 | 1.3 |
+  | Sentence-length spread (SD) | 8.6 | 13.1 | 10.3 |
+
+  On all three measures the scripts fall short of even the AI default. They do avoid other AI tells: figures (14.8 per 1,000 words, against 11.9 human) and stock forward-looking phrases (none).
+- **When it matters:** any text meant to be spoken (call openers, voicemails, video scripts). It does not apply to email.
+- **Caveat:** the human target is executives answering analysts, which is only a partial stand-in for sales reps. "You" was excluded as a register mismatch: reps use it at 44 per 1,000 words, executives at 12. Real sales-call recordings would be the proper target.
 
 ### M17. Status signaled by title, not by decision
 - **Category:** rhetorical
@@ -511,7 +533,7 @@ Each pattern lists its category, a generic description, where it was observed, t
 
 ### H06. Lower the cost of the ask
 - **Category:** framing
-- **Tags:** `src: CL SL` · `ev: obs code lab` · `ch: email dm` · `reg: stranger exec` · `status: confirmed-quality`
+- **Tags:** `src: CL SL` · `ev: obs code lab` · `ch: email dm` · `reg: stranger exec` · `status: confirmed-quality (labeler only; replicated 2 sets)`
 - **Description:** state the size of the request and make it cheap: from memory, yes or no, a short window.
 - **Observed:** C-DG (asks for an answer from memory; says it should be little trouble).
 - **Sales check (section 8): confirmed on 835 labelled sales messages.**
@@ -547,12 +569,13 @@ Each pattern lists its category, a generic description, where it was observed, t
 
 ### H10. Uneven rhythm with a short landing
 - **Category:** structural
-- **Tags:** `src: CL PW AB SL ES` · `ev: obs meas` · `ch: all` · `reg: all-but-procurement` · `status: confirmed-AI-diff`
+- **Tags:** `src: CL PW AB SL ES` · `ev: obs meas` · `ch: all` · `reg: all-but-procurement` · `status: confirmed-AI-diff; not a sales-quality signal`
 - **Description:** sentence length varies widely, and a short sentence or fragment closes the paragraph or message.
 - **Observed:** C-LH (closes on a short command); C-LG (short declarative landing); L-P1 and L-P2 (3–4-word fragments).
 - **Suits:** all except formal procurement.
 - **Modern equivalent:** two medium sentences, then "Worth a look?" or "That's the whole ask."
 - **Earnings check (section 9):** sentence-length spread is higher live than in prepared remarks in 10 of 12 calls. Live human answers measure 14.7, AI answers 10.3.
+- **Sales check (sections 8 and 10):** **not a sales-quality signal.** Sentence-length spread separated weak from strong pairs in set 1 (20 vs 2) but not in set 2 (13 vs 12). It remains an AI-vs-human tone feature: in held-out tone scoring it is discriminative in the live-speech and practitioner situations.
 
 ### H11. Status through decisions
 - **Category:** speech_act
@@ -622,7 +645,7 @@ In each pattern below:
 
 ### H18. Buyer-centric sentences
 - **Category:** framing
-- **Tags:** `src: SL` · `ev: code lab` · `ch: email dm voicemail call` · `reg: stranger exec` · `status: confirmed-quality (labeler only)`
+- **Tags:** `src: SL` · `ev: code lab` · `ch: email dm voicemail call` · `reg: stranger exec` · `status: confirmed-quality (labeler only; replicated 2 sets)`
 - **Description:** most sentences are about the buyer, their team or their situation. Fewer are about the seller or the product.
 - **Observed:**
   - Separation 0.93 / 0.93.
@@ -634,7 +657,7 @@ In each pattern below:
 
 ### H19. Industry- or role-specific pain
 - **Category:** calibration
-- **Tags:** `src: SL` · `ev: code lab` · `ch: email dm voicemail call` · `reg: stranger exec` · `status: confirmed-quality (labeler only)`
+- **Tags:** `src: SL` · `ev: code lab` · `ch: email dm voicemail call` · `reg: stranger exec` · `status: confirmed-quality (labeler only; replicated 2 sets)`
 - **Description:** names a problem that is specific to the buyer's industry or role, not a generic one.
 - **Observed:**
   - Separation 0.91 / 0.98.
@@ -645,7 +668,7 @@ In each pattern below:
 
 ### H20. Mechanism in the buyer's terms
 - **Category:** calibration
-- **Tags:** `src: SL` · `ev: code lab` · `ch: email dm call` · `reg: tech-buyer exec` · `status: confirmed-quality (labeler only)`
+- **Tags:** `src: SL` · `ev: code lab` · `ch: email dm call` · `reg: tech-buyer exec` · `status: confirmed-quality (labeler only; replicated 2 sets)`
 - **Description:** explains *how* the product produces the outcome, often as a contrast with how the buyer does it today. This is the mechanism contrast that M20 now exempts.
 - **Observed:**
   - Separation 0.84 / 0.86.
@@ -656,7 +679,7 @@ In each pattern below:
 
 ### H21. Value before the ask
 - **Category:** speech_act
-- **Tags:** `src: SL` · `ev: code lab` · `ch: email dm` · `reg: stranger exec` · `status: confirmed-quality (labeler only)`
+- **Tags:** `src: SL` · `ev: code lab` · `ch: email dm` · `reg: stranger exec` · `status: confirmed-quality (labeler only; replicated 2 sets)`
 - **Description:** offers something useful that doesn't depend on getting a meeting: a resource, a sample, a read-only scan, or an anonymized example.
 - **Observed:**
   - Separation 0.84 / 0.84.
@@ -695,6 +718,13 @@ In each pattern below:
 - **A style rewrite does not improve a weak message.** Quality grades were unchanged after rewriting. If H18–H21 are missing, the fix is to redraft, not to rewrite.
 - **Contractions alone are not evidence of conversational text.** AI answering live used more contractions than executives did (34.8 vs 28.6 per 1,000 words). Weight discourse openers, owned stance (H09) and reasoning (H22) instead (section 9).
 - **Do not carry spoken disfluencies into writing.** Discourse openers and owned stance transfer to a DM or a reply; "um", restarts and repairs do not. This is untested against written outcomes.
+- **Add "I'd love" → "I'd like" to the drift check's word list.** The set-2 rewriter made this change in three messages despite the guard, and both judges read it as a weaker ask.
+- **Deleting hype is an edit, not a rewrite.** In set 2, rewriting lifted weak messages' grades (Opus 0.17 → 0.58), but part of the lift came from deleting claims and conditions ("limited time", "amazing results"). A meaning-preserving rewrite must not do this silently. Surface it as a flagged edit, e.g. "removed unsupported claim: …".
+- **Sounding human and being a good pitch are separate axes.** Score them separately:
+  - tone position (section 10);
+  - content checks (H18–H21).
+
+  Weak spoken scripts scored *more* human (0.43) than strong ones (0.28) because they are chattier ("honestly", "you know", more hedges).
 
 Each entry gives the AI marker, the human pattern that replaces it, and the conditions under which the swap applies.
 
@@ -778,6 +808,15 @@ Each entry gives the AI marker, the human pattern that replaces it, and the cond
       - Remove stock forward-looking phrases. Keep any real guidance word for word.
     - **Applies:** DM, call, follow-up email, any live reply.
     - **Do not apply:** to written reports or prepared remarks.
+25. **M25 written register in a spoken channel → H22 think-aloud answer**
+    - **How:**
+      - Open some sentences with a discourse marker ("So…", "Look…").
+      - Add at most one owned view ("I think…") where the original states a position.
+      - Vary sentence length.
+
+      Keep every fact, figure and ask.
+    - **Applies:** call scripts, voicemails, video scripts.
+    - **Do not apply:** to email. Never add "um", restarts or filler (see the guard above).
 
 **Draft-time checks (not rewrites).** Missing H18–H21 content can't be added by a style pass. Report it as a gap for the writer to fill:
 - no buyer-specific trigger;
@@ -900,6 +939,8 @@ Each entry gives the AI marker, the human pattern that replaces it, and the cond
 7. **Trollope and Twain status dialogue was not examined.**
 8. **Real buyer outcomes are untested.** The sales evidence in section 8 comes from a dataset in which the quality labels and the buyer replies appear to have been generated along with the messages. M22, M23, H18–H21 and the sales checks on M01, M14, M18 and M20 have only been validated against that labeler. Validating them needs real sends with real reply and meeting data.
 9. **Spoken evidence is from public, media-trained speech.** Earnings calls are legally constrained (safe-harbor rules), and vendor transcripts remove filler words. Private sales conversations may differ. M24 and H22 still need validating on real call recordings.
+10. **No real human target for sales writing.** Both sales sets are AI-generated, including the "strong" messages. The tone scorer's `sales_outreach` situation can measure deviation from the AI default, but not position toward a human target. Real sent emails and DMs, and real sales-call recordings, would supply it.
+11. **A 19th-century proxy target reverses some directions.** Scored against classic letters, more lists of three and more contrast frames count as "human", the opposite of every modern comparison. Proxy targets from another era should not be used to direct rewrites.
 
 ---
 
@@ -1036,6 +1077,26 @@ The full report is in [evals/sales/REPORT.md](evals/sales/REPORT.md). Scripts an
 
   Together they catch 56% of weak messages.
 
+  **Replicated on a second, independent set** (876 messages, different products; `evals/set2/`):
+
+  | Marker | Precision, set 1 | Precision, set 2 |
+  |---|---|---|
+  | Superlatives (share labeled weak) | 90% | 92% |
+  | Stock preamble (share labeled weak) | 73% | 70% |
+  | Manufactured urgency (share labeled weak) | 73% | 89% |
+  | Mechanism contrasts (share labeled strong) | 85% | 77% |
+  | Opt-out (share labeled strong) | 87% | 70% |
+  | Any cliché: precision / recall | 54% / 56% | 55% / 52% |
+
+  The content patterns also replicated (two coders, matched pairs):
+  - buyer-centric sentences: separation 0.91–0.96, strong message ahead in 23 of 25 pairs;
+  - industry pain: 0.90–0.94;
+  - smaller ask and less pressure: about 0.8;
+  - value before the ask: about 0.8;
+  - mechanism: 0.72–0.74, weaker than in set 1.
+
+  These findings now rest on 1,711 messages, still against dataset labels only.
+
 - **Narrowed:**
   - M20 now covers rhetorical contrasts only. Mechanism contrasts appear 85% in strong messages.
   - M18 is now an authenticity marker only. Placeholders appear 68% in strong messages, mostly in scripts.
@@ -1066,3 +1127,38 @@ All 96 answers (24 human, 72 AI) were coded blind by two coders.
 - **M19:** now exempts the executive or company voice.
 - **Section 4:** two guards (contractions; disfluencies) and transformation 24.
 - **Open questions:** 6.3 item 9 added.
+
+---
+
+## 10. Tone position: AI default → human target (added 2026-11-19)
+
+**Reframe (user, 2026-11-19).** Judge a message not as good or bad, but by how far it has moved from the AI default toward how a human sounds **in that situation**. Each marker and pattern in this ontology is read as a feature with a direction (AI side vs human side) for a given situation. Overshooting past the human target is also a fault: it sounds forced.
+
+**Tool:** [tone/](tone/README.md). It is isolated from the rest of the code and reuses the existing measurement code read-only.
+
+**How a message is scored, per feature:**
+
+| Output | Meaning |
+|---|---|
+| `z_ai` | Standard deviations from the AI default mean |
+| `position` | (value − AI mean) / (human mean − AI mean). 0 = AI default, 1 = human target |
+| Overshoot | Past the human target by more than 2 human standard deviations |
+
+The overall position is the effect-size-weighted mean of the per-feature positions. Only features where AI and human clearly differ (|d| ≥ 0.5) count toward it.
+
+**Situations.** The held-out AUC comes from document-level 70/30 splits, repeated 20 times:
+
+| Situation | AI reference | Human target | Held-out AUC |
+|---|---|---|---|
+| `live_exec_answer` | 72 AI answers | 207 live executive answers (ES) | 0.98 |
+| `practitioner_post` | 9 AI texts | early Latio (PW) | 0.94 |
+| `analyst_report` | 9 AI texts | Gartner/IDC (IN) | 0.89 |
+| `one_to_one_message` | 15 AI messages | classic letters (CL), **proxy** | 1.00 |
+| `sales_outreach` | 1,711 AI sales messages | none yet | n/a |
+
+**Results on the sales sets:**
+- **Against the AI sales reference:** 83–85% of features fall in the typical AI range. Strong messages are *more* AI-typical than weak ones, because weak ones deviate through hype. Deviation alone is not humanness; the direction has to come from a human target.
+- **Spoken scripts against live speech:** they sit at 0.32. This is the basis for M25.
+- **Against the letters proxy:** about 0.4, but unreliable (see 6.3, item 11).
+
+**What this changes:** markers and patterns should eventually carry per-situation directions and reference values, not just a status. `tone/references/*.json` holds these for the five situations above. New human corpora each add a situation: real sent sales emails and DMs, sales-call recordings, and books by genre (BK).

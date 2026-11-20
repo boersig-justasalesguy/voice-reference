@@ -276,9 +276,67 @@ Checkpoints 1–3 are untouched. To undo this merge, copy the checkpoint 3 ontol
 
 **Gap:** there is no real human target for cold email or DMs yet. The user's own sent messages would fill it.
 
+**Scoring the sales sets** (`tone/batch.py`; per-message CSVs in `tone/scores/`):
+- **Against the AI sales reference:** 83–85% of features fall in the typical AI range. Strong messages are *more* AI-typical than weak ones, because the weak ones deviate through hype. Deviation on its own is not the same as sounding human.
+- **Against the letters proxy:** messages sit at about 0.4. This is unreliable, because the proxy reverses direction on lists of three, contrast frames and contractions.
+
+**Spoken scripts against live executive speech** (362 call, voicemail and video scripts):
+- **Overall position:** 0.32 once "you" is excluded. "You" is a register mismatch: reps address the buyer at 44 per 1,000 words, while executives answering analysts use it at 12.
+- **The scripts don't sound spoken:**
+
+  | Feature | Scripts | Live humans | AI default |
+  |---|---|---|---|
+  | Discourse openers (per 1,000 words) | 3.5 | 26.6 | 6.2 |
+  | First-person stance | 0.9 | 7.2 | n/a |
+  | Sentence-length spread | 8.6 | 13.1 | 10.3 |
+
+  Openers fall below even the AI default, and the sentence-length spread is more uniform than AI's.
+- **Already near human:** figures (14.8 vs 11.9 per 1,000 words) and forward-looking stock phrases (none).
+- **Weak scripts score more human (0.43) than strong ones (0.28):** they carry more "honestly / you know / really" and more hedges. This confirms that tone and quality are separate axes.
+- **Limit:** executives answering analysts are a partial target for reps selling. Real sales-call recordings would be the proper human target.
+
 ### Next
 
 There is no open task. Books by genre (`src: BK`, already reserved) is the next source category the user named. Other possible follow-ups:
 - Validate against real send data.
 - Repeat the baseline with other model families.
 - Build the deterministic drift check as a script.
+
+---
+
+## Checkpoint 5: set-2, tone and spoken-script findings merged (2026-11-19)
+
+**Snapshot:** [checkpoints/2026-11-19-post-tone-merge/](checkpoints/2026-11-19-post-tone-merge/). It contains:
+- the ontology (sha256 prefix `c12ee4e909543915`)
+- `tag_ontology.py`
+- `merge_updates_2.py`
+- the set-2 report
+- the tone README
+
+Checkpoints 1–4 are untouched. To undo this merge, copy the checkpoint 4 ontology back.
+
+The user asked to "update the file with all the updates". I merged everything since checkpoint 4 and tagged it first.
+
+**New and changed items:**
+- **New M25, written register in a spoken channel** (`src: SL ES`, status `measured (partial human target)`). AI sales scripts lack discourse openers and owned stance, and their sentence lengths are uniform.
+- **Replication notes:**
+  - Section 8 now records the set-2 results.
+  - Status `replicated 2 sets` was added to M01, M14, M20, M22, M23, H06 and H18–H21.
+- **H10:** marked `not a sales-quality signal`.
+
+**Section 4:**
+- **New guards:**
+  - Add "I'd love" → "I'd like" to the drift check.
+  - Deleting hype is a flagged edit, not a rewrite.
+  - Tone and quality are scored separately.
+- **New transformation 25** (M25 → H22) for spoken channels only.
+
+**Open questions (section 6.3):**
+- Item 10: there is no human sales target.
+- Item 11: the 19th-century proxy reverses some directions.
+
+**New section 10:** the tone-position reframe. It covers the method, five situations, held-out AUC, and results on the sales sets.
+
+**Tag legend:** two status values added, `measured` and `replicated 2 sets`.
+
+**Totals:** 47 items (25 markers, 22 patterns), all tagged.
