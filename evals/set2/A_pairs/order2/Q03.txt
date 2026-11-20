@@ -1,0 +1,10 @@
+CHANNEL: voicemail
+STAGE: follow_up
+SELLER: Account Executive at Quietwatch
+BUYER: Detection Engineering Lead, SaaS, Tessellate Cloud Software (1000-5000 employees)
+
+=== TEXT 1 ===
+Hi Marisol, Ingeborg Lund from Quietwatch. I spoke with your colleague on the platform team about read access for the cloud audit health check, and he asked for a short scope document, which I've just sent to both of you. It covers what we'll look at, what access we need, and what you'll get at the end of the week. If anything in it needs changing before your security review, call me at 555-0115.
+
+=== TEXT 2 ===
+Hi Marisol, Ingeborg Lund from Quietwatch. I just sent you and your colleague on the platform team a short scope document. He asked for it when we spoke about read access for the cloud audit health check. It covers what we'll look at, what access we need, and what you'll get at the end of the week. If anything in it needs changing before your security review, call me at 555-0115.

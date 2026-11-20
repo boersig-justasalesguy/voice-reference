@@ -1,0 +1,29 @@
+CHANNEL: email
+STAGE: follow_up
+SELLER: Account Executive at Ledgerline
+BUYER: Controller, Veterinary Clinics, Pawsitive Animal Health (500-1000 employees)
+
+=== TEXT 1 ===
+SUBJECT: Clinic-level P&Ls
+Hi Bartholomew,
+
+Following up on my email from the 4th. I've been thinking about what you said regarding acquisitions: Pawsitive has added 22 clinics in 18 months, and each one comes with its own chart of accounts that your team re-maps by hand at month-end.
+
+That re-mapping step is where Ledgerline tends to pay for itself in roll-up businesses. You define the mapping once per acquired clinic, and every subsequent close pulls their trial balance into your consolidated structure automatically. When the next acquisition closes, onboarding their books becomes a one-afternoon task.
+
+Would it help to see a sample consolidation built for a veterinary roll-up? I can show it in 20 minutes.
+
+Corinne
+
+=== TEXT 2 ===
+SUBJECT: Clinic-level P&Ls
+
+Hi Bartholomew,
+
+Following up on my email from the 4th. You told me about the acquisitions: Pawsitive has added 22 clinics in 18 months, and each one arrives with its own chart of accounts that your team re-maps by hand at month-end.
+
+That re-mapping step is where Ledgerline tends to pay for itself in roll-up businesses. You define the mapping once per acquired clinic, and every close after that pulls their trial balance into your consolidated structure automatically. When the next acquisition closes, onboarding their books is a one-afternoon task.
+
+Would a sample consolidation built for a veterinary roll-up help? I can show it in 20 minutes.
+
+Corinne

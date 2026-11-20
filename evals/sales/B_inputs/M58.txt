@@ -1,0 +1,6 @@
+CHANNEL: voicemail
+STAGE: re_engagement
+SELLER: Account Executive at Vaultline
+BUYER: CISO, Healthtech, Meridale Health Systems (1000-5000 employees)
+MESSAGE:
+Carmen, Darnell Whitfield from Vaultline. When we spoke in the spring you'd parked the evaluation because your HITRUST assessment was landing in Q1 and you didn't want to change tooling mid-audit. That's now about ten weeks out, so I'll be brief: we just shipped HITRUST control mapping, so evidence you collect for SOC 2 now counts toward HITRUST automatically. If that would save your team a round of duplicate screenshots, I'm at 555-0147. If the timing's still wrong, an email saying 'after Q1' is perfectly fine and I'll respect it.

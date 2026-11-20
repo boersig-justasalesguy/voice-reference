@@ -1,0 +1,17 @@
+{"pair":"P14","units":[
+{"unit":"Flags alert problem affecting the team; wants to resolve together","kind":"stance","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Deployment changes on [date] sharply raised alert volume","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Roughly [X] alerts per night, up from [Y]","kind":"number","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Most alerts are non-actionable","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"[Name] paged [N] times in a single shift","kind":"number","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Effects: slower response and dread of rotations","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Main sources: health thresholds, retry behavior, log levels","kind":"entity","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Alert breakdown shared via [link]","kind":"offer","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Not assuming carelessness; changes may have been necessary","kind":"stance","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Walk through top alert sources; decide signal vs noise","kind":"ask","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Agree on adjustments on either side","kind":"offer","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Set up heads-up process before paging-affecting changes","kind":"offer","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"30 minutes this week; availability [times]","kind":"ask","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Offer to join their standup","kind":"offer","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Offer: own side does first tuning pass, they only review","kind":"offer","in_text1":true,"in_text2":true,"altered":null}
+],"same_meaning":"yes","more_human":"tie","human_reason":"Near-identical wording with the same numbered list; differences are only minor phrasing and a closing thanks in Text 1."}

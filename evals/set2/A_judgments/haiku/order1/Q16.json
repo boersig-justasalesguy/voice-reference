@@ -1,0 +1,18 @@
+{"pair":"Q16","units":[
+{"unit":"Names Valerie, Owen Kessler, Meridian Reach Wireless, Commonground","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Commonground is a cyber-defense program hub breaking silos","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Feature list incl. shared backlog, SSO, audit logging, SIEM integration","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"99.9 percent uptime SLA","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"250 users, annual subscription","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"24x7 premium support, 1-hour severity 1 response","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"120 hours professional services","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Four training sessions, up to 25 attendees each","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Two add-on modules listed","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Quote valid for 30 days","kind":"deadline","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Net 30, annual in advance","kind":"condition","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Three-year assumed; one-year at 12 percent uplift","kind":"condition","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Five implementation phases with acceptance criteria","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Statement of work follows acceptance","kind":"commitment","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Value in collaboration, visibility and outcomes","kind":"claim","in_text1":true,"in_text2":false,"altered":null,"note":"Closing value summary dropped in Text 2"},
+{"unit":"Invitation to contact with questions","kind":"offer","in_text1":true,"in_text2":false,"altered":null,"note":"Dropped in Text 2"}
+],"same_meaning":"partly","better_message":"2","reason":"Text 2 is cleaner and drops filler, though it loses the generic value and contact lines.","grade_text1":"average","grade_text2":"average"}

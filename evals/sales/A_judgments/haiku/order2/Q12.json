@@ -1,0 +1,10 @@
+{"pair":"Q12","units":[
+{"unit":"Met at Houston energy counsel reception Monday","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Team is 'two lawyers and a shared inbox'","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Many land lease agreements with handwritten edits","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Redlining compares changes to standard positions in Word","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Version tracking across rounds","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Clause library keeps approved language current","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Scanned handwritten edits uncertain; check with product","kind":"condition","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Ask: call to talk through workflow","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""}
+],"same_meaning":"yes","better_message":"2","reason":"Same honest, client-specific pitch; T2 reads more naturally, with a clearer transition.","grade_text1":"strong","grade_text2":"strong"}

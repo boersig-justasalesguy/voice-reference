@@ -1,0 +1,102 @@
+{
+ "pair": "Q10",
+ "units": [
+  {
+   "unit": "Renewal in about 60 days",
+   "kind": "deadline",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Grew from 14 to 23 client tenants",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "61 detections authored centrally",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Adaptation handled field differences except handful",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "37 silent rules flagged",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Current agreement covers 25 tenants",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Flat per-tenant pricing on renewal",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Suggest bumping tier to 35",
+   "kind": "offer",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Multi-tenant reporting beta, monthly coverage summary",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Offer to join beta",
+   "kind": "offer",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Will send paperwork next week",
+   "kind": "commitment",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Ask: grab time to discuss tier",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Thanks for a great year",
+   "kind": "stance",
+   "in_text1": false,
+   "in_text2": true,
+   "altered": null,
+   "note": "Added in Text 2"
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "1",
+ "reason": "Text 1's 'three things' signpost and shorter sentences suit video better.",
+ "grade_text1": "strong",
+ "grade_text2": "strong"
+}

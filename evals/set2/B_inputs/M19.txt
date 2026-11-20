@@ -1,0 +1,17 @@
+CHANNEL: email
+STAGE: cold_outreach
+SELLER: Account Executive at Quietwatch
+BUYER: SOC Manager, Regional Banking, Tidewater Federal Savings (1000-5000 employees)
+SUBJECT: Rules that haven't fired since summer
+MESSAGE:
+Renata,
+
+Quick question for a bank SOC your size: how many of your scheduled detections have returned zero results in the last 90 days?
+
+When we run that check with SOC teams, the answer is usually 20-30% of the library. Some of those are quiet because nothing bad happened. Others are quiet because a field got renamed, a lookup went stale, or a data source stopped sending after a pipeline change, and nobody can tell which is which without opening each rule.
+
+Quietwatch sorts the two for you: it tests each silent rule against live data and tells you why it's quiet and what the fix is.
+
+Worth a 20-minute look at your own top 25 silent rules? If the list comes back clean, you get a nice line for your next exam prep.
+
+Marcus

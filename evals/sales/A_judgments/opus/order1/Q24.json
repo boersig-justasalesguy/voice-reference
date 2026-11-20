@@ -1,0 +1,45 @@
+{
+ "pair": "Q24",
+ "units": [
+  {
+   "unit": "Following up on previous email",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Don't want it to slip through cracks",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Pipewise improves forecast accuracy and visibility",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Great fit for Ironhelm",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Quick call this week",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "1",
+ "reason": "Text 1 flows naturally; Text 2 opens abruptly with the ask. Both generic.",
+ "grade_text1": "weak",
+ "grade_text2": "weak"
+}

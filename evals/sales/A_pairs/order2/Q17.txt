@@ -1,0 +1,32 @@
+CHANNEL: email
+STAGE: renewal
+SELLER: Customer Success Manager at Onramp
+BUYER: Head of People, Architecture & Design, Saltmarsh Studio (100-200 employees)
+
+=== TEXT 1 ===
+SUBJECT: Your Onramp renewal is coming up
+Dear Mireille,
+
+This is a friendly reminder that your Onramp subscription is set to renew on January 15. Your renewal will include a 9% price increase in line with our updated pricing.
+
+Please review the attached renewal order form and return a signed copy at your earliest convenience to avoid any disruption in service.
+
+If you have any questions, please don't hesitate to reach out.
+
+Kind regards,
+Yusuf Karaca
+Customer Success Manager
+
+=== TEXT 2 ===
+SUBJECT: Your Onramp renewal is coming up
+
+Hi Mireille,
+
+Your Onramp subscription renews on January 15, and the renewal includes a 9% price increase in line with our updated pricing.
+
+Please review the attached renewal order form and return a signed copy at your earliest convenience to avoid any disruption in service.
+
+If you have any questions, reach out.
+
+Yusuf Karaca
+Customer Success Manager

@@ -1,0 +1,15 @@
+{"pair":"P04","units":[
+{"unit":"Deployment changes on [date] raised on-call alert volume","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Roughly [number] additional alerts per day","kind":"number","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Most alerts come from [service or alert name]","kind":"entity","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Several alerts fire where no human response is needed","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Noise makes real alerts harder to spot","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Not second-guessing the change; their improvements acknowledged","kind":"stance","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Two people woken overnight for alerts that self-resolved","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Triage time would be better spent on real incidents","kind":"stance","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"30-minute review together this week","kind":"ask","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Identify affected alerts; adjust thresholds or alert logic","kind":"ask","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Temporarily mute or downgrade [specific alerts]","kind":"commitment","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Will say exactly which alerts so nothing is lost","kind":"commitment","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Prefers fixing together over handing over complaints","kind":"stance","in_text1":true,"in_text2":true,"altered":null}
+],"same_meaning":"yes","more_human":"1","human_reason":"Text 1 opens more personally and adds a warm thanks; Text 2 is tighter but still natural."}

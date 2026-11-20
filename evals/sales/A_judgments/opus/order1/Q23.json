@@ -1,0 +1,66 @@
+{
+ "pair": "Q23",
+ "units": [
+  {
+   "unit": "Harriet asked 25% off",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "25% too much, unlikely approved",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Competitor inferior, security issues heard",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "15% if sign today",
+   "kind": "offer",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Maybe 20% by Friday, needs manager",
+   "kind": "offer",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Multi-year uncertain for company size",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Pricing only good this week",
+   "kind": "deadline",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Wrap up today at 15%",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "tie",
+ "reason": "Identical script; only filler 'So' and punctuation differ.",
+ "grade_text1": "weak",
+ "grade_text2": "weak"
+}

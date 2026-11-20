@@ -1,0 +1,75 @@
+Top Strategic Technology Trends for 2027
+
+Every year, we ask which technologies will change how organizations operate, compete, and manage risk over the next three to five years. A trend makes our list when three things are true. It is past the hype stage but not yet mainstream. Its effects reach beyond the IT department. And waiting to act on it carries a real cost.
+
+The 2027 list follows one main theme: the focus has moved from experimenting with AI to running it, securing it, and paying for it. Most of these trends are less about adopting something new and more about operating well what organizations already started.
+
+1. Agentic AI moves into production workflows
+
+In 2025 and 2026, most organizations tested AI agents in narrow pilots. In 2027, agents will start owning bounded, end-to-end tasks in production, such as handling routine IT tickets, reconciling invoices, triaging security alerts, and updating CRM records. The hard part is not the model. It is defining what an agent may do, what it may touch, and when it must hand off to a person.
+
+What to do: Pick two or three workflows where the cost of a mistake is low and the volume is high. Define explicit permission boundaries and escalation rules before deployment, and instrument everything so you can audit what the agent did and why.
+
+2. AI governance becomes an operating function
+
+Policies written in 2024 are not enough for organizations running hundreds of AI use cases, many of them embedded in vendor software. We expect governance to move from advisory committees to staffed teams with budgets, inventories, and the authority to stop a deployment.
+
+What to do: Name an accountable executive. Build a full inventory of AI use, including third-party features. Tier use cases by risk so that review effort matches potential harm.
+
+3. Machine identity security
+
+Non-human identities, including service accounts, API keys, workload identities, and now AI agents, already outnumber human identities in most enterprises, often by more than 40 to 1. Many of them are over-privileged, never rotated, and not owned by anyone. Attackers have noticed.
+
+What to do: Discover and inventory machine identities across cloud, SaaS, and CI/CD. Assign owners, cut unused privileges, and move to short-lived credentials where possible.
+
+4. AI infrastructure economics
+
+Inference costs are now a significant and unpredictable line item. Organizations are learning that the largest model is rarely the right choice for every task. Expect more model routing, smaller task-specific models, on-device inference, and FinOps practices built for AI workloads.
+
+What to do: Measure cost per task, not just cost per token. Set up routing so simple requests go to cheaper models, and make AI spend visible to the teams that create it.
+
+5. Post-quantum cryptography migration
+
+A cryptographically relevant quantum computer is still years away, but data stolen today can be decrypted later. With NIST's post-quantum standards finalized and government deadlines approaching, the multi-year migration needs to start now.
+
+What to do: Build a cryptographic inventory. Prioritize systems that protect long-lived sensitive data, and require crypto-agility in new vendor contracts.
+
+6. Software supply chain integrity
+
+Open-source malware, compromised build pipelines, and poisoned AI models have made the supply chain one of the most common ways attackers get in. Regulators are responding with SBOM requirements and secure development attestations.
+
+What to do: Block known-malicious packages at install time, not just at scan time. Generate and use SBOMs. Harden CI/CD pipelines as if they were production systems, because they are.
+
+7. Platform engineering matures
+
+Internal developer platforms are now the default way large organizations deliver infrastructure, security controls, and increasingly AI capabilities to developers. Teams that get it right improve both developer speed and compliance. Teams that get it wrong build a new bottleneck.
+
+What to do: Treat the platform as a product with real users. Measure adoption and developer satisfaction, and build security and governance into the paved road so the secure path is also the easiest one.
+
+8. Sovereign and regional cloud
+
+Data residency laws, geopolitical risk, and concerns about dependence on a few hyperscalers are pushing organizations to think about where their workloads and data physically sit and who can be compelled to access them.
+
+What to do: Map which workloads have sovereignty requirements. Evaluate sovereign cloud offerings and architecture patterns, and plan exit strategies for critical services.
+
+9. Energy-aware computing
+
+AI's power demand is straining data center capacity and corporate sustainability commitments. Energy availability is becoming a real constraint on where and how fast organizations can scale compute.
+
+What to do: Add energy and carbon metrics to infrastructure decisions. Ask vendors for workload-level energy data, and consider efficiency alongside performance when choosing models and hardware.
+
+10. Disinformation and deepfake defense
+
+Synthetic voice and video are now cheap and convincing enough to be used in fraud, executive impersonation, and attacks on brand reputation. Most organizations' verification processes assume that a familiar voice on the phone is real.
+
+What to do: Update payment and access approval processes so they never rely on voice or video alone. Train high-risk roles such as finance, HR, and executive assistants, and evaluate content provenance and detection tools.
+
+How to use this list
+
+Not every trend applies equally to every organization. We suggest leadership teams take three steps:
+
+- Score each trend by its relevance to your industry and strategy, and by how prepared you are today.
+- Choose no more than three to fund seriously in the next planning cycle. Spreading investment across all ten usually produces ten pilots and no results.
+- Assign an owner and a 90-day goal for each priority, so the trend shows up in the operating plan and not only in the strategy deck.
+
+The organizations that benefit most from these trends will not be the earliest adopters. They will be the ones that build the operating discipline, including governance, cost control, and security, to run these technologies at scale.

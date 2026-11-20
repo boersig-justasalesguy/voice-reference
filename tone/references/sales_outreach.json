@@ -1,0 +1,185 @@
+{
+ "ai": {
+  "triplet_k": {
+   "mean": 4.017019708725547,
+   "sd": 6.55527037260677,
+   "n": 1711
+  },
+  "notbut_k": {
+   "mean": 0.7951439988316662,
+   "sd": 2.909104996147361,
+   "n": 1711
+  },
+  "num_k": {
+   "mean": 19.096164965744123,
+   "sd": 25.89781442810303,
+   "n": 1711
+  },
+  "opener_k": {
+   "mean": 1.751905945047125,
+   "sd": 5.108881589585713,
+   "n": 1711
+  },
+  "marker_k": {
+   "mean": 6.037014330997679,
+   "sd": 10.195508003211785,
+   "n": 1711
+  },
+  "stance_I_k": {
+   "mean": 0.6131956629005983,
+   "sd": 2.592741198367414,
+   "n": 1711
+  },
+  "hedge_k": {
+   "mean": 3.0119440103133956,
+   "sd": 6.643409580079687,
+   "n": 1711
+  },
+  "contraction_k": {
+   "mean": 27.945658556870864,
+   "sd": 21.08837755051437,
+   "n": 1711
+  },
+  "repair_k": {
+   "mean": 1.2134658687897815,
+   "sd": 3.7184320116144756,
+   "n": 1711
+  },
+  "forward_k": {
+   "mean": 0.11558102265893402,
+   "sd": 1.0693467655923603,
+   "n": 1711
+  },
+  "courtesy_k": {
+   "mean": 4.464962178492062,
+   "sd": 8.856577241075318,
+   "n": 1711
+  },
+  "I_k": {
+   "mean": 23.551107092122038,
+   "sd": 20.419826408697933,
+   "n": 1711
+  },
+  "we_k": {
+   "mean": 14.629912306934628,
+   "sd": 15.541270902914544,
+   "n": 1711
+  },
+  "you_k": {
+   "mean": 43.076530683986704,
+   "sd": 21.39264880026606,
+   "n": 1711
+  },
+  "q_k": {
+   "mean": 9.733989347282415,
+   "sd": 12.56754433156143,
+   "n": 1711
+  },
+  "sent_sd": {
+   "mean": 8.486699655318258,
+   "sd": 4.377132272423687,
+   "n": 1711
+  },
+  "short_pct": {
+   "mean": 25.36899481200164,
+   "sd": 15.798057141908538,
+   "n": 1711
+  },
+  "nominal_100": {
+   "mean": 2.995377823761082,
+   "sd": 2.4886926766126574,
+   "n": 1711
+  },
+  "abstract_k": {
+   "mean": 0.6813781802827672,
+   "sd": 3.4497945456364207,
+   "n": 1711
+  }
+ },
+ "human": null,
+ "features": {
+  "triplet_k": {
+   "d": null,
+   "discriminative": false
+  },
+  "notbut_k": {
+   "d": null,
+   "discriminative": false
+  },
+  "num_k": {
+   "d": null,
+   "discriminative": false
+  },
+  "opener_k": {
+   "d": null,
+   "discriminative": false
+  },
+  "marker_k": {
+   "d": null,
+   "discriminative": false
+  },
+  "stance_I_k": {
+   "d": null,
+   "discriminative": false
+  },
+  "hedge_k": {
+   "d": null,
+   "discriminative": false
+  },
+  "contraction_k": {
+   "d": null,
+   "discriminative": false
+  },
+  "repair_k": {
+   "d": null,
+   "discriminative": false
+  },
+  "forward_k": {
+   "d": null,
+   "discriminative": false
+  },
+  "courtesy_k": {
+   "d": null,
+   "discriminative": false
+  },
+  "I_k": {
+   "d": null,
+   "discriminative": false
+  },
+  "we_k": {
+   "d": null,
+   "discriminative": false
+  },
+  "you_k": {
+   "d": null,
+   "discriminative": false
+  },
+  "q_k": {
+   "d": null,
+   "discriminative": false
+  },
+  "sent_sd": {
+   "d": null,
+   "discriminative": false
+  },
+  "short_pct": {
+   "d": null,
+   "discriminative": false
+  },
+  "nominal_100": {
+   "d": null,
+   "discriminative": false
+  },
+  "abstract_k": {
+   "d": null,
+   "discriminative": false
+  }
+ },
+ "situation": "sales_outreach",
+ "label": "Sales outreach (AI reference only - no human target yet)",
+ "ai_source": "Both AI-generated sales sets (1,711 messages)",
+ "human_source": null,
+ "proxy": false,
+ "n_ai": 1711,
+ "n_human": 0
+}

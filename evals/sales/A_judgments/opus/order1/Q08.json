@@ -1,0 +1,32 @@
+{
+ "pair": "Q08",
+ "units": [
+  {
+   "unit": "Contract attached with discussed changes",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Questions or anything looks off",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Thanks!",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": false,
+   "altered": null,
+   "note": "Sign-off thanks dropped"
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "tie",
+ "reason": "Functionally identical brief contract cover note.",
+ "grade_text1": "average",
+ "grade_text2": "average"
+}

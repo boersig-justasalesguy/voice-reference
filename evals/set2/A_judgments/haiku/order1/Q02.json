@@ -1,0 +1,8 @@
+{"pair":"Q02","units":[
+{"unit":"Addressee Leticia named","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Follow-up to earlier Huntdeck note","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Team presented hunting maturity at state banking forum","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Asks how the team tracks hunts today","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":"T1 frames as stated interest, T2 as direct question"},
+{"unit":"Asks if a shared procedure library would be useful","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Offer to share more if helpful","kind":"offer","in_text1":true,"in_text2":true,"altered":null,"note":""}
+],"same_meaning":"yes","better_message":"2","reason":"Direct questions read more naturally for a LinkedIn follow-up than the stiffer interest statement.","grade_text1":"average","grade_text2":"average"}

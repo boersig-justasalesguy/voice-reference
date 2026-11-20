@@ -1,0 +1,123 @@
+{
+ "id": "T722",
+ "claims": [
+  {
+   "gist": "Hype Cycles graphically represent technology maturity and adoption",
+   "type": "factual",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Hype Cycle methodology provides sound insight for deployment decisions",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Clients use Hype Cycles to learn about emerging technologies",
+   "type": "factual",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Early adopters who accept risk could reap rewards",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": true,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Moderate executives insist on cost-benefit analysis",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "With unanswered viability questions, waiting may be better",
+   "type": "prescriptive",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": true,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "At innovation trigger, usable products often do not exist",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": true,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Peak brings success stories alongside many failures",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "In the trough, interest wanes and producers fail",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "On the slope, benefits crystallize and second-generation products appear",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "At the plateau, mainstream adoption takes off",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Hype Cycles help separate hype from real commercial drivers",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Hype Cycles reduce technology investment risk",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Analysts provide objectivity on technology business value",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  }
+ ],
+ "named_entities": 2,
+ "named_criticism": 0,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": false,
+ "thesis": "Hype Cycles chart technology maturity through five phases, helping buyers separate hype from value and time investments."
+}

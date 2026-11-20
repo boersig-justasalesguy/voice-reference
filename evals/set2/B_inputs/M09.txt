@@ -1,0 +1,6 @@
+CHANNEL: linkedin_dm
+STAGE: re_engagement
+SELLER: Account Executive at Coverwise
+BUYER: Security Architect, Pharmaceuticals, Pellucid Biotech (500-1000 employees)
+MESSAGE:
+Gillian, last year you told me you'd revisit coverage mapping "when we stop finding gaps by accident." Have you stopped? If not, Coverwise finds them on purpose. Free gap report on the techniques your threat model ranks highest, no strings.

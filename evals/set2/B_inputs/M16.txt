@@ -1,0 +1,6 @@
+CHANNEL: sms
+STAGE: follow_up
+SELLER: Account Executive at Tunebench
+BUYER: SOC Manager, Healthcare System, Brightwater Health Partners (5000-10000 employees)
+MESSAGE:
+Jordan, Ari from Tunebench. You mentioned the after-hours badge-access alert fires ~400x a week. Our tuning draft for that one rule is ready. Want me to email it so your team can judge it?

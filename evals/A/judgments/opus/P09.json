@@ -1,0 +1,157 @@
+{
+ "pair": "P09",
+ "units": [
+  {
+   "unit": "Your team's [deployment/change] on [date]",
+   "kind": "placeholder",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "On-call getting far more alerts",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Over [two weeks], pages from [X] to [Y] weekly",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Most trace to [service/component]",
+   "kind": "placeholder",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Example: health checks fail briefly during scale-up",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Example: error-rate spikes during deploys",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Example: duplicate alerts from old/new monitoring",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Almost none needed action",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Someone still has to wake up and confirm",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Alerts wearing people down",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": "strength_down",
+   "note": "'It's wearing' softened to 'starting to wear'"
+  },
+  {
+   "unit": "Worry real incident missed in noise",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Nobody did anything wrong",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Thresholds and new behavior don't fit yet",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": "strength_down",
+   "note": "Text 2 hedges with 'It looks like'"
+  },
+  {
+   "unit": "Some fix likely on our side",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Ask: 30 minutes this week",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Will bring alert data",
+   "kind": "commitment",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Option: adjust thresholds/grace period",
+   "kind": "offer",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Option: your team owns alerts for [component]",
+   "kind": "offer",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Option: suppress during deploy windows",
+   "kind": "offer",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Ask what time works",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Want to hear existing plans",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  }
+ ],
+ "same_meaning": "yes",
+ "more_human": "2",
+ "human_reason": "Slightly warmer framing ('raise something directly') reads like a colleague's note."
+}

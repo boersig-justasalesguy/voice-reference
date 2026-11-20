@@ -1,0 +1,46 @@
+CHANNEL: video_script
+STAGE: cold_outreach
+SELLER: Account Executive at Pipewise
+BUYER: Chief Revenue Officer, Industrial IoT, Torchline Sensors (500-1000 employees)
+
+=== TEXT 1 ===
+[Open on Lena at her desk, waving at the camera with a big smile]
+
+Hi Grant! This is Lena from Pipewise, and I made this video just for you.
+
+[Holds up a whiteboard that says 'Hi Grant!']
+
+I know you're busy, so I'll keep this quick. Pipewise is the number one sales forecasting and pipeline analytics platform. We use AI and machine learning for predictive forecasts, deal scoring, pipeline coverage analysis, rep performance dashboards, win-loss analysis, and more.
+
+[Screen share: scrolls quickly through the Pipewise homepage]
+
+Our customers love us. We have a 4.8 rating, and companies of every size use Pipewise to hit their numbers. Forecast accuracy goes way up, and your reps spend less time updating the CRM.
+
+[Back to Lena]
+
+I think Torchline Sensors would be a perfect fit and I'd love to show you more. There's a link below to book time on my calendar. Grab any slot that works.
+
+[Waves again]
+
+Bye!
+
+=== TEXT 2 ===
+[Open on Lena at her desk, waving at the camera with a big smile]
+
+Hiiii Grant! This is Lena from Pipewise and I made this video JUST for you! Pretty cool, right?
+
+[Holds up a whiteboard that says 'Hi Grant!']
+
+So I know you're super busy so I'll keep this quick. Pipewise is the number one sales forecasting and pipeline analytics platform. We use AI and machine learning to give you predictive forecasts, deal scoring, pipeline coverage analysis, rep performance dashboards, win-loss analysis, and so much more.
+
+[Screen share: scrolls quickly through the Pipewise homepage]
+
+Our customers love us. We have a 4.8 rating and companies of every size use Pipewise to hit their numbers. Forecast accuracy goes way up, and your reps will thank you because they spend less time updating the CRM.
+
+[Back to Lena]
+
+Anyway, I think Torchline Sensors would be a perfect fit and I'd love to show you more. There's a link below to book time on my calendar - grab any slot that works! Can't wait to chat!
+
+[Waves again]
+
+Byeee!

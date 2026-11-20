@@ -1,0 +1,203 @@
+{
+ "id": "T619",
+ "claims": [
+  {
+   "gist": "Firewall vendors are chasing AI as their newest market",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Vendor homepages replaced cloud security with AI platforms",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "CNAPP as a category should not exist",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Check Point and Palo transitions concede the posture fight",
+   "type": "evaluative",
+   "evidence": "named_example",
+   "specific": true,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Check Point hosted the author at its CPX event",
+   "type": "factual",
+   "evidence": "first_hand",
+   "specific": true,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "CloudGuard became CloudGuard WAF after the Wiz partnership",
+   "type": "factual",
+   "evidence": "named_example",
+   "specific": true,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Palo Alto is shifting from Prisma Cloud to Cortex Cloud",
+   "type": "factual",
+   "evidence": "named_example",
+   "specific": true,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Cortex Cloud is really a runtime security data lake",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Check Point's late CNAPP entry was always uphill",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": true,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Partnering with Wiz is smarter for Check Point",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": true,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "The CSPM wars are over and Wiz won",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": true,
+   "hedged": true,
+   "owner": "author"
+  },
+  {
+   "gist": "Orca remains a worthy competitor but lacks hype",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Cortex is fundamentally an XSIAM built for the SOC",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "XSIAM is unlikely to succeed",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Wiz dominates the posture side of the market",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Competitors must push into runtime, vulnerabilities, code or AI",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Check Point's AI push fits its firewall products",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": true,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Palo's shift to security operations makes sense",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": true,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Posture tools serve developers, not security teams",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Posture findings cannot be scaled by hiring security engineers",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": true,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "A firewall vendor's IDE plugin feels off-putting, weakening Palo",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Palo invented CNAPP via Redlock and Twistlock acquisitions",
+   "type": "factual",
+   "evidence": "named_example",
+   "specific": true,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Big players seem to be ceding CNAPP to Wiz and rivals",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": true,
+   "hedged": true,
+   "owner": "author"
+  },
+  {
+   "gist": "Fortinet's homepage barely mentions cloud security",
+   "type": "factual",
+   "evidence": "named_example",
+   "specific": true,
+   "hedged": false,
+   "owner": "author"
+  }
+ ],
+ "named_entities": 15,
+ "named_criticism": 4,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": true,
+ "thesis": "Check Point and Palo Alto retreating from CNAPP signals the posture war is over and Wiz won."
+}

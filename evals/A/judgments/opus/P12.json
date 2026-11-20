@@ -1,0 +1,108 @@
+{
+ "pair": "P12",
+ "units": [
+  {
+   "unit": "Introducing Maria Chen and Sam Okafor",
+   "kind": "entity",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Introduction enthusiasm",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": "strength_up",
+   "note": "'I'd like to introduce' became 'I'm delighted to introduce'"
+  },
+  {
+   "unit": "Maria CISO at First Meridian Bank",
+   "kind": "entity",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Regional bank ~3,000 employees",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Maria focused on third-party risk and cloud workloads",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Bank moving core systems off premises",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Sam founder/CEO of Lattice Security",
+   "kind": "entity",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Lattice builds credential-abuse detection for cloud",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Sam led detection engineering at large fintech",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Maria wrestling with problem Sam addresses",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Sam wants candid feedback from FS security leader",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "No obligation; suspect they'd enjoy talking",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "No need to reply-all to sender",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Thanks to you both",
+   "kind": "stance",
+   "in_text1": false,
+   "in_text2": true,
+   "altered": null,
+   "note": "thanks added in Text 2"
+  }
+ ],
+ "same_meaning": "yes",
+ "more_human": "1",
+ "human_reason": "Plainer and less effusive; 'delighted' in Text 2 feels formulaic."
+}

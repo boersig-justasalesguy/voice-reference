@@ -1,0 +1,10 @@
+{"pair":"Q09","units":[
+{"unit":"Follow-up on call with Penelope","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Pricing is a percentage of managed cloud spend","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Spend roughly $4.2M per year","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Standard rate 2.5%","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":"Text 1 says would be; same figure"},
+{"unit":"About $105,000 per year at standard rate","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Volume tier drops to 2% above $5M spend","kind":"condition","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"2% from day one on two-year term if spend crosses $5M","kind":"offer","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Ask for buyer's thoughts","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""}
+],"same_meaning":"yes","better_message":"tie","reason":"Same figures and conditions; only a hedge word differs, meaning unchanged.","grade_text1":"strong","grade_text2":"strong"}

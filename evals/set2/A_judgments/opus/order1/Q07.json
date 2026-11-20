@@ -1,0 +1,80 @@
+{
+ "pair": "Q07",
+ "units": [
+  {
+   "unit": "Tuesday advisory on lab-software supply-chain campaign",
+   "kind": "entity",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Scored by buyer's own analysts",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Accuracy 4/5, missed one persistence technique",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Detections usable as-is 1 of 3",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Usable after edits 3 of 3",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Hunt query better than hurried version",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "52 minutes vs day and a half",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Missed technique came from unavailable vendor bulletin",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Pilot ingests internal intel sources",
+   "kind": "commitment",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Pilot conversation next week",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "tie",
+ "reason": "Identical apart from a semicolon.",
+ "grade_text1": "strong",
+ "grade_text2": "strong"
+}

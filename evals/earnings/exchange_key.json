@@ -1,0 +1,146 @@
+{
+ "AEYE_2021Q3_x1": {
+  "call": "AEYE_2021Q3",
+  "role": "Chief Strategy Officer & Director",
+  "q_words": 51,
+  "a_words": 65
+ },
+ "AEYE_2021Q3_x2": {
+  "call": "AEYE_2021Q3",
+  "role": "Chief Strategy Officer & Director",
+  "q_words": 48,
+  "a_words": 101
+ },
+ "CMBM_2019Q3_x1": {
+  "call": "CMBM_2019Q3",
+  "role": "Cambium Networks Corporation - CFO",
+  "q_words": 53,
+  "a_words": 267
+ },
+ "CMBM_2019Q3_x2": {
+  "call": "CMBM_2019Q3",
+  "role": "Cambium Networks Corporation - President, CEO & Director",
+  "q_words": 116,
+  "a_words": 445
+ },
+ "DLR_2019Q4_x1": {
+  "call": "DLR_2019Q4",
+  "role": "Chief Technology Officer",
+  "q_words": 54,
+  "a_words": 300
+ },
+ "DLR_2019Q4_x2": {
+  "call": "DLR_2019Q4",
+  "role": "Chief Technology Officer",
+  "q_words": 147,
+  "a_words": 274
+ },
+ "FISV_2018Q4_x1": {
+  "call": "FISV_2018Q4",
+  "role": "Fiserv, Inc. - President, CEO & Director",
+  "q_words": 76,
+  "a_words": 283
+ },
+ "FISV_2018Q4_x2": {
+  "call": "FISV_2018Q4",
+  "role": "Fiserv, Inc. - President, CEO & Director",
+  "q_words": 95,
+  "a_words": 200
+ },
+ "IPHI_2019Q3_x1": {
+  "call": "IPHI_2019Q3",
+  "role": "Inphi Corporation - Senior VP, CFO, CAO & Secretary",
+  "q_words": 48,
+  "a_words": 92
+ },
+ "IPHI_2019Q3_x2": {
+  "call": "IPHI_2019Q3",
+  "role": "Inphi Corporation - President, CEO & Director",
+  "q_words": 78,
+  "a_words": 236
+ },
+ "NABL_2021Q2_x1": {
+  "call": "NABL_2021Q2",
+  "role": "Chief Financial Officer & Executive Vice President, N-able, Inc.",
+  "q_words": 90,
+  "a_words": 75
+ },
+ "NABL_2021Q2_x2": {
+  "call": "NABL_2021Q2",
+  "role": "President, Chief Executive Officer & Director, N-able, Inc.",
+  "q_words": 83,
+  "a_words": 347
+ },
+ "NET_2019Q4_x1": {
+  "call": "NET_2019Q4",
+  "role": "Chief Financial Officer, Cloudflare, Inc.",
+  "q_words": 31,
+  "a_words": 60
+ },
+ "NET_2019Q4_x2": {
+  "call": "NET_2019Q4",
+  "role": "Chief Financial Officer, Cloudflare, Inc.",
+  "q_words": 82,
+  "a_words": 114
+ },
+ "NET_2020Q3_x1": {
+  "call": "NET_2020Q3",
+  "role": "Chairman & Chief Executive Officer, Cloudflare, Inc.",
+  "q_words": 122,
+  "a_words": 235
+ },
+ "NET_2020Q3_x2": {
+  "call": "NET_2020Q3",
+  "role": "Chairman & Chief Executive Officer, Cloudflare, Inc.",
+  "q_words": 56,
+  "a_words": 133
+ },
+ "QTWO_2021Q3_x1": {
+  "call": "QTWO_2021Q3",
+  "role": "Chief Executive Officer, President & Director, Q2 Holdings, Inc.",
+  "q_words": 141,
+  "a_words": 108
+ },
+ "QTWO_2021Q3_x2": {
+  "call": "QTWO_2021Q3",
+  "role": "Chief Financial Officer, Q2 Holdings, Inc.",
+  "q_words": 154,
+  "a_words": 204
+ },
+ "TEAM_2023Q4_x1": {
+  "call": "TEAM_2023Q4",
+  "role": "Co-Founder, Co-Chief Executive Officer & Director, Atlassian Corp.",
+  "q_words": 64,
+  "a_words": 202
+ },
+ "TEAM_2023Q4_x2": {
+  "call": "TEAM_2023Q4",
+  "role": "Chief Revenue Officer, Atlassian Corp.",
+  "q_words": 102,
+  "a_words": 275
+ },
+ "TYL_2020Q4_x1": {
+  "call": "TYL_2020Q4",
+  "role": "Tyler Technologies, Inc. - CEO, President & Director",
+  "q_words": 70,
+  "a_words": 315
+ },
+ "TYL_2020Q4_x2": {
+  "call": "TYL_2020Q4",
+  "role": "Tyler Technologies, Inc. - CEO, President & Director",
+  "q_words": 71,
+  "a_words": 175
+ },
+ "ZEN_2019Q3_x1": {
+  "call": "ZEN_2019Q3",
+  "role": "Vice President, Strategy and Head of Investor Relations",
+  "q_words": 85,
+  "a_words": 62
+ },
+ "ZEN_2019Q3_x2": {
+  "call": "ZEN_2019Q3",
+  "role": "CEO, Founder and Chair",
+  "q_words": 136,
+  "a_words": 262
+ }
+}

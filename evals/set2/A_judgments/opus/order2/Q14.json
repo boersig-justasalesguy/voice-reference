@@ -1,0 +1,83 @@
+{
+ "pair": "Q14",
+ "units": [
+  {
+   "unit": "VP approved additional 25% discount",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Total 40% off list",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Best pricing ever offered",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": "strength_up",
+   "note": "Text 1 adds 'really exceptional deal and honestly'"
+  },
+  {
+   "unit": "Valid only if signed by Friday",
+   "kind": "deadline",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Tied to quarter-end",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Can't guarantee holding price after",
+   "kind": "condition",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Updated order form attached",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Ask: sign by Friday",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Offer to help get it over the line",
+   "kind": "offer",
+   "in_text1": true,
+   "in_text2": false,
+   "altered": null,
+   "note": "Dropped in Text 2"
+  },
+  {
+   "unit": "Excited 'Great news!' tone",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": false,
+   "altered": null,
+   "note": "Hype removed in Text 2"
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "2",
+ "reason": "Text 2 drops hype and exclamation points; reads more credible.",
+ "grade_text1": "weak",
+ "grade_text2": "average"
+}

@@ -1,0 +1,17 @@
+{"pair":"P09","units":[
+{"unit":"Deployment change on [date] increased on-call pages","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Pages rose from about [X] a week to [Y] over [two weeks]","kind":"number","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Most new alerts trace to [service / component]","kind":"entity","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Health checks fail briefly on scale-up and each one pages","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Error-rate alerts spike in deploy windows","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Duplicate alerts from old and new monitoring paths","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Almost none of these alerts needed action","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Alert load is wearing people down","kind":"stance","in_text1":true,"in_text2":true,"altered":"strength_down","note":"Text 1 says It's wearing people down; Text 2 softens to starting to wear people down."},
+{"unit":"Worried a real incident is easier to miss in the noise","kind":"stance","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"No one did anything wrong","kind":"stance","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Thresholds and new behavior do not fit; some fix on our side","kind":"stance","in_text1":true,"in_text2":true,"altered":"strength_down","note":"Text 2 hedges the cause with It looks like; Text 1 states it flatly."},
+{"unit":"30-minute meeting this week","kind":"ask","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Will bring the alert data","kind":"offer","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Options: adjust thresholds or grace period; own alerts; suppress in deploy windows","kind":"offer","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Asks what time works and what they are planning","kind":"ask","in_text1":true,"in_text2":true,"altered":null}
+],"same_meaning":"yes","more_human":"1","human_reason":"Text 1 has blunt fragments like It's wearing people down that read naturally; Text 2 is smoother and more hedged."}

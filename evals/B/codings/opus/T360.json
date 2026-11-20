@@ -1,0 +1,235 @@
+{
+ "id": "T360",
+ "claims": [
+  {
+   "gist": "Opinions on CNAPP consolidation are divided",
+   "type": "factual",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "The person who says it depends on definition is right",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "The disagreement itself is the most interesting market feature",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": true,
+   "owner": "author"
+  },
+  {
+   "gist": "The platform layer is consolidating",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "The capability layer is unbundling",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Buyers treating this as one question will decide poorly",
+   "type": "predictive",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Teams previously ran many tools with duplicate inventories",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "CNAPP promises one inventory, risk model and workspace",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Acquisitions have reinforced consolidation",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Large platform vendors intend to own cloud security",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Procurement and finance prefer fewer vendors",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Single-feature point products struggle when budgets tighten",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Many organizations keep a best-of-breed tool after buying a platform",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Platform runtime sensors are good enough for most workloads",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Specialist spinouts outperform suites in their niches",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Acquired breadth is integrated in slides before products",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": true,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Platform modules are often uneven",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": true,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Shared inventory and context layer benefits from scale and consolidates",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Capability layer fragments continually as new problems emerge",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Market looks consolidated to vendors, unbundled architecturally",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Open integration and data portability are now key vendor questions",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Choose a platform for the shared layer but score modules individually",
+   "type": "prescriptive",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Add specialists where gaps affect risk, feeding central view",
+   "type": "prescriptive",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Probe integration of acquired products and ask for combined-product customers",
+   "type": "prescriptive",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Avoid long commitments to modules you will not use",
+   "type": "prescriptive",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Bundled discounts often sell shelfware",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": true,
+   "owner": "author"
+  },
+  {
+   "gist": "The market will keep shifting between specialists and features",
+   "type": "predictive",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Consolidate where it reduces work; stay modular where it reduces risk",
+   "type": "prescriptive",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  }
+ ],
+ "named_entities": 0,
+ "named_criticism": 0,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": true,
+ "thesis": "CNAPP is consolidating at the shared platform layer and unbundling at the capability layer; buyers should do both."
+}

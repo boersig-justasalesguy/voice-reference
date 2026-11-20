@@ -1,0 +1,60 @@
+{
+ "pair": "Q04",
+ "units": [
+  {
+   "unit": "Hana Novak from Signalcraft",
+   "kind": "entity",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Healthcare teams spend days rewriting downloaded detections",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Detections written in buyer's query dialect, macros, lookups",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Engineers review instead of rewrite",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Call 555-0189 if rewrite work familiar",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "555-0189",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Thanks for what your team does",
+   "kind": "stance",
+   "in_text1": false,
+   "in_text2": true,
+   "altered": null,
+   "note": "Added closing appreciation in Text 2"
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "1",
+ "reason": "Text 1 is tighter; Text 2's closing thanks feels like filler.",
+ "grade_text1": "strong",
+ "grade_text2": "strong"
+}

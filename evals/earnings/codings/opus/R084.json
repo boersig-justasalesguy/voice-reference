@@ -1,0 +1,17 @@
+{
+ "id": "R084",
+ "sub_questions": 1,
+ "sub_questions_answered": 1,
+ "direct_answer_first": false,
+ "pivots_to_talking_point": true,
+ "number_dump": false,
+ "reasoning_or_mechanism": true,
+ "concrete_example": true,
+ "owned_view": false,
+ "admits_uncertainty_or_limit": false,
+ "declines_or_deflects": false,
+ "enumerated_structure": false,
+ "triplet_count": 1,
+ "rapport_markers": 3,
+ "spontaneity": "low"
+}

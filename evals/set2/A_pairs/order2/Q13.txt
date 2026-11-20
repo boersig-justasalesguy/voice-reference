@@ -1,0 +1,10 @@
+CHANNEL: voicemail
+STAGE: cold_outreach
+SELLER: Enterprise Account Executive at Threadline
+BUYER: Threat Intel Manager, Payments, Copperleaf Pay (1000-5000 employees)
+
+=== TEXT 1 ===
+Hi Mei-Lin, Dmitri Halvorsen from Threadline. Threadline is an emerging threat research platform that helps threat intelligence teams turn advisories into detections. We work with a lot of financial services and payments companies, and the platform covers research, detection engineering, hunting, and reporting. I'd like to tell you more and hear what you're working on at Copperleaf, to see if there might be a fit. I'm going to send you an email as well. My number is 555-0142. That's Dmitri from Threadline, 555-0142.
+
+=== TEXT 2 ===
+Hi Mei-Lin, this is Dmitri Halvorsen calling from Threadline. I hope you're having a great week. I wanted to reach out because Threadline is an emerging threat research platform, and we help threat intelligence teams turn advisories into detections. We work with a lot of financial services companies and payments companies, and we have a lot of great capabilities around research, detection engineering, hunting, and reporting. I'd love to tell you more about it and learn about what you're working on at Copperleaf and see if there might be a fit for us to work together. I'm going to send you an email as well. You can reach me at 555-0142. Again, that's Dmitri from Threadline, 555-0142. Thanks so much and have a great day.

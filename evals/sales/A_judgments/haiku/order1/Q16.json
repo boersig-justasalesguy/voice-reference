@@ -1,0 +1,12 @@
+{"pair":"Q16","units":[
+{"unit":"Personal video from Lena at Pipewise to Grant","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Holds whiteboard reading Hi Grant","kind":"placeholder","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Claim: number one sales forecasting platform","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":"Unsourced superlative in both"},
+{"unit":"AI and ML forecasts, deal scoring, coverage, dashboards, win-loss","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"4.8 rating","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Forecast accuracy goes way up","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Reps spend less time updating the CRM","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Torchline Sensors a perfect fit","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Hype: I made this video JUST for you, pretty cool right","kind":"stance","in_text1":true,"in_text2":false,"altered":"strength_down","note":"Text 2 drops the hyped self-congratulation"},
+{"unit":"Ask: book any slot via link below","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""}
+],"same_meaning":"yes","better_message":"2","reason":"Drops the cringe hype while keeping the same claims and booking ask; reads more credible.","grade_text1":"weak","grade_text2":"average"}

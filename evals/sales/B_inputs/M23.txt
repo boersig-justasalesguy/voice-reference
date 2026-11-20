@@ -1,0 +1,21 @@
+CHANNEL: email
+STAGE: renewal
+SELLER: Customer Success Manager at Onramp
+BUYER: Head of People, Architecture & Design, Saltmarsh Studio (100-200 employees)
+SUBJECT: Saltmarsh's first year on Onramp + renewal
+MESSAGE:
+Hi Mireille,
+
+Your renewal is on January 15, and before we get to paperwork I wanted to share what the year actually looked like - partly because some of it isn't flattering to us.
+
+What worked: you onboarded 31 people this year, and average time from signed offer to 'fully set up on day one' dropped from 4 days to under 1. Your design leads also stopped getting the 'where's my laptop' Slack messages, which you said was the main goal.
+
+What didn't: the IT provisioning workflows are barely used. Only 6 of the 31 hires went through them; the rest were set up manually by Theo. That's partly on us - the CAD-licence integration you needed only shipped in September, and we never went back to set it up.
+
+So two options before renewal:
+1. We spend an hour with Theo setting up the CAD and plotter-access workflows, and you renew on the current plan. List price is going up 9% this year; given the provisioning gap, I've gotten approval to hold you at your current rate for 2027.
+2. If you'd rather not use provisioning at all, we move you to the People-only plan, which is about 30% less.
+
+Either is fine with me. Want to grab 20 minutes next week to decide?
+
+Yusuf

@@ -1,0 +1,16 @@
+CHANNEL: email
+STAGE: breakup
+SELLER: Account Executive at Tallyhouse
+BUYER: Head of Procurement, Hospitality, Copperline Hotels Group (1000-5000 employees)
+SUBJECT: Closing the loop on linen and F&B vendors
+MESSAGE:
+Hi Rajesh,
+
+I've sent a few notes about vendor consolidation across Copperline's properties and haven't heard back - which usually means the timing is wrong, so I'll stop here.
+
+One thing worth keeping regardless of whether you ever talk to us: the hotel groups we work with almost always find the biggest leak in the same place - each property negotiating its own linen and laundry contract, often with the same three vendors at different rates. A quick pivot of last year's AP data by vendor and property usually shows it in an afternoon. I've attached the template we use; it works in a spreadsheet, no software needed.
+
+If procurement becomes a priority next year - say when contracts come up for renewal - just reply to this thread and I'll pick it up from here.
+
+Wishing you a smooth holiday season,
+Corinne

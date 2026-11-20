@@ -1,0 +1,6 @@
+CHANNEL: linkedin_dm
+STAGE: renewal
+SELLER: Account Manager at Baseline Forge
+BUYER: Security Data Scientist, Insurance, Coastal Reach Insurance Group (1000-5000 employees)
+MESSAGE:
+Hi Esperanza, your Baseline Forge renewal is coming up in February. Are you still running the claims-portal peer-group models? Want to make sure the renewal covers what you're actually using. Happy to grab 15 min or just do it over email, whatever's easier.

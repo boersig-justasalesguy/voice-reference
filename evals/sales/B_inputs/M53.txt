@@ -1,0 +1,14 @@
+CHANNEL: email
+STAGE: referral
+SELLER: Customer Success Manager at Beacon CX
+BUYER: Director of Customer Success, Construction Software, Buildgrid (200-500 employees)
+SUBJECT: Who else should be using this?
+MESSAGE:
+Hi Bastien,
+
+Your team's at-risk alerts helped save the Ridgeline Homes renewal last month. That one account was more than your annual Beacon contract.
+
+Do you know any CS leaders at other construction or field services software companies who'd benefit from hearing that story? A name or two would be great, and I'm happy to send you a short blurb you can forward.
+
+Thanks,
+Lorelei

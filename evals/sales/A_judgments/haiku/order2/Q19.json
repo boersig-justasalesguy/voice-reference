@@ -1,0 +1,7 @@
+{"pair":"Q19","units":[
+{"unit":"Met Jolene at RevSummit","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Pipewise: better forecasts, pipeline, results","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Meet next week via calendar link","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Calendar link placeholder","kind":"placeholder","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Double exclamation energy","kind":"stance","in_text1":true,"in_text2":true,"altered":"strength_down","note":"T2 drops the '!!' enthusiasm"}
+],"same_meaning":"yes","better_message":"1","reason":"Same message; T1's double exclamation reads a bit warmer for SMS.","grade_text1":"average","grade_text2":"average"}

@@ -1,0 +1,11 @@
+SUBJECT: Clearstack — pricing based on spend
+
+Hi Penelope,
+
+Thanks for the call. As mentioned, Clearstack pricing is a percentage of your managed cloud spend. At roughly $4.2M/year, our standard rate is 2.5%, about $105,000/year.
+
+You asked about a lower rate. We have volume tiers, and above $5M it drops to 2%. If you expect to cross $5M during the contract, we could apply the 2% from day one on a two-year term.
+
+Let me know what you think.
+
+Tobias

@@ -1,0 +1,6 @@
+CHANNEL: sms
+STAGE: renewal
+SELLER: Account Manager at Quorum HQ
+BUYER: CFO, Specialty Pharmacy, Kestrel Pharmacy Partners (200-500 employees)
+MESSAGE:
+Hi Seraphina, Tiberius @ Quorum. Renewal's 12/31, flat pricing, same seats. I'll send DocuSign Mon. Shout if anything's changed with the board.

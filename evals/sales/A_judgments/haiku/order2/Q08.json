@@ -1,0 +1,6 @@
+{"pair":"Q08","units":[
+{"unit":"Contract attached with agreed changes","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Invite questions or flag anything that looks off","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Changes not specified in either text","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Thanks sign-off","kind":"commitment","in_text1":false,"in_text2":true,"altered":null,"note":"Pleasantry only; no content"}
+],"same_meaning":"yes","better_message":"tie","reason":"Both vague with no named changes; T2 adds only a thanks.","grade_text1":"weak","grade_text2":"weak"}

@@ -1,0 +1,17 @@
+{
+ "id": "T128",
+ "claims": [
+   {"gist": "Sensors and computer vision monitored COVID protocol compliance at an industrial site", "type": "factual", "evidence": "named_example", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "IoB uses collected behavioral data to influence behavior through feedback loops", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Privacy laws will greatly affect IoB adoption and scale", "type": "predictive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "IoB carries ethical and societal implications depending on its goals", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Linking multiple experiences differentiates a business in a hard-to-copy way", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "A telecom company used an existing app for appointments to improve safety", "type": "factual", "evidence": "named_example", "specific": false, "hedged": false, "owner": "impersonal"}
+ ],
+ "named_entities": 0,
+ "named_criticism": 0,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": true,
+ "thesis": "Internet of Behaviors uses data to shape behavior; privacy law will largely determine its adoption and scale."
+}

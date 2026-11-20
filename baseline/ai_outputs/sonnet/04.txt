@@ -1,0 +1,53 @@
+What Is Cloud Detection and Response (CDR), and How Should You Evaluate Vendors?
+
+If your security operations team has ever tried to investigate a cloud incident using tools built for laptops and servers, you already know the problem. Cloud environments are ephemeral, API-driven and spread across accounts, regions and providers. A container can live for ninety seconds. An attacker can move from a stolen access key to your data without ever touching a machine you manage. Traditional endpoint and network tools were not designed for this, and they miss a lot.
+
+Cloud Detection and Response, or CDR, is the category of tools built to close that gap.
+
+What CDR is
+
+CDR is a set of capabilities for detecting, investigating and responding to threats that are happening in cloud environments right now. The emphasis is on active threats, not misconfigurations. That is the main difference from posture tools, which tell you what could go wrong. CDR tells you what is going wrong.
+
+Most CDR products combine several things:
+
+- Telemetry from the cloud control plane (audit logs such as CloudTrail, Azure Activity Logs and GCP Audit Logs), identity systems, and in many cases workload-level data from containers, virtual machines and serverless functions.
+- Detection logic that finds suspicious behavior, such as unusual use of credentials, privilege escalation, data exfiltration, or cryptomining.
+- Context that connects an alert to the resource, identity, permissions and data involved, so an analyst can judge impact quickly.
+- Response actions, either manual or automated, such as revoking credentials, isolating a workload, or opening a ticket with the right owner.
+
+How CDR differs from adjacent tools
+
+- CSPM and CNAPP find risk and misconfiguration. CDR finds attacks in progress. Many CNAPP vendors now include CDR features, which is worth knowing when you evaluate.
+- EDR and XDR focus on endpoints and are strong on hosts. They often have limited visibility into cloud control plane activity and identity abuse.
+- SIEM collects logs broadly, but you must build and tune the detection yourself, and cloud-specific context is usually thin.
+
+How to evaluate CDR vendors
+
+1. Start with your threat model. Decide which attacks worry you most: stolen credentials, compromised workloads, insider data theft, supply chain compromise. A vendor that is excellent at runtime container threats may be weak on identity abuse, and the reverse.
+
+2. Test detection quality, not just coverage. Ask for detections mapped to real attack techniques, then run them. A purple team exercise or an attack simulation in a test account shows more than a demo. Measure how many real attacks are caught, how long detection takes, and how many false positives appear.
+
+3. Check the depth of cloud context. A good alert says which identity acted, what it could access, whether the resource is exposed to the internet and whether it holds sensitive data. An alert that says only "suspicious API call" shifts the work back to your analysts.
+
+4. Examine data sources and deployment. Agentless approaches are quick to deploy but may see less. Agent-based approaches see more but add operational overhead. Ask what the product sees in each case, how it handles multi-cloud and Kubernetes, and what it costs in performance and effort.
+
+5. Evaluate response, and be skeptical of automation claims. Which actions can it take natively? Can you require approval before it acts? Can it integrate with your ticketing, SOAR and chat tools? Automated response that you cannot control is a risk.
+
+6. Understand how it fits with what you own. If you already have a SIEM, EDR or CNAPP, ask how data flows in both directions and whether you will pay twice for the same logs.
+
+7. Look at speed and time to value. How long until the first useful detection? How much tuning is needed? Ask for customer references that match your environment and size.
+
+8. Understand pricing. Some vendors price per workload, some per volume of data, and some per cloud account. Model the cost at your real scale, including growth and ephemeral resources.
+
+Questions to ask in every demo
+
+- Show me a detection from a real incident, end to end, including what the analyst sees.
+- How do you detect attacks that use valid credentials and no malware?
+- What happens when your detection is wrong? How do I tune it?
+- What do you not detect?
+
+That last question is the most revealing. A vendor that cannot name its gaps probably has not looked for them.
+
+The bottom line
+
+CDR is worth adding when your cloud footprint has outgrown the visibility your current tools provide. Choose based on how well a product finds the attacks that matter to you, in your environment, with context your team can act on, and not by feature checklists.

@@ -1,0 +1,31 @@
+CHANNEL: call_script
+STAGE: renewal
+SELLER: Account Manager at Baseline Forge
+BUYER: Security Engineering Manager, Gaming, Starhollow Games (500-1000 employees)
+MESSAGE:
+PURPOSE: Renewal check-in, 60 days out. Starhollow has been a steady, quiet customer. Confirm renewal and test interest in risk-based correlation.
+
+OPEN
+"Hey Lars, Benedetta from Baseline Forge. How's the launch crunch? Still alive?"
+
+[Small talk: their new title launched last month.]
+
+CHECK
+"So your renewal's in January. Before I send paperwork, I wanted to make sure the scope still fits. You're running the player-account baselines and the build pipeline models, right? Anything you've added or stopped using?"
+
+[Listen. Note any new environments: anti-cheat infrastructure, new studio.]
+
+VALUE
+"From what I can see, the build pipeline model is the one firing most. It flagged the unusual signing key usage in June that your team escalated. Did anything come of that one?"
+
+PROBE
+"One thing I've noticed: you've got a lot of models producing low-severity alerts that nobody looks at individually. Risk-based correlation would let you stack those into one higher-confidence alert per player or per system. Is the volume a problem for your team, or is it manageable?"
+
+IF INTERESTED
+"I can turn on correlation in a sandbox for 30 days using your existing models. No cost, no change to your production alerts."
+
+IF NOT
+"No worries. I'll send the renewal at your current scope this week."
+
+CLOSE
+"Anything you need from me before end of year?"

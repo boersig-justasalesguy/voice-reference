@@ -1,0 +1,10 @@
+CHANNEL: linkedin_dm
+STAGE: follow_up
+SELLER: Account Executive at Threadline
+BUYER: Threat Intel Lead, Telecommunications, Quayside Telecom (5000-10000 employees)
+
+=== TEXT 1 ===
+Hi Oluwaseun, following up on my last message. Did you have a chance to think about whether Threadline could be a fit for Quayside? I'd like to find 30 minutes to connect this week or next.
+
+=== TEXT 2 ===
+Hi Oluwaseun, just following up on my last message. I know things get busy! Did you have a chance to think about whether Threadline could be a fit for Quayside? Would love to find 30 minutes to connect this week or next. Thanks!

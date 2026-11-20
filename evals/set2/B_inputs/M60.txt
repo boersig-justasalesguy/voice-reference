@@ -1,0 +1,26 @@
+CHANNEL: call_script
+STAGE: cold_outreach
+SELLER: Sales Development Representative at Signalcraft
+BUYER: Detection Engineering Lead, Media & Entertainment, Lanternfish Studios (10000+ employees)
+MESSAGE:
+[Dial. Pause after she answers.]
+
+Hi Priyanka, it's Gabe Moreau with Signalcraft. This is a cold call, so I'll be honest about that. Can I take 30 seconds to tell you why I picked up the phone, and you tell me if it's worth another two minutes?
+
+[If yes:]
+
+Thanks. I talk to detection engineering leads at big media companies, and the thing I keep hearing is that public detection content doesn't survive contact with their SIEM. Every rule someone shares assumes field names and macros that don't exist in a studio's environment, so your team spends more time adapting rules than writing them. Is that true at Lanternfish, or have you already solved it?
+
+[Listen. Likely answers:]
+
+- "Yes, constantly." Ask: "Roughly what share of a new detection's time goes into adapting it to your naming, lookups and data models versus the actual logic?" Then: "Signalcraft writes the detection in your own query dialect, using your existing macros and lookups, so the draft runs on day one. Would it be useful to see it take one of your backlog items and draft it against your environment?"
+
+- "We built our own conventions and tooling." Say: "That makes sense for a team your size. Where does it break down? New log sources, new hires learning the conventions, or the backlog itself?" Follow her answer; don't pitch until she names a pain.
+
+- "Not a priority." Say: "Fair. What is the priority for detection engineering this quarter?" If it's not something we touch, thank her and ask if you can check back after planning season.
+
+[Ask:]
+
+"Here's what I'd suggest: a 25-minute working session where you bring one detection you've been meaning to write, and we show you the draft Signalcraft produces in your dialect. If it's not better than what your team would produce, you've lost 25 minutes and I'll stop calling. Fair?"
+
+[If yes:] Lock a time on the call and confirm by email with the one detection she plans to bring. [If no:] "Understood. Mind if I send a two-line note so you have my name if the backlog grows?" Thank her and hang up.

@@ -1,0 +1,15 @@
+CHANNEL: email
+STAGE: breakup
+SELLER: Account Executive at Signalcraft
+BUYER: Director of Detection & Response, SaaS, Corvid Ledger Software (1000-5000 employees)
+SUBJECT: Closing the loop (plus the rule you asked about)
+MESSAGE:
+Wendell,
+
+I'll stop emailing after this one. Detection backlogs at a growing SaaS company don't leave much room for vendor calls, and I'd rather be useful than persistent.
+
+Before I go: in October you asked in our community forum how others detect suspicious API-token creation in a multi-tenant admin console. One of our engineers wrote a draft of that detection, adapted for a SIEM that uses lookup-based tenant mapping like yours. It's attached as plain text. Use it, change it, no strings.
+
+If detection authoring time becomes the bottleneck next year, especially once you onboard the new region you mentioned, my door's open. Otherwise, good luck with the backlog.
+
+Joelle

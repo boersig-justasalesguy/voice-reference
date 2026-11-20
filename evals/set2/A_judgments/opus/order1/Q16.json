@@ -1,0 +1,117 @@
+{
+ "pair": "Q16",
+ "units": [
+  {
+   "unit": "Proposal for Meridian Reach Wireless",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Hub breaking silos across five teams",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Long feature list incl. 99.9% SLA",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "250 users annual subscription",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Premium support 1-hour Sev1",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "120 hours implementation services",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "4 training sessions, 25 attendees",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Two add-on modules",
+   "kind": "entity",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Quote valid 30 days",
+   "kind": "deadline",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Net 30, annual in advance",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Three-year assumption; one-year 12% uplift",
+   "kind": "condition",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Five-phase implementation",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "SOW follows acceptance",
+   "kind": "commitment",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Will deliver significant value",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": false,
+   "altered": null,
+   "note": "Value statement dropped"
+  },
+  {
+   "unit": "Contact me with questions",
+   "kind": "offer",
+   "in_text1": true,
+   "in_text2": false,
+   "altered": null,
+   "note": "Dropped"
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "2",
+ "reason": "Text 2 trims boilerplate; both remain feature dumps without a next step.",
+ "grade_text1": "weak",
+ "grade_text2": "average"
+}

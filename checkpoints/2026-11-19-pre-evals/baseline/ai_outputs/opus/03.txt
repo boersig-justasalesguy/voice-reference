@@ -1,0 +1,86 @@
+How Our Vendor Evaluations Work
+
+Our vendor evaluations exist to help you build a shortlist faster and ask better questions. They are not meant to make the purchase decision for you. This page explains how we choose which vendors to include, how we score them, what keeps the process independent, and how to get the most out of the results.
+
+What a vendor evaluation is
+
+Each evaluation compares the leading vendors in a defined market, such as cloud security posture management or IT service management, against the same set of criteria. The result is a published report with:
+
+- A visual comparison that places each vendor on two axes: Current Capability and Strategic Direction
+- A detailed scorecard for every criterion
+- A written profile of each vendor covering strengths, cautions, and the kinds of buyers it fits best
+- Customer reference findings
+
+We refresh each evaluation every 12 to 24 months, depending on how fast the market is changing.
+
+Step 1: Defining the market
+
+Before we evaluate anyone, we publish a market definition. It describes the problem the products solve, the capabilities a product must have to count, and what is out of scope. Getting this right matters, because a vague definition leads to comparing products that solve different problems.
+
+Step 2: Choosing which vendors to include
+
+To be included, a vendor must meet all of these criteria:
+
+- The product is generally available, not in beta, by the evaluation's cutoff date.
+- The product meets the required capabilities in the market definition.
+- The vendor has meaningful market presence. Usually this means a minimum revenue or customer count in this market, or significant interest from our clients.
+
+Vendors do not pay to be included, and they cannot pay to be left out. If a vendor declines to participate, we still evaluate it using public information, our analysts' hands-on experience, and client feedback, and we say so in the report.
+
+Step 3: Gathering evidence
+
+We collect evidence from four sources:
+
+1. Vendor questionnaire. A detailed set of questions on capabilities, roadmap, pricing model, and company strategy.
+2. Scripted demonstrations. Every vendor demonstrates the same scenarios, so we compare like with like and not just each vendor's best features.
+3. Customer references. We interview or survey customers of each vendor. We ask vendors for references, and we also look for customers on our own through our client base.
+4. Analyst inquiry data. Our analysts handle thousands of client conversations a year. Patterns in those conversations, such as recurring complaints or common reasons a deal is won, inform our assessment.
+
+Step 4: Scoring
+
+Each vendor is scored from 0 to 5 on a published set of criteria, grouped into two dimensions.
+
+Current Capability covers how well the product works today: core functionality, ease of deployment and use, integration, scalability, security, and customer support.
+
+Strategic Direction covers how well the vendor is set up for the future: product roadmap, innovation, market understanding, financial health, partner ecosystem, and pricing flexibility.
+
+Every criterion has a published weight. Weights show what matters most to a typical buyer in that market. We publish both the weights and the raw scores so you can see how we got to the result.
+
+Step 5: Review and fact-checking
+
+Before publication, each vendor reviews its own profile and scores for factual accuracy. Vendors can correct facts, such as a feature that was released before the cutoff date. They cannot negotiate scores or change our analysis. A separate research quality team reviews every evaluation for consistency and possible bias before it is published.
+
+How we protect independence
+
+- Analysts' compensation is not tied to vendor revenue.
+- Vendors who are clients of our firm get no advantage in evaluations. Many vendors we evaluate are not clients, and many of our clients score poorly.
+- Sales staff have no role in the research process.
+- Our full methodology and conflict-of-interest policy are public.
+
+How buyers should use our evaluations
+
+The most common mistake buyers make is choosing whichever vendor sits furthest up and to the right. The top-scoring vendor is the best fit for a typical buyer. You are not a typical buyer. Here is a better way to use the report:
+
+1. Start with your requirements, not the chart. Write down your three to five must-have capabilities and constraints, such as budget, existing tech stack, team size, and regulatory needs, before you open the report.
+
+2. Re-weight the criteria. Use the interactive version of the scorecard to change the weights to match your priorities. A vendor that ranks fifth overall may rank first once you increase the weight of, say, integration with your existing tools.
+
+3. Read the cautions, not just the strengths. Each vendor profile includes cautions that show where customers have struggled. These are often more useful than the strengths for predicting your own experience.
+
+4. Look at "best fit for." Each profile describes the kind of organization the vendor works best for. A product built for large enterprises can be a poor fit for a 200-person company, and the reverse is also true.
+
+5. Use it to build a shortlist of three or four vendors, not one. Then run your own proof of concept using your own data and use cases. No research report can tell you how a product will behave in your environment.
+
+6. Bring the report into vendor conversations. Use our cautions and scores to ask vendors specific questions. For example: "The evaluation noted that customers find your reporting difficult to customize. What has changed since then?"
+
+7. Talk to an analyst. Clients can schedule a call with the analysts who wrote the evaluation. They can talk through your specific situation, explain why a vendor scored the way it did, and share what they have heard from other buyers since publication.
+
+What our evaluations are not
+
+- They are not an endorsement. Being included is not a recommendation.
+- They are not a full due-diligence review. We do not audit vendors' financial statements or security controls.
+- They are a snapshot. Products change quickly, so always check the publication date and ask vendors what has changed since.
+
+Questions?
+
+If you have questions about our methodology, or if you are a vendor that wants to be considered for an upcoming evaluation, contact our research operations team at research-ops@[yourfirm].com.

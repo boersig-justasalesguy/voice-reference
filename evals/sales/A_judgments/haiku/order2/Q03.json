@@ -1,0 +1,11 @@
+{"pair":"Q03","units":[
+{"unit":"Call at 3 p.m. to avoid lunch rush","kind":"condition","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Caller Lorenzo from Shiftwell","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Shiftwell app lets crew swap shifts on phones","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Ask: who handles scheduling for the region","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Ask: how do shift swaps work now","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Ask: regional contact's name","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Floor staff would want something better, is that fair","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Repeated 'I promise' pleading opener","kind":"stance","in_text1":true,"in_text2":true,"altered":"strength_down","note":"T2 drops the repeated pledge; less pleading"},
+{"unit":"Placeholder: regional contact name (Jasper Lindgren)","kind":"placeholder","in_text1":true,"in_text2":true,"altered":null,"note":""}
+],"same_meaning":"yes","better_message":"2","reason":"T2 drops the repeated 'I promise' pleading and reads tighter and more natural.","grade_text1":"strong","grade_text2":"strong"}

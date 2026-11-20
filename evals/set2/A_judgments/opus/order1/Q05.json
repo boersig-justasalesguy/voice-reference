@@ -1,0 +1,66 @@
+{
+ "pair": "Q05",
+ "units": [
+  {
+   "unit": "Agrees a tool alone won't fix silos",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Org design, leadership, incentives matter more",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Tools reinforce silos or make them cheaper to cross",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Intel, SOC, detection teams have separate backlogs",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Handoffs depend on someone filing ticket",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "One shared view, outcomes reported back",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Work with several large enterprises",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Open to a conversation",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "tie",
+ "reason": "Essentially identical; only minor phrasing differences.",
+ "grade_text1": "average",
+ "grade_text2": "average"
+}

@@ -1,0 +1,6 @@
+CHANNEL: sms
+STAGE: renewal
+SELLER: Account Manager at Quietwatch
+BUYER: SIEM Engineer, Logistics, Bluewake Freight (1000-5000 employees)
+MESSAGE:
+Felipe, Hannah from Quietwatch. Quick year-one stat for your renewal conversation: 61 silent rules repaired, including the dock-scanner feed. Want the one-page summary to share with your director before 12/15?

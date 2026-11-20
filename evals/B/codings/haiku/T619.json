@@ -1,0 +1,18 @@
+{
+ "id": "T619",
+ "claims": [
+   {"gist": "Check Point and Palo Alto's pivots show the CNAPP posture fight is over", "type": "evaluative", "evidence": "reasoning_only", "specific": true, "hedged": false, "owner": "author"},
+   {"gist": "Check Point partnered with Wiz rather than compete in the CNAPP market", "type": "factual", "evidence": "named_example", "specific": true, "hedged": false, "owner": "author"},
+   {"gist": "Palo Alto's Cortex is fundamentally an XSIAM built for the SOC", "type": "factual", "evidence": "reasoning_only", "specific": true, "hedged": false, "owner": "author"},
+   {"gist": "Wiz won the CSPM war, and Palo Alto is recognizing that", "type": "evaluative", "evidence": "reasoning_only", "specific": true, "hedged": true, "owner": "author"},
+   {"gist": "Posture tools exist for developers, not security teams who become prioritizers", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "author"},
+   {"gist": "AI security overlaps naturally with firewall and zero-trust products", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "author"},
+   {"gist": "Future CNAPP leaders will likely be Wiz and rivals like Aqua, Orca, Sysdig and Upwind", "type": "predictive", "evidence": "reasoning_only", "specific": true, "hedged": false, "owner": "author"}
+ ],
+ "named_entities": 14,
+ "named_criticism": 3,
+ "admitted_limits": 0,
+ "stake_disclosure": true,
+ "disputable_thesis": true,
+ "thesis": "Check Point and Palo Alto pivots show the CNAPP posture fight is over, with Wiz winning cloud posture."
+}

@@ -1,0 +1,21 @@
+CHANNEL: email
+STAGE: follow_up
+SELLER: Enterprise Account Executive at Coverwise
+BUYER: Detection Engineering Lead, Energy, Northbridge Utilities (5000-10000 employees)
+SUBJECT: Stanislav's coverage question: scoping
+MESSAGE:
+Hiroshi,
+
+Stanislav asked me to start with you on the coverage analysis for the board. He was clear that the board version stays to one page.
+
+To scope it, I'd like to understand three things in a 30-minute call:
+
+- Which data sources cover the OT bridge systems today, and where you know there are gaps
+- Whether your detection library has any existing technique tagging, even partial
+- Who can grant read-only access to the SIEM and how long that typically takes
+
+The output for your team will be much more detailed than the board page: every technique, the evidence behind its rating, and a fix list ranked by risk.
+
+Does Tuesday or Wednesday afternoon work?
+
+Joelle

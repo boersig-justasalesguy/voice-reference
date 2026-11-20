@@ -1,0 +1,40 @@
+FOR IMMEDIATE RELEASE
+
+Northbridge Research Predicts 60% of Large Organizations Will Establish a Formal AI Governance Function by 2027
+
+Firm says regulatory pressure, board scrutiny and a growing list of AI incidents are pushing governance out of ad hoc committees and into permanent roles
+
+STAMFORD, Conn., November 19, 2026 -- Northbridge Research, a technology research and advisory firm, today announced its prediction that by 2027, 60% of large organizations will have created a formal AI governance function with defined authority, budget and executive accountability. Today, fewer than one in five have done so.
+
+The prediction reflects a shift in how enterprises treat AI risk. Early governance efforts were typically volunteer working groups drawn from legal, security and data teams. Northbridge finds that these groups are struggling to keep pace with the number of AI use cases entering production, the spread of generative AI tools adopted by individual business units, and new obligations under regional AI regulations.
+
+"Most organizations started with a committee that meets monthly and reviews a handful of projects," said Dana Whitfield, vice president and distinguished analyst at Northbridge Research. "That model breaks down when hundreds of AI-enabled features are shipping across the business and employees are bringing their own tools to work. Governance now needs an owner, a budget and the authority to say no. By next year, the organizations that lack one will find themselves explaining that gap to regulators, auditors and customers."
+
+Northbridge identifies three forces driving the change:
+
+-- Regulatory exposure. Rules requiring risk classification, documentation and human oversight of AI systems are moving from proposal to enforcement, and many apply regardless of where a company is headquartered.
+
+-- Board and investor attention. Directors are increasingly asking for evidence that AI risks are inventoried, measured and owned, rather than assurances that policies exist.
+
+-- Operational incidents. Data leakage through public AI tools, biased model outputs and unreliable automated decisions have made the cost of unmanaged AI visible to executives.
+
+Northbridge expects the new function to take different forms. About half of organizations will place it under the chief data or chief risk officer, while others will create a dedicated AI office or extend an existing privacy or compliance team. Regardless of structure, Northbridge recommends that leaders:
+
+1. Build a complete inventory of AI systems, including third-party and embedded AI, before writing further policy.
+2. Define risk tiers so that review effort is proportionate to potential harm.
+3. Assign a single accountable executive and give the function authority to pause or block deployments.
+4. Measure governance by outcomes, such as time to review and incidents avoided, rather than by the number of policies published.
+
+The prediction is based on Northbridge's survey of 1,200 technology and risk leaders conducted in the third quarter of 2026, along with more than 300 client inquiries on AI governance over the past twelve months. Additional detail is available to Northbridge clients.
+
+About Northbridge Research
+Northbridge Research is a technology research and advisory firm that helps executives make confident decisions about technology strategy, risk and investment. Its analysts advise more than 5,000 organizations worldwide.
+
+Media Contact
+Priya Raman
+Director, Communications
+Northbridge Research
+press@northbridgeresearch.example
++1 (555) 010-0142
+
+###

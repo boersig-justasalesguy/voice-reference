@@ -1,0 +1,22 @@
+CHANNEL: video_script
+STAGE: renewal
+SELLER: Customer Success Director at Commonground
+BUYER: CISO, Manufacturing, Brassmoor Industrial (5000-10000 employees)
+MESSAGE:
+[Webcam, plain background, no music. Screen share at 0:40.]
+
+Gideon, it's Rosalind from Commonground. Your renewal is at the end of January, and I'd rather be candid with you now than send a cheerful order form.
+
+[Screen share: Brassmoor usage dashboard.]
+
+Here's what the year actually looked like. Your SOC and detection engineering teams adopted the shared backlog early, and the 22 detections that came from red-team findings are real wins; your last assessment closed two findings that had been open since before you joined. But after the plant-network team reorganized in June, usage dropped. Your OT security group never moved onto the backlog, and that was the silo you bought this to fix. Right now about a third of your licensed users are active.
+
+[Back to webcam.]
+
+That's on both of us, and mostly on us: we didn't adapt the rollout when your org changed.
+
+So here's what I'd propose before we talk about any renewal numbers. First, a 45-minute working session with your OT security lead to set up their intake the way they actually work, not the way the SOC does. Second, we re-baseline the license count to the people who'll really use it, which may lower the cost. Third, we agree on two outcomes you'd want to see by the end of Q1, and if we don't hit them, you'll have the evidence to walk away.
+
+I'll send a short note with times for the OT session. If you'd rather talk first, call me directly at 555-0164.
+
+Thanks, Gideon.

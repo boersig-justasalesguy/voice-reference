@@ -1,0 +1,8 @@
+{"pair":"Q22","units":[
+{"unit":"Clearstack contract expires in 30 days","kind":"deadline","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Sign renewal by December 15","kind":"deadline","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Losing dashboards and historical data otherwise","kind":"condition","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Price based on grown cloud spend under management","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"New annual total $64,800","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Subject line: ACTION REQUIRED","kind":"stance","in_text1":true,"in_text2":true,"altered":null,"note":""}
+],"same_meaning":"yes","better_message":"tie","reason":"Identical content; both are pressure-heavy with no value reminder.","grade_text1":"weak","grade_text2":"weak"}

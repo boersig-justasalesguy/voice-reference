@@ -1,0 +1,13 @@
+CHANNEL: email
+STAGE: cold_outreach
+SELLER: Sales Development Rep at Vaultline
+BUYER: CTO, Marketing Technology, Adspring (200-500 employees)
+SUBJECT: SOC 2
+MESSAGE:
+Hi Benjamin,
+
+Are you working on SOC 2? Vaultline can help your team automate it from start to finish this year.
+
+We integrate with your cloud, code, and HR tools and collect evidence automatically, so your team doesn't have to gather screenshots by hand before the audit. Let me know if you want to learn more about how it works!
+
+Teresa

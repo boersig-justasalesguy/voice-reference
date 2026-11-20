@@ -1,0 +1,20 @@
+{"pair":"P08","units":[
+{"unit":"Requesting $[amount] per year approval for [Tool name]","kind":"ask","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"One-line tool description placeholder","kind":"placeholder","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Problem placeholder in business terms","kind":"placeholder","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Breach risk placeholder: average cloud breach cost of $X million","kind":"number","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Manual alert investigation about 25 hours per week, $X a year","kind":"number","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Compliance: audit finding to fix before Q2 audit","kind":"deadline","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Annual subscription $[X]","kind":"number","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"One-time implementation $[X]","kind":"number","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Internal deployment effort about [X] weeks","kind":"number","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Expected 60% cut in investigation time, saving $X in staff time","kind":"number","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Could retire [existing tool], saving $X a year","kind":"number","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Closes audit finding before Q2","kind":"deadline","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Lowers breach likelihood and cost","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Alternatives: do nothing, build in-house (~[X] engineer-months), competitor 30% pricier","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Negotiated one-year term with renewal, X% below list","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"30-day trial result placeholder (optional)","kind":"placeholder","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Approval from [budget line] for [fiscal year]; sign by [date]","kind":"deadline","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Offer of more detail or a quick call","kind":"offer","in_text1":true,"in_text2":true,"altered":null}
+],"same_meaning":"yes","more_human":"tie","human_reason":"Both are the same bracketed template; Text 1 keeps a fuller polite close, Text 2 is terser."}

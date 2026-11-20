@@ -1,0 +1,19 @@
+{
+ "id": "T965",
+ "claims": [
+   {"gist": "Evaluations place vendors on ability-to-execute and completeness-of-vision axes", "type": "factual", "evidence": "none", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Four vendor categories describe position in the evaluation, not overall quality", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Vendors do not pay for inclusion or placement", "type": "factual", "evidence": "none", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Analysts score independently and a review panel calibrates scores before publication", "type": "factual", "evidence": "none", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "A Niche Player can be the best choice for a buyer with specific needs", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "The evaluation is a snapshot, and markets change quickly", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "The evaluation does not measure fit with your environment, budget or technology", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Start from your own requirements, not the graphic, and include a non-Leader if it fits", "type": "prescriptive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"}
+ ],
+ "named_entities": 0,
+ "named_criticism": 0,
+ "admitted_limits": 2,
+ "stake_disclosure": false,
+ "disputable_thesis": false,
+ "thesis": "Vendor evaluations are snapshots of relative position; buyers should start from their own requirements and validate."
+}

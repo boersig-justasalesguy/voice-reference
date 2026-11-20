@@ -1,0 +1,22 @@
+CHANNEL: call_script
+STAGE: objection_handling
+SELLER: Account Executive at Clearstack
+BUYER: CTO, Healthcare SaaS, Tessellate Health (100-200 employees)
+MESSAGE:
+[FOLLOW-UP CALL — Oksana previously said: 'We already bought reserved instances and savings plans, so we've done the optimization.']
+
+"Oksana, thanks for the follow-up time. Last time you mentioned you'd already committed to reserved capacity and savings plans, so you felt optimization was handled. I wanted to come back to that because I think it's a reasonable position and I wanted to understand it better."
+
+"When you made those commitments, how did you decide on the coverage level?"
+
+[Listen — probably based on a snapshot of usage]
+
+"Got it, based on the usage from early this year. Has your usage changed since then? I'm thinking about the new analytics feature you launched."
+
+"So you're probably covered on the baseline compute, but the new workload runs on different instance types. That's pretty common."
+
+"The thing about commitments is that they reduce the price of what you're running, but they don't tell you whether you should be running it. Clearstack looks at both. We'd show you where commitments are under-utilized and where there's idle or oversized infrastructure underneath."
+
+"Would it be helpful if we ran an analysis and showed you exactly what we find?"
+
+[If she agrees, explain read-only access and timeline. If not, ask when they plan to revisit commitments.]

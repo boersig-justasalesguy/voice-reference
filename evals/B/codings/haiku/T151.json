@@ -1,0 +1,17 @@
+{
+ "id": "T151",
+ "claims": [
+   {"gist": "By 2023 over half of global GDP will come from digitally transformed enterprises", "type": "predictive", "evidence": "named_source", "specific": true, "hedged": false, "owner": "attributed"},
+   {"gist": "Over 50% of ICT spending goes to digital transformation by 2023", "type": "predictive", "evidence": "data_cited", "specific": true, "hedged": false, "owner": "attributed"},
+   {"gist": "70% of enterprises will integrate public and private clouds by 2022", "type": "predictive", "evidence": "data_cited", "specific": true, "hedged": false, "owner": "attributed"},
+   {"gist": "Over 50% of new enterprise infrastructure will sit at the edge by 2023", "type": "predictive", "evidence": "data_cited", "specific": true, "hedged": false, "owner": "attributed"},
+   {"gist": "At least 90% of new enterprise apps will embed AI by 2025", "type": "predictive", "evidence": "data_cited", "specific": true, "hedged": false, "owner": "attributed"},
+   {"gist": "Enterprises unable to compete digitally will lose ground in core markets", "type": "predictive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "attributed"}
+ ],
+ "named_entities": 1,
+ "named_criticism": 0,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": true,
+ "thesis": "IDC predicts digital supremacy by 2023, forcing faster cloud, edge and AI investment and new operating models."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "M07",
+ "buyer_specific_trigger": false,
+ "industry_specific_pain": false,
+ "proof": "none",
+ "unsupported_claims": 2,
+ "feature_list_items": 4,
+ "buyer_centric_sentences_pct": 10,
+ "mechanism_explained": false,
+ "ask": "meeting_>20min_or_demo",
+ "ask_pressure": "low",
+ "opt_out_offered": false,
+ "value_before_ask": false,
+ "manufactured_urgency": false,
+ "self_introduction_first": true,
+ "disputable_point_of_view": false
+}

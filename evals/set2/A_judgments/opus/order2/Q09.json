@@ -1,0 +1,60 @@
+{
+ "pair": "Q09",
+ "units": [
+  {
+   "unit": "Options discussed Monday",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Option 1: one-year, $102K",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Option 2: two-year, $94K/year",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Option 3: three-year, $88K/year",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "All include onboarding, support, new features",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Open to other structures",
+   "kind": "offer",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Looking forward to your thoughts",
+   "kind": "stance",
+   "in_text1": false,
+   "in_text2": true,
+   "altered": null,
+   "note": "Added soft closing in Text 2"
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "1",
+ "reason": "Text 1's line breaks make options easy to compare; Text 2 is one dense paragraph.",
+ "grade_text1": "strong",
+ "grade_text2": "average"
+}

@@ -1,0 +1,19 @@
+{
+ "id": "T674",
+ "claims": [
+   {"gist": "AI vulnerability tools are extremely effective at finding open-source vulnerabilities", "type": "evaluative", "evidence": "first_hand", "specific": false, "hedged": false, "owner": "author"},
+   {"gist": "Frontier-lab scanners are overhyped while AI SAST as a whole is underhyped", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "author"},
+   {"gist": "Maintainers get more pull requests and issues than ever from AI submissions", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Latest AI vulnerability-detection models are gated to large enterprises", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "NVD is at its lowest point in enriching data; Flashpoint and VulnCheck pick up the slack", "type": "factual", "evidence": "named_example", "specific": true, "hedged": false, "owner": "impersonal"},
+   {"gist": "Vulnerability management is going private, for better and for worse", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "author"},
+   {"gist": "Delaying public disclosure relies on security through obscurity", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "author"},
+   {"gist": "Private pressures will likely leave the CVE ecosystem going out with a whisper", "type": "predictive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "author"}
+ ],
+ "named_entities": 7,
+ "named_criticism": 0,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": true,
+ "thesis": "AI vulnerability discovery is going private, weakening public disclosure, enrichment and the CVE ecosystem."
+}

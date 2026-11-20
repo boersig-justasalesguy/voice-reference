@@ -1,0 +1,12 @@
+{"pair":"Q21","units":[
+{"unit":"Names Esther, Victor, Pinecrest, Tunebench","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Questionnaire has 140 questions","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Most questions covered by SOC 2 Type II report","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"SOC 2 report attached","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Asks to skip questionnaire and use the report","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Security team stretched; questionnaires take weeks","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Wants contract signed before end of month","kind":"deadline","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Asks for help speeding up the review","kind":"ask","in_text1":true,"in_text2":true,"altered":"strength_down","note":"Text 2 drops 'really' and softens the appreciation"},
+{"unit":"Honest candor about the team's workload","kind":"stance","in_text1":true,"in_text2":false,"altered":null,"note":"'Honestly' dropped in Text 2"},
+{"unit":"SOC manager excited to get started","kind":"claim","in_text1":true,"in_text2":true,"altered":"strength_down","note":"Exclamation removed in Text 2"}
+],"same_meaning":"yes","better_message":"2","reason":"More measured tone with the same asks; Text 1's exclamation and 'really' push slightly harder.","grade_text1":"average","grade_text2":"average"}

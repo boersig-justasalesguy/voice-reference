@@ -1,0 +1,16 @@
+{
+ "id": "T722",
+ "claims": [
+   {"gist": "Hype Cycles show technology maturity and adoption and their relevance to business problems", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Early adopters can reap rewards, though risky investments do not always pay off", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": true, "owner": "impersonal"},
+   {"gist": "Moderate executives should demand sound cost-benefit analysis for unproven approaches", "type": "prescriptive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Wait for maturation when commercial viability has too many open questions", "type": "prescriptive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Hype Cycles separate hype from the real drivers of commercial promise", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"}
+ ],
+ "named_entities": 0,
+ "named_criticism": 0,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": false,
+ "thesis": "Hype Cycles map technology maturity so leaders can choose early adoption, moderate investment, or waiting."
+}

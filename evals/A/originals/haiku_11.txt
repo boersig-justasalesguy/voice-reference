@@ -1,0 +1,16 @@
+Subject: Pricing questions and the three-year term requirement
+
+Hi [AE Name],
+
+Thank you for the proposal for [Product Name]. We're interested in moving forward, and I'd like to get clarity on pricing before our internal review.
+
+First, could you walk me through how the [$Amount] annual price was calculated? In particular, I'd like to understand the unit basis (users, endpoints, or usage), what is included in the base tier, and what triggers additional charges. We'd also like to know whether volume discounts apply at our projected size of [number of units].
+
+Second, the proposal requires a three-year term. That is a significant commitment for us, and it isn't something we can accept as written. We're happy to discuss a longer term in exchange for meaningful value, but we need flexibility in case our requirements change. Would you consider a one-year term with an option to renew at the same rate, or a three-year term with an annual opt-out and a price protection clause? I'd also like to understand what discount you would offer for a three-year commitment, expressed as a specific percentage or dollar amount.
+
+If pricing and term structure can work for both sides, we'd be ready to schedule a legal and procurement review. Could we set up a call later this week to go through it?
+
+Thanks,
+[Your Name]
+[Your Title]
+[Your Company]

@@ -1,0 +1,7 @@
+CHANNEL: email
+STAGE: negotiation
+SELLER: Account Executive at Quietwatch
+BUYER: SIEM Engineer, Logistics, Overland Carriers (1000-5000 employees)
+SUBJECT: Quietwatch quote expiring
+MESSAGE:
+Shirin, The Quietwatch quote I sent expires Friday. After that I'll need to re-issue it at current list, which is about 6% higher. If you're planning to move forward this quarter, it would be good to get it signed before then. Pricing and terms are otherwise unchanged from the version your team reviewed with me last month. Let me know. Luca

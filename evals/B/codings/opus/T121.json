@@ -1,0 +1,211 @@
+{
+ "id": "T121",
+ "claims": [
+  {
+   "gist": "Endpoint-built tools struggle with cloud incident investigation",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Cloud environments are ephemeral, API-driven and multi-provider",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "A container can live for ninety seconds",
+   "type": "factual",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Attackers can reach data via stolen keys without touching managed machines",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Traditional endpoint and network tools miss a lot in cloud",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "CDR focuses on active threats rather than misconfigurations",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Posture tools show what could go wrong; CDR shows what is",
+   "type": "factual",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Most CDR products combine control-plane telemetry, detection, context and response",
+   "type": "factual",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "CSPM and CNAPP find risk while CDR finds attacks in progress",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Many CNAPP vendors now include CDR features",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "EDR and XDR often have limited cloud control-plane visibility",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": true,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "SIEM requires self-built detections and usually thin cloud context",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": true,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Start vendor evaluation from your own threat model",
+   "type": "prescriptive",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "A vendor strong on container runtime may be weak on identity",
+   "type": "factual",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": true,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Test detection quality through attack simulations, not demos",
+   "type": "prescriptive",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Purple team or simulation reveals more than a demo",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Check that alerts include deep identity, exposure and data context",
+   "type": "prescriptive",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Agentless deploys fast but may see less; agents add overhead",
+   "type": "factual",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": true,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Be skeptical of vendor automation claims",
+   "type": "prescriptive",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Automated response you cannot control is a risk",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Check integration with existing SIEM, EDR, CNAPP to avoid double paying",
+   "type": "prescriptive",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Ask for customer references matching your environment",
+   "type": "prescriptive",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Vendors price per workload, data volume or cloud account",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Model costs at real scale including growth and ephemeral resources",
+   "type": "prescriptive",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Demand an end-to-end demo of a real incident detection",
+   "type": "prescriptive",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  }
+ ],
+ "named_entities": 3,
+ "named_criticism": 0,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": false,
+ "thesis": "CDR detects active cloud threats; evaluate vendors by threat model, real detection testing, context, response, fit and pricing."
+}

@@ -1,0 +1,68 @@
+{
+ "pair": "Q13",
+ "units": [
+  {
+   "unit": "Dmitri Halvorsen from Threadline",
+   "kind": "entity",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Platform turns advisories into detections",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Works with many financial services, payments firms",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Covers research, detection, hunting, reporting",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": "strength_up",
+   "note": "Text 2 adds 'a lot of great capabilities' puffery"
+  },
+  {
+   "unit": "Ask: talk and learn what they're working on",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Will send an email",
+   "kind": "commitment",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "555-0142, repeated",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Hope you're having a great week",
+   "kind": "stance",
+   "in_text1": false,
+   "in_text2": true,
+   "altered": null,
+   "note": "Filler pleasantries added in Text 2"
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "1",
+ "reason": "Text 1 is leaner; Text 2 piles on filler and puffery.",
+ "grade_text1": "average",
+ "grade_text2": "weak"
+}

@@ -1,0 +1,9 @@
+{"pair":"Q18","units":[
+{"unit":"Names Calvin, Simone, Huntdeck, Lantana","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Referred by someone in Calvin's network","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Huntdeck is a threat hunting workbench","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Helps teams build and share hunts","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Wants to find time to chat","kind":"ask","in_text1":true,"in_text2":true,"altered":"strength_down","note":"'I'd love' softened to 'I'd like' in Text 2"},
+{"unit":"Learn what Lantana is doing with threat hunting","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Callback number 555-0118","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""}
+],"same_meaning":"yes","better_message":"2","reason":"Spelling out name, company and number again suits a voicemail callback.","grade_text1":"average","grade_text2":"average"}

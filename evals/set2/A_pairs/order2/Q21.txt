@@ -1,0 +1,25 @@
+CHANNEL: email
+STAGE: negotiation
+SELLER: Account Executive at Tunebench
+BUYER: Vendor Risk Analyst, Banking, Pinecrest Savings & Loan (1000-5000 employees)
+
+=== TEXT 1 ===
+SUBJECT: RE: Security questionnaire
+Hi Esther,
+
+Thanks for sending the questionnaire. Most of these 140 questions are covered by our SOC 2 Type II report, which I've attached, so I'm hoping we can skip the questionnaire and use the report instead. Our security team is pretty stretched, and filling these out usually takes a few weeks.
+
+We're trying to get the contract signed before the end of the month, so anything you can do to speed up the review would be appreciated. Your SOC manager is excited to get started.
+
+Victor
+
+=== TEXT 2 ===
+SUBJECT: RE: Security questionnaire
+Hi Esther,
+
+Thanks for sending over the questionnaire. Honestly, most of these 140 questions are covered by our SOC 2 Type II report, which I've attached, so I'm hoping we can skip the questionnaire and use the report instead. Our security team is pretty stretched, and filling these out usually takes a few weeks.
+
+We're trying to get the contract signed before the end of the month, so anything you can do to speed up the review would be really appreciated. Your SOC manager is excited to get started!
+
+Thanks,
+Victor

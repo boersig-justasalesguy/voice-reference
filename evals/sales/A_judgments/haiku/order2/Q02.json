@@ -1,0 +1,6 @@
+{"pair":"Q02","units":[
+{"unit":"Fieldnote sender Gaspard; buyer Yara","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Pulsepoint launched new coaching feature","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"If running interviews, free repository for the study","kind":"offer","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Ask: interested?","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""}
+],"same_meaning":"yes","better_message":"tie","reason":"Same substance; only punctuation and one word differ.","grade_text1":"average","grade_text2":"average"}

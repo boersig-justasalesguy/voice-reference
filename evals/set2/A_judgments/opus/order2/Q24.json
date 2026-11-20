@@ -1,0 +1,81 @@
+{
+ "pair": "Q24",
+ "units": [
+  {
+   "unit": "Tunebench pays for itself",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "False positives already cost money",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Customers find budget via ROI",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Suggest business case to CFO",
+   "kind": "offer",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Will send ROI calculator",
+   "kind": "commitment",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Suggest other line items, leftover budget",
+   "kind": "offer",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Possible 20% off if signed this quarter",
+   "kind": "offer",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "May avoid CFO approval threshold",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Check back in a month",
+   "kind": "commitment",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Casual 'honestly', 'totally get it' tone",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": "strength_up",
+   "note": "Text 2 adds verbal filler and 'but' pushback"
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "1",
+ "reason": "Text 1 is slightly cleaner; both steamroll a real budget freeze.",
+ "grade_text1": "weak",
+ "grade_text2": "weak"
+}

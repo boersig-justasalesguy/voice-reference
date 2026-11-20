@@ -1,0 +1,6 @@
+CHANNEL: linkedin_dm
+STAGE: cold_outreach
+SELLER: Sales Development Rep at Quorum HQ
+BUYER: CEO, Biotech, Corvane Therapeutics (50-100 employees)
+MESSAGE:
+Dear Eleanor, I hope you are well. I noticed you are the CEO of Corvane Therapeutics. Many CEOs struggle with board reporting. Quorum HQ is a board and investor reporting portal that makes board meetings more efficient. I would love to set up a call to discuss how we can help Corvane. Please let me know your availability. Kind regards, Ravi

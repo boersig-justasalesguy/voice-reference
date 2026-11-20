@@ -1,0 +1,111 @@
+{
+ "pair": "Q03",
+ "units": [
+  {
+   "unit": "Call at 3 p.m., avoid lunch rush",
+   "kind": "condition",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Not ordering a bowl, under a minute",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": "strength_down",
+   "note": "Text 1 says 'I promise' twice"
+  },
+  {
+   "unit": "Ask if they have sixty seconds",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Lorenzo from Shiftwell",
+   "kind": "entity",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "App lets crew swap shifts on phones vs group chat",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Ask who handles regional scheduling: GM or above",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Ask regional contact's name",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Ask how swaps work now",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "'Honest question' framing",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": false,
+   "altered": null,
+   "note": "Dropped in Text 2"
+  },
+  {
+   "unit": "Whiteboard plus group text most common answer",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Ask permission to mention floor staff want better",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Jasper Lindgren, area director example",
+   "kind": "entity",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Thanks Tamsin by name",
+   "kind": "entity",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Enthusiastic thanks ('Amazing', 'really helpful')",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": "strength_down",
+   "note": "Text 2 more restrained"
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "1",
+ "reason": "Text 1's warmer, playful tone suits a busy gatekeeper on the phone.",
+ "grade_text1": "strong",
+ "grade_text2": "strong"
+}

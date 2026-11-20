@@ -1,0 +1,22 @@
+CHANNEL: call_script
+STAGE: objection_handling
+SELLER: Account Executive at Sieveline
+BUYER: Head of Security Data Engineering, Retail, Copperline Outfitters (5000-10000 employees)
+MESSAGE:
+[Objection: "Dropping data is a security risk. What if we need it during an investigation?"]
+
+Conrad: That's the right worry. I'd never want you to drop something you'd need in an incident. Sieveline doesn't just delete data. It helps you decide what goes into the SIEM at full fidelity, what gets summarized, and what goes to cheaper storage where you can still search it if needed.
+
+Freya: So it routes to cold storage.
+
+Conrad: Right. Your log pipeline sends the low-value stuff, like repetitive allow logs, to your data lake, and only the security-relevant events go to the SIEM. That's where the 30 to 40 percent savings comes from. You still have the raw data if an investigation needs it.
+
+Freya: How do you decide what's low value?
+
+Conrad: We look at which fields and events your detections actually use and map that to the threats you care about. Anything that no detection or hunt touches is a candidate. You review and approve every change.
+
+Freya: Okay, and how long until we see results?
+
+Conrad: Usually a few weeks to get the first sources tuned. I think the best next step would be a full demo with your team so they can see the whole platform. Does next week work?
+
+Freya: I'll need to check with my team.

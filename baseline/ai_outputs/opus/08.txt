@@ -1,0 +1,18 @@
+Subject: Intro: [CISO name] <> [Founder name]
+
+Hi [CISO first name] and [Founder first name],
+
+I've wanted to connect you two for a while, so here it is.
+
+[CISO first name], [Founder first name] is the founder of [Startup], which is building [one-line description, e.g. a tool that finds and fixes over-privileged machine identities across cloud and SaaS]. Before starting the company, [Founder first name] [relevant background, e.g. led identity security at a large fintech]. They're early, working with a small group of design partners, and they want to learn from security leaders in regulated industries.
+
+[Founder first name], [CISO first name] is the CISO at [Bank], where they run security for a [size, e.g. $15B] bank. They've spent a lot of time on [relevant problem, e.g. getting control of service accounts and third-party access while keeping examiners happy], and they have strong, well-earned opinions about what security tools for banks need to get right.
+
+I think you'd both get something out of a conversation. [CISO first name] would get an early look at an approach to a problem I know is on their list, and [Founder first name] would get honest feedback from someone who deals with that problem under regulatory constraints every day.
+
+To be clear, [CISO first name], this is not a sales meeting, and there's no expectation of anything beyond a conversation.
+
+I'll let you two take it from here. [Founder first name], could you suggest a few times?
+
+Best,
+[Your name]

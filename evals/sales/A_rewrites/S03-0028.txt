@@ -1,0 +1,17 @@
+[FOLLOW-UP CALL — Oksana previously said: 'We already bought reserved instances and savings plans, so we've done the optimization.']
+
+"Oksana, thanks for making time. Last time you said you'd already committed to reserved capacity and savings plans, so optimization felt handled. I think that's a reasonable position, and I wanted to understand it better."
+
+"When you made those commitments, how did you decide on the coverage level?"
+
+[Listen — probably based on a snapshot of usage]
+
+"Got it, based on usage from early this year. Has it changed since? I'm thinking of the new analytics feature you launched."
+
+"So you're probably covered on baseline compute, but the new workload runs on different instance types. That's pretty common."
+
+"Commitments lower the price of what you're running. They don't tell you whether you should be running it. Clearstack looks at both. We'd show you where commitments are under-utilized and where there's idle or oversized infrastructure underneath."
+
+"Would it help if we ran an analysis and showed you exactly what we find?"
+
+[If she agrees, explain read-only access and timeline. If not, ask when they plan to revisit commitments.]

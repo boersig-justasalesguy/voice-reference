@@ -1,0 +1,18 @@
+CHANNEL: video_script
+STAGE: follow_up
+SELLER: Account Executive at Baseline Forge
+BUYER: Principal Detection Engineer, Insurance, Granite Shoal Mutual (5000-10000 employees)
+MESSAGE:
+[Webcam, seller centered, company logo behind her.]
+
+Hi Tomasz! Nadia here from Baseline Forge. I'm recording this quick video because I know inboxes get busy, and I wanted to put a face to the name.
+
+So a little bit about us. Baseline Forge was founded four years ago by a team of former security analysts and data scientists who were frustrated with how hard it was to build behavioral detections. Since then we've grown to over 150 employees, we've raised our Series B, and we've been recognized by several industry analysts as a company to watch. We're really proud of the culture we've built here.
+
+What we do is help security teams build statistical, behavioral and machine-learning detections. That includes baselines, dynamic thresholds, peer-group analytics, risk-based correlation, and a lot more. Our platform is super flexible and works with all the major SIEMs and data lakes. We also have a great customer success team who will be with you every step of the way.
+
+I know you're a principal detection engineer, so I think you'd really appreciate the technical depth of the platform. We have a ton of customers in insurance and financial services, and they've seen amazing results.
+
+So I'd love to get thirty minutes on your calendar to show you a demo and learn more about what you're working on at Granite Shoal. I'll put a link to my calendar below this video. Feel free to grab any time that works for you.
+
+Thanks so much, Tomasz, and I hope to talk soon! Bye!

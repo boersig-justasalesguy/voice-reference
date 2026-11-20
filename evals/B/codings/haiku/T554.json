@@ -1,0 +1,19 @@
+{
+ "id": "T554",
+ "claims": [
+   {"gist": "Agentic AI will own bounded end-to-end production tasks in 2027", "type": "predictive", "evidence": "reasoning_only", "specific": true, "hedged": false, "owner": "impersonal"},
+   {"gist": "Start agent deployments with two or three low-error-cost, high-volume workflows", "type": "prescriptive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Policies written in 2024 are not enough for hundreds of AI use cases", "type": "evaluative", "evidence": "reasoning_only", "specific": true, "hedged": false, "owner": "impersonal"},
+   {"gist": "Non-human identities outnumber human identities in most enterprises, often 40 to 1", "type": "factual", "evidence": "data_cited", "specific": true, "hedged": false, "owner": "impersonal"},
+   {"gist": "Inference costs are now a significant and unpredictable line item", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Harvested data can be decrypted later, so post-quantum migration should start now", "type": "predictive", "evidence": "named_source", "specific": true, "hedged": false, "owner": "impersonal"},
+   {"gist": "Block known-malicious packages at install time, not only at scan time", "type": "prescriptive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Internal developer platforms are becoming the default way large organizations deliver infrastructure", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"}
+ ],
+ "named_entities": 1,
+ "named_criticism": 0,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": true,
+ "thesis": "The 2027 focus shifts from AI pilots to running, securing and paying for AI; eight trends each come with actions."
+}

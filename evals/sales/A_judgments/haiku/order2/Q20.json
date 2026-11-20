@@ -1,0 +1,9 @@
+{"pair":"Q20","units":[
+{"unit":"Lionel already has an ERP","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"ERPs not built for procurement; clunky, nobody likes them","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Tallyhouse features: intake, approvals, vendor onboarding, contracts, analytics","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Most customers had an ERP and still chose Tallyhouse","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Would be a mistake not to see a demo","kind":"stance","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Ask: 30 minutes next week","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"'Honestly' candor marker","kind":"stance","in_text1":false,"in_text2":true,"altered":null,"note":"Filler only in T2"}
+],"same_meaning":"yes","better_message":"tie","reason":"Same ERP rebuttal and ask; only a candor marker and dash differ.","grade_text1":"average","grade_text2":"average"}

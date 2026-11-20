@@ -1,0 +1,107 @@
+What Is Cloud Detection and Response (CDR), and How Should You Evaluate Vendors?
+
+Most cloud security programs began with posture: finding misconfigurations, public buckets, and over-privileged roles before an attacker did. That work still matters. But posture tools answer "what could go wrong?" They don't answer "what is going wrong right now?" Cloud Detection and Response is built to answer the second question.
+
+This post explains what CDR is, how it differs from tools you may already own, and what to look for when you evaluate vendors.
+
+What CDR actually is
+
+Cloud Detection and Response is the practice, and the category of tools, for detecting active threats in cloud environments, investigating them, and responding to them. A CDR tool typically:
+
+- Ingests cloud control plane activity, such as AWS CloudTrail, Azure Activity Logs, GCP Audit Logs, and Kubernetes audit logs
+- Often adds runtime signals from workloads, such as process, network, and file activity from containers and VMs
+- Correlates those signals with identity and configuration context
+- Detects suspicious behavior, such as credential misuse, privilege escalation, unusual data access, crypto mining, and lateral movement between accounts
+- Helps analysts investigate and contain the threat
+
+The key idea is context. A single API call like `iam:CreateAccessKey` means little on its own. It means a lot when it comes from an identity that has never done it before, from an unusual IP, two minutes after that identity assumed a role it rarely uses, in an account that holds production customer data. Good CDR connects those dots automatically.
+
+How CDR differs from tools you may already have
+
+CSPM (Cloud Security Posture Management) finds misconfigurations. It is preventive and works from snapshots. CDR is detective and works from activity in real time or close to it. Many CNAPP platforms now include both.
+
+EDR (Endpoint Detection and Response) is built for hosts. It can run on cloud VMs, but it doesn't see the cloud control plane. Many cloud attacks never touch a workload at all. An attacker with stolen keys can copy an S3 bucket entirely through APIs.
+
+SIEM can ingest cloud logs, but out of the box it rarely understands cloud context: what an IAM role can reach, which resources are exposed, or what normal looks like for a given service account. Writing and tuning those detections yourself takes a lot of work. Many teams use CDR to produce high-quality cloud detections and then forward them to the SIEM.
+
+Cloud-native threat detection from providers, such as GuardDuty, Defender for Cloud, and Security Command Center, is a reasonable starting point. These tools are usually limited to one cloud, though, and give less investigation context than dedicated tools.
+
+How to evaluate CDR vendors
+
+Demos will all look good. Every vendor will show you a polished attack timeline. Focus your evaluation on the following areas.
+
+1. Detection quality, measured in your own environment
+
+This is the most important criterion and the hardest to judge from a demo.
+
+- Run a proof of concept on your real accounts for at least two weeks.
+- Simulate real attack techniques using open-source tools like Stratus Red Team or your red team's playbooks. Track which ones the tool caught, how fast, and how clearly it explained them.
+- Measure noise. How many alerts per day did you get, and what share of them were worth investigating? A tool that catches everything but buries your team in alerts will be ignored within a month.
+
+Ask: "What share of your detections are behavioral or anomaly-based, and what share are static rules? How do you tune them for our environment?"
+
+2. Coverage across your actual estate
+
+- Which clouds, and how deep is the coverage in each? "Supports Azure" can mean anything from full support to one log source.
+- Kubernetes: managed (EKS, AKS, GKE) and self-managed? Audit logs and runtime?
+- Identity providers: Can it connect cloud activity back to the human in Okta or Entra ID who started the session?
+- SaaS and data services: Does it cover the managed databases, data warehouses, and AI services where your sensitive data lives?
+
+3. Agentless versus agent-based
+
+Agentless approaches, based on log ingestion and snapshot scanning, are quick to deploy and cover the control plane well. They have limited visibility into what happens inside a running workload. Agent-based approaches, often using eBPF sensors, give deep runtime visibility but must be deployed and maintained on every workload.
+
+Most mature programs need both. Ask vendors how they handle each, and whether the runtime sensor is their own technology or a bolt-on.
+
+4. Investigation experience
+
+When an alert fires at 2 a.m., how fast can an on-call analyst answer these questions?
+
+- Who or what did this, and which human is behind the identity?
+- What else did that identity do in the past 24 hours?
+- What could it reach, and what is the blast radius?
+- Is this related to other alerts?
+
+Have your own analysts, not your cloud architects, run investigations during the proof of concept. Time them.
+
+5. Response options
+
+Detection without response just means you know about the problem. Look for:
+
+- Built-in actions such as disabling an access key, isolating a workload, or revoking sessions
+- Integrations with your SOAR, ticketing, and chat tools
+- Guardrails for automated response. You want automation, but not automation that takes down production because of a false positive.
+
+6. Integration with your existing stack
+
+- Can it send enriched, deduplicated alerts to your SIEM or data lake in a format your team can use?
+- Does it share context with your CSPM, so you can see that the compromised role was over-privileged?
+- Is there a usable API?
+
+7. Data handling and cost model
+
+- Where is your log data processed and stored? Does that meet your residency requirements?
+- How is pricing calculated: per workload, per account, per event volume, or per cloud spend? Model your growth. Pricing based on event volume can grow much faster than you expect.
+- Will you be paying twice to ingest the same logs into both the CDR tool and your SIEM?
+
+8. Vendor fundamentals
+
+- How often do they release new detections, and how do they research threats?
+- How do they handle detections for new cloud services?
+- What do reference customers who look like you, in size, cloud mix, and team maturity, say about support and tuning?
+
+A simple evaluation scorecard
+
+Weight these to match your priorities. A reasonable starting point:
+
+- Detection quality and noise in your proof of concept: 30%
+- Investigation experience: 20%
+- Coverage of your environment: 15%
+- Response capabilities: 10%
+- Integration: 10%
+- Cost and pricing predictability: 10%
+- Vendor fundamentals and support: 5%
+
+Final advice
+
+Don't buy CDR because you were told you need a CNAPP checkbox filled. Buy it because you have a specific answer to this question: "If an attacker had valid credentials in our cloud today, how would we know, and how fast?" If you can't answer that confidently, CDR is worth a serious look. Judge vendors on how much they shorten that answer in your environment, not in their demo.

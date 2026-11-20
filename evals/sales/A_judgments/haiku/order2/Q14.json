@@ -1,0 +1,9 @@
+{"pair":"Q14","units":[
+{"unit":"Fieldnote is an investment, not a cost","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Unlimited projects, AI tagging, highlights, integrations, security","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"One of the best values on the market","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"15% off first year if signed by month-end","kind":"offer","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Deadline: end of month","kind":"deadline","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Offer may not be available later","kind":"condition","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Ask: move forward","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""}
+],"same_meaning":"yes","better_message":"tie","reason":"Same pitch, discount and pressure; only a pivot phrase and punctuation differ.","grade_text1":"average","grade_text2":"average"}

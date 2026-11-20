@@ -1,0 +1,10 @@
+{"pair":"Q16","units":[
+{"unit":"Lena from Pipewise","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Pipewise is the number one forecasting platform","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"AI forecasts, deal scoring, coverage, dashboards, win-loss","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"4.8 rating","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Forecast accuracy up, less CRM updating","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Torchline a perfect fit","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Ask: book time via link below","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Hype and enthusiasm (caps, 'Pretty cool, right?', 'Byeee!')","kind":"stance","in_text1":true,"in_text2":true,"altered":"strength_up","note":"T2 adds much more hype and gushing"}
+],"same_meaning":"yes","better_message":"1","reason":"T2 adds caps and gushing lines that feel salesy; T1 reads more like a real person.","grade_text1":"average","grade_text2":"weak"}

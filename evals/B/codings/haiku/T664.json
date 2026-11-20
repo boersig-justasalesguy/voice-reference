@@ -1,0 +1,19 @@
+{
+ "id": "T664",
+ "claims": [
+   {"gist": "PHP vulnerabilities CVE-2026-109618 and CVE-2026-109619 affect most of the internet", "type": "factual", "evidence": "named_source", "specific": true, "hedged": false, "owner": "impersonal"},
+   {"gist": "PHP 5.4 through PHP 8 are affected, forcing migration to PHP 8", "type": "factual", "evidence": "named_source", "specific": true, "hedged": false, "owner": "impersonal"},
+   {"gist": "PHP runs almost 70% of all websites, largely because of WordPress", "type": "factual", "evidence": "data_cited", "specific": true, "hedged": false, "owner": "impersonal"},
+   {"gist": "Multiple researchers independently find the same bugs, so who-was-first matters less", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "author"},
+   {"gist": "Credit should go where due; OpenAI, Calif and Wiz were key to disclosure and patching", "type": "evaluative", "evidence": "named_example", "specific": true, "hedged": false, "owner": "author"},
+   {"gist": "Embargo breaches are unfortunate, since coordinated disclosure gives defenders time to patch", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "author"},
+   {"gist": "PHP Foundation criticized Chainguard for publishing a patched image before the embargo lifted", "type": "factual", "evidence": "named_example", "specific": true, "hedged": false, "owner": "attributed"},
+   {"gist": "Coordinated disclosure is increasingly hard across decentralized security ecosystems", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"}
+ ],
+ "named_entities": 13,
+ "named_criticism": 1,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": true,
+ "thesis": "Vulnerability credit debates matter less than actionable guidance; coordinated disclosure is harder across decentralized ecosystems."
+}

@@ -1,0 +1,83 @@
+{
+ "id": "T913",
+ "claims": [
+  {
+   "gist": "By 2027 a large share will create formal AI governance",
+   "type": "predictive",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Regulation, board scrutiny and generative AI spread drive the shift",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Many organizations rely on informal AI guidance",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Informal governance will break down as AI enters core processes",
+   "type": "predictive",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "AI governance is becoming an operating function",
+   "type": "evaluative",
+   "evidence": "named_source",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Successful organizations will use governance to move faster",
+   "type": "predictive",
+   "evidence": "named_source",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "They will assign accountability and measure controls",
+   "type": "predictive",
+   "evidence": "named_source",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Start with AI inventory, accountable executive and core policies",
+   "type": "prescriptive",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Scale governance to risk profile and review regularly",
+   "type": "prescriptive",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  }
+ ],
+ "named_entities": 1,
+ "named_criticism": 0,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": true,
+ "thesis": "By 2027 most large enterprises will formalize AI governance as an operating function driven by regulation and AI spread."
+}

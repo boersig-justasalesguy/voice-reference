@@ -1,0 +1,24 @@
+CHANNEL: call_script
+STAGE: objection_handling
+SELLER: Senior Account Executive at Draftkit
+BUYER: General Counsel, Commercial Real Estate, Granite Arch Properties (500-1000 employees)
+MESSAGE:
+[Context: Victor said on the last call that his team won't trust AI-generated redlines and he's worried about confidentiality.]
+
+Victor, thanks for making time again. Last week you raised two concerns - whether your team can trust the redlines, and what happens to your documents - and I'd rather take them seriously than talk past them. Can I start with a question?
+
+When you picture Draftkit getting something wrong, what's the scenario that worries you most?
+
+[Listen. Likely answers: missing a non-standard indemnity, misreading a co-tenancy clause, silently accepting a counterparty change.]
+
+That's helpful - and it's the right thing to worry about. Here's how it actually works, so you can judge for yourself:
+
+Draftkit never accepts a change on its own. It proposes redlines against your playbook, and every proposal shows which playbook rule triggered it. If a clause doesn't match any rule - like an unusual carve-out - it's flagged as 'unreviewed' rather than passed through. Your associates still sign off line by line; what changes is they start from a marked-up draft instead of a blank comparison.
+
+On confidentiality: your documents are processed in a single-tenant environment, they're not used to train any shared model, and you control retention - most real-estate clients set 30 days. I'll send the data processing addendum today so your privacy counsel can read the actual language rather than take my word for it.
+
+[If he's still skeptical:] Completely fair. The best test isn't a demo, it's your own paper. Pick five retail leases your team already negotiated - ideally ones with a tricky co-tenancy or exclusivity clause - and we'll run them through Draftkit blind. Your associates compare our first-pass redlines to what they actually did. If it misses things that matter, you'll know in a day and we'll part ways.
+
+[If he mentions partner review:] Makes sense. Would it help if the side-by-side results went to the partners as a one-page memo, written by your associate rather than by us?
+
+[Close:] Shall we pick the five leases now, or would you rather choose them with your team and send them over?

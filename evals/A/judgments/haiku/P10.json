@@ -1,0 +1,19 @@
+{"pair":"P10","units":[
+{"unit":"[Product] is a strong fit; decision target by [date]","kind":"deadline","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Needs pricing and contract term sorted before moving on","kind":"ask","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Asks for a detailed quote with pricing per [unit] and scaling at [X], [Y]","kind":"ask","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Asks which features and modules are included vs extra","kind":"ask","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Asks for implementation, onboarding, training, and support fees","kind":"ask","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Asks how overage charges are calculated","kind":"ask","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Asks for renewal price or cap on increases","kind":"ask","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Three-year term is vendor standard","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Cannot commit to three years right now","kind":"stance","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Team has not run product in production; a year of use is better than a POC","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Budget approved one year at a time; three-year needs extra approvals past [date]","kind":"condition","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Market moving quickly; need to keep flexibility","kind":"stance","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Propose one-year initial term with renewal option","kind":"offer","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Offer to lock renewal pricing or cap increases at [X]% a year","kind":"offer","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Fallback: multi-year billed annually, exit after year one if criteria unmet","kind":"offer","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Success criteria to be set together up front","kind":"offer","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Call this week or next; may bring [procurement or security lead]","kind":"ask","in_text1":true,"in_text2":true,"altered":null}
+],"same_meaning":"yes","more_human":"1","human_reason":"Text 1 explains the term reasons in flowing prose like a real email; Text 2 bullets them in a memo style."}

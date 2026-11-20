@@ -1,0 +1,10 @@
+{"pair":"Q22","units":[
+{"unit":"Clearstack contract expires in 30 days","kind":"deadline","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Losing dashboards and historical data if not renewed","kind":"condition","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Sign attached renewal by December 15","kind":"deadline","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Pricing based on cloud spend under management","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Spend has grown since last year","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"New annual total $64,800","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Subject line ACTION REQUIRED","kind":"stance","in_text1":true,"in_text2":true,"altered":null,"note":"Same urgency in both"},
+{"unit":"Invite questions","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""}
+],"same_meaning":"yes","better_message":"tie","reason":"Identical content; only a blank line differs.","grade_text1":"average","grade_text2":"average"}

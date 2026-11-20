@@ -1,0 +1,7 @@
+{"pair":"Q22","units":[
+{"unit":"Names Oluwaseun, Threadline, Quayside Telecom","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Following up on last message","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Asks whether Threadline could fit Quayside","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Wants 30 minutes this week or next","kind":"ask","in_text1":true,"in_text2":true,"altered":"strength_down","note":"'Would love' softened to 'I'd like' in Text 2"},
+{"unit":"Acknowledges the reader is busy","kind":"stance","in_text1":true,"in_text2":false,"altered":null,"note":"Empathy line dropped in Text 2"}
+],"same_meaning":"yes","better_message":"2","reason":"Drops the stock 'I know things get busy' line and asks plainly.","grade_text1":"weak","grade_text2":"average"}

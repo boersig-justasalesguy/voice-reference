@@ -1,0 +1,136 @@
+{
+ "pair": "P03",
+ "units": [
+  {
+   "unit": "Request approval of [$Amount] first-year budget",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "[Tool Name], [brief category description] platform",
+   "kind": "placeholder",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Want to walk through reasoning before committing",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Limited visibility into [specific problem]",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Over [period], saw [concrete example or metric]",
+   "kind": "placeholder",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Risk of undetected incidents, costlier investigations",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Year one cost [$Amount] incl. licenses, implementation, training",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Ongoing [$Amount] per year after year one",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": "strength_down",
+   "note": "Text 2 labels the ongoing cost as 'expected'"
+  },
+  {
+   "unit": "Expected benefits list",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Estimated [quantified benefit] over first twelve months",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Measure MTTD/MTTI, confirmed incidents, triage hours",
+   "kind": "commitment",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Report figures at [six months] and [twelve months]",
+   "kind": "commitment",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Reviewed [number] options, chose [Tool Name] for [key reason]",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Considered [alternative] but [limitation]",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Doing nothing carries the risk",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Ask: 30-minute meeting this week or next",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Offer to bring comparison, cost model, PoC results",
+   "kind": "offer",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Thank you for considering it",
+   "kind": "stance",
+   "in_text1": false,
+   "in_text2": true,
+   "altered": null,
+   "note": "closing thanks added in Text 2"
+  }
+ ],
+ "same_meaning": "yes",
+ "more_human": "1",
+ "human_reason": "Text 1 reads as a natural email; Text 2's section headers feel templated."
+}

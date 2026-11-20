@@ -1,0 +1,6 @@
+CHANNEL: sms
+STAGE: renewal
+SELLER: Customer Success Manager at Patchbay
+BUYER: Engineering Manager, Logistics, Tidewater Freightways (500-1000 employees)
+MESSAGE:
+Hey Henrik, Noor at Patchbay. Renewal docs are in your inbox. Same terms as last year. Any questions, just text me back.

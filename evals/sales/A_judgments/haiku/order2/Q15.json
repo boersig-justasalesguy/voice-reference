@@ -1,0 +1,8 @@
+{"pair":"Q15","units":[
+{"unit":"Darnell from Vaultline","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"No contact for a while","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Check whether compliance needs have changed","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"New features to show","kind":"offer","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Call back at 555-0147","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Upbeat check-in tone ('just checking in!')","kind":"stance","in_text1":true,"in_text2":false,"altered":"strength_down","note":"T2 drops 'just checking in' and the upbeat tone"}
+],"same_meaning":"yes","better_message":"1","reason":"T1 keeps a warmer check-in tone; T2 is flatter but equivalent.","grade_text1":"average","grade_text2":"average"}

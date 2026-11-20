@@ -1,0 +1,21 @@
+CHANNEL: email
+STAGE: proposal
+SELLER: Enterprise Account Executive at Commonground
+BUYER: VP Security Operations, Telecommunications, Meridian Reach Wireless (10000+ employees)
+SUBJECT: Proposal: one backlog for Meridian's cyber-defense teams
+MESSAGE:
+Valerie,
+
+Here's the proposal, written around the two outcomes you said your CISO will judge you on next year.
+
+1. Fewer findings dying between teams. Today, red-team findings and incident lessons land in four separate queues; you estimated 30-40% never become a detection. Commonground puts them in one backlog with an owner and a due date, and reports closure rate monthly.
+
+2. A program story for the board. Instead of activity counts, you'd report outcomes: findings closed, techniques newly validated, median days from intel requirement to detection.
+
+What's included: platform for your 250 defenders, 120 hours of implementation focused on the red-team and IR intake first, and premium support. Three-year term at the price in the attached quote; one-year is available at a 12% uplift.
+
+Success criteria for the first 90 days, which we'd agree in writing: all four teams working from the shared backlog, and a first board-ready outcome report.
+
+Two open questions for you: is the 90-day plan realistic given your reorg in January, and should your finance partner see the three-year option first?
+
+Owen

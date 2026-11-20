@@ -1,0 +1,88 @@
+{
+ "pair": "Q12",
+ "units": [
+  {
+   "unit": "Met at Ironbridge Security Forum",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Several unanswered outreaches",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Three possible reasons for silence",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Last message for now",
+   "kind": "commitment",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Coverage reporting based on rules, not telemetry",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Suggest checking five OT detections' log sources",
+   "kind": "offer",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": "strength_down",
+   "note": "Imperative in Text 1; 'if you ever want' in Text 2"
+  },
+  {
+   "unit": "Check takes about an hour",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Acquired plants: at least one source quiet for months",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Coverwise automates check per technique",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Details in the email",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Good luck with plant rollouts",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "2",
+ "reason": "Text 2 flows more naturally spoken; Text 1 is slightly choppy.",
+ "grade_text1": "strong",
+ "grade_text2": "strong"
+}

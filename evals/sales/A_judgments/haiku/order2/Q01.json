@@ -1,0 +1,13 @@
+{"pair":"Q01","units":[
+{"unit":"Pawsitive added 22 clinics in 18 months","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Each acquired clinic has its own chart of accounts","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Team re-maps clinic books by hand at month-end","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Ledgerline pays for itself in roll-up re-mapping","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Mapping defined once; later closes sync automatically","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"New acquisition onboarding is a one-afternoon task","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Follow-up to earlier email from the 4th","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Offer: sample consolidation for a vet roll-up","kind":"offer","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"20-minute demo","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Ask: would sample consolidation help","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Bartholomew / Corinne names","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""}
+],"same_meaning":"yes","better_message":"tie","reason":"Near-identical; both specific to the buyer's acquisition pain with a low-pressure ask.","grade_text1":"strong","grade_text2":"strong"}

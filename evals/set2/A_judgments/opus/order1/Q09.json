@@ -1,0 +1,61 @@
+{
+ "pair": "Q09",
+ "units": [
+  {
+   "unit": "Thanks for Monday",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": false,
+   "altered": null,
+   "note": "Thanks dropped; Monday still referenced"
+  },
+  {
+   "unit": "Option 1: one-year $102K",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Option 2: two-year $94K/yr",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Option 3: three-year $88K/yr",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Includes onboarding, support, new features",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Open to other structures",
+   "kind": "offer",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Looking forward to your thoughts",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": false,
+   "altered": null,
+   "note": "Soft request for response dropped"
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "2",
+ "reason": "Text 2's list format makes options easy to compare; tighter.",
+ "grade_text1": "average",
+ "grade_text2": "average"
+}

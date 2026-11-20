@@ -1,0 +1,20 @@
+CHANNEL: email
+STAGE: post_demo
+SELLER: Account Executive at Threadline
+BUYER: Detection Engineering Lead, Pharmaceuticals, Viridane Pharma (5000-10000 employees)
+SUBJECT: Scorecard: Threadline vs. your Tuesday advisory
+MESSAGE:
+Felix,
+
+You threw us a curveball in the demo: the advisory your team received that morning about the supply-chain campaign targeting lab instrument software. Here's how Threadline did, scored by your own analysts afterward:
+
+- Analysis accuracy: 'Mostly right, missed one persistence technique' (4/5)
+- Detections usable as-is: 1 of 3
+- Detections usable after edits: 3 of 3
+- Hunt query: 'Better than what we'd have written in a hurry' (we'll take it)
+
+Total time: 52 minutes, versus the day and a half your team estimated.
+
+The missed persistence technique is a fair hit; it came from a vendor bulletin we didn't have. In a pilot, Threadline would ingest your internal intel sources as well.
+
+Pilot conversation next week?

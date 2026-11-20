@@ -1,0 +1,18 @@
+CHANNEL: call_script
+STAGE: objection_handling
+SELLER: Senior Account Executive at Crossover
+BUYER: Security Architect, State & Local Government, Eastvale State Office of Technology (5000-10000 employees)
+MESSAGE:
+[Context: Russell has just said, "Honestly, we're planning to migrate the rules ourselves. We have smart people and a year to do it."]
+
+Imani: I hear you, but with respect, I really don't think that's a good idea. We see this all the time. People think they can do it themselves and then they get six months in and realize it's way harder than they thought. Migrations are really complicated.
+
+[If he pushes back:] I'm not saying your team isn't smart. It's just that Crossover was built specifically for this. We've done dozens of migrations, and we have proprietary translation technology that handles all the edge cases. Your team would be starting from scratch.
+
+[If he mentions budget:] I totally get budget is tight in government. But if you think about it, the cost of Crossover is way less than the cost of your team's time. Plus, if the migration goes wrong, you could be left with gaps in your detection coverage, and that's a big risk for a state agency. You don't want to be in the news.
+
+[If he says he needs to think about it:] Of course. But I'd really encourage you not to wait too long, because our implementation calendar is filling up for next year and I can't guarantee we'll have capacity if you wait. Can we at least schedule a call with your CIO next week to walk through the business case?
+
+[If he says no:] Okay, no problem. I'll send you some materials and follow up next week. I really think you're going to regret going it alone, but I respect your decision.
+
+[Close:] Thanks Russell, talk soon.

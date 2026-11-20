@@ -1,0 +1,18 @@
+{
+ "id": "T156",
+ "claims": [
+   {"gist": "Both consolidation and unbundling camps are right, describing different market layers", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": true, "owner": "author"},
+   {"gist": "Large vendors have bought their way to complete CNAPP platforms through acquisitions", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Buyers push consolidation because budgets are tight and consoles disagree", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Toxic risk combinations are visible only when posture, workload, identity and data share one graph", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Many buyers run CNAPP mainly as CSPM plus scanner while buying specialist tools", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Specialists justify separate spend where depth decides outcomes, not bundled good-enough features", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Buy the platform for its shared context graph, not its feature list", "type": "prescriptive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"}
+ ],
+ "named_entities": 0,
+ "named_criticism": 0,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": true,
+ "thesis": "CNAPP consolidates at the platform layer but unbundles at the capability layer; buyers must know which layer they buy."
+}

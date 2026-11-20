@@ -1,0 +1,45 @@
+{
+ "pair": "Q17",
+ "units": [
+  {
+   "unit": "Six outreaches over last month, no reply",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Assumes not interested or too busy",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Surprised; most detection leaders excited",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Maybe not a priority now",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Will close file unless reply by Friday EOD",
+   "kind": "deadline",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "tie",
+ "reason": "Both guilt-trip the buyer; Text 2 just leads with the ultimatum.",
+ "grade_text1": "weak",
+ "grade_text2": "weak"
+}

@@ -1,0 +1,47 @@
+{
+ "pair": "Q02",
+ "units": [
+  {
+   "unit": "Following up on earlier Huntdeck note",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Team presented hunting maturity at state banking forum",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "How are you tracking hunts today",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": "strength_up",
+   "note": "Indirect interest becomes direct question"
+  },
+  {
+   "unit": "Would shared procedure library be useful",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": "strength_up",
+   "note": "Indirect interest becomes direct question"
+  },
+  {
+   "unit": "Offer to share more",
+   "kind": "offer",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "1",
+ "reason": "Text 1 flows naturally; Text 2 tacks the follow-up context awkwardly at the end.",
+ "grade_text1": "average",
+ "grade_text2": "average"
+}

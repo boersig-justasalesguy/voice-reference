@@ -1,0 +1,28 @@
+CHANNEL: email
+STAGE: objection_handling
+SELLER: Account Executive at Commonground
+BUYER: Head of Cyber Defense, Airlines, Meridian Skyways (10000+ employees)
+
+=== TEXT 1 ===
+SUBJECT: Re: "we're too siloed for a tool to fix it"
+Farah,
+
+You're right, a tool won't fix silos on its own. Org design, leadership and incentives matter more.
+
+What we've seen is that a tool either reinforces the silos or makes them cheaper to cross. Today your intel, SOC and detection engineering teams each have separate backlogs, so handoffs depend on someone remembering to file a ticket. Commonground gives them one shared view and reports outcomes back to you.
+
+We work with several large enterprises facing similar challenges. Open to a conversation?
+
+Jasper
+
+=== TEXT 2 ===
+SUBJECT: Re: "we're too siloed for a tool to fix it"
+Farah,
+
+You're right that a tool won't fix silos on its own. Org design, leadership and incentives matter more.
+
+What we've seen is that tools can either reinforce the silos or make them cheaper to cross. Today your intel, SOC and detection engineering teams each have separate backlogs, so handoffs depend on someone remembering to file a ticket. Commonground gives them one shared view and reports outcomes back to you.
+
+We work with several large enterprises facing similar challenges. Would you be open to a conversation?
+
+Jasper

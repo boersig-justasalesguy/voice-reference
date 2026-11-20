@@ -1,0 +1,18 @@
+{"pair":"Q10","units":[
+{"unit":"Addressee Ayodele named","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Matteo from Relaykit","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Renewal due in about 60 days","kind":"deadline","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Video sent instead of PDF email","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Tenants grew from 14 to 23","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"61 detections authored centrally this year","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Adaptation handled field differences except a handful","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"37 silent rules flagged across tenants","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Clients re-onboarded log sources without telling them","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Current agreement covers 25 tenants, near ceiling","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Renewal pricing flat per tenant","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Suggests bumping tier to 35 tenants","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Multi-tenant reporting feature in beta","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Offers to get them into the beta","kind":"offer","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Will send renewal paperwork next week","kind":"commitment","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Thanks for a great year","kind":"stance","in_text1":true,"in_text2":false,"altered":null,"note":"Closing thanks dropped in Text 2"}
+],"same_meaning":"yes","better_message":"2","reason":"Explicit three-part structure reads tighter; Text 1 closes with less purpose.","grade_text1":"average","grade_text2":"strong"}

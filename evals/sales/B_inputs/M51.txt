@@ -1,0 +1,6 @@
+CHANNEL: linkedin_dm
+STAGE: re_engagement
+SELLER: Account Executive at Fieldnote
+BUYER: Director of UX Research, Travel Booking, Wayfarer Lane (500-1000 employees)
+MESSAGE:
+Hi Malik - saw you just hired a ResearchOps lead (congrats to Paola). Last time we spoke you'd paused the repository idea because nobody had time to own it. If Paola's inheriting that, our migration checklist for teams moving out of a shared drive might save her first month. Want me to send it to you or straight to her?

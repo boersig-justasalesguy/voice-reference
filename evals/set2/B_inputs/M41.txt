@@ -1,0 +1,20 @@
+CHANNEL: video_script
+STAGE: renewal
+SELLER: Customer Success Director at Commonground
+BUYER: CISO, Manufacturing, Brassmoor Industrial (5000-10000 employees)
+MESSAGE:
+[Upbeat music, webcam, seller holding a coffee mug with the Commonground logo.]
+
+Hi Gideon! Rosalind here from Commonground, and I can't believe it's already been a year since Brassmoor joined the Commonground family! Time flies when you're breaking down silos, right?
+
+I wanted to record a quick video to say thank you for being such a great partner this year. We've loved working with your team, and we're so excited about what's ahead.
+
+A few highlights from our side: this year we shipped more than 40 new features, including the new executive dashboard, the red-team intake form, the threat-intel requirement tracker and dark mode, which I know a lot of your engineers will appreciate. We also launched our customer community, and we'd love to see more folks from Brassmoor in there.
+
+Looking ahead, next year we're investing heavily in AI-powered workflow recommendations, deeper integrations with your ticket queue, and a brand-new mobile app. It's going to be a big year!
+
+Your renewal is coming up on January 31st, and you should have the renewal order form in your inbox. There's a small price adjustment this year, about 7%, to reflect all the new value we've added to the platform. If you sign before December 20th, we can lock in this year's pricing for an extra month. Just reply to the email or let your account manager know if you have any questions.
+
+Thanks again for everything, Gideon. Here's to another great year together! Cheers!
+
+[Raise mug. End.]

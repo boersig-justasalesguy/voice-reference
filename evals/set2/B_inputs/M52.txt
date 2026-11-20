@@ -1,0 +1,6 @@
+CHANNEL: voicemail
+STAGE: follow_up
+SELLER: Enterprise Account Executive at Crossover
+BUYER: SIEM Program Owner, Banking, Harrowgate Bank (10000+ employees)
+MESSAGE:
+Tobias, Leontyne Abara from Crossover. One number from the sample you sent us: of the 50 fraud-monitoring rules, 41 translated and validated cleanly, 6 translated but won't fire because the target platform maps account IDs differently, and 3 need a redesign. The 6 are the ones that would have broken silently after cutover. The full report is in your inbox with each rule's reason. I'm at 555-0129 if you want to walk through the 3 redesigns.

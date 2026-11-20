@@ -1,0 +1,26 @@
+CHANNEL: call_script
+STAGE: follow_up
+SELLER: Account Executive at Relaykit
+BUYER: Head of Detection, MSSP/MDR, Ironvale Cyber Defense (500-1000 employees)
+MESSAGE:
+[Prep: on discovery, Kwame said Ironvale manages 85 client tenants, his team of six detection engineers keeps a separate copy of each rule per client, and a recent detection fix took nine days to roll out to everyone.]
+
+[Dial.]
+
+Yusuf: Kwame, Yusuf from Relaykit. I've got one specific thing for you, it'll take three minutes. Is now okay?
+
+[If yes:]
+
+Yusuf: On our first call you said a fix to the encoded-PowerShell-style detection took nine days to reach all 85 tenants because each client has its own copy and its own field names. I asked our SE to model what that rollout would look like in Relaykit using the three client environments you described: the healthcare group, the two manufacturers, and the credit union.
+
+Here's the short version. In Relaykit you'd keep one master detection, and per-tenant adaptations would be generated for each client's field names and lookups. The fix would be made once, tested against each tenant's data, and rolled out, with the tenants where it fails flagged and the reason shown. On the three test environments it took about 40 minutes end to end, and one tenant was flagged because its process-command-line field is truncated, which is a real issue you'd want to know about anyway.
+
+[Pause. Ask:] Does that match how you'd want the rollout to work, or is there a step your team does that I'm missing?
+
+[Listen. If he raises client data separation:] Good question. Each tenant's data stays in its own environment. Relaykit only sends queries and reads results; nothing is pooled across clients. I can send the architecture diagram your clients' auditors usually ask for.
+
+[If he raises cost per tenant:] Pricing is per tenant with tiers, and I'll bring numbers for 85 and 120 tenants since you mentioned the growth target.
+
+[Ask for next step:] What I'd propose is a two-week pilot with five of your real tenants, picked by you, including at least one messy one. Success means a detection fix rolls out to all five in under an hour, with failures explained. Can we get your lead engineer on a 30-minute scoping call this week?
+
+[If yes:] Book it live. [If not yet:] Ask: "What would need to be true for this to be worth a pilot?" and write down the answer.

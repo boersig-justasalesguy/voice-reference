@@ -1,0 +1,69 @@
+{
+ "pair": "Q23",
+ "units": [
+  {
+   "unit": "Trial expired 30 days ago",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Don't lose your work",
+   "kind": "stance",
+   "in_text1": false,
+   "in_text2": true,
+   "altered": null,
+   "note": "Added urgency in Text 2"
+  },
+  {
+   "unit": "Upgrade to Team keeps data dictionary",
+   "kind": "offer",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Unlimited log sources",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Premium features: drift alerts, refresh, export",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "20% off first year before month end",
+   "kind": "condition",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Limited time framing",
+   "kind": "stance",
+   "in_text1": false,
+   "in_text2": true,
+   "altered": null,
+   "note": "Added urgency"
+  },
+  {
+   "unit": "Click button to upgrade",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": "strength_up",
+   "note": "'Upgrade now', 'today' added"
+  }
+ ],
+ "same_meaning": "partly",
+ "better_message": "1",
+ "reason": "Text 1 is plain; Text 2 adds pushy marketing urgency.",
+ "grade_text1": "average",
+ "grade_text2": "weak"
+}

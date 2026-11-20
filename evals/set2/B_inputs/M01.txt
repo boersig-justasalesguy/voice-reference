@@ -1,0 +1,6 @@
+CHANNEL: voicemail
+STAGE: follow_up
+SELLER: Enterprise Account Executive at Crossover
+BUYER: SIEM Program Owner, Banking, Harrowgate Bank (10000+ employees)
+MESSAGE:
+Hello Tobias, this is Leontyne Abara from Crossover. I'm following up on the email I sent last week regarding your SIEM migration. I wanted to see if you had any questions or if you'd like to schedule some time to discuss how Crossover can help Harrowgate with the migration. Please feel free to call me back at 555-0129 at your convenience. Thank you.

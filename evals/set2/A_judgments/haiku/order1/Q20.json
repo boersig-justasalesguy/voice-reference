@@ -1,0 +1,15 @@
+{"pair":"Q20","units":[
+{"unit":"Names Gideon, Rosalind, Commonground, Brassmoor","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Brassmoor joined Commonground a year ago","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Shipped more than 40 new features this year","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Features include exec dashboard, red-team form, tracker, dark mode","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Launched customer community; invites Brassmoor to join","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Next year: AI recommendations, ticket integrations, mobile app","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Renewal date January 31","kind":"deadline","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Renewal order form already in inbox","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"About 7 percent price adjustment","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Signing before December 20 locks pricing an extra month","kind":"condition","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Reply to email or tell account manager with questions","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Thanks for being a great partner","kind":"stance","in_text1":true,"in_text2":false,"altered":null,"note":"Warm thanks dropped in Text 2"},
+{"unit":"Excited about what's ahead, big year","kind":"stance","in_text1":true,"in_text2":false,"altered":null,"note":"Enthusiasm dropped in Text 2"}
+],"same_meaning":"yes","better_message":"1","reason":"Warmth and thanks suit a renewal video that carries a price rise, though Text 2 states terms sooner.","grade_text1":"average","grade_text2":"average"}

@@ -1,0 +1,15 @@
+CHANNEL: email
+STAGE: objection_handling
+SELLER: Account Executive at Vaultline
+BUYER: Security Lead, Healthcare SaaS, Carewell Systems (200-500 employees)
+SUBJECT: Spreadsheets vs. Vaultline for ISO 27001
+MESSAGE:
+Hi Rashid,
+
+Understood that you're leaning toward running ISO 27001 prep in spreadsheets with the consultant, since that's how you got through SOC 2. That approach can definitely work.
+
+A couple of things to consider. Spreadsheets get harder to manage as control counts grow, and evidence collection tends to be the most time-consuming piece. Vaultline automates a lot of that through integrations with your cloud, identity provider, and ticketing tools, and it maps controls across frameworks, so your SOC 2 work carries over.
+
+Happy to walk through it if helpful.
+
+Penelope

@@ -1,0 +1,6 @@
+CHANNEL: linkedin_dm
+STAGE: cold_outreach
+SELLER: Account Executive at Shiftwell
+BUYER: VP Operations, Fitness Clubs, Pulsewell Gyms (1000-5000 employees)
+MESSAGE:
+Arturo - saw Pulsewell is opening 24-hour locations in Phoenix. Gym ops leaders tell us the overnight front-desk shifts are the hardest to fill and the first to no-show, and managers end up covering them. Shiftwell lets staff swap and pick up those shifts from their phone, with manager approval. Is overnight coverage on your radar yet, or still a few months out?

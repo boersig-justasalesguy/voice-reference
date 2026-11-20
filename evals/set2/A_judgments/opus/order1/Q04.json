@@ -1,0 +1,53 @@
+{
+ "pair": "Q04",
+ "units": [
+  {
+   "unit": "Small healthcare teams spend days rewriting detection content",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Detections written in your query dialect, macros, lookups",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Engineers review instead of rewrite",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Call 555-0189 if familiar",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "555-0189",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Thanks for what your team does",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": false,
+   "altered": null,
+   "note": "Closing appreciation dropped in Text 2"
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "1",
+ "reason": "Text 1's closing thanks adds warmth fitting a cold healthcare voicemail.",
+ "grade_text1": "strong",
+ "grade_text2": "strong"
+}

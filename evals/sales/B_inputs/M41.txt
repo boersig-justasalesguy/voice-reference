@@ -1,0 +1,6 @@
+CHANNEL: linkedin_dm
+STAGE: referral
+SELLER: Account Executive at Tallyhouse
+BUYER: Procurement Manager, Biotech, Verdant Bioscience (200-500 employees)
+MESSAGE:
+Hi Constance, your CFO Hamish Leary asked me to connect with you directly. He's interested in getting renewal dates and contract owners for your top 50 vendors into one place before budget season. Could we find 30 minutes next week to see whether Tallyhouse fits how your team works today?

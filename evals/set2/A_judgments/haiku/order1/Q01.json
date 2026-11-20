@@ -1,0 +1,8 @@
+{"pair":"Q01","units":[
+{"unit":"Addressee Viktor named","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Sender Chloe identifies herself","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Plant-segment rule rewrite sent for engineer review","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Asks whether engineers looked at the rewrite","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Even a thumbs up or down would help","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Feedback decides whether seller keeps going","kind":"condition","in_text1":true,"in_text2":true,"altered":null,"note":""}
+],"same_meaning":"yes","better_message":"tie","reason":"Texts are identical, so neither is better.","grade_text1":"average","grade_text2":"average"}

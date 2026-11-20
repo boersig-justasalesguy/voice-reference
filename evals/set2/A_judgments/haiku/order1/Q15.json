@@ -1,0 +1,17 @@
+{"pair":"Q15","units":[
+{"unit":"Names Tomasz, Nadia, Baseline Forge, Granite Shoal","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Asks for 30-minute demo","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Calendar link below the video","kind":"offer","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Founded four years ago by analysts and data scientists","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Over 150 employees","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Raised Series B","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Recognized by analysts as a company to watch","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Builds statistical, behavioral and ML detections","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Covers baselines, thresholds, peer groups, risk correlation","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Works with major SIEMs and data lakes","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Customer success team with you every step","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Many insurance and financial services customers","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Customers have seen amazing results","kind":"claim","in_text1":false,"in_text2":true,"altered":null,"note":"Unsupported claim added in Text 2"},
+{"unit":"Platform is super flexible","kind":"claim","in_text1":false,"in_text2":true,"altered":null,"note":"Hype added in Text 2"},
+{"unit":"Proud of the culture built here","kind":"stance","in_text1":false,"in_text2":true,"altered":null,"note":"Text 2 only"}
+],"same_meaning":"partly","better_message":"1","reason":"Text 2 adds unsupported claims and hype; Text 1 is tighter and more credible.","grade_text1":"average","grade_text2":"weak"}

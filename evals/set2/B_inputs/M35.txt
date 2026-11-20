@@ -1,0 +1,22 @@
+CHANNEL: call_script
+STAGE: cold_outreach
+SELLER: Sales Development Representative at Logatlas
+BUYER: CIO, Healthcare System, Saint Brigid Community Health (1000-5000 employees)
+MESSAGE:
+[Dial the CIO's office line. Executive assistant answers.]
+
+Assistant: Dr. Isaacs' office, this is Maureen.
+
+Dorian: Hi Maureen, this is Dorian, I'm returning Raymond's call. Is he available?
+
+[If she asks what it's regarding:] It's regarding the security data project. He'll know what it's about. It's pretty time-sensitive, so if you could put me through, that would be great.
+
+[If she says he's in meetings all day:] Oh, that's too bad. When's the best time to catch him? I really need to speak with him today if possible, it's kind of urgent. Could you pull him out for two minutes?
+
+[If she asks which company you're with:] I'm with Logatlas. We're working with a lot of healthcare organizations on their security data. Raymond will want to hear about it.
+
+[If she offers to take a message:] Actually, could I just get his direct line or his cell? That way I won't have to bother you again.
+
+[If she refuses:] Okay, no problem. Can you tell him Dorian called about the security data project and it's urgent? My number is 555-0137.
+
+[If you do reach Raymond:] Hi Raymond, thanks for taking my call. So Logatlas is a living data dictionary for security telemetry. We map all of your log sources, fields, sample events and event types into a normalized taxonomy, so your team and your AI tools know what data exists. We have a lot of healthcare customers. Do you have 30 minutes next week for a demo?

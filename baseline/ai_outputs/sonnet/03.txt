@@ -1,0 +1,45 @@
+How Our Vendor Evaluation Methodology Works
+
+Choosing a technology vendor is a high-stakes decision, and vendor claims are hard to compare. Our evaluation methodology gives buyers a consistent, evidence-based way to see how providers in a market stack up. This page explains how it works, what it does and does not tell you, and how to use it well.
+
+What the evaluation is
+
+For each market we cover, we assess a defined set of vendors against the same criteria, using the same process, and publish the results in a visual graphic and a detailed written report. The graphic places each vendor on two axes:
+
+- Ability to execute: how well the vendor delivers today. This reflects product quality, customer experience, financial viability, sales and support effectiveness, and operations.
+- Completeness of vision: how well the vendor's strategy fits where the market is heading. This reflects market understanding, product strategy, innovation, and the strength of its business model.
+
+Vendors are grouped into four categories: Leaders, Challengers, Visionaries and Niche Players. These describe position in the evaluation, not an overall ranking of quality. A Niche Player can be the best choice for a buyer with a specific need.
+
+How we evaluate
+
+1. Define the market. We set clear inclusion criteria, including minimum revenue, customer count, product capabilities and geographic presence. Vendors that do not meet them are not evaluated.
+
+2. Set the criteria and weights. We publish the evaluation criteria and the weight given to each before scoring begins, so readers can see what mattered and why.
+
+3. Collect evidence. We gather information from several independent sources: vendor questionnaires and briefings, product demonstrations, reference checks with customers, analyst inquiry data and public information. Vendor claims are not scored unless they are supported by evidence, and customer references are chosen with input from us, not only from the vendor.
+
+4. Score and calibrate. Analysts score each vendor independently. A review panel then compares scores across vendors to check that the same standard was applied to each, and discrepancies are resolved before publication.
+
+5. Review and publish. Vendors may review the factual accuracy of their descriptions but cannot change scores or conclusions. Vendors do not pay for inclusion or for placement.
+
+What the evaluation does not tell you
+
+- It is not a recommendation to buy a particular product. It reflects the market as a whole and your needs may differ.
+- It is a snapshot. Markets change quickly, so check the publication date and ask how current the findings are.
+- It does not measure fit with your environment, your budget or your existing technology.
+
+How buyers should use it
+
+Start with your own requirements, not with the graphic. List your must-have capabilities, your constraints and the outcomes you are buying for. Then:
+
+1. Build a shortlist. Use the evaluation to identify vendors worth considering, and include at least one from outside the Leaders category if its strengths match your needs.
+2. Read the written analysis, not just the graphic. The strengths and cautions for each vendor are where the useful detail lives.
+3. Reweight the criteria. If integration matters more to you than vision, weigh the scores accordingly.
+4. Validate with a proof of concept. Test finalists against your own data and workflows.
+5. Talk to references. Ask customers similar to you what went well and what did not.
+6. Use it in negotiation. Evaluation findings can help you frame questions about roadmap, support and pricing.
+
+Questions
+
+If you are a client, you can discuss any evaluation with an analyst through an inquiry. If you are a vendor with questions about inclusion or process, contact our research integrity team through the link below.

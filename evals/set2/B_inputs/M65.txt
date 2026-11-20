@@ -1,0 +1,6 @@
+CHANNEL: linkedin_dm
+STAGE: breakup
+SELLER: Account Executive at Logatlas
+BUYER: SIEM Engineer, Logistics, Ridgeback Freight Lines (1000-5000 employees)
+MESSAGE:
+Derek, last ping from me. I know "data dictionary" isn't anyone's favorite phrase. If you ever get tired of answering "do we even log that?" in the team chat, Logatlas builds the per-source field map for you. I'll leave it there. Good luck with the depot rollout.

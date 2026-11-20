@@ -1,0 +1,24 @@
+CHANNEL: call_script
+STAGE: cold_outreach
+SELLER: Account Executive at Patchbay
+BUYER: Engineering Manager, Insurtech, Fernway Mutual Digital (100-200 employees)
+MESSAGE:
+Hi Imran, it's Keiko Abernathy with Patchbay. This is a cold call - do you want to give me thirty seconds and then decide whether to hang up?
+
+[Pause for permission.]
+
+Thanks. I was reading Fernway's engineering blog post about launching in three new states this year. When I talk to insurtech eng managers in that spot, the thing that usually slows them down isn't the product work, it's the integrations - each state means another set of carrier APIs, another rating bureau feed, another payment processor quirk. Somebody on the team ends up owning a pile of brittle point-to-point scripts that break every time a partner changes a field name.
+
+Is that anywhere close to what your team is dealing with, or am I off?
+
+[If yes / partly:] Which of those integrations breaks most often right now? ... And when it breaks, who finds out first - your team or a customer?
+
+[Listen. Reflect back what you heard in one sentence.]
+
+The reason I ask: Patchbay sits between your core platform and those partners. When a carrier changes a payload, you update one mapping instead of three services, and failures land in a single queue with retries instead of in someone's inbox at 2 a.m. A team at Hollowell Insurance cut their partner-onboarding time from roughly six weeks to two, mostly because new states stopped meaning new code.
+
+[If they already have an internal tool:] That makes sense - a lot of teams your size built their own layer. Out of curiosity, how many engineers touch it in a typical month? If the answer is 'more than I'd like,' that's usually where we're useful. If it's working fine, I'd honestly leave it alone.
+
+[If not a fit / no pain:] Fair enough - sounds like you've got it handled. Mind if I check back after the state launches, when the integration count goes up?
+
+[Close, only if there's pain:] Rather than a full demo, would it be useful if I mapped your three most fragile integrations onto Patchbay and sent you a short diagram? If it doesn't look simpler than what you have, you can ignore it.

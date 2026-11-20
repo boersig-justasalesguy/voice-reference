@@ -1,0 +1,10 @@
+CHANNEL: sms
+STAGE: follow_up
+SELLER: Account Executive at Signalcraft
+BUYER: SOC Manager, Manufacturing, Brightforge Industrial (1000-5000 employees)
+
+=== TEXT 1 ===
+Viktor, Chloe here. Did your engineers get a chance to look at the plant-segment rule rewrite? Even a thumbs up or down helps me know whether to keep going.
+
+=== TEXT 2 ===
+Viktor, Chloe here. Did your engineers get a chance to look at the plant-segment rule rewrite? Even a thumbs up or down helps me know whether to keep going.

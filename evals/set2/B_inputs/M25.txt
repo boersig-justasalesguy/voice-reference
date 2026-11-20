@@ -1,0 +1,18 @@
+CHANNEL: call_script
+STAGE: cold_outreach
+SELLER: Sales Development Representative at Signalcraft
+BUYER: Detection Engineering Lead, Media & Entertainment, Lanternfish Studios (10000+ employees)
+MESSAGE:
+[Dial. When she picks up, start immediately.]
+
+Hi Priyanka, this is Gabe from Signalcraft, how are you doing today? Great. So the reason I'm calling is that Signalcraft is an AI detection authoring platform, and we help security teams write detections faster using artificial intelligence. We've got a really powerful engine that's trained on thousands of detections, and it can generate rules for basically any threat you can think of. It supports all the major SIEMs, it has a built-in testing framework, it integrates with your ticketing system, and it has a really nice dashboard for leadership.
+
+A lot of companies like yours are using us, and they're seeing huge productivity gains, like up to ten times faster detection development. We also just launched a new feature that lets you convert threat reports into detections automatically, which is really cool.
+
+So what I'd love to do is get you and maybe your manager on a 45-minute demo with one of our solutions engineers so they can show you the whole platform. Would next Tuesday at 2 work, or is Wednesday better?
+
+[If she says she's busy:] Totally understand, everybody's busy. That's actually why Signalcraft is so valuable, because it saves you time. It'll only take 45 minutes and I really think you'll love it. Can I just send a calendar invite for Tuesday and you can move it if you need to?
+
+[If she says they already write their own detections:] That's great, a lot of our customers did too before they found us. Signalcraft just makes it faster. Can we get that demo on the books?
+
+[Close:] Awesome, I'll send the invite. Thanks Priyanka!

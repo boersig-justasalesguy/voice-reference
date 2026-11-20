@@ -1,0 +1,179 @@
+{
+ "id": "T888",
+ "claims": [
+  {
+   "gist": "Modern software is assembled from open-source components",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Applications may pull in thousands of packages",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": true,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Each package is a potential path for malicious code",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Attackers publish malicious packages and hijack maintainers",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "You cannot protect dependencies you cannot see",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Generate SBOMs in SPDX or CycloneDX including transitive dependencies",
+   "type": "prescriptive",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Refresh SBOMs on every build",
+   "type": "prescriptive",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Route installs through an internal proxy registry",
+   "type": "prescriptive",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Block very new or low-download packages until reviewed",
+   "type": "prescriptive",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Pin versions and commit lockfiles to prevent silent upgrades",
+   "type": "prescriptive",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Review new packages for maintainer and naming red flags",
+   "type": "prescriptive",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Maintain an approved package list",
+   "type": "prescriptive",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Many supply chain attacks run during installation",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Disable install scripts by default",
+   "type": "prescriptive",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Build in isolated environments without production secrets",
+   "type": "prescriptive",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Scan for malicious packages, not only vulnerabilities",
+   "type": "prescriptive",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Monitor advisories and maintainer changes",
+   "type": "prescriptive",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Verify signatures and adopt SLSA-aligned provenance",
+   "type": "prescriptive",
+   "evidence": "reasoning_only",
+   "specific": true,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Keep inventory, rollback ability and rotate exposed credentials",
+   "type": "prescriptive",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "SBOMs, proxies and lockfiles are usually the fastest wins",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": true,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Measure progress by builds using only approved sources",
+   "type": "prescriptive",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  }
+ ],
+ "named_entities": 3,
+ "named_criticism": 0,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": false,
+ "thesis": "Reduce open-source malware risk via SBOMs, controlled sources, vetting, install limits, scanning, provenance and incident readiness."
+}

@@ -1,0 +1,6 @@
+# Word-for-word analyst questions from earnings-call transcripts (some FactSet/Refinitiv).
+# Kept on this Mac only, like the raw corpora (PROGRESS.md); scores and reports are tracked.
+evals/earnings/ai_prompts/
+
+__pycache__/
+.DS_Store

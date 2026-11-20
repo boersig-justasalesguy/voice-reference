@@ -1,0 +1,187 @@
+{
+ "id": "T965",
+ "claims": [
+  {
+   "gist": "Vendor selection is high-stakes and claims are hard to compare",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Methodology offers a consistent, evidence-based vendor comparison",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Quadrant categories reflect position, not overall quality",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "A Niche Player can be the best choice",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": true,
+   "owner": "author"
+  },
+  {
+   "gist": "Vendors failing inclusion criteria are not evaluated",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Criteria and weights are published before scoring",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Evidence comes from several independent sources",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Unsupported vendor claims are not scored",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Customer references are chosen with firm input",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Analysts score independently and a panel calibrates",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Vendors can check facts but not change scores",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Vendors do not pay for inclusion or placement",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Evaluation is not a buying recommendation",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Evaluation is a snapshot of a fast-changing market",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Evaluation does not measure fit with your environment",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Start from your own requirements, not the graphic",
+   "type": "prescriptive",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Include a non-Leader if its strengths match needs",
+   "type": "prescriptive",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Read the written analysis where useful detail lives",
+   "type": "prescriptive",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Reweight criteria to your priorities",
+   "type": "prescriptive",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Validate finalists with a proof of concept",
+   "type": "prescriptive",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Ask similar customers what went well and badly",
+   "type": "prescriptive",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Use evaluation findings in negotiation",
+   "type": "prescriptive",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  }
+ ],
+ "named_entities": 0,
+ "named_criticism": 0,
+ "admitted_limits": 3,
+ "stake_disclosure": false,
+ "disputable_thesis": false,
+ "thesis": "Our evidence-based vendor evaluation positions vendors on execution and vision; buyers should reweight and validate against their needs."
+}

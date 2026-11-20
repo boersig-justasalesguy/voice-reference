@@ -1,0 +1,17 @@
+{
+ "id": "R093",
+ "sub_questions": 1,
+ "sub_questions_answered": 0,
+ "direct_answer_first": false,
+ "pivots_to_talking_point": true,
+ "number_dump": false,
+ "reasoning_or_mechanism": false,
+ "concrete_example": true,
+ "owned_view": false,
+ "admits_uncertainty_or_limit": true,
+ "declines_or_deflects": true,
+ "enumerated_structure": false,
+ "triplet_count": 3,
+ "rapport_markers": 2,
+ "spontaneity": "medium"
+}

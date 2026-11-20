@@ -1,0 +1,28 @@
+Subject: Request for approval: budget for [Tool Name] security platform
+
+Hi [CFO Name],
+
+I'm writing to request approval for a budget of [$Amount] for the first year of [Tool Name], a [brief category description, such as cloud detection and response] platform. I'd like to walk you through the reasoning before we commit.
+
+Why we need it
+Our current tooling gives us limited visibility into [specific problem, such as activity inside our cloud accounts]. Over the last [period], we have seen [concrete example or metric, such as X alerts we could not investigate in time or Y hours spent on manual log review]. That creates risk of undetected incidents and increases the cost of the investigations we do run.
+
+What it costs and what it returns
+- First-year cost: [$Amount], including [licenses, implementation, training].
+- Expected annual cost after year one: [$Amount].
+- Expected benefits: [faster detection, reduced manual review hours, lower risk exposure, reduced cost of a potential incident]. We estimate [quantified benefit] over the first twelve months.
+
+How we'll know it's working
+We will measure mean time to detect and investigate, the number of confirmed cloud incidents, and analyst hours spent on triage. I'll report those figures to you at [six months] and [twelve months].
+
+Alternatives considered
+We reviewed [number] options and chose [Tool Name] because [key reason]. We also considered [alternative] but it [limitation]. Doing nothing carries the risk described above.
+
+Could we meet for 30 minutes this week or next? I can bring the vendor comparison, the cost model, and the proof-of-concept results.
+
+Thank you for considering it.
+
+Best,
+[Your Name]
+[Your Title]
+[Your Company]

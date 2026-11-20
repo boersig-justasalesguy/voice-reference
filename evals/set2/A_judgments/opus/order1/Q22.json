@@ -1,0 +1,40 @@
+{
+ "pair": "Q22",
+ "units": [
+  {
+   "unit": "Following up on last message",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "I know things get busy",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": false,
+   "altered": null,
+   "note": "Empathy line dropped"
+  },
+  {
+   "unit": "Threadline fit for Quayside?",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "30 minutes this week or next",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": "strength_down",
+   "note": "'Would love' becomes 'I'd like'"
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "2",
+ "reason": "Text 2 is slightly cleaner; both are generic check-ins.",
+ "grade_text1": "weak",
+ "grade_text2": "weak"
+}

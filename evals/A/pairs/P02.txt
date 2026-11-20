@@ -1,0 +1,37 @@
+=== TEXT 1 ===
+Subject: Introduction: [Bank CISO Name] and [Startup Founder Name]
+
+Hi [Bank CISO Name] and [Founder Name],
+
+I think you two have a lot to share, so I'm introducing you.
+
+[Bank CISO Name] is CISO at [Bank Name], a mid-sized bank focused on [brief relevant detail, such as regional commercial banking]. [He/She] has been leading the bank's work on [relevant area, such as third-party risk, cloud controls, or identity], and I've found [his/her] take on practical security programs very useful.
+
+[Founder Name] is founder and CEO of [Startup Name], an early-stage company building [one-line description of product]. [He/She] has spent [X years] working on [relevant background] and wants candid feedback from security leaders on [specific problem they are solving].
+
+I figure it could be useful both ways. [Bank CISO Name] could hear how a new approach might fit into a bank's controls. [Founder Name] could draw on [Bank CISO Name]'s experience with procurement, regulatory expectations, and what makes a security product succeed in a regulated environment.
+
+I'll leave the rest to you. Reply-all to set a time, or tell me if you'd rather I hadn't made the introduction.
+
+Best,
+[Your Name]
+[Your Title], [Your Company]
+
+=== TEXT 2 ===
+Subject: Introduction: [Bank CISO Name] and [Startup Founder Name]
+
+Hi [Bank CISO Name] and [Founder Name],
+
+I'd like to introduce you to each other, since I think you have a lot to share.
+
+[Bank CISO Name] is CISO at [Bank Name], a mid-sized bank focused on [brief relevant detail, such as regional commercial banking]. [He/She] has been leading the bank's work on [relevant area, such as third-party risk, cloud controls, or identity], and I've found [his/her] perspective on practical security programs very useful.
+
+[Founder Name] is founder and CEO of [Startup Name], an early-stage company building [one-line description of product]. [He/She] has spent [X years] working on [relevant background], and is looking for candid feedback from security leaders on [specific problem they are solving].
+
+I thought a conversation might be mutually useful. [Bank CISO Name] could hear how a new approach might fit into a bank's controls, and [Founder Name] could benefit from [Bank CISO Name]'s experience with procurement, regulatory expectations, and what makes a security product succeed in a regulated environment.
+
+I'll leave the rest to you. Feel free to reply-all to arrange a time, or let me know if you'd prefer I not have made the introduction.
+
+Best,
+[Your Name]
+[Your Title], [Your Company]

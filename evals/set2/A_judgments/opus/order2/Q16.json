@@ -1,0 +1,110 @@
+{
+ "pair": "Q16",
+ "units": [
+  {
+   "unit": "Program hub breaking silos across five teams",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Long feature list incl. 99.9% uptime SLA",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "250 users, annual subscription",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Premium support 24x7, 1-hour sev1",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "120 hours implementation services",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Training: 4 sessions, 25 attendees",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Executive Reporting and Red Team add-ons",
+   "kind": "entity",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Quote valid 30 days",
+   "kind": "deadline",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Net 30, annual in advance",
+   "kind": "condition",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Three-year commitment; one-year at 12% uplift",
+   "kind": "condition",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Five-phase implementation with acceptance criteria",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "SOW follows acceptance",
+   "kind": "commitment",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Will deliver significant value",
+   "kind": "claim",
+   "in_text1": false,
+   "in_text2": true,
+   "altered": null,
+   "note": "Generic value claim added in Text 2"
+  },
+  {
+   "unit": "Invite questions",
+   "kind": "offer",
+   "in_text1": false,
+   "in_text2": true,
+   "altered": null,
+   "note": "Added in Text 2"
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "1",
+ "reason": "Text 1 avoids the boilerplate value claim and stiff formalities.",
+ "grade_text1": "average",
+ "grade_text2": "average"
+}

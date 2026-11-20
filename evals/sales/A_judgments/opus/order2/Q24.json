@@ -1,0 +1,53 @@
+{
+ "pair": "Q24",
+ "units": [
+  {
+   "unit": "Following up previous email",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Know you're busy, avoid slipping through",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Pipewise improves forecast accuracy and pipeline visibility",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Great fit for Ironhelm",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Ask quick call this week",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Ask position: opening vs closing",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": "meaning_change",
+   "note": "Text 1 leads with ask"
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "2",
+ "reason": "Text 2 flows more naturally; both generic bump emails.",
+ "grade_text1": "weak",
+ "grade_text2": "weak"
+}

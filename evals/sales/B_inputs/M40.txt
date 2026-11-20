@@ -1,0 +1,6 @@
+CHANNEL: linkedin_dm
+STAGE: upsell
+SELLER: Account Manager at Draftkit
+BUYER: General Counsel, Renewable Energy Developer, Brightwell Solar (200-500 employees)
+MESSAGE:
+Hi Rowan! Hope you're enjoying Draftkit. We just launched Draftkit Clause Library and Obligation Tracking. Lots of great features! Would you like to upgrade? Happy to send pricing.

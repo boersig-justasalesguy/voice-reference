@@ -1,0 +1,38 @@
+A Practical Guide to Keeping Open-Source Malware Out of Your Software Supply Chain
+
+Modern software is assembled from open-source components. A typical application may pull in hundreds or thousands of packages, and each one is a potential path for malicious code. Attackers have responded by publishing malicious packages, hijacking maintainer accounts, typosquatting popular names, and inserting code into build pipelines. This guide describes practical steps security teams can take to reduce that risk without halting development.
+
+Step 1: Know what you use
+You cannot protect dependencies you cannot see.
+- Generate a software bill of materials (SBOM) for each application in a standard format such as SPDX or CycloneDX.
+- Include transitive dependencies, not just the packages developers added directly.
+- Refresh SBOMs on every build so they reflect what actually shipped.
+
+Step 2: Control where packages come from
+- Route installs through an internal proxy or registry that caches approved packages. Developers should not pull directly from public registries in production pipelines.
+- Set policies that block packages below a minimum age or with very few downloads until they have been reviewed.
+- Pin exact versions and commit lockfiles. This prevents silent upgrades to a compromised release.
+
+Step 3: Vet new dependencies before adoption
+- Require a lightweight review for any new package: maintainer history, release activity, license, and whether the name resembles a popular package.
+- Watch for red flags such as a brand-new account, a sudden change of maintainers, obfuscated code, or install scripts that download content from the internet.
+- Maintain an approved list for common categories so teams are not evaluating the same libraries repeatedly.
+
+Step 4: Limit what install scripts can do
+Many supply chain attacks run during installation. Disable install-time scripts by default where your package manager allows it, and allow them only for packages that need them, after review. Run builds in isolated, ephemeral environments with no access to production secrets.
+
+Step 5: Scan and monitor continuously
+- Scan dependencies and artifacts for known malicious packages, not only known vulnerabilities. Malware scanners and advisories from package registries are both useful inputs.
+- Monitor for new advisories against packages already in use, and set alerts for maintainer or ownership changes in critical dependencies.
+
+Step 6: Verify provenance and signatures
+- Verify package signatures and checksums where the ecosystem supports them.
+- Adopt build provenance attestations, such as those aligned with SLSA, so you can confirm that artifacts were built from the expected source by the expected pipeline.
+
+Step 7: Prepare for an incident
+- Keep a current inventory so you can answer quickly whether a compromised package is present.
+- Be able to roll back to a known-good lockfile and rebuild artifacts from clean environments.
+- Rotate any credentials that a build environment could have accessed.
+
+Getting started
+Pick three steps that fit your current tooling: generating SBOMs, routing installs through a proxy, and pinning dependencies with lockfiles are usually the fastest wins. Measure progress by how many production builds draw only from approved sources, and expand from there.

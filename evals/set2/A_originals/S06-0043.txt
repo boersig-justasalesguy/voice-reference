@@ -1,0 +1,7 @@
+CHANNEL: email
+STAGE: negotiation
+SELLER: Account Executive at Logatlas
+BUYER: Procurement Manager, Manufacturing, Ostrander Tooling (1000-5000 employees)
+SUBJECT: Logatlas - Procurement questions
+MESSAGE:
+Dear Conrad, Thank you for your email. To answer your questions: our pricing is based on the number of log sources; the minimum term is one year; payment is annual in advance; and we can accept your standard purchase order terms subject to review by our legal team. We do not currently offer monthly billing. Please let me know if you have further questions. Kind regards, Priyanka Desai

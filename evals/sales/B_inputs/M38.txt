@@ -1,0 +1,15 @@
+CHANNEL: email
+STAGE: upsell
+SELLER: Customer Success Manager at Patchbay
+BUYER: CTO, Telehealth, Remedia Health (200-500 employees)
+SUBJECT: Have you heard about Patchbay Events?
+MESSAGE:
+Hi Kwame,
+
+Hope things are going well at Remedia! I wanted to let you know about Patchbay Events, our new event-streaming add-on. It supports real-time webhooks, event replay, schema validation, and fan-out to multiple destinations.
+
+A lot of our customers are upgrading and seeing great results. It's $1,200/month on top of your current plan.
+
+Want me to set up a call with our solutions team?
+
+Rosalind

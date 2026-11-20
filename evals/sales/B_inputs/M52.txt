@@ -1,0 +1,13 @@
+CHANNEL: email
+STAGE: breakup
+SELLER: Account Executive at Tallyhouse
+BUYER: Head of Procurement, Hospitality, Copperline Hotels Group (1000-5000 employees)
+SUBJECT: Last email
+MESSAGE:
+Rajesh,
+
+I've reached out several times now and haven't heard back, so I'm assuming you're either not interested or just too busy to respond.
+
+This will be my last email. If you ever decide you want to get control of your vendor spend, you know where to find me. It's a shame, because I really think we could have helped Copperline save a lot of money.
+
+Corinne

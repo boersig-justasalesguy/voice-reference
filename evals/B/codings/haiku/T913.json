@@ -1,0 +1,16 @@
+{
+ "id": "T913",
+ "claims": [
+   {"gist": "By 2027 a large share of organizations will create formal AI governance functions", "type": "predictive", "evidence": "reasoning_only", "specific": true, "hedged": false, "owner": "attributed"},
+   {"gist": "Regulatory pressure, board scrutiny and generative AI spread are driving governance formalization", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "attributed"},
+   {"gist": "Informal guidance and individual judgment will break down as AI enters core processes", "type": "predictive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "attributed"},
+   {"gist": "Governance should help organizations move faster with confidence, not act as a brake", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "attributed"},
+   {"gist": "Leaders should inventory AI use, name an accountable executive and define core policies", "type": "prescriptive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "attributed"}
+ ],
+ "named_entities": 0,
+ "named_criticism": 0,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": true,
+ "thesis": "By 2027 a large share of organizations will formalize AI governance with budgets, clear ownership and documented policies."
+}

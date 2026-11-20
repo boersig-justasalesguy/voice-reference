@@ -1,0 +1,60 @@
+{
+ "pair": "Q21",
+ "units": [
+  {
+   "unit": "140-question questionnaire",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "SOC 2 Type II report attached",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Request to skip questionnaire",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Security team stretched, takes weeks",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Want contract signed by month end",
+   "kind": "deadline",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Speed up review appreciated",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": "strength_down",
+   "note": "Drops 'really'"
+  },
+  {
+   "unit": "SOC manager excited",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "tie",
+ "reason": "Nearly identical; both pressure a risk analyst to skip diligence.",
+ "grade_text1": "weak",
+ "grade_text2": "weak"
+}

@@ -1,0 +1,15 @@
+CHANNEL: email
+STAGE: re_engagement
+SELLER: Account Executive at Logatlas
+BUYER: Security Data Engineer, SaaS, Northpeak Cloud Software (500-1000 employees)
+SUBJECT: Your free account is still alive
+MESSAGE:
+Hey Olivia,
+
+Your Logatlas community account mapped 14 log sources back in July and then went quiet. Totally normal, life happens.
+
+One thing I noticed: two of those sources (your identity provider logs and the API gateway) changed their field structure in late summer, which tends to break the detections that depend on them. The paid tier would catch that drift automatically, but even the free version will show it if you re-run the mapping.
+
+Worth a re-run? If anything looks off, I'm happy to walk through it.
+
+Ravi

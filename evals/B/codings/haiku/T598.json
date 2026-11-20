@@ -1,0 +1,18 @@
+{
+ "id": "T598",
+ "claims": [
+   {"gist": "Sysdig and Datadog detected about half of the Kubernetes events in my evaluation", "type": "factual", "evidence": "first_hand", "specific": true, "hedged": false, "owner": "author"},
+   {"gist": "My CSPM ignored most developer Kubernetes actions, with 99%+ going undetected", "type": "factual", "evidence": "first_hand", "specific": true, "hedged": false, "owner": "author"},
+   {"gist": "Forrester errs in saying CDR does not exist by making cloud too broad", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": true, "owner": "author"},
+   {"gist": "XDR, like CNAPP, spread across too many log sources without succeeding", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "author"},
+   {"gist": "CDR is tying eBPF and cloud logs into meaningful exploit stories for Kubernetes", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "author"},
+   {"gist": "Agentless scanning fails for workloads that have no EBS volumes", "type": "factual", "evidence": "reasoning_only", "specific": true, "hedged": false, "owner": "author"},
+   {"gist": "eBPF agents fail on unsupported operating systems", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "author"}
+ ],
+ "named_entities": 7,
+ "named_criticism": 1,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": true,
+ "thesis": "CDR is real: it ties eBPF and cloud logs into Kubernetes exploit stories, which CNAPP tools largely miss."
+}

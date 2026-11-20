@@ -1,0 +1,52 @@
+{
+ "pair": "Q19",
+ "units": [
+  {
+   "unit": "Translates detection logic between SIEM dialects",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Parser handles macros, lookups, subsearch, etc.",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Covers regex, time-modifier, case-sensitivity",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Handles eval chains, correlation, stats edge cases",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Diff and syntax validation per rule",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Ask: technical deep dive with engineer",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "tie",
+ "reason": "Wording differences only; both jargon-heavy for a CISO.",
+ "grade_text1": "average",
+ "grade_text2": "average"
+}

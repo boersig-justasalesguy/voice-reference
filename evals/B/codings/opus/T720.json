@@ -1,0 +1,187 @@
+{
+ "id": "T720",
+ "claims": [
+  {
+   "gist": "Some proclaim the end of standalone AppSec after Wiz Code",
+   "type": "factual",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "There is not much actually new in Wiz Code",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": true,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Wiz Code is neither full ASPM nor bolted-on scanner",
+   "type": "evaluative",
+   "evidence": "first_hand",
+   "specific": true,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "There is nothing to hate about Wiz Code; it's really good",
+   "type": "evaluative",
+   "evidence": "first_hand",
+   "specific": true,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Author has taken no money from any CNAPP provider",
+   "type": "factual",
+   "evidence": "first_hand",
+   "specific": true,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Author has used or evaluated almost every major CNAPP",
+   "type": "factual",
+   "evidence": "first_hand",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Wiz's data architecture and UX make catching up difficult",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": true,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Wiz's billion dollars in cash helps",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Wiz has a real shot at the full CNAPP vision",
+   "type": "predictive",
+   "evidence": "reasoning_only",
+   "specific": true,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Wiz succeeds by ignoring analyst-driven roadmaps",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Wiz Code beats some legacy scanners but trails modern ASPMs",
+   "type": "evaluative",
+   "evidence": "first_hand",
+   "specific": true,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Wiz Code has hidden deficiencies",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Wiz Code scans repos via GitHub app for SCA, IaC, secrets",
+   "type": "factual",
+   "evidence": "first_hand",
+   "specific": true,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Code-to-cloud tracing uses WizCLI image validation",
+   "type": "factual",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Wiz ingests external SAST/DAST; only Checkmarx natively",
+   "type": "factual",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Wiz Code scanners take a features-as-checkboxes approach",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": true,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Details like reachability turn scanners from noise into fixes",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Wiz always had SCA and IaC via its CLI",
+   "type": "factual",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Wiz Code's real innovation is elegant data presentation",
+   "type": "evaluative",
+   "evidence": "first_hand",
+   "specific": true,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Other AppSec vendors had these features for a while",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Pipelineless repo scanning is exciting",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "SCA without reachability, SBOM and IaC scanning are unexciting",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  }
+ ],
+ "named_entities": 6,
+ "named_criticism": 3,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": true,
+ "thesis": "Wiz Code is the best CNAPP AppSec offering, mainly through elegant data integration, but trails modern ASPMs."
+}

@@ -1,0 +1,18 @@
+{
+ "id": "T286",
+ "claims": [
+   {"gist": "By 2025, 40% of boards will have a dedicated cybersecurity committee", "type": "predictive", "evidence": "data_cited", "specific": true, "hedged": false, "owner": "attributed"},
+   {"gist": "Cybersecurity ranks as second-highest enterprise risk in the 2020 board survey", "type": "factual", "evidence": "data_cited", "specific": true, "hedged": false, "owner": "attributed"},
+   {"gist": "By 2024, 60% of CISOs will partner with sales, finance and marketing executives", "type": "predictive", "evidence": "data_cited", "specific": true, "hedged": false, "owner": "attributed"},
+   {"gist": "By 2025, half of asset-intensive firms will merge cyber and physical security under one CSO", "type": "predictive", "evidence": "data_cited", "specific": true, "hedged": false, "owner": "attributed"},
+   {"gist": "Security capabilities can be delivered remotely, as the pandemic showed", "type": "evaluative", "evidence": "named_source", "specific": false, "hedged": false, "owner": "attributed"},
+   {"gist": "By 2022, 30% of security teams will permanently increase remote staff", "type": "predictive", "evidence": "data_cited", "specific": true, "hedged": false, "owner": "attributed"},
+   {"gist": "Security leaders should widen job ads beyond traditional recruitment geographies", "type": "prescriptive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "attributed"}
+ ],
+ "named_entities": 0,
+ "named_criticism": 0,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": true,
+ "thesis": "Cyber risk will reshape boards, CISO roles, security convergence and remote security staffing through 2025."
+}

@@ -1,0 +1,12 @@
+{"pair":"Q07","units":[
+{"unit":"Addressee Felix named","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Tuesday advisory on supply-chain campaign","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Analysis accuracy scored 4 of 5","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"1 of 3 detections usable as-is","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"3 of 3 detections usable after edits","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Hunt query judged better than a hurried one","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"52 minutes total versus a day and a half","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Missed technique came from a vendor bulletin they lacked","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Pilot would also ingest internal intel sources","kind":"offer","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Asks for pilot conversation next week","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""}
+],"same_meaning":"yes","better_message":"tie","reason":"Same scorecard and ask; only a semicolon versus full stop differs.","grade_text1":"strong","grade_text2":"strong"}

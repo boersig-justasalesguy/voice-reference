@@ -1,0 +1,49 @@
+FOR IMMEDIATE RELEASE
+
+Meridian Research Predicts 60% of Large Organizations Will Establish a Formal AI Governance Function by 2027
+
+Most companies are using AI faster than they can oversee it. Meridian expects that gap to push governance out of ad hoc committees and into dedicated, funded teams.
+
+BOSTON, November 19, 2026 — Meridian Research, a technology research and advisory firm, today predicted that by 2027, 60% of organizations with more than 5,000 employees will have a formal AI governance function: a dedicated team with its own budget, a named executive owner, and authority to approve or block AI deployments. Today, fewer than 20% of such organizations have one.
+
+The prediction comes from Meridian's 2027 Technology Leadership Outlook. It draws on a survey of 1,200 CIOs, CISOs, chief data officers, and general counsels across North America, Europe, and Asia-Pacific, plus more than 400 advisory conversations with client organizations over the past year.
+
+Why governance is moving from committee to function
+
+Meridian's research found that most enterprises now run dozens to hundreds of AI use cases in production, many of them brought in through SaaS vendors and not built in-house. Respondents said current oversight is mostly informal. It usually takes the form of a cross-functional working group that meets monthly and has no enforcement power.
+
+Three pressures are driving the shift:
+
+- Regulation with deadlines. Obligations under the EU AI Act, sector-specific guidance in financial services and healthcare, and a growing number of state-level laws in the U.S. require documented risk assessments, inventories, and human oversight. Someone has to own that work.
+- Incidents with real costs. 41% of surveyed organizations reported at least one AI-related incident in the past 12 months, such as data leakage through a generative AI tool, a biased automated decision, or a customer-facing error. Nearly half of those organizations said they could not quickly tell who was accountable.
+- Board scrutiny. 68% of respondents said their board had asked for a formal AI risk report in the last year, up from 29% the year before.
+
+"Over the past year, the question we hear from clients has changed from 'should we use AI?' to 'who is actually in charge of it?'" said Priya Nandakumar, vice president analyst at Meridian Research. "A working group that meets once a month can't keep pace with a company running 200 models and buying new AI features every quarter through its software vendors. The organizations that get ahead of this will build governance as an operating function, with people, tooling, and decision rights, rather than as a policy document. The ones that wait will end up building it after an incident, under pressure, and it will cost them more."
+
+What Meridian recommends
+
+Meridian advises technology and risk leaders to take the following steps over the next 12 months:
+
+1. Name a single accountable executive for AI risk, even if the full function is not yet staffed.
+2. Build and maintain a complete AI inventory, including AI capabilities embedded in third-party software.
+3. Tier use cases by risk, so that low-risk applications move quickly and high-risk ones get proportionate review.
+4. Give the governance function real decision rights, including the ability to pause or block a deployment.
+5. Measure governance by speed as well as safety. Track how long approvals take, so governance does not become a bottleneck that pushes teams toward shadow AI.
+
+Availability
+
+Meridian Research clients can access the full 2027 Technology Leadership Outlook, including the AI governance maturity model and sample organizational charts, through the Meridian client portal. Members of the media can request a briefing with Priya Nandakumar by contacting the press office below.
+
+About Meridian Research
+
+Meridian Research is an independent technology research and advisory firm that helps technology, security, and business leaders make better decisions about strategy, investment, and vendor selection. Its analysts serve more than 3,000 client organizations worldwide.
+
+Media Contact
+Jordan Ellis
+Director of Communications, Meridian Research
+press@meridianresearch.example
++1 (617) 555-0142
+
+###
+
+Note: Meridian Research, the analyst, and all figures above are placeholders. Swap in your firm's name, real survey data, and an approved quote before distributing.

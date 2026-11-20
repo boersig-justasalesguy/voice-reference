@@ -1,0 +1,16 @@
+CHANNEL: email
+STAGE: negotiation
+SELLER: Regional Sales Director at Relaykit
+BUYER: CTO, MSSP/MDR, Northbeam Managed Security (200-500 employees)
+SUBJECT: Special pricing - expires Friday!
+MESSAGE:
+Hi Samir,
+
+Great news! I spoke to my VP and I was able to get approval for an additional 25% discount on Relaykit, bringing your total discount to 40% off list. This is a really exceptional deal and honestly the best pricing I've ever been able to offer.
+
+The catch is that this pricing is only valid if we can get the order form signed by this Friday, since it's tied to our quarter-end. After that I can't guarantee we'll be able to hold it.
+
+I've attached the updated order form. Can you get this signed by Friday? Let me know if there's anything I can do to help get this over the line!
+
+Thanks,
+Claire

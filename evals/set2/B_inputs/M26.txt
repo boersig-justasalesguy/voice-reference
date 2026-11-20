@@ -1,0 +1,6 @@
+CHANNEL: linkedin_dm
+STAGE: upsell
+SELLER: Account Manager at Quietwatch
+BUYER: Director of Security Operations, Energy & Utilities, Northfjord Grid Services (1000-5000 employees)
+MESSAGE:
+Ingrid, your team's dashboard shows 47 silent rules repaired on the corporate SIEM this year. Your OT monitoring lives in the second SIEM, which Quietwatch doesn't cover yet. Want me to run a one-time silent-rule scan there so you can see if the same problem exists before deciding anything?

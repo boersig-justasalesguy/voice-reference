@@ -1,0 +1,18 @@
+CHANNEL: email
+STAGE: cold_outreach
+SELLER: Account Executive at Draftkit
+BUYER: Director of Legal Operations, Franchise Restaurants, Sunfield Hospitality Brands (1000-5000 employees)
+SUBJECT: Franchise amendment backlog at Sunfield
+MESSAGE:
+Hi Beatriz,
+
+With Sunfield adding around 80 new franchise locations a year, I'd guess your team sees a steady stream of near-identical amendments - territory adjustments, remodel deadline extensions, transfer consents - each one negotiated slightly differently by a franchisee's local counsel.
+
+That's where legal ops teams we work with lose the most attorney time: not on the hard deals, but on the 200 routine ones where someone has to check every deviation against the standard terms by hand.
+
+Draftkit compares each incoming redline to your playbook and sorts the changes into 'standard - approve,' 'within fallback,' and 'needs an attorney.' At Brightwater Brands, a franchisor with about 1,200 units, roughly 70% of amendments now go out without attorney review, and the backlog went from six weeks to under one.
+
+Is amendment volume actually a pain for your team, or does most of the work sit somewhere else? Either answer is useful to me.
+
+Wendell Okafor
+Draftkit

@@ -1,0 +1,20 @@
+CHANNEL: email
+STAGE: objection_handling
+SELLER: Account Executive at Fieldnote
+BUYER: UX Research Lead, Education Technology, Brightquill Learning (200-500 employees)
+SUBJECT: Re: Fieldnote pricing
+MESSAGE:
+Hi Sven,
+
+Fair pushback, and I'd rather help you make the case than discount around it.
+
+You're right that you already have a survey tool and a shared drive, and Fieldnote doesn't replace the survey tool. Where it earns its cost is the gap between them: the 60-plus interview recordings your team mentioned are sitting in folders nobody outside research opens. When the curriculum PMs asked last month why teachers drop off after week two, your team re-ran interviews instead of finding the ones you already had. That rework is the real line item.
+
+Two things that might help with your VP:
+
+- A rough math sheet (attached) using your numbers: four researchers, about six hours a week each spent re-finding or re-summarizing old sessions. At your loaded cost it covers the license roughly twice over. Change the inputs if they're off.
+- A 30-day pilot on one question - the week-two drop-off one - where we import your existing recordings and you show the PMs a tagged evidence board. If they don't use it, that's your answer.
+
+If the budget simply isn't there this year, tell me and I'll stop chasing; I'd rather know.
+
+Priyanka

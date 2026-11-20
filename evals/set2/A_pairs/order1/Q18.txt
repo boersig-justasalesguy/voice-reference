@@ -1,0 +1,10 @@
+CHANNEL: voicemail
+STAGE: referral
+SELLER: Account Executive at Huntdeck
+BUYER: SOC Director, Hospitality, Lantana Resorts (5000-10000 employees)
+
+=== TEXT 1 ===
+Hi Calvin, this is Simone with Huntdeck. Somebody in your network mentioned you might be a good person to talk to about threat hunting, so I wanted to reach out. Huntdeck is a threat hunting workbench and we help teams build and share hunts. I'd love to find some time to chat and learn about what you're doing at Lantana. You can reach me at 555-0118. Thanks!
+
+=== TEXT 2 ===
+Hi Calvin, Simone with Huntdeck. Somebody in your network mentioned you might be a good person to talk to about threat hunting. Huntdeck is a threat hunting workbench, and we help teams build and share hunts. I'd like to find some time to chat and learn what you're doing at Lantana. You can reach me at 555-0118. That's Simone, Huntdeck, 555-0118.

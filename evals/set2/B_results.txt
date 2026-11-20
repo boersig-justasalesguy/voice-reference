@@ -1,0 +1,50 @@
+
+== Coder haiku (66 messages): means by dataset label, AUC strong>weak, within-pair wins
+feature                   strong     avg    weak  AUC   pairs s>w / s<w
+buyer_specific_trigger      0.84    0.94    0.44  0.70   10 /  0
+industry_specific_pain      1.00    0.62    0.12  0.94   22 /  0
+proof_level                 0.96    0.62    0.28  0.63    9 /  3
+unsupported_claims          0.28    0.31    1.60  0.24    0 / 15
+feature_list_items          1.08    0.81    2.72  0.49    6 /  9
+buyer_centric_pct          53.40   53.12   24.00  0.91   23 /  0
+mechanism_explained         0.52    0.25    0.04  0.74   13 /  1
+ask_size                    1.40    1.44    2.40  0.24    1 / 16
+ask_pressure                0.08    0.19    1.16  0.20    1 / 16
+opt_out                     0.20    0.12    0.04  0.58    4 /  0
+value_before_ask            0.64    0.19    0.08  0.78   14 /  0
+manufactured_urgency        0.00    0.06    0.40  0.30    0 / 10
+self_intro_first            0.48    0.19    0.44  0.52    3 /  2
+disputable_pov              0.68    0.56    0.24  0.72   12 /  1
+
+== Coder opus (66 messages): means by dataset label, AUC strong>weak, within-pair wins
+feature                   strong     avg    weak  AUC   pairs s>w / s<w
+buyer_specific_trigger      0.84    0.94    0.40  0.72   11 /  0
+industry_specific_pain      0.80    0.25    0.00  0.90   20 /  0
+proof_level                 1.08    0.75    0.24  0.66   11 /  3
+unsupported_claims          0.00    0.06    1.32  0.20    0 / 15
+feature_list_items          0.92    0.69    2.84  0.43    5 / 10
+buyer_centric_pct          59.20   52.81   25.40  0.96   23 /  1
+mechanism_explained         0.44    0.19    0.00  0.72   11 /  0
+ask_size                    1.28    1.44    2.64  0.15    1 / 20
+ask_pressure                0.04    0.19    1.24  0.13    1 / 19
+opt_out                     0.32    0.25    0.00  0.66    8 /  0
+value_before_ask            0.60    0.19    0.00  0.80   15 /  0
+manufactured_urgency        0.00    0.00    0.40  0.30    0 / 10
+self_intro_first            0.48    0.19    0.44  0.52    3 /  2
+disputable_pov              0.36    0.12    0.04  0.66    8 /  0
+
+== Inter-coder agreement (66 messages)
+  buyer_specific_trigger   exact 95%  r=0.89
+  industry_specific_pain   exact 79%  r=0.65
+  proof_level              exact 83%  r=0.87
+  unsupported_claims       exact 74%  r=0.90
+  feature_list_items       exact 68%  r=0.95
+  buyer_centric_pct        exact 23%  r=0.81
+  mechanism_explained      exact 94%  r=0.85
+  ask_size                 exact 86%  r=0.76
+  ask_pressure             exact 86%  r=0.90
+  opt_out                  exact 91%  r=0.67
+  value_before_ask         exact 92%  r=0.82
+  manufactured_urgency     exact 98%  r=0.94
+  self_intro_first         exact 100%  r=1.00
+  disputable_pov           exact 70%  r=0.49

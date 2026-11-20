@@ -1,0 +1,18 @@
+{
+ "id": "T831",
+ "claims": [
+   {"gist": "Platform layer is consolidating while capability layer unbundles at the same time", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "author"},
+   {"gist": "Large security vendors have acquired cloud security startups", "type": "factual", "evidence": "none", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Consolidation reduces integration work and links misconfigurations to identity risk and alerts", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Narrow deep capabilities like Kubernetes runtime and identity analysis justify unbundling", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Platforms will win the baseline; specialists must be clearly better at hard problems", "type": "predictive", "evidence": "reasoning_only", "specific": false, "hedged": true, "owner": "author"},
+   {"gist": "Standalone tools that only duplicate platform features will struggle", "type": "predictive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "author"},
+   {"gist": "Buyers should demand open export and APIs and test claims in a proof of concept", "type": "prescriptive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"}
+ ],
+ "named_entities": 0,
+ "named_criticism": 0,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": true,
+ "thesis": "CNAPP consolidates at the platform layer while unbundling at the capability layer; buyers should separate the two."
+}

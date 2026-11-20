@@ -1,0 +1,58 @@
+=== TEXT 1 ===
+Subject: [Product] pricing and contract term
+
+Hi [AE name],
+
+[Product] is looking like a strong fit, and we'd like to move toward a decision by [date]. Before that I need to sort out two things: pricing and the contract term.
+
+Pricing
+Could you send a detailed quote that includes:
+- Pricing per [unit, e.g. workload / user / account] and how it scales as we grow, especially at [X] and [Y]
+- Which features and modules are included, and which cost extra
+- Implementation, onboarding, training, and support fees, including what each support tier covers
+- Any overage charges and how they're calculated
+- The renewal price, or a cap on renewal increases
+
+Contract term
+I understand three-year terms are your standard, but we can't commit to that right now. Our team hasn't run the product in production yet, and a year of real use will tell us much more than a proof of concept. Our budget is approved one year at a time, and a three-year commitment needs extra approvals that would push our timeline well past [date]. This market is also moving quickly, and we need to keep some flexibility.
+
+So we'd propose a one-year initial term with an option to renew. We'd be glad to lock in pricing for the renewal years now, or agree to a cap on increases (for example, no more than [X]% a year), so you still get predictability on your side.
+
+If a one-year term isn't possible, we could look at a multi-year agreement billed annually, with an exit option after year one if [Product] doesn't meet agreed success criteria. We'd set those criteria together up front.
+
+I'd like to keep this moving. Could we set up a call this week or next to go over the quote and terms? If it helps, I can bring [procurement contact / our security lead] so we can settle everything in one conversation.
+
+Thanks,
+[Your name]
+[Title, Company]
+
+=== TEXT 2 ===
+Subject: [Product] pricing and contract term
+
+Hi [AE name],
+
+Thanks for the time you and the team have put into our evaluation so far. [Product] is looking like a strong fit, and we'd like to move toward a decision by [date]. Before we do, I need to sort out two things: pricing and the contract term.
+
+Pricing
+Could you send a detailed quote that includes:
+- Pricing per [unit, e.g. workload / user / account] and how it scales as we grow, especially at [X] and [Y]
+- Which features and modules are included, and which cost extra
+- Implementation, onboarding, training, and support fees, including what each support tier covers
+- Any overage charges and how they're calculated
+- The renewal price, or a cap on renewal increases
+
+Contract term
+I understand that three-year terms are your standard, but that's not something we can commit to right now. Our concerns are:
+- We'd be committing to a product our team hasn't run in production yet. A year of real use will tell us much more than a proof of concept.
+- Our budget is approved one year at a time, and a three-year commitment needs extra approvals that would push our timeline well past [date].
+- This market is moving quickly, and we need to keep some flexibility.
+
+What we'd like to propose is a one-year initial term with an option to renew. We'd be glad to lock in pricing for the renewal years now, or agree to a cap on increases (for example, no more than [X]% a year), so you still get predictability on your side.
+
+If a one-year term isn't possible, we could look at a multi-year agreement that's billed annually, with an exit option after year one if [Product] doesn't meet agreed success criteria. We'd set those criteria together up front.
+
+I'd like to keep this moving. Could we set up a call this week or next to go over the quote and terms? If it helps, I can bring [procurement contact / our security lead] so we can settle everything in one conversation.
+
+Thanks,
+[Your name]
+[Title, Company]

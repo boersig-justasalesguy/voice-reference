@@ -1,0 +1,38 @@
+{
+ "live_exec_answer": {
+  "auc_mean": 0.9845750244287819,
+  "auc_min": 0.9517045454545454,
+  "ai_position_mean": 0.10287650768824638,
+  "human_position_mean": 0.8077875360987421,
+  "proxy": false,
+  "n_ai": 72,
+  "n_human": 207
+ },
+ "analyst_report": {
+  "auc_mean": 0.888126955166498,
+  "auc_min": 0.7083333333333334,
+  "ai_position_mean": 0.34132999311211093,
+  "human_position_mean": 0.7730466103426948,
+  "proxy": false,
+  "n_ai": 36,
+  "n_human": 41
+ },
+ "practitioner_post": {
+  "auc_mean": 0.9420824830686423,
+  "auc_min": 0.807843137254902,
+  "ai_position_mean": 0.2392082713370127,
+  "human_position_mean": 0.8936482606751596,
+  "proxy": false,
+  "n_ai": 43,
+  "n_human": 35
+ },
+ "one_to_one_message": {
+  "auc_mean": 0.9988888888888889,
+  "auc_min": 0.9777777777777777,
+  "ai_position_mean": 0.16695764514429737,
+  "human_position_mean": 0.7490669045076432,
+  "proxy": true,
+  "n_ai": 15,
+  "n_human": 25
+ }
+}

@@ -1,0 +1,6 @@
+CHANNEL: linkedin_dm
+STAGE: upsell
+SELLER: Account Manager at Quietwatch
+BUYER: Director of Security Operations, Energy & Utilities, Northfjord Grid Services (1000-5000 employees)
+MESSAGE:
+Ingrid, quick one! Quietwatch now supports your second SIEM. You should really add it to your plan ASAP; it's only a small additional cost and I can get it processed before year-end if you approve today. Shall I send the order form?

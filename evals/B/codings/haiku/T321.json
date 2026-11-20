@@ -1,0 +1,18 @@
+{
+ "id": "T321",
+ "claims": [
+   {"gist": "AI governance platforms are needed to inventory models and show regulators evidence", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Synthetic media makes executive impersonation cheap, and such fraud is growing", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Preemptive security should shift budget from alert handling to reducing attack surface", "type": "prescriptive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Agentic AI brings unintended actions, excessive access and unclear accountability", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Smaller domain-specific models can be more accurate and cheaper for specialized work", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "AI and data-center energy demand makes power a strategic constraint", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Avoid long commitments to one computing architecture while hardware changes quickly", "type": "prescriptive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"}
+ ],
+ "named_entities": 0,
+ "named_criticism": 0,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": true,
+ "thesis": "Seven 2027 technology trends need planning; prioritize them by relevance, readiness and risk."
+}

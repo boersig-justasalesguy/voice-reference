@@ -1,0 +1,10 @@
+{"pair":"Q09","units":[
+{"unit":"Addressee Kenji named","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Three pricing options discussed Monday","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Option 1: one-year term at 102K","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Option 2: two-year term at 94K per year","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Option 3: three-year term at 88K per year","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"All options include onboarding, support and new features","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Open to other structures if none work","kind":"offer","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Looking forward to hearing thoughts","kind":"ask","in_text1":true,"in_text2":false,"altered":null,"note":"Soft response invite dropped in Text 2"}
+],"same_meaning":"yes","better_message":"2","reason":"Options are laid out clearly for scanning; Text 1 is a run-on paragraph.","grade_text1":"average","grade_text2":"strong"}

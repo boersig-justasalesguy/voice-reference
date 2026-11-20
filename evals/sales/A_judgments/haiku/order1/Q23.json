@@ -1,0 +1,13 @@
+{"pair":"Q23","units":[
+{"unit":"Harriet asked for 25% off annual price","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Competitor quoted lower","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Says 25% is a lot and cannot be approved","kind":"stance","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Competitor product not as good","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":"Unverified disparagement in both"},
+{"unit":"Competitor has had security issues, I have heard","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":"Hearsay in both"},
+{"unit":"You get what you pay for","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Offer 15% if signed today","kind":"offer","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Maybe 20% if signed by Friday, pending manager approval","kind":"offer","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Multi-year possible but unlikely for their size","kind":"condition","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Pricing only good this week","kind":"deadline","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Ask: wrap up today at 15%","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""}
+],"same_meaning":"yes","better_message":"tie","reason":"Same pressure tactics and disparagement; only minor filler differs.","grade_text1":"weak","grade_text2":"weak"}

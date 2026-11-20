@@ -1,0 +1,6 @@
+CHANNEL: linkedin_dm
+STAGE: follow_up
+SELLER: Account Executive at Huntdeck
+BUYER: Threat Hunting Lead, Banking, Ashgrove Capital Bank (5000-10000 employees)
+MESSAGE:
+Leticia, following up on my note about Huntdeck. I saw your team presented hunting maturity at the state banking security forum. Would be interested in how you're tracking hunts today and whether you'd find a shared procedure library useful. Happy to share more if helpful.

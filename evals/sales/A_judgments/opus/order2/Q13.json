@@ -1,0 +1,104 @@
+{
+ "pair": "Q13",
+ "units": [
+  {
+   "unit": "Keiko from Patchbay",
+   "kind": "entity",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "'Awesome' after unanswered how-are-you",
+   "kind": "stance",
+   "in_text1": false,
+   "in_text2": true,
+   "altered": null,
+   "note": "Text 2 assumes reply"
+  },
+  {
+   "unit": "Patchbay is API integration platform/iPaaS",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "600+ pre-built connectors and feature list",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "SOC 2 Type II",
+   "kind": "entity",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Up and running in a few weeks",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "'We're really fast' emphasis",
+   "kind": "stance",
+   "in_text1": false,
+   "in_text2": true,
+   "altered": null,
+   "note": "Text 2 adds"
+  },
+  {
+   "unit": "Frees developers from integrations",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Ask for 45-minute demo",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": "strength_down",
+   "note": "Text 2 'see if it makes sense'"
+  },
+  {
+   "unit": "Ask current tool",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Faster, cheaper, probably save money",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Ask why not interested; push demo",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Close: Thursday or Friday invite",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "1",
+ "reason": "Both feature-dumps; Text 1 slightly less filler.",
+ "grade_text1": "weak",
+ "grade_text2": "weak"
+}

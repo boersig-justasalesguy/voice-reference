@@ -1,0 +1,60 @@
+{
+ "pair": "Q21",
+ "units": [
+  {
+   "unit": "Ask to book demo, [link]",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "[link]",
+   "kind": "placeholder",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "AI contract drafting and redlining legal teams love",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Draft faster, negotiate smarter, close sooner",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Automate redlines, playbook, versions, collaboration",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Lawyers and cats joke",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Ask placement: opening vs closing",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": "meaning_change",
+   "note": "Text 1 opens with ask, Text 2 ends"
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "2",
+ "reason": "Text 2's order is more coherent; Text 1's trailing joke is awkward.",
+ "grade_text1": "weak",
+ "grade_text2": "weak"
+}

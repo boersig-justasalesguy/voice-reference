@@ -1,0 +1,9 @@
+{"pair":"Q08","units":[
+{"unit":"Addressee Conrad named","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Pricing based on number of log sources","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Minimum term is one year","kind":"condition","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Payment annual in advance","kind":"condition","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Standard PO terms accepted subject to legal review","kind":"condition","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"No monthly billing offered","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Invites further questions","kind":"ask","in_text1":true,"in_text2":false,"altered":null,"note":"Closing invitation dropped in Text 2"}
+],"same_meaning":"yes","better_message":"2","reason":"Text 2 answers each point directly; Text 1 is a dense paragraph with filler.","grade_text1":"average","grade_text2":"strong"}

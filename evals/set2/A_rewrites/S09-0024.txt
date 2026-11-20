@@ -1,0 +1,9 @@
+Hey Ayodele, Matteo here from Relaykit. Your renewal is coming up in about 60 days, so I'm sending a quick video instead of another email with a PDF attached. Three things.
+
+First, the year. You started with 14 client tenants on Relaykit and you're at 23 now. Your team authored 61 detections centrally this year and pushed them out to client environments, and the adaptation step handled the field name differences in all but a handful of cases. Detection health monitoring flagged 37 rules across tenants that had gone silent, mostly from clients re-onboarding log sources without telling you. I know that caused some fun conversations.
+
+Second, the renewal. Your current agreement covers 25 tenants, so you're close to the ceiling. Pricing on the renewal is flat per tenant. We'd suggest bumping the tier to 35, so you're not renegotiating mid-year if your sales team keeps closing at this pace.
+
+Third, there's a new multi-tenant reporting feature in beta that I think your account managers would like. It produces a monthly detection coverage summary per client. Happy to get you into the beta if you want.
+
+I'll send the renewal paperwork next week. If you want to talk through the tier, just grab some time.

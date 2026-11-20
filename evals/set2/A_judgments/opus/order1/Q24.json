@@ -1,0 +1,81 @@
+{
+ "pair": "Q24",
+ "units": [
+  {
+   "unit": "Hears budget objection often",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Tunebench pays for itself",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": "strength_down",
+   "note": "Drops 'honestly'"
+  },
+  {
+   "unit": "Analyst false-positive hours cost money",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Customers find budget via ROI",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Suggest CFO business case",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Send ROI calculator",
+   "kind": "offer",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Repurpose other line-item budget",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Possible 20% off if sign this quarter",
+   "kind": "offer",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Discount may avoid CFO approval",
+   "kind": "condition",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Check back in a month",
+   "kind": "commitment",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "tie",
+ "reason": "Same pushy script; only filler words differ.",
+ "grade_text1": "weak",
+ "grade_text2": "weak"
+}

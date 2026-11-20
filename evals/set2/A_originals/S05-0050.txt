@@ -1,0 +1,16 @@
+CHANNEL: email
+STAGE: post_demo
+SELLER: Account Executive at Quietwatch
+BUYER: SIEM Engineer, Media & Entertainment, Northlight Media (1000-5000 employees)
+SUBJECT: Detection health check results
+MESSAGE:
+Hi Annika,
+
+Thanks for the time on Monday. As promised, here are the results from the Quietwatch health check we ran during the demo.
+
+Of your 520 scheduled detections, Quietwatch flagged 74 as potentially unhealthy. The most common causes were missing data from sources that changed format, stale lookups, and searches skipped due to concurrency limits. The full report is attached.
+
+We think Quietwatch could help your team keep detections healthy on an ongoing basis. Would you be open to a follow-up call to discuss a pilot?
+
+Best,
+Evander

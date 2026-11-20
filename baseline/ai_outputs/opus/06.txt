@@ -1,0 +1,104 @@
+A Practical Guide to Keeping Open-Source Malware Out of Your Software Supply Chain
+
+Open-source malware is not the same thing as a vulnerable package. A vulnerability is an accident: a bug that someone might exploit. Malware is deliberate: code written to steal credentials, open backdoors, or mine crypto, usually triggered the moment a developer runs `npm install` or `pip install`. Every major package ecosystem now sees a steady stream of malicious packages.
+
+Most vulnerability scanners (SCA tools) are not built to catch this. They match packages against databases of known CVEs, and malicious packages usually don't get CVEs. By the time a scanner flags something in CI, the malicious install script may already have run on a developer's laptop and sent off their cloud credentials.
+
+This guide covers how the attacks work and the controls that actually stop them, ordered roughly by impact for the effort involved.
+
+How malicious packages get in
+
+Knowing the common techniques helps you pick the right controls:
+
+- Typosquatting: `reqeusts` instead of `requests`, `lodahs` instead of `lodash`. These depend on typos and copy-paste mistakes.
+- Dependency confusion: An attacker publishes a public package with the same name as one of your internal packages, often with a higher version number. A misconfigured package manager pulls the public one.
+- Account takeover: An attacker gets into a legitimate maintainer's account through phishing, a reused password, or a stolen token, and publishes a malicious version of a trusted package.
+- Malicious maintainer or handoff: A project changes hands, or a long-trusted contributor slowly earns commit access, then inserts malicious code.
+- Install-time scripts: `postinstall` hooks in npm and `setup.py` in Python run arbitrary code during installation, before your application ever runs.
+- AI-hallucinated names ("slopsquatting"): Attackers register package names that AI coding assistants tend to invent, waiting for developers to install whatever the assistant suggested.
+
+Control 1: Put a gate in front of public registries
+
+This is the most important control. Developers and build systems should not pull packages straight from npm, PyPI, Maven Central, and similar registries. They should go through a proxy or repository manager you control.
+
+- Route all package installs through an internal registry or proxy, such as Artifactory, Nexus, a cloud provider's artifact service, or a dedicated package firewall.
+- Configure the proxy to block packages that are known to be malicious, using a threat feed that tracks malicious packages and not just CVEs.
+- Block network access to public registries from CI runners and, where practical, from developer machines, so the proxy can't be bypassed.
+
+Control 2: Prevent dependency confusion
+
+- Reserve your internal package names and scopes on public registries (for example, claim your `@yourcompany` npm scope).
+- Configure package managers so internal names only resolve from your internal registry. In npm, use scoped registries in `.npmrc`. In pip, avoid `--extra-index-url`, which checks both sources, and use a single proxied index instead.
+- Audit build configurations for any place that mixes public and private sources.
+
+Control 3: Add a cooldown for new versions
+
+Most malicious versions are found and removed within days. A simple policy of "don't automatically adopt a version until it has been public for N days" (seven is a common choice) blocks a large share of account-takeover attacks.
+
+- Many package proxies and dependency update tools support a minimum release age.
+- Allow exceptions for urgent security patches, with a quick manual review.
+
+Control 4: Lock and verify what you install
+
+- Commit lockfiles (`package-lock.json`, `poetry.lock`, `go.sum`, and so on) and enforce them in CI with commands like `npm ci` or `pip install --require-hashes`.
+- Use hash pinning so a package can't be silently swapped for a different file with the same version number.
+- Review lockfile changes in pull requests. A surprise new transitive dependency deserves a closer look.
+
+Control 5: Limit install-time code execution
+
+- In npm, consider `--ignore-scripts` by default, then allowlist the packages that legitimately need install scripts. Newer package managers, such as pnpm, support this pattern directly.
+- Run builds in isolated, short-lived environments with no access to production credentials.
+- Don't keep long-lived cloud credentials on developer laptops, where a malicious install script can find them. Use short-lived credentials from SSO.
+
+Control 6: Evaluate new dependencies before adopting them
+
+Set a light review step for adding a new direct dependency. Check:
+
+- Is this actually the package you meant? Check spelling, publisher, and download count.
+- Is it maintained, and by whom? Did ownership change recently?
+- Does it have install scripts, obfuscated code, or network calls that don't fit its purpose?
+- Do you really need it? A 10-line utility may be better written in-house.
+
+Tools such as OpenSSF Scorecard and commercial package reputation services can automate much of this. Pay special attention to packages suggested by AI coding assistants, and confirm they exist and are legitimate before installing.
+
+Control 7: Scan for malicious behavior, not just CVEs
+
+Add tooling that looks specifically for malicious indicators: install scripts that make network calls, obfuscated payloads, credential harvesting, and known malicious package lists. Run it at three points:
+
+- In the registry proxy, before a package is cached
+- In pull requests, when dependencies change
+- Continuously against your existing dependencies, since a package you already use can be flagged later
+
+Control 8: Protect your own publishing
+
+You are part of someone else's supply chain too.
+
+- Require phishing-resistant MFA for all accounts that can publish packages.
+- Use trusted publishing (OIDC-based publishing from CI) instead of long-lived registry tokens.
+- Sign releases and publish provenance attestations, for example with Sigstore and SLSA provenance.
+
+Control 9: Know what you have
+
+- Generate SBOMs for every build and store them centrally.
+- When a malicious package is announced, you should be able to answer "Do we use this, which version, and where?" in minutes, not days.
+
+When you find one: response steps
+
+If a malicious package got in, treat it as a credential compromise, not just a dependency update.
+
+1. Identify every system that installed it: developer machines, CI runners, build servers, and production images.
+2. Assume any secrets those systems could reach have been stolen. Rotate cloud keys, tokens, SSH keys, and registry credentials.
+3. Remove the package, rebuild affected artifacts from clean environments, and redeploy.
+4. Check for persistence and follow-on activity, such as new cloud access keys, unusual API calls, or unexpected outbound connections.
+5. Block the package and the publisher in your proxy.
+6. Write up what happened and which control would have stopped it.
+
+Where to start
+
+If you can only do three things this quarter:
+
+1. Route all installs through a proxy that blocks known malicious packages.
+2. Fix dependency confusion risk by reserving names and scoping internal registries.
+3. Enforce lockfiles and a version cooldown in CI.
+
+Those three controls stop most of the attacks seen in the wild today, and none of them requires developers to change how they write code.

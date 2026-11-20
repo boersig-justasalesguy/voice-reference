@@ -1,0 +1,15 @@
+CHANNEL: email
+STAGE: cold_outreach
+SELLER: Enterprise Account Executive at Crossover
+BUYER: CISO, Defense Contracting, Aldergate Systems (5000-10000 employees)
+SUBJECT: Aldergate's SIEM move and the coverage gap nobody budgets for
+MESSAGE:
+Nikhil,
+
+Your job posting for a "SIEM migration lead" suggests Aldergate is changing platforms next year. The risk CISOs tell us they underestimate isn't the cutover; it's the months afterward when some detections are translated but silently not working, and nobody notices until an assessor or an incident does.
+
+Crossover moves your rule library between platforms and validates every translated rule against live data on both sides, so you get a report of what will fire, what won't and why, before you decommission the old system. For a contractor under customer security audits, that report is also evidence that coverage was maintained.
+
+Would it be worth 20 minutes to look at what a validation report would look like for your top 100 rules? Your migration lead, once hired, would get a head start too.
+
+Beatrix

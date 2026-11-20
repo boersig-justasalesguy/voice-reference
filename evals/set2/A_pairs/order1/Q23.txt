@@ -1,0 +1,30 @@
+CHANNEL: email
+STAGE: re_engagement
+SELLER: Account Executive at Logatlas
+BUYER: Security Data Engineer, Logistics, Swiftmarch Logistics (1000-5000 employees)
+
+=== TEXT 1 ===
+SUBJECT: Your Logatlas trial expired 30 days ago
+Hi Delphine,
+
+Your Logatlas trial expired 30 days ago. Upgrade to Logatlas Team to keep your data dictionary. Team also gives you unlimited log sources and premium features: automated schema-drift alerts, sample-event refresh and the agent-ready export.
+
+Upgrade before the end of the month and you get 20% off your first year.
+
+To upgrade, click the button below.
+
+The Logatlas Team
+
+=== TEXT 2 ===
+SUBJECT: Your Logatlas trial has expired - upgrade now!
+Hi Delphine,
+
+Your Logatlas trial expired 30 days ago. Don't lose access to all the work you've done!
+
+Upgrade to Logatlas Team today to keep your data dictionary, unlock unlimited log sources, and get access to premium features like automated schema-drift alerts, sample-event refresh and the agent-ready export.
+
+For a limited time, get 20% off your first year when you upgrade before the end of the month.
+
+Upgrade now: click the button below.
+
+The Logatlas Team

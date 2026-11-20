@@ -1,0 +1,22 @@
+CHANNEL: email
+STAGE: negotiation
+SELLER: Account Executive at Beacon CX
+BUYER: VP Customer Success, Healthcare Tech, Pulsemark Health (200-500 employees)
+
+=== TEXT 1 ===
+SUBJECT: Beacon CX contract
+Hi Alistair,
+
+Attached is the contract with the changes we talked about. Let me know if you have any questions or if anything looks off.
+
+Thanks!
+Gemma
+
+=== TEXT 2 ===
+SUBJECT: Beacon CX contract
+
+Hi Alistair,
+
+Attached is the contract with the changes we talked about. Let me know if you have any questions or if anything looks off.
+
+Gemma

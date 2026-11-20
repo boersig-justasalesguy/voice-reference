@@ -1,0 +1,14 @@
+{"pair":"P12","units":[
+{"unit":"Introduction between Maria Chen and Sam Okafor","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Maria is CISO at First Meridian Bank, about 3,000 employees","kind":"number","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Maria focuses on third-party risk and securing cloud workloads","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Sam is founder and CEO of Lattice Security","kind":"entity","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Lattice builds tooling to detect credential abuse in cloud","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Sam led detection engineering at a large fintech","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Maria faces the same problem Sam's team is working on","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Sam wants candid feedback from a financial-services security leader","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Neither party is obliged to do anything","kind":"condition","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Sender suspects they would enjoy the conversation","kind":"stance","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Sender's enthusiasm about the introduction","kind":"stance","in_text1":true,"in_text2":true,"altered":"strength_up","note":"Text 2 opens with I'm delighted; Text 1 is a plain I'd like to introduce."},
+{"unit":"No need to reply-all to the sender","kind":"condition","in_text1":true,"in_text2":true,"altered":null}
+],"same_meaning":"yes","more_human":"1","human_reason":"Text 1 is plainer and matches a typical intro; Text 2's I'm delighted reads a bit effusive."}

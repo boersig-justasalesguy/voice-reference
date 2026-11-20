@@ -1,0 +1,139 @@
+{
+ "id": "T822",
+ "claims": [
+  {
+   "gist": "Vendor choice is hard due to inconsistent terms and criteria",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Methodology gives buyers a consistent evaluation framework",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Criteria come from buyer interviews, documentation and expertise",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Analysts verify claims via demos, references and testing where feasible",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": true,
+   "owner": "author"
+  },
+  {
+   "gist": "Weights reflect typical buyer priorities",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "A second analyst reviews scores before publication",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Adjust weights to your own priorities",
+   "type": "prescriptive",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Shortlist three to five vendors, then test finalists",
+   "type": "prescriptive",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Examine criteria behind scores, not just rankings",
+   "type": "prescriptive",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Involve practitioners who spot gaps analysts miss",
+   "type": "prescriptive",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "No evaluation replaces an in-environment proof of concept",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Scores reflect a point in time as vendors change quickly",
+   "type": "factual",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Ratings are not guarantees of organizational fit",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Firm accepts no payment for inclusion or favorable placement",
+   "type": "factual",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Vendors may buy research access without influencing ratings",
+   "type": "factual",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Conflicts of interest are disclosed where they exist",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  }
+ ],
+ "named_entities": 1,
+ "named_criticism": 0,
+ "admitted_limits": 3,
+ "stake_disclosure": true,
+ "disputable_thesis": false,
+ "thesis": "A transparent, repeatable vendor evaluation methodology helps buyers shortlist, though it cannot replace their own proof of concept."
+}

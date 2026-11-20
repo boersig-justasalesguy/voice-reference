@@ -1,0 +1,10 @@
+{"pair":"Q11","units":[
+{"unit":"Addressee Benedikt named","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Attended Wednesday threat-informed ingest session","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Attendees asked how Sieveline coexists with pipeline","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Sieveline does not replace the existing pipeline","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Decides filter, sample or route rules pushed into pipeline","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Carrier targets: network element syslog and duplicate flows","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Carriers see 30 to 40 percent ingest reduction","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Asks for 30-minute call on top ten sources","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""}
+],"same_meaning":"yes","better_message":"tie","reason":"Same content and ask; wording differences are cosmetic.","grade_text1":"average","grade_text2":"average"}

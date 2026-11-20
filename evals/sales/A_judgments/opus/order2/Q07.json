@@ -1,0 +1,45 @@
+{
+ "pair": "Q07",
+ "units": [
+  {
+   "unit": "Proposal for SOC 2 Type II and ISO 27001",
+   "kind": "entity",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Total $46K/year",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Includes evidence collection, policies, vendor risk, training, trust center",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Implementation typically 4-6 weeks",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Invite to discuss",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "tie",
+ "reason": "Same bare content; list vs prose; both lack next step or tailoring.",
+ "grade_text1": "average",
+ "grade_text2": "average"
+}

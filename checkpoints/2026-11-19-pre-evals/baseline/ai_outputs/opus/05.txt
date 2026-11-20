@@ -1,0 +1,59 @@
+CNAPP Is Consolidating and Unbundling at the Same Time
+
+Ask ten people in cloud security whether the CNAPP market is consolidating or unbundling and you'll get ten confident answers, split about evenly. I think both camps are right, because they're describing different layers of the same market. The platform layer is consolidating. The capability layer is unbundling. Knowing which layer you're buying at is the most useful thing a security team can take from this debate.
+
+The case for consolidation
+
+The evidence here is hard to argue with.
+
+Large vendors have spent the last few years buying their way to complete platforms. They acquired posture management, workload protection, container security, code scanning, data security, and identity entitlement tools, then stitched them together. Big-ticket acquisitions in the space keep coming, and nearly every major vendor's pitch now amounts to "one agent, one console, one bill."
+
+Buyers are pushing in the same direction. Security budgets are under pressure. CISOs are tired of managing a dozen contracts and a dozen consoles that disagree about which risk matters most. Procurement teams like consolidation because it gives them leverage. And there's a real technical argument too: risk is about combinations. A vulnerable container is a minor issue. A vulnerable container that's exposed to the internet, running with an over-privileged role that can read a bucket of customer data, is a serious one. You can only see that "toxic combination" if posture, workload, identity, and data context live in one graph.
+
+So at the platform layer, consolidation is real, and it's mostly driven by sound reasons.
+
+The case for unbundling
+
+Now look at what's actually happening inside security teams that bought those platforms.
+
+Many of them are paying for a full CNAPP and running it mainly as a CSPM plus a vulnerability scanner. Meanwhile, they're buying specialist tools next to it:
+
+- Runtime and CDR, because the platform's runtime sensor wasn't deep enough or produced too much noise for the SOC
+- Application security and supply chain, because developers wouldn't use the platform's code scanning, which was built for security teams and not for pull request workflows
+- Identity, because cloud entitlements and machine identities became their own problem, big enough to need dedicated tools
+- Data security, because finding and classifying sensitive data at scale is hard, and posture platforms often treat it as a feature
+- AI security, which is new enough that no platform does it well yet
+
+New startups keep appearing in each of these areas, and they're winning deals. Not because buyers want more vendors, but because the platform's version of that capability was "good enough" on a slide and not good enough in production.
+
+That's unbundling. It's happening one capability at a time, often quietly, inside companies that think of themselves as "consolidated."
+
+Why both are true
+
+CNAPP was always more of a packaging decision than a product. It bundles capabilities that serve different users (cloud engineers, developers, SOC analysts, GRC teams) with different workflows and different definitions of "good."
+
+Bundling works well for the capabilities where context matters most and where "good enough" really is good enough. Posture and basic vulnerability management fit that. The value is in the shared context, and the individual features have become commodities.
+
+Bundling works poorly for capabilities where depth decides the outcome and the user is someone other than the platform's main buyer. Runtime detection lives or dies on false positive rates. Developer security lives or dies on whether developers actually use it. In those areas, a specialist that's 30% better can easily justify its own line item.
+
+So the market is settling into a pattern I'd describe as "platform core, specialist edges." A consolidated platform owns the shared context graph: the inventory, posture, and risk prioritization. Specialist tools plug into it, or sit next to it, where depth matters.
+
+What this means if you're buying
+
+A few practical takeaways:
+
+1. Buy the platform for the graph, not the feature list. The real value of a CNAPP is a shared, accurate model of your cloud: assets, identities, exposure, data. Judge it on how good that model is and how open it is to other tools.
+
+2. Run a real test on the modules you think you'll use. Don't assume the bundled runtime or code scanning module is good enough because it shows up in the demo. Run it against your environment and with the people who will actually use it.
+
+3. Insist on openness. Ask how the platform takes in findings from third-party tools and how it exports its own. A platform that only works well with its own modules will make every future specialist purchase harder.
+
+4. Don't count shelfware as consolidation. If you're paying for six modules and using two, you haven't consolidated. You've prepaid for things you might buy separately later anyway.
+
+5. Watch the contract terms. Platform vendors will offer heavy discounts for multi-year, all-module commitments. That's a reasonable deal only if you're sure you'll adopt those modules. Otherwise, negotiate the flexibility to drop modules you don't use.
+
+My prediction
+
+Over the next few years, I expect the big platforms to keep consolidating the core. A few of them will become the default system of record for cloud risk, much as SIEM became the system of record for security events. At the same time, I expect a steady wave of specialists at the edges, with the strongest of them eventually acquired, which restarts the cycle.
+
+So the honest answer to "consolidating or unbundling?" is: yes. The useful question for your team is which parts of your cloud security program actually benefit from shared context, and which parts need a best-in-class tool. Answer that, and the market debate stops mattering much.

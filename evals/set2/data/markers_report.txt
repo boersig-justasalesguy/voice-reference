@@ -1,0 +1,70 @@
+== Means by quality label
+feature                 strong   average      weak   AUC(weak>strong)
+words                   139.58     90.12     98.19   0.32
+sent_sd                   9.46      7.88      7.99   0.39
+triplet_k                 3.36      3.84      6.56   0.58
+notbut_k                  1.13      0.66      0.29   0.44
+I_k                      17.28     22.01     32.58   0.70
+we_k                     12.09     14.50     22.69   0.68
+you_k                    44.30     44.38     45.34   0.51
+hedge_k                   2.12      3.59      4.19   0.54
+num_k                    16.81     15.13     13.53   0.45
+q_k                       9.26      9.98     10.14   0.45
+placeholders              0.60      0.30      0.35   0.47
+superlative               0.00      0.00      0.18   0.56
+preamble                  0.01      0.04      0.19   0.58
+transform                 0.00      0.00      0.03   0.51
+urgency                   0.00      0.00      0.12   0.55
+offload_close             0.00      0.24      0.31   0.65
+opt_out                   0.02      0.01      0.01   0.49
+feature_dump              3.27      2.73      3.63   0.49
+names_company             0.26      0.20      0.32   0.53
+ends_with_question        0.38      0.29      0.29   0.45
+
+== Reply outcome (positive vs negative/unsubscribe) within each quality label is not separable by design; overall AUC:
+  words                AUC(neg>pos)=0.40
+  sent_sd              AUC(neg>pos)=0.42
+  triplet_k            AUC(neg>pos)=0.62
+  notbut_k             AUC(neg>pos)=0.46
+  I_k                  AUC(neg>pos)=0.63
+  we_k                 AUC(neg>pos)=0.71
+  you_k                AUC(neg>pos)=0.45
+  hedge_k              AUC(neg>pos)=0.49
+  num_k                AUC(neg>pos)=0.53
+  q_k                  AUC(neg>pos)=0.42
+  placeholders         AUC(neg>pos)=0.49
+  superlative          AUC(neg>pos)=0.56
+  preamble             AUC(neg>pos)=0.56
+  transform            AUC(neg>pos)=0.51
+  urgency              AUC(neg>pos)=0.59
+  offload_close        AUC(neg>pos)=0.64
+  opt_out              AUC(neg>pos)=0.49
+  feature_dump         AUC(neg>pos)=0.48
+  names_company        AUC(neg>pos)=0.49
+  ends_with_question   AUC(neg>pos)=0.45
+
+== Within-pair (36 weak/strong pairs, same scenario): share of pairs where weak > strong / weak < strong
+  pairs usable: 25
+  words                weak higher  4 | weak lower 21 | tie  0
+  sent_sd              weak higher 13 | weak lower 12 | tie  0
+  triplet_k            weak higher  7 | weak lower  5 | tie 13
+  notbut_k             weak higher  0 | weak lower  2 | tie 23
+  I_k                  weak higher 17 | weak lower  6 | tie  2
+  we_k                 weak higher 16 | weak lower  5 | tie  4
+  you_k                weak higher 14 | weak lower 11 | tie  0
+  hedge_k              weak higher 11 | weak lower  2 | tie 12
+  num_k                weak higher  7 | weak lower 15 | tie  3
+  q_k                  weak higher  9 | weak lower  8 | tie  8
+  placeholders         weak higher  1 | weak lower  4 | tie 20
+  superlative          weak higher  2 | weak lower  0 | tie 23
+  preamble             weak higher  5 | weak lower  0 | tie 20
+  transform            weak higher  1 | weak lower  0 | tie 24
+  urgency              weak higher  2 | weak lower  0 | tie 23
+  offload_close        weak higher  4 | weak lower  0 | tie 21
+  opt_out              weak higher  0 | weak lower  1 | tie 24
+  feature_dump         weak higher 11 | weak lower 10 | tie  4
+  names_company        weak higher  6 | weak lower  5 | tie 14
+  ends_with_question   weak higher  3 | weak lower  4 | tie 18
+
+== Quality x reply cross-tab (shows labels and replies were generated together)
+Counter({('strong', 'positive'): 202, ('strong', 'none'): 200, ('average', 'none'): 188, ('weak', 'none'): 105, ('weak', 'negative'): 38, ('average', 'neutral'): 27, ('strong', 'neutral'): 22, ('strong', 'objection'): 19, ('average', 'objection'): 19, ('weak', 'objection'): 16, ('average', 'positive'): 15, ('weak', 'unsubscribe'): 12, ('weak', 'neutral'): 11, ('average', 'negative'): 2})

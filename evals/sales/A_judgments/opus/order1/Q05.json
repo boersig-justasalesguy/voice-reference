@@ -1,0 +1,67 @@
+{
+ "pair": "Q05",
+ "units": [
+  {
+   "unit": "Sorry about the budget cut",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Losing a researcher hurts",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Fieldnote may matter more now",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Designers running own interviews without synthesizer",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "New spend off the table",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Offer free plan details",
+   "kind": "offer",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Start capturing calls now",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Honestly hedge",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": false,
+   "altered": null,
+   "note": "'Honestly' dropped in Text 2"
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "tie",
+ "reason": "Same empathetic, practical message; differences negligible.",
+ "grade_text1": "strong",
+ "grade_text2": "strong"
+}

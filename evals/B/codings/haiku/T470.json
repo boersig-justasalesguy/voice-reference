@@ -1,0 +1,19 @@
+{
+ "id": "T470",
+ "claims": [
+   {"gist": "Vendor evaluations help build shortlists and sharpen questions, not make purchases", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Each evaluation compares vendors against the same criteria on two axes", "type": "factual", "evidence": "none", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Evaluations are refreshed every 12 to 24 months depending on market change", "type": "factual", "evidence": "none", "specific": true, "hedged": false, "owner": "impersonal"},
+   {"gist": "Vendors do not pay to be included in or left out of evaluations", "type": "factual", "evidence": "none", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Analysts' compensation is not tied to vendor revenue", "type": "factual", "evidence": "none", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Vendors may fact-check their profiles but cannot change scores or analysis", "type": "factual", "evidence": "none", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Choosing the vendor furthest up and to the right is the most common buyer mistake", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "The top-scoring vendor fits a typical buyer, and most buyers are not typical", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"}
+ ],
+ "named_entities": 0,
+ "named_criticism": 0,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": false,
+ "thesis": "Vendor evaluations build shortlists and better questions; top scorers fit typical buyers, not necessarily you."
+}

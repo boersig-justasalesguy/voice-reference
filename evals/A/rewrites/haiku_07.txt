@@ -1,0 +1,14 @@
+Subject: 20 minutes on your cloud security tooling experience?
+
+Hi [First Name],
+
+Would you be open to a 20-minute call in the next few weeks? I'm [Your Name], [Your Title] at [Your Company]. I came across your work on [specific thing, such as a talk, post, or project] and thought you might be the right person to ask about running cloud security tooling in practice.
+
+We're evaluating how security teams in cloud-heavy environments get value from their tools, and I'd like to learn from someone who has done the work. What worked, what didn't, what you wish you'd known before rolling it out. I'm not trying to sell you anything, and I'm happy to share what we learn from other conversations.
+
+If a call isn't a good fit, I'd still appreciate a pointer to anyone on your team who might be willing to talk.
+
+Best,
+[Your Name]
+[Your Title], [Your Company]
+[Phone or LinkedIn URL]

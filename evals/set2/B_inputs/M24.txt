@@ -1,0 +1,24 @@
+CHANNEL: video_script
+STAGE: follow_up
+SELLER: Account Executive at Baseline Forge
+BUYER: Principal Detection Engineer, Insurance, Granite Shoal Mutual (5000-10000 employees)
+MESSAGE:
+[Screen share from the start. Small webcam bubble in the corner.]
+
+Tomasz, Nadia from Baseline Forge. Two minutes, one chart, and then I'll get out of your way.
+
+[Show chart: weekly alert count for an impossible-travel style rule, anonymized sample data shaped like an insurer's.]
+
+On our call last week you said your impossible-travel rule fires about 900 times a week, mostly from claims adjusters who log in from hotels, field sites and their phones within the same hour. You've been tuning it with a static allow-list, and the list is now longer than the rule.
+
+Here's what the same logic looks like as a peer-group baseline. Instead of one global threshold, Baseline Forge learns what normal travel looks like for each peer group: field adjusters, underwriters, the call center. Then it scores logins against their own group's history.
+
+[Highlight the drop.] On this sample, weekly alerts drop from about 900 to about 60, and the six real anomalies we planted are all still in the top 20 by risk score.
+
+[Switch to the generated detection.] This is the scheduled search it would deploy in your environment. It uses your existing identity lookup and the risk-scoring fields your team already writes to, so it doesn't introduce a parallel pipeline you'd have to maintain.
+
+Two caveats, because you'll ask: the baseline needs about 30 days of history to settle, and peer groups are only as good as your HR department data, which you mentioned is a bit messy for contractors.
+
+My suggestion: send me two weeks of anonymized login events for one region, and we'll return this same chart built on your data, plus the query. If the numbers don't hold up, you'll know quickly and it costs you nothing but an export.
+
+I'll follow up by email with the field list we'd need. Thanks, Tomasz.

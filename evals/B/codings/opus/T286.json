@@ -1,0 +1,179 @@
+{
+ "id": "T286",
+ "claims": [
+  {
+   "gist": "By 2025, 40% of boards will have cyber committees, from under 10%",
+   "type": "predictive",
+   "evidence": "data_cited",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Organizational changes respond to pandemic-expanded digital footprint",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Boards rate cybersecurity second-highest enterprise risk",
+   "type": "factual",
+   "evidence": "data_cited",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Few directors feel their company is properly secured",
+   "type": "factual",
+   "evidence": "data_cited",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Many boards are forming confidential cybersecurity committees",
+   "type": "factual",
+   "evidence": "named_source",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Committee governance likely changes the board-CISO relationship",
+   "type": "predictive",
+   "evidence": "named_source",
+   "specific": false,
+   "hedged": true,
+   "owner": "attributed"
+  },
+  {
+   "gist": "CISOs will get more scrutiny but also more support",
+   "type": "predictive",
+   "evidence": "named_source",
+   "specific": true,
+   "hedged": true,
+   "owner": "attributed"
+  },
+  {
+   "gist": "CISO executive conversations should shift toward risk and value",
+   "type": "prescriptive",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "By 2024, 60% of CISOs will partner with sales, finance, marketing",
+   "type": "predictive",
+   "evidence": "data_cited",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Effective CISOs treat business unit heads as key partners",
+   "type": "evaluative",
+   "evidence": "named_source",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Top CISOs meet three times more non-IT than IT stakeholders",
+   "type": "factual",
+   "evidence": "data_cited",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Cyber-physical threats increasingly risk asset-intensive enterprises",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Attackers increasingly target weaknesses, including ransomware and supply chains",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Siloed security disciplines are a liability",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Security teams must expand to physical-world threats",
+   "type": "prescriptive",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "By 2025, 50% of asset-intensive organizations will converge security under a CSO",
+   "type": "predictive",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "61% of organizations struggled to hire security professionals",
+   "type": "factual",
+   "evidence": "data_cited",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Pandemic proved security capabilities can be delivered remotely",
+   "type": "factual",
+   "evidence": "named_source",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Cybersecurity teams can work remotely and remain effective",
+   "type": "evaluative",
+   "evidence": "named_source",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "By 2022, 30% of security teams will increase permanent remote staff",
+   "type": "predictive",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Leaders should recruit outside traditional geographies",
+   "type": "prescriptive",
+   "evidence": "named_source",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  }
+ ],
+ "named_entities": 3,
+ "named_criticism": 0,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": true,
+ "thesis": "Expanded pandemic-era risk will drive board cyber committees, CISO business partnerships, converged security and remote security teams."
+}

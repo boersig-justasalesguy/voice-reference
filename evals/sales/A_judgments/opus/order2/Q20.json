@@ -1,0 +1,60 @@
+{
+ "pair": "Q20",
+ "units": [
+  {
+   "unit": "Tallyhouse very different from ERP",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "ERPs clunky, hard to use, nobody likes them",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Feature list",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Most customers had ERP and chose us",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "'Honestly' emphasis",
+   "kind": "stance",
+   "in_text1": false,
+   "in_text2": true,
+   "altered": null,
+   "note": "Text 2 adds"
+  },
+  {
+   "unit": "Mistake not to see demo",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Ask 30 minutes next week",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "1",
+ "reason": "Text 1 slightly cleaner; both dismissive of CFO's ERP.",
+ "grade_text1": "weak",
+ "grade_text2": "weak"
+}

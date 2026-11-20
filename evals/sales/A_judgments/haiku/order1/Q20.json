@@ -1,0 +1,10 @@
+{"pair":"Q20","units":[
+{"unit":"Re: we already have an ERP, reply to Lionel","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Acknowledges Ironvale already has an ERP","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"ERPs are not built for procurement","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"ERPs are clunky, hard to use, and disliked","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Tallyhouse features: intake, approvals, vendor onboarding, contracts, spend analytics","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Most customers had an ERP and still chose Tallyhouse","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Buyer would be making a mistake not to see demo","kind":"stance","in_text1":true,"in_text2":true,"altered":null,"note":"Pressure in both"},
+{"unit":"Ask: 30-minute demo next week","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""}
+],"same_meaning":"yes","better_message":"2","reason":"Cleaner sentence breaks; same dismissive ERP pitch, so grades stay average.","grade_text1":"average","grade_text2":"average"}

@@ -1,0 +1,19 @@
+{
+ "id": "T406",
+ "claims": [
+   {"gist": "Five product capabilities will dominate in 2026", "type": "predictive", "evidence": "reasoning_only", "specific": true, "hedged": false, "owner": "author"},
+   {"gist": "Supply chain malware detection is now a priority in application security assessments", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "author"},
+   {"gist": "Shai Hulud compromised thousands of organizations in recent attacks", "type": "factual", "evidence": "named_example", "specific": true, "hedged": false, "owner": "author"},
+   {"gist": "Developer adoption of npm wrappers and firewalls is extremely low", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "author"},
+   {"gist": "Many AI vulnerability and CTEM startups consolidated in 2025", "type": "factual", "evidence": "reasoning_only", "specific": true, "hedged": false, "owner": "author"},
+   {"gist": "Major cloud providers' AI guardrails will outgrow security-specific runtime guardrail tools", "type": "predictive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "author"},
+   {"gist": "Code-instrumented AI guardrails are best left to major AI providers", "type": "prescriptive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "author"},
+   {"gist": "AI-based detections are a categorical improvement across SAST, DAST, DLP and phishing", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "author"}
+ ],
+ "named_entities": 5,
+ "named_criticism": 0,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": true,
+ "thesis": "Supply chain malware detection, AI remediation, AI guardrails and AI detections will dominate 2026 security product priorities."
+}

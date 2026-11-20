@@ -1,0 +1,20 @@
+{"pair":"P13","units":[
+{"unit":"Requests $145,000 annual budget for cloud threat detection tool","kind":"ask","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Cloud footprint grew about 40% in past year","kind":"number","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Ability to detect active attacks has not kept pace","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Logs nobody has time to review in real time","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Last incident took [X] days to spot suspicious activity","kind":"number","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Breach could expose data, trigger costs, interrupt revenue","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Three vendors evaluated; recommends [Vendor]","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Year 1: $145,000 license plus about $15,000 implementation","kind":"number","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Years 2 and 3: $145,000 per year with 5% renewal cap","kind":"number","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"$30,000 per year below highest bid, in line with others","kind":"number","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Risk reduction; cyber insurance renewal asks about detection","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Confirm with broker whether premiums are affected","kind":"ask","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Saves about [X] analyst hours per month","kind":"number","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Supports monitoring requirements in [SOC 2 / PCI / contracts]","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Without it the gap and risk grow","kind":"stance","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Sign by [date] to hold pricing; rollout in [month]","kind":"deadline","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Open to shorter commitment or phased start","kind":"offer","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"20-minute meeting this week; will bring comparison and one-pager","kind":"ask","in_text1":true,"in_text2":true,"altered":null}
+],"same_meaning":"yes","more_human":"tie","human_reason":"Both are the same structured business memo with headers and bullets; neither reads more personal than the other."}

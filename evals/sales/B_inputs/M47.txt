@@ -1,0 +1,26 @@
+CHANNEL: call_script
+STAGE: upsell
+SELLER: Account Executive, Expansion at Tallyhouse
+BUYER: Procurement Director, Higher Education, Lindenmoor University (5000+ employees)
+MESSAGE:
+[Context: Lindenmoor uses Tallyhouse for central procurement. Departments still buy via p-cards with no visibility. Odalys mentioned in the QBR that audit flagged p-card spend.]
+
+Good afternoon, Odalys. This is Caspian Rourke from Tallyhouse. Thank you for the time.
+
+I'm following up on the audit finding you mentioned at our last review, about departmental card spending. I'd like to share what we've seen at two other universities and ask a few questions about how you're approaching it.
+
+First, a question: roughly how much annual spend goes through departmental cards today, and do you have a sense of how much of it duplicates contracts you already have centrally?
+
+[Listen. Many universities find 15 to 25 percent of card spend overlaps existing contracts.]
+
+Thank you. That's consistent with what we've seen. At Calloway State, for example, about a fifth of card purchases were for items on existing contracts, mostly lab supplies and IT peripherals.
+
+Our Card Spend module connects to your card issuer's feed and classifies each transaction against your contract catalog. Departments keep their cards, but you see the overlap and can redirect purchases. It also gives the auditors a monthly exception report.
+
+Before I go further, who else would need to be involved? I expect the Controller's office and possibly Internal Audit.
+
+[Listen and note names.]
+
+In terms of investment, for an institution of Lindenmoor's size the module is approximately $38,000 annually. Given academic budget cycles, I'd propose a pilot with three departments in the spring term, so you have data before the fiscal year planning in May.
+
+Would it be appropriate to schedule a session with you and the Controller's office in January?

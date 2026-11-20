@@ -1,0 +1,81 @@
+{
+ "pair": "Q14",
+ "units": [
+  {
+   "unit": "Price seems high acknowledged",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Investment, not a cost",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Value outweighs price",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Features: unlimited projects, AI tagging, etc.",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "One of best values on market",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "15% off first year",
+   "kind": "offer",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Deadline: sign by end of month",
+   "kind": "deadline",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Can't guarantee later availability",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Move forward?",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Intensifiers 'really', 'actually', '!'",
+   "kind": "stance",
+   "in_text1": false,
+   "in_text2": true,
+   "altered": "strength_up",
+   "note": "Text 2 more emphatic"
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "tie",
+ "reason": "Same generic value claims and pressure discount; neither addresses Sven's concern.",
+ "grade_text1": "weak",
+ "grade_text2": "weak"
+}

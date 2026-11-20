@@ -1,0 +1,60 @@
+{
+ "pair": "Q05",
+ "units": [
+  {
+   "unit": "Sympathy about budget cut",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Losing a researcher hurts",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Fieldnote may matter more now",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "'Honestly' emphasis on claim",
+   "kind": "stance",
+   "in_text1": false,
+   "in_text2": true,
+   "altered": null,
+   "note": "Text 2 adds 'Honestly'"
+  },
+  {
+   "unit": "Designers will run interviews without synthesis help",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Acknowledges new spend off the table",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Offer free plan details to start capturing calls",
+   "kind": "offer",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "1",
+ "reason": "Text 1 avoids the slightly salesy 'Honestly'; otherwise equal.",
+ "grade_text1": "strong",
+ "grade_text2": "strong"
+}

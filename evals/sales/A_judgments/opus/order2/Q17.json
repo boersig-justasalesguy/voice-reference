@@ -1,0 +1,47 @@
+{
+ "pair": "Q17",
+ "units": [
+  {
+   "unit": "Friendly reminder framing",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": false,
+   "altered": null,
+   "note": "Dropped in Text 2"
+  },
+  {
+   "unit": "Renews January 15",
+   "kind": "deadline",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "9% price increase",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Return signed order form to avoid disruption",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Invite questions",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": "strength_down",
+   "note": "Text 2 terse 'reach out'"
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "2",
+ "reason": "Text 2 less stiff boilerplate, though both are cold about the increase.",
+ "grade_text1": "weak",
+ "grade_text2": "weak"
+}

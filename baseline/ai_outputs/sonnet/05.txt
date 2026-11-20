@@ -1,0 +1,39 @@
+CNAPP Is Not Consolidating or Unbundling. It Is Doing Both, and That Is the Point.
+
+Ask ten people whether the CNAPP market is consolidating and you will get five yeses, four nos, and one person who tells you it depends on what you mean by CNAPP. That last person is right, and I think the disagreement itself is the most interesting thing about the market.
+
+My opinion: the platform layer is consolidating, the capability layer is unbundling, and buyers who treat this as a single question will make poor decisions.
+
+The case for consolidation
+
+The pitch is easy to understand. A cloud security team used to run a posture tool, a workload protection tool, a vulnerability scanner, an infrastructure-as-code scanner, an entitlement tool and a data security product. Each had its own console, its own inventory of the same assets and its own queue of findings. The CNAPP promise is one inventory, one risk model and one place to work.
+
+Acquisitions have reinforced the trend. The big vendors have bought their way into new categories, and large platform security companies have made it clear that cloud is a pillar they intend to own. Procurement teams like fewer vendors, and finance teams like fewer line items. When budgets tighten, the point-product vendor with a single feature has a harder time surviving.
+
+The case for unbundling
+
+But look at what actually happens inside organizations after they buy the platform. Many keep a best-of-breed tool for the area that matters most to them. The platform's runtime sensor is good enough for most workloads, but the team that worries about Kubernetes attacks buys a specialist. The platform's identity analysis is adequate, but a company with heavy entitlement sprawl adds a dedicated product. Data security posture, API security, detection and response and software supply chain security have all spun out into focused companies that outperform the suites in their niche.
+
+The suite's weaknesses are also real. Breadth tends to come from acquisitions that are integrated in a slide deck long before they are integrated in the product. Buyers often find that a platform's modules are uneven, with one strong area and several that are merely present.
+
+Where I land
+
+I think of it as two layers.
+
+The first is the shared layer: asset inventory, graph-based context, risk prioritization, workflow and reporting. This layer benefits enormously from scale and from having one data model, so it consolidates. Nobody wants five inventories.
+
+The second is the capability layer: the sensors and analytics that detect specific kinds of risk and threat. Here the best answer changes quickly, because attackers, cloud services and AI workloads keep creating new problems faster than a suite can build solutions. This layer fragments continually, with new specialists appearing and some of them eventually being absorbed into the platform.
+
+The result is a market that looks consolidated from the vendor side and unbundled from the architecture side. A buyer may have one primary platform and three specialist tools feeding into it, which is exactly why open integration and data portability are now among the most important questions to ask a vendor.
+
+What buyers should do
+
+- Pick a platform for the shared layer, but do not assume it must be best at everything. Score it module by module.
+- Be willing to keep or add a specialist where a gap affects your actual risk, and require that its findings flow into your central view.
+- Ask hard questions about how acquired products are integrated, and ask for customers who use the combined product, not each piece separately.
+- Avoid long, expensive commitments to modules you are not ready to use. Bundled discounts are often a way of selling shelfware.
+- Plan for the market to keep shifting. Today's specialist is next year's feature, and sometimes the reverse.
+
+The bottom line
+
+The debate over whether CNAPP is consolidating or unbundling treats a two-layer market as a single trend. Buyers will get the best outcomes by consolidating where consolidation reduces work and staying modular where specialization reduces risk.

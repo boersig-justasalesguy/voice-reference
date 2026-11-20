@@ -1,0 +1,9 @@
+{"pair":"Q24","units":[
+{"unit":"Follow-up on previous email to Desmond","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Buyer is busy; avoid letting it slip","kind":"stance","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Pipewise helps RevOps improve forecast accuracy and pipeline visibility","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Great fit for Ironhelm","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Ask: quick call this week","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":"Text 2 places the ask first"},
+{"unit":"As I mentioned reference to earlier pitch","kind":"fact","in_text1":true,"in_text2":false,"altered":null,"note":"Dropped in Text 2; wording only"},
+{"unit":"Sender Ingrid","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""}
+],"same_meaning":"yes","better_message":"1","reason":"Context before the ask reads naturally; Text 2 asks for a call before explaining why.","grade_text1":"average","grade_text2":"average"}

@@ -1,0 +1,33 @@
+CHANNEL: call_script
+STAGE: renewal
+SELLER: Account Manager at Commonground
+BUYER: VP Security Operations, Telecommunications, Cobaltline Communications (10000+ employees)
+MESSAGE:
+GOAL: Confirm renewal intent 90 days out and find out whether Commonground is tied to Corinne's program goals for next year.
+
+OPEN
+"Corinne, Yusuf from Commonground. Thanks for making time. I know planning season is brutal. I want to use fifteen minutes to make sure the renewal reflects where your program is going, not just where it was."
+
+CHECK-IN
+"Last spring you said the goal was to get IR, intel and detection engineering working off one backlog. Where did that land?"
+
+[Expected: partial success. IR and detection eng are in, intel still lives in its own tracker.]
+
+"What's kept intel out?"
+
+LISTEN FOR
+- Tooling: they have a separate intel platform with its own workflow.
+- People: intel lead doesn't see value.
+- Reporting: Corinne still builds the exec report by hand.
+
+VALUE RECAP (only if she asks)
+"From the usage side: 312 items moved from intel requests to shipped detections through Commonground this year, and your median time from request to production rule went from 19 days to 8."
+
+RENEWAL
+"Our standard approach is to renew at current scope. Based on what you've told me, I'd like to propose adding intel as a team with a light integration to their tracker, but only if you think you can get them on board. Otherwise we renew flat and revisit mid-year."
+
+CLOSE
+"What would you need from me to make that call by end of January?"
+
+NOTES TO SELF
+Don't lead with price. If she raises the program reorg, ask who'll own the backlog after.

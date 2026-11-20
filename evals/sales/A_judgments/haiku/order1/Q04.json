@@ -1,0 +1,12 @@
+{"pair":"Q04","units":[
+{"unit":"Follow-up on Oksana's earlier optimization objection","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Oksana already bought reserved instances and savings plans","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Caller calls her position reasonable","kind":"stance","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Question: how coverage level was decided","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Commitments based on early-year usage snapshot","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"New analytics feature and different instance types","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Commitments lower price but not whether to run it","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Clearstack shows under-used commitments and idle infrastructure","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Offer: analysis showing exact findings","kind":"offer","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Conditional: explain read-only access and timeline if agreed","kind":"condition","in_text1":true,"in_text2":true,"altered":null,"note":"Bracketed guidance in both"}
+],"same_meaning":"yes","better_message":"2","reason":"Tighter wording with less filler; reads more like a natural spoken follow-up.","grade_text1":"average","grade_text2":"strong"}

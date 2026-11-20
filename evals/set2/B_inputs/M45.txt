@@ -1,0 +1,25 @@
+CHANNEL: call_script
+STAGE: objection_handling
+SELLER: Account Executive at Tunebench
+BUYER: Director of Security Operations, Hospitality, Saltmarsh Hotels & Resorts (1000-5000 employees)
+MESSAGE:
+[Context: Bettina has just said, "Look, I like it, but there's no budget this year. Our security spend got frozen after the booking-system project ran over."]
+
+Cassius: That's clear, and thanks for telling me straight. I won't try to talk you around a freeze. Can I ask two questions so I know what to do with my time and yours?
+
+1. "When does the freeze lift, or when does next year's budget get decided?"
+2. "When it does, what will your CFO want to see before approving anything new in security?"
+
+[Listen. Typical answers: planning in February; CFO wants hard savings or reduced risk tied to an incident.]
+
+Cassius: That helps. Here's what I'd suggest, and none of it costs you anything.
+
+Between now and February, we run Tunebench's analysis on your three noisiest rules, read-only. You told me the guest-Wi-Fi authentication rule alone generates around 1,200 alerts a week across the resorts. The output is a report: which alerts are noise, the tuning we'd propose, and the analyst hours it would free up, measured on your data, not our calculator.
+
+If the numbers are small, you've learned that tuning isn't your problem and you can spend February's budget elsewhere. If they're big, you walk into planning with your own evidence.
+
+[If she worries about effort:] "It's about an hour from your SIEM engineer to grant read-only access, and a 30-minute readout. That's it."
+
+[If she asks what's in it for us:] "Fair question. If the report is compelling, I'd like to be in the February conversation. If it isn't, I'd rather know now."
+
+[Close:] "Should I send a one-paragraph description of the analysis that you can forward to your SIEM engineer? And can we put a placeholder in late January to review results before your planning starts?"

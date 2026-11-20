@@ -1,0 +1,211 @@
+{
+ "id": "T598",
+ "claims": [
+  {
+   "gist": "Author first saw Sysdig in 2021",
+   "type": "factual",
+   "evidence": "first_hand",
+   "specific": true,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Author's previous CSPM was an ignored dashboard of useless alerts",
+   "type": "evaluative",
+   "evidence": "first_hand",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Over 99% of developer Kubernetes actions went undetected by CSPM",
+   "type": "factual",
+   "evidence": "first_hand",
+   "specific": true,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Expected alerts for risky developer actions never came",
+   "type": "factual",
+   "evidence": "first_hand",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Cloud security tools were very bad at Kubernetes runtime detection",
+   "type": "evaluative",
+   "evidence": "first_hand",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Only Sysdig and DataDog performed well, detecting about half",
+   "type": "evaluative",
+   "evidence": "first_hand",
+   "specific": true,
+   "hedged": true,
+   "owner": "author"
+  },
+  {
+   "gist": "The industry was ignoring Kubernetes",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Security teams may finally be grasping cloud reality",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": true,
+   "owner": "author"
+  },
+  {
+   "gist": "Forrester is wrong by making cloud too broad",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": true,
+   "hedged": true,
+   "owner": "author"
+  },
+  {
+   "gist": "Forrester is unaware of small vendors making CDR real",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": true,
+   "hedged": true,
+   "owner": "author"
+  },
+  {
+   "gist": "Darktrace uses network logs; SentinelOne uses endpoint logs",
+   "type": "factual",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "XDR never moved past the gimmick stage",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Author agrees with Forrester's critique of CNAPP",
+   "type": "evaluative",
+   "evidence": "named_source",
+   "specific": true,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "XDR spread across too many sources to deliver use cases",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Simple EDR quarantine proves more realistic than cross-tool tracing",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Engineers could never make cross-tool autonomous response work",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Organizations' eBPF maturity varies wildly",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "AccuKnox article shows Kubernetes security complexity well",
+   "type": "evaluative",
+   "evidence": "named_source",
+   "specific": true,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "eBPF vendor approaches differ greatly, e.g. Rad versus Sysdig",
+   "type": "factual",
+   "evidence": "named_example",
+   "specific": true,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "CDR is not as complex as Forrester suggests",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": true,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Defining CDR within CNAPP is impossible",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "CDR is eBPF plus cloud logs forming Kubernetes exploit stories",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "The cloud is just a datacenter with an API",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Agentless scanning fails for workloads without EBS volumes",
+   "type": "factual",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "eBPF agents fail on unsupported operating systems",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  }
+ ],
+ "named_entities": 8,
+ "named_criticism": 3,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": true,
+ "thesis": "CNAPP and CSPM miss runtime Kubernetes threats; CDR is simpler than Forrester claims: eBPF plus cloud logs."
+}

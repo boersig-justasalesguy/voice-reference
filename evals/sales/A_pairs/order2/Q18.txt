@@ -1,0 +1,34 @@
+CHANNEL: call_script
+STAGE: objection_handling
+SELLER: Senior Account Executive at Draftkit
+BUYER: General Counsel, Commercial Real Estate, Granite Arch Properties (500-1000 employees)
+
+=== TEXT 1 ===
+[Context: Victor said on the last call that his team won't trust AI-generated redlines and he's worried about confidentiality.]
+
+Victor, thanks for jumping back on. I want to address your concerns about AI. I think a lot of lawyers are just nervous about change, and that's normal. But Draftkit is really accurate: our models are trained on millions of contracts and we have a 98% accuracy rate. Most of our customers were skeptical at first and now they love it.
+
+On confidentiality, we're SOC 2 compliant and we use bank-level encryption, so your data is completely safe. You really don't need to worry about that.
+
+Firms that don't adopt AI are going to fall behind. Your competitors are already using tools like this. So the risk of waiting is actually bigger than the risk of trying it.
+
+[If he pushes back again:] I hear you, but I'd encourage you to just try it. We can do a two-week trial and I'm confident you'll be impressed.
+
+[If he mentions the partner review:] Sure, we can include the partners on a demo. When could we get them together?
+
+[Close:] Can we get the trial set up this week?
+
+=== TEXT 2 ===
+[Context: Victor said on the last call that his team won't trust AI-generated redlines and he's worried about confidentiality.]
+
+Victor, thanks for jumping back on. I wanted to address your concerns about AI. Honestly, I think a lot of lawyers are just nervous about change, and that's normal. But Draftkit is really accurate - our models are trained on millions of contracts and we have a 98% accuracy rate. Most of our customers were skeptical at first and now they love it.
+
+On the confidentiality piece, we're SOC 2 compliant and we use bank-level encryption, so your data is completely safe. You really don't need to worry about that.
+
+The thing is, firms that don't adopt AI are going to fall behind. Your competitors are already using tools like this. So the risk of waiting is actually bigger than the risk of trying it.
+
+[If he pushes back again:] I hear you, but I'd encourage you to just try it. We can do a two-week trial and I'm confident you'll be impressed.
+
+[If he mentions the partner review:] Sure, we can include the partners on a demo. When could we get them together?
+
+[Close:] So can we get the trial set up this week?

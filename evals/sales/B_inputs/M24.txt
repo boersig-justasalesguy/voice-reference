@@ -1,0 +1,6 @@
+CHANNEL: voicemail
+STAGE: objection_handling
+SELLER: Account Executive at Quorum HQ
+BUYER: CEO, Agritech, Furrowfield (10-50 employees)
+MESSAGE:
+Hey Nkechi, Jasper from Quorum. Totally understand that at 30 people with three investors, a board portal feels like overkill. You're probably right for now! Just wanted to mention we have a starter tier. Anyway, give me a shout if things change. Cheers.

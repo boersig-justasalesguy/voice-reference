@@ -1,0 +1,10 @@
+{"pair":"Q18","units":[
+{"unit":"Team distrusts AI-generated redlines (context)","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"98% accuracy, trained on millions of contracts","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"SOC 2 compliant, bank-level encryption","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Data is completely safe; no need to worry","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Firms not adopting AI will fall behind","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Offer: two-week trial","kind":"offer","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Offer: include partners in demo","kind":"offer","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Ask: set up trial this week","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""}
+],"same_meaning":"yes","better_message":"tie","reason":"Same unsupported claims and pressure; neither answers the trust concern well.","grade_text1":"weak","grade_text2":"weak"}

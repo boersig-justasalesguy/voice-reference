@@ -1,0 +1,30 @@
+What Is Cloud Detection and Response (CDR)? A Buyer's Guide to Evaluating CDR Vendors
+
+Security teams have spent years building tools to protect cloud environments. Posture management finds misconfigurations, vulnerability scanners flag unpatched software, and identity tools govern access. But when an attacker gets into a cloud account and starts moving, many teams still struggle to see what is happening in real time. That gap is what Cloud Detection and Response, or CDR, is meant to close.
+
+What CDR does
+CDR focuses on detecting and responding to threats inside cloud environments as they happen. A CDR capability typically:
+
+- Collects activity from cloud control planes, such as API calls and configuration changes, along with workload and container telemetry.
+- Correlates events across accounts, identities, and services to reveal attack paths rather than isolated alerts.
+- Detects behavior that signals compromise, such as unusual role assumptions, credential misuse, data exfiltration, or cryptomining.
+- Supports response, including isolating a workload, revoking credentials, or capturing forensic data.
+
+CDR is distinct from posture management, which checks whether cloud settings are safe, and from endpoint detection, which focuses on individual machines. Its job is to answer the question: is someone actively abusing this cloud environment right now, and what are they doing?
+
+How to evaluate CDR vendors
+When comparing options, focus on these areas:
+
+1. Coverage. Confirm which cloud providers, control-plane services, container platforms, and serverless workloads are supported. Gaps here become blind spots.
+2. Detection quality. Ask for documented detections mapped to a framework such as MITRE ATT&CK for cloud, and ask how they are tested. Request evidence of false-positive rates in environments similar to yours.
+3. Correlation. Strong CDR tools connect events into a timeline or attack path. Test whether the product helps an analyst understand an incident in minutes rather than hours.
+4. Data handling. Understand where telemetry is stored, how long it is retained, and what it costs at your event volume. Volume-based pricing can change the economics quickly.
+5. Response actions. Determine which responses are automated, which require approval, and how they integrate with your ticketing and orchestration tools.
+6. Integration. CDR should feed your SIEM, SOAR, and identity systems rather than create another console. Check the APIs and supported connectors.
+7. Operational fit. Consider how much tuning the product needs and whether your team can maintain it.
+
+Run a proof of concept
+The most useful test is a proof of concept in a non-production account with simulated attack activity. Measure time to detection, the number of alerts generated, the quality of the investigation context, and how much analyst effort is required. Vendor demos show best-case scenarios. Your environment will show the real ones.
+
+Bottom line
+CDR is a practical response to a real problem: attackers move fast in the cloud, and security teams need visibility into live activity. Evaluate vendors on coverage, detection quality, correlation, data economics, response, and fit with your team, and validate every claim with your own data.

@@ -1,0 +1,11 @@
+{"pair":"P07","units":[
+{"unit":"Wants to connect the CISO and the founder","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Founder of [Startup] building [one-line description]","kind":"entity","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Founder background: [relevant background]","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Founder wants feedback from security leaders in regulated industries","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"CISO at [Bank], running security for a [size] bank","kind":"entity","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"CISO's focus on [relevant problem]; strong views on bank tools","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Mutual value: CISO gets early look; founder gets honest feedback","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Not a sales meeting; no expectation beyond a conversation","kind":"condition","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Founder to suggest a few meeting times","kind":"ask","in_text1":true,"in_text2":true,"altered":null}
+],"same_meaning":"yes","more_human":"1","human_reason":"Both read like real intros; Text 2 adds stiffer phrasing like To be clear and I think you would both get something."}

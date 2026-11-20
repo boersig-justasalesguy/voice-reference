@@ -1,0 +1,96 @@
+{
+ "pair": "Q16",
+ "units": [
+  {
+   "unit": "Lena from Pipewise",
+   "kind": "entity",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Video made just for Grant",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Number one forecasting and pipeline platform",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "AI/ML features list",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "4.8 rating",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Companies of every size use it",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Forecast accuracy goes way up",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Reps spend less CRM time",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Reps will thank you",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": false,
+   "altered": null,
+   "note": "Dropped in Text 2"
+  },
+  {
+   "unit": "Torchline would be perfect fit",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Book via calendar link",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Over-the-top enthusiasm (Hiiii, JUST, Byeee)",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": "strength_down",
+   "note": "Text 2 tones down hype"
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "2",
+ "reason": "Text 2 removes cringey hype; still generic but more credible for a CRO.",
+ "grade_text1": "weak",
+ "grade_text2": "weak"
+}

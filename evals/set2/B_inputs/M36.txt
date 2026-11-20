@@ -1,0 +1,22 @@
+CHANNEL: call_script
+STAGE: follow_up
+SELLER: Account Executive at Relaykit
+BUYER: Head of Detection, MSSP/MDR, Ironvale Cyber Defense (500-1000 employees)
+MESSAGE:
+[Dial.]
+
+Hey Kwame, it's Yusuf from Relaykit, how's it going? Good, good. So I'm just calling to follow up on the email I sent last week, I wanted to make sure you got it. Did you get a chance to look at it?
+
+[If no:] No worries, I know you're busy. Basically, I was just following up on our call from a couple of weeks ago to see where things stand. Have you had a chance to think about Relaykit at all?
+
+[If he says he's still thinking:] Totally, totally. Is there anything I can send you that would help? We have case studies, a datasheet, a security overview, an ROI calculator. Happy to send whatever.
+
+[If he says he needs to talk to his team:] Makes sense. When do you think you'll have a chance to do that? Would it be helpful if I joined that meeting? I could give a quick overview to the team.
+
+[If he says they're busy with other priorities:] Got it. When do you think would be a better time to reconnect? Should I check back in a month or so?
+
+[Regardless of answer:] Okay, sounds good. I'll send you a follow-up email with everything we talked about and check back in a couple of weeks. Is there anything else I can do for you in the meantime?
+
+[If no:] Cool, thanks Kwame. Talk soon.
+
+[After call: log 'follow-up call completed' in CRM. Set reminder for two weeks.]

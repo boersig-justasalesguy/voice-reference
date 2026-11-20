@@ -1,0 +1,27 @@
+CHANNEL: call_script
+STAGE: objection_handling
+SELLER: Senior Account Executive at Crossover
+BUYER: Security Architect, State & Local Government, Eastvale State Office of Technology (5000-10000 employees)
+MESSAGE:
+[Context: Russell has just said, "Honestly, we're planning to migrate the rules ourselves. We have smart people and a year to do it."]
+
+Imani: That's a reasonable plan, and a lot of teams do it in-house. Can I ask a few questions about how you're thinking about it? If at the end it's clearly the right call to build, I'll tell you that.
+
+[Ask, and take notes on each:]
+
+1. "How many rules are in scope, and how many of those are custom versus shipped content?"
+2. "How are you planning to validate that each translated rule actually fires on the new platform, not just that it parses?"
+3. "Who on your team knows the old macros and lookups best, and what happens to the project if they're out for a month?"
+4. "Are you running both SIEMs in parallel during the move? For how long?"
+
+[Listen for: validation plan is vague; a key person dependency; a parallel-run period that's expensive.]
+
+[If validation is vague:] "That's the part we see take the longest. Translating syntax is maybe a third of the work. The rest is proving each rule still catches what it caught before when the field names and data models are different. Crossover runs every translated rule against live data on both sides and flags the ones that will break, with the reason."
+
+[If parallel run is long:] "Every month you run both platforms, you're paying twice for ingest. If we shorten the parallel run even by two months, that usually covers a large part of the cost."
+
+[If he still prefers in-house:] "Then here's a middle path. Your team keeps ownership. We run Crossover's validation on a sample of 50 of your hardest rules, and your team uses the report however you like. You'll know quickly whether translation or validation is the real bottleneck."
+
+[Close:] "Would it help if I sent the four questions in writing so you can run them past your team? And if the sample makes sense, we can scope it for your procurement process, including the cooperative purchasing contract you mentioned."
+
+[Do not push for a CIO meeting. Let Russell decide who else joins.]

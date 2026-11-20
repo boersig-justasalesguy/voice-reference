@@ -1,0 +1,34 @@
+CHANNEL: call_script
+STAGE: objection_handling
+SELLER: Account Executive at Tunebench
+BUYER: Director of Security Operations, Hospitality, Saltmarsh Hotels & Resorts (1000-5000 employees)
+
+=== TEXT 1 ===
+[Context: Bettina has just said, "Look, I like it, but there's no budget this year. Our security spend got frozen after the booking-system project ran over."]
+
+Cassius: Oh, I hear that a lot. But honestly, Tunebench pays for itself, so budget really shouldn't be an issue. If your analysts are spending hours on false positives, that's money you're already spending.
+
+[If she repeats that spend is frozen:] Totally get it. But a lot of our customers find budget when they see the ROI. Have you thought about going to your CFO with a business case? I can send you our ROI calculator and you can plug in your numbers.
+
+[If she says the CFO won't approve anything new:] What about using money from another line item? Sometimes there's leftover training budget or professional services budget at the end of the year that can be repurposed.
+
+[If she says no again:] Okay. What if we did a discount? I might be able to get you 20% off if you sign this quarter. That might get it under a threshold where you don't need CFO approval.
+
+[If she still says no:] Got it. Well, I'd hate for you to keep losing analyst hours. I'll send the ROI calculator and check back in a month to see if anything has changed on the budget side.
+
+[Close:] Thanks Bettina, talk soon.
+
+=== TEXT 2 ===
+[Context: Bettina has just said, "Look, I like it, but there's no budget this year. Our security spend got frozen after the booking-system project ran over."]
+
+Cassius: I hear that a lot. Tunebench pays for itself, so budget really shouldn't be an issue. If your analysts are spending hours on false positives, that's money you're already spending.
+
+[If she repeats that spend is frozen:] Understood. A lot of our customers find budget when they see the ROI. Have you thought about taking a business case to your CFO? I can send you our ROI calculator and you can plug in your numbers.
+
+[If she says the CFO won't approve anything new:] What about another line item? Sometimes there's leftover training budget or professional services budget at the end of the year that can be repurposed.
+
+[If she says no again:] Okay. What about a discount? I might be able to get you 20% off if you sign this quarter. That might get it under a threshold where you don't need CFO approval.
+
+[If she still says no:] Got it. I'd hate for you to keep losing analyst hours. I'll send the ROI calculator and check back in a month to see if anything has changed on the budget side.
+
+[Close:] Thanks Bettina, talk soon.

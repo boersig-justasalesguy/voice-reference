@@ -1,0 +1,12 @@
+CHANNEL: video_script
+STAGE: event_followup
+SELLER: Account Executive at Tallyhouse
+BUYER: Procurement Director, Higher Education, Larkspur University (5000+ employees)
+MESSAGE:
+[Beatrix at a trade show booth, slightly noisy background]
+
+Hi Gareth! It was so great meeting you at the Campus Procurement Forum! I hope you enjoyed the conference as much as I did - the keynote was amazing, right?
+
+I just wanted to send a quick follow-up and remind you about Tallyhouse. We're a procurement and vendor spend management platform with intake, approvals, vendor onboarding, contracts, and analytics. We work with lots of universities and I think we could be a great fit for Larkspur.
+
+I'd love to set up a demo for you and your team. I'll send a calendar link in the email. Thanks again for stopping by the booth!

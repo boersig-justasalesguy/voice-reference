@@ -1,0 +1,10 @@
+{"pair":"Q06","units":[
+{"unit":"Addressee Annika named","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Results from health check run during demo","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"520 scheduled detections in scope","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"74 detections flagged as potentially unhealthy","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Causes: changed formats, stale lookups, concurrency skips","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Full report attached","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Quietwatch could keep detections healthy ongoing","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Asks for follow-up call to discuss a pilot","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""}
+],"same_meaning":"yes","better_message":"tie","reason":"Same results, numbers and ask; only the thanks line and sign-off differ.","grade_text1":"strong","grade_text2":"strong"}

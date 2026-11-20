@@ -1,0 +1,8 @@
+{"pair":"Q09","units":[
+{"unit":"Pricing is a percentage of managed cloud spend","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Spend roughly $4.2M per year","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Standard rate 2.5%, about $105,000 per year","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Volume tier drops to 2% above $5M spend","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"2% from day one on two-year term if crossing $5M","kind":"offer","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Ask: what do you think","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""}
+],"same_meaning":"yes","better_message":"tie","reason":"Identical pricing math and offer; T1 is slightly tighter but no real difference.","grade_text1":"strong","grade_text2":"strong"}

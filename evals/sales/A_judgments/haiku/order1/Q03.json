@@ -1,0 +1,14 @@
+{"pair":"Q03","units":[
+{"unit":"Gatekeeper call to busy restaurant at 3pm","kind":"condition","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Caller says not ordering a bowl, under a minute","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":"T2 repeats I promise; pleasantry"},
+{"unit":"Ask for sixty seconds","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Shiftwell app lets crew swap shifts on phones","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Goal: find regional ops contact handling scheduling","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Supervisor says GM builds schedule, corporate picks software","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":"Supervisor response in both"},
+{"unit":"Asks for regional contact name and current swap process","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Group text and whiteboard for swaps; chaos on Saturdays","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Offer to relay that floor staff want something better","kind":"offer","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Example name Jasper Lindgren, area director","kind":"placeholder","in_text1":true,"in_text2":true,"altered":null,"note":"Example supervisor response"},
+{"unit":"Thanks and sign-off with supervisor first name","kind":"placeholder","in_text1":true,"in_text2":true,"altered":null,"note":"Tamsin placeholder in both"},
+{"unit":"Enthusiasm at thanks: Amazing vs Thank you","kind":"stance","in_text1":true,"in_text2":true,"altered":"strength_up","note":"Text 2 gushes Amazing and That is really helpful"}
+],"same_meaning":"yes","better_message":"1","reason":"Same discovery flow; Text 2 has repeated I promise and over-the-top praise that sounds scripted.","grade_text1":"strong","grade_text2":"average"}

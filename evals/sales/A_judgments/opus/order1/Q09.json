@@ -1,0 +1,67 @@
+{
+ "pair": "Q09",
+ "units": [
+  {
+   "unit": "Pricing is percentage of managed cloud spend",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Spend roughly $4.2M/year",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Standard rate 2.5%, about $105,000/year",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Volume tier: above $5M drops to 2%",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "2% from day one on two-year term",
+   "kind": "offer",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Condition: expect to cross $5M",
+   "kind": "condition",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Let me know what you think",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Rate stated conditionally ('would be')",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": "strength_up",
+   "note": "Text 2 states rate as 'is'"
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "tie",
+ "reason": "Same clear pricing and conditional concession; wording only.",
+ "grade_text1": "strong",
+ "grade_text2": "strong"
+}

@@ -1,0 +1,20 @@
+CHANNEL: email
+STAGE: objection_handling
+SELLER: Senior Account Executive at Baseline Forge
+BUYER: Principal Security Engineer, Pharmaceuticals, Corvallis Biologics (1000-5000 employees)
+SUBJECT: Where Corvallis data would go in a Baseline Forge pilot
+MESSAGE:
+Ezra,
+
+Fair question, and you should get a precise answer before any pilot. Here it is:
+
+1. Where queries run: baselines are computed as scheduled searches inside your SIEM. Raw login events never leave your environment.
+2. What leaves: summary statistics per peer group (counts, percentiles, model parameters) and the detection logic. No raw events, no usernames unless you choose to include them in a lookup.
+3. Model training: your data is never used to train shared models. Our contract states that in the DPA, clause 4.2, and I can send the redline now.
+4. If you want nothing to leave at all: the on-premises option runs the modeling inside your network. It's slower to set up, about two extra weeks.
+
+I've attached a data-flow diagram with each of those boundaries marked. If your research-data team has extra restrictions for clinical-trial systems, we can simply exclude those sources from the pilot.
+
+Would it help to walk through the diagram with your privacy officer before we talk pilot dates?
+
+Mirela

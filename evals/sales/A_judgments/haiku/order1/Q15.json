@@ -1,0 +1,9 @@
+{"pair":"Q15","units":[
+{"unit":"Voicemail from Darnell at Vaultline to Carmen","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Time since last conversation","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Check whether compliance situation has changed","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Exciting new features to show","kind":"claim","in_text1":true,"in_text2":true,"altered":"strength_up","note":"Text 2 says we would love to show you"},
+{"unit":"Callback request at 555-0147","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Repeats name, company and number","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Thanks and just checking in warmth","kind":"stance","in_text1":false,"in_text2":true,"altered":null,"note":"Friendly check-in and thanks only in Text 2"}
+],"same_meaning":"yes","better_message":"2","reason":"Warmer check-in tone reads more like a real person than the terse version.","grade_text1":"average","grade_text2":"average"}

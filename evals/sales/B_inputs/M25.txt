@@ -1,0 +1,19 @@
+CHANNEL: email
+STAGE: cold_outreach
+SELLER: Account Executive at Ledgerline
+BUYER: Controller, Specialty Food Distribution, Harrow & Pike Provisions (200-500 employees)
+SUBJECT: Introducing Ledgerline - The Future of Financial Close
+MESSAGE:
+Hi Desmond,
+
+I hope this email finds you well. My name is Marisol and I work at Ledgerline, the leading platform for automated month-end close and reconciliation.
+
+Ledgerline offers a comprehensive suite of features including automated bank reconciliation, AI-powered transaction matching, variance analysis, flux reporting, journal entry automation, task management, audit trails, multi-currency support, and over 40 pre-built connectors to popular ERPs and banks. Our customers see up to 70% faster close times and improved accuracy across the board.
+
+We work with companies of all sizes across every industry, and I'm confident we can help Harrow & Pike Provisions as well.
+
+Would you have 30 minutes next week for a demo? I'm available Tuesday through Thursday and happy to work around your schedule.
+
+Best regards,
+Marisol Ventura
+Account Executive, Ledgerline

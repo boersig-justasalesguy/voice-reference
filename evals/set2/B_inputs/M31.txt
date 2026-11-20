@@ -1,0 +1,26 @@
+CHANNEL: email
+STAGE: cold_outreach
+SELLER: Account Executive at Quietwatch
+BUYER: SOC Manager, Regional Banking, Tidewater Federal Savings (1000-5000 employees)
+SUBJECT: Introducing Quietwatch - Detection Health Platform
+MESSAGE:
+Hi Renata,
+
+I hope this email finds you well. My name is Marcus and I'm with Quietwatch, the industry's leading AI-powered detection health platform.
+
+Quietwatch offers a comprehensive set of capabilities, including:
+- Automated query validation across your entire rule library
+- Telemetry gap detection and schema drift monitoring
+- Lookup freshness checks
+- Data model acceleration monitoring
+- Scheduler health and skipped-search reporting
+- Executive dashboards and custom reporting
+- Native integrations with all major SIEMs, EDRs and data lakes
+- Role-based access control and full audit logging
+
+Our customers see dramatically improved detection outcomes and significant time savings across their security operations.
+
+I'd love to set up 30 minutes to walk you through a full demo of the platform. Would Tuesday or Wednesday next week work?
+
+Best regards,
+Marcus

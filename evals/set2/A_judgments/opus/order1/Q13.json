@@ -1,0 +1,62 @@
+{
+ "pair": "Q13",
+ "units": [
+  {
+   "unit": "Hope you're having a great week",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": false,
+   "altered": null,
+   "note": "Pleasantry dropped"
+  },
+  {
+   "unit": "Threadline turns advisories into detections",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Many financial services and payments customers",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Lots of great capabilities across four areas",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": "strength_down",
+   "note": "'Great capabilities' becomes neutral 'platform covers'"
+  },
+  {
+   "unit": "Learn about Copperleaf, explore fit",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": "strength_down",
+   "note": "'I'd love' becomes 'I'd like'"
+  },
+  {
+   "unit": "Will send an email",
+   "kind": "commitment",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "555-0142 repeated",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "2",
+ "reason": "Text 2 trims filler, though both remain generic pitches.",
+ "grade_text1": "weak",
+ "grade_text2": "average"
+}

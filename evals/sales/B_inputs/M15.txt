@@ -1,0 +1,13 @@
+CHANNEL: email
+STAGE: renewal
+SELLER: Account Manager at Clearstack
+BUYER: CTO, Media Streaming, Northlight Streaming (500-1000 employees)
+SUBJECT: Clearstack renewal: 14 days left to lock pricing
+MESSAGE:
+Hi Mattias,
+
+Just a heads-up that your Clearstack renewal is coming up on December 3. Our 2027 price list takes effect January 1, so renewing before then locks in your current rate for another 12 months. After that, the same plan will be about 9% higher.
+
+I've attached the order form with your current configuration. If you'd like to make any changes, let me know and I'll update it today.
+
+Juniper

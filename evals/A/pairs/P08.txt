@@ -1,0 +1,91 @@
+=== TEXT 1 ===
+Subject: Budget approval request: [Tool name], $[amount]/year
+
+Hi [CFO name],
+
+I'm asking for approval of $[amount] per year for [Tool name], a [one-line description, e.g. cloud detection and response platform]. Below is a summary of the case. I'm happy to go through it in detail whenever suits you.
+
+The problem
+[One or two sentences in business terms. For example: We can't currently detect when someone is misusing valid credentials in our cloud environment. That's how most cloud breaches start, and it's the gap our last penetration test and our auditors both flagged.]
+
+What it costs us today
+- Risk: [e.g. The average cost of a cloud data breach in our industry is about $X million, not counting regulatory fines or customer churn.]
+- Time: [e.g. Our team spends about 25 hours a week investigating alerts by hand, which is roughly $X a year in staff time.]
+- Compliance: [e.g. This gap is a finding in our SOC 2 audit, and we need to fix it before our next audit in Q2.]
+
+What the tool does
+[Tool name] [plain-language description, e.g. watches activity across our cloud accounts and alerts us within minutes when something looks like an attack, so we can stop it early].
+
+Cost
+- Annual subscription: $[X]
+- One-time implementation: $[X]
+- Internal effort: about [X] weeks of [team]'s time to deploy
+
+Expected return
+- [e.g. Cuts manual investigation time by about 60%, freeing up around $X of staff time a year]
+- [e.g. Lets us retire [existing tool], saving $X a year]
+- [e.g. Closes the audit finding before Q2]
+- [e.g. Lowers the likelihood and cost of a breach]
+
+Alternatives we considered
+- Do nothing: Leaves the risk and the audit finding open.
+- Build it in-house: About [X] engineer-months plus ongoing maintenance, roughly $[X], with slower time to value.
+- [Competitor]: Similar capability, but [reason, e.g. 30% more expensive and weaker coverage of our cloud setup].
+
+Terms
+We've negotiated [e.g. a one-year term with an option to renew, X% below list price]. [We ran a 30-day trial, and it found [specific result, e.g. two exposed access keys we didn't know about].]
+
+The ask
+Approval of $[amount] for [fiscal year], from [budget line / new spend]. To have it in place before [deadline], we'd need to sign by [date].
+
+Thanks for considering it. Let me know if you'd like more detail on any part of this, or a quick call.
+
+Best,
+[Your name]
+[Title]
+
+=== TEXT 2 ===
+Subject: Budget approval request: [Tool name], $[amount]/year
+
+Hi [CFO name],
+
+I'm asking for approval of $[amount] per year for [Tool name], a [one-line description, e.g. cloud detection and response platform]. The case is below, and I'm happy to go through it in detail whenever suits you.
+
+The problem
+[One or two sentences in business terms. For example: We can't currently detect when someone is misusing valid credentials in our cloud environment. That's how most cloud breaches start, and it's the gap our last penetration test and our auditors both flagged.]
+
+What it costs us today
+- Risk: [e.g. The average cost of a cloud data breach in our industry is about $X million, not counting regulatory fines or customer churn.]
+- Time: [e.g. Our team spends about 25 hours a week investigating alerts by hand, which is roughly $X a year in staff time.]
+- Compliance: [e.g. This gap is a finding in our SOC 2 audit, and we need to fix it before our next audit in Q2.]
+
+What the tool does
+[Tool name] [plain-language description, e.g. watches activity across our cloud accounts and alerts us within minutes when something looks like an attack, so we can stop it early].
+
+Cost
+- Annual subscription: $[X]
+- One-time implementation: $[X]
+- Internal effort: about [X] weeks of [team]'s time to deploy
+
+Expected return
+- [e.g. Cuts manual investigation time by about 60%, freeing up around $X of staff time a year]
+- [e.g. Lets us retire [existing tool], saving $X a year]
+- [e.g. Closes the audit finding before Q2]
+- [e.g. Lowers the likelihood and cost of a breach]
+
+Alternatives we considered
+- Do nothing: leaves the risk and the audit finding open.
+- Build it in-house: about [X] engineer-months plus ongoing maintenance, roughly $[X], with slower time to value.
+- [Competitor]: similar capability, but [reason, e.g. 30% more expensive and weaker coverage of our cloud setup].
+
+Terms
+We've negotiated [e.g. a one-year term with an option to renew, X% below list price]. [We ran a 30-day trial, and it found [specific result, e.g. two exposed access keys we didn't know about].]
+
+The ask
+Approval of $[amount] for [fiscal year], from [budget line / new spend]. To have it in place before [deadline], we'd need to sign by [date].
+
+Tell me if you'd like more detail on any part, or a quick call.
+
+Best,
+[Your name]
+[Title]

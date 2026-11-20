@@ -1,0 +1,219 @@
+{
+ "id": "T982",
+ "claims": [
+  {
+   "gist": "Most cloud security programs began with posture",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Posture work still matters",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Posture tools do not answer what is going wrong now",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "CDR is built to detect what is going wrong now",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "CDR typically ingests CloudTrail, Azure, GCP and Kubernetes audit logs",
+   "type": "factual",
+   "evidence": "none",
+   "specific": true,
+   "hedged": true,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "CDR often adds workload runtime signals",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": true,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Context determines whether an API call is suspicious",
+   "type": "evaluative",
+   "evidence": "named_example",
+   "specific": true,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Good CDR connects contextual signals automatically",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "CSPM is preventive snapshots; CDR is real-time detective",
+   "type": "factual",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Many CNAPP platforms include both CSPM and CDR",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "EDR does not see the cloud control plane",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Many cloud attacks never touch a workload, e.g. S3 copying",
+   "type": "factual",
+   "evidence": "named_example",
+   "specific": true,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "SIEM rarely understands cloud context out of the box",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": true,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Building SIEM cloud detections yourself takes much work",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Many teams use CDR and forward detections to SIEM",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "GuardDuty, Defender and SCC are single-cloud and give less context",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": true,
+   "hedged": true,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "All vendor demos will look good",
+   "type": "predictive",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Detection quality is most important and hardest to judge from demos",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Run a PoC on real accounts for at least two weeks",
+   "type": "prescriptive",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Simulate attacks with tools like Stratus Red Team",
+   "type": "prescriptive",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Noisy tools get ignored within a month",
+   "type": "predictive",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Ask the share of behavioral versus static detections",
+   "type": "prescriptive",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Verify depth of per-cloud coverage beyond claims",
+   "type": "prescriptive",
+   "evidence": "reasoning_only",
+   "specific": true,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Check managed and self-managed Kubernetes coverage",
+   "type": "prescriptive",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Check whether activity links to Okta or Entra ID identities",
+   "type": "prescriptive",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Check coverage of SaaS, data and AI services",
+   "type": "prescriptive",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  }
+ ],
+ "named_entities": 14,
+ "named_criticism": 1,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": false,
+ "thesis": "CDR detects active cloud threats with context; evaluate vendors primarily on in-environment detection quality and real coverage."
+}

@@ -1,0 +1,53 @@
+{
+ "pair": "Q08",
+ "units": [
+  {
+   "unit": "Pricing based on number of log sources",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Minimum term one year",
+   "kind": "condition",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Payment annual in advance",
+   "kind": "condition",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Accept standard PO terms subject to legal review",
+   "kind": "condition",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "No monthly billing",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Invite further questions",
+   "kind": "offer",
+   "in_text1": false,
+   "in_text2": true,
+   "altered": null,
+   "note": "Text 2 adds offer to answer more questions"
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "1",
+ "reason": "Text 1 is clear and scannable; Text 2 is a formal run-on block.",
+ "grade_text1": "average",
+ "grade_text2": "weak"
+}

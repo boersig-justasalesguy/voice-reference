@@ -1,0 +1,6 @@
+CHANNEL: sms
+STAGE: event_followup
+SELLER: Regional Sales Director at Signalcraft
+BUYER: Detection Engineering Lead, Automotive, Torvik Automotive (10000+ employees)
+MESSAGE:
+Hi Hana! Great meeting you at the dinner last night. Hope you got home OK! Would love to set up a time to show you Signalcraft. When are you free next week?

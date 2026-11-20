@@ -1,0 +1,53 @@
+{
+ "pair": "Q15",
+ "units": [
+  {
+   "unit": "Darnell from Vaultline",
+   "kind": "entity",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "'Just checking in' opener",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": false,
+   "altered": null,
+   "note": "Dropped in Text 2"
+  },
+  {
+   "unit": "Been a while since spoke",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Ask if compliance changed",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Exciting new features to show",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Call back at 555-0147, repeated",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "2",
+ "reason": "Text 2 drops 'just checking in'; still generic but less filler.",
+ "grade_text1": "weak",
+ "grade_text2": "weak"
+}

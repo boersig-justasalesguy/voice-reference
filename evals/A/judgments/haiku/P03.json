@@ -1,0 +1,18 @@
+{"pair":"P03","units":[
+{"unit":"Requesting approval of [$Amount] first-year budget for [Tool Name]","kind":"ask","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Category placeholder: [brief category description]","kind":"placeholder","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Current tooling gives limited visibility into [specific problem]","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Concrete example or metric placeholder for the visibility gap","kind":"placeholder","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Risk: undetected incidents and costlier investigations","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Year-one cost [$Amount] incl. licenses, implementation, training","kind":"number","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Ongoing cost of [$Amount] per year after year one","kind":"number","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Expected benefits placeholder list","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Quantified twelve-month benefit placeholder","kind":"number","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Measures: MTTD and MTTI, confirmed incidents, triage hours","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Report results at [six months] and [twelve months]","kind":"deadline","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Reviewed [number] options; chose [Tool] for [key reason]","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Alternative [alternative] rejected for [limitation]","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Doing nothing carries the stated risk","kind":"stance","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"30-minute meeting this week or next","kind":"ask","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Will bring vendor comparison, cost model, proof-of-concept results","kind":"offer","in_text1":true,"in_text2":true,"altered":null}
+],"same_meaning":"yes","more_human":"1","human_reason":"Text 1 reads as natural prose; Text 2 uses memo headers and bullets that feel templated for a personal request."}

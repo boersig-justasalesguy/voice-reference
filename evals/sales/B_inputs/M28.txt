@@ -1,0 +1,18 @@
+CHANNEL: call_script
+STAGE: negotiation
+SELLER: Account Executive at Quorum HQ
+BUYER: CFO, Venture-backed Consumer Hardware, Kindlewick Home (100-200 employees)
+MESSAGE:
+[Context: Harriet has asked for 25% off the annual price and says a competitor quoted lower.]
+
+Hi Harriet, thanks for getting on. So I got your message about the 25%. Honestly, that's a lot. I don't think I can get that approved.
+
+[If she mentions the competitor:] I'd be careful with them. Their product isn't as good as ours, and they've had some security issues, I've heard. You get what you pay for.
+
+[If she holds firm:] Okay, let me see what I can do. I can probably get you 15% if you sign today. Maybe 20% if you sign by Friday - but I'd need to check with my manager.
+
+[If she asks about multi-year:] We could do multi-year, but I'd have to see. Usually that's not something we do for companies your size.
+
+[If she says she needs to think:] I understand, but this pricing is only good this week. After that, I can't guarantee it.
+
+[Close:] So can we get this wrapped up today at 15%?

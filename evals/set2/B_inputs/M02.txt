@@ -1,0 +1,6 @@
+CHANNEL: sms
+STAGE: negotiation
+SELLER: Account Executive at Logatlas
+BUYER: SIEM Admin, Manufacturing, Gorsedd Steelworks (1000-5000 employees)
+MESSAGE:
+Paulina, legal signed off on the collector-mode addendum. Revised Logatlas order form is in your procurement portal now, same price as before.

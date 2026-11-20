@@ -1,0 +1,47 @@
+{
+ "pair": "Q18",
+ "units": [
+  {
+   "unit": "Referred by someone in network",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Huntdeck threat hunting workbench, build/share hunts",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Find time to chat about Lantana",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": "strength_down",
+   "note": "'I'd love' becomes 'I'd like'"
+  },
+  {
+   "unit": "555-0118",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Number repeated with name",
+   "kind": "fact",
+   "in_text1": false,
+   "in_text2": true,
+   "altered": null,
+   "note": "Text 2 repeats callback number"
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "2",
+ "reason": "Text 2 repeats the callback number, practical for voicemail.",
+ "grade_text1": "average",
+ "grade_text2": "average"
+}

@@ -1,0 +1,9 @@
+[Webcam, seller centered, company logo behind her.]
+
+Hi Tomasz, Nadia from Baseline Forge. I'd like thirty minutes on your calendar to show you a demo and learn more about what you're working on at Granite Shoal. I'm recording this because I know inboxes get busy and I wanted to put a face to the name.
+
+Baseline Forge was founded four years ago by a team of former security analysts and data scientists who were frustrated with how hard it was to build behavioral detections. We've since grown to over 150 employees, raised our Series B, and been recognized by several industry analysts as a company to watch.
+
+We help security teams build statistical, behavioral and machine-learning detections: baselines, dynamic thresholds, peer-group analytics, risk-based correlation, and more. The platform works with all the major SIEMs and data lakes, and our customer success team will be with you every step of the way. You're a principal detection engineer, so I think you'd appreciate the technical depth. We have a lot of customers in insurance and financial services.
+
+I'll put a link to my calendar below this video. Grab any time that works for you.

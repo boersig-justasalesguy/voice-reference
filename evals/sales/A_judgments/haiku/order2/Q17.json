@@ -1,0 +1,9 @@
+{"pair":"Q17","units":[
+{"unit":"Onramp subscription renews January 15","kind":"deadline","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Renewal includes 9% price increase","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Renewal order form attached","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Return signed copy to avoid service disruption","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Questions welcome","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Polite courtesy phrasing ('friendly reminder', 'don't hesitate')","kind":"stance","in_text1":true,"in_text2":false,"altered":null,"note":"T2 drops courtesy phrasing; reads curter"},
+{"unit":"Names Mireille and Yusuf Karaca","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""}
+],"same_meaning":"yes","better_message":"1","reason":"T1 is more courteous for a price-increase renewal; T2 is terse but complete.","grade_text1":"average","grade_text2":"weak"}

@@ -1,0 +1,15 @@
+CHANNEL: email
+STAGE: re_engagement
+SELLER: Account Executive at Tallyhouse
+BUYER: Head of Procurement, Hospitality, Lantern Hotel Group (1000-5000 employees)
+SUBJECT: Following up on the pricing conversation
+MESSAGE:
+Hi Ezra,
+
+When we parted ways in the spring, it came down to price. You were candid that the per-seat model didn't make sense when only a handful of your team would be in Tallyhouse daily, and that the property managers would mostly just be approving requests.
+
+Since then we've introduced approver-only seats at no cost, which addresses exactly what you raised. I don't know whether that changes the math for you, but I wanted you to hear it from me directly.
+
+If it's worth revisiting, I'm happy to rerun the numbers with your actual headcount. If not, no hard feelings.
+
+Corinne

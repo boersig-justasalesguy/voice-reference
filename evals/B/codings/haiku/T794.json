@@ -1,0 +1,16 @@
+{
+ "id": "T794",
+ "claims": [
+   {"gist": "A Magic Quadrant positions providers on execution of vision and market performance", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Use a Magic Quadrant as a first step, not the final word on providers", "type": "prescriptive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Focusing on leaders is not always best; challengers and niche players may fit better", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Interactive features let buyers reweight criteria to build a custom quadrant", "type": "factual", "evidence": "none", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Peer Insights user reviews are combined with the interactive Magic Quadrant", "type": "factual", "evidence": "none", "specific": true, "hedged": false, "owner": "impersonal"}
+ ],
+ "named_entities": 1,
+ "named_criticism": 0,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": false,
+ "thesis": "Magic Quadrants are a first-step view of providers; leaders are not always the right fit, so weigh your own goals."
+}

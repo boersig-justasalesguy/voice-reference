@@ -1,0 +1,104 @@
+{
+ "pair": "Q13",
+ "units": [
+  {
+   "unit": "Keiko from Patchbay",
+   "kind": "entity",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "API integration platform / iPaaS",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Over 600 pre-built connectors",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Feature list incl. SOC 2 Type II, SDK",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Most customers live in a few weeks",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "We're really fast",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": false,
+   "altered": null,
+   "note": "Speed boast dropped in Text 2"
+  },
+  {
+   "unit": "Takes integrations off developers' plate",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "45-minute demo with solution engineer",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": "strength_up",
+   "note": "Text 2 states 'I'd like to set up'"
+  },
+  {
+   "unit": "What are you using today?",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Faster, cheaper, probably save money",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Ask why not interested; demo anyway",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Thursday or Friday invite",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Self-answered 'Awesome'",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": false,
+   "altered": null,
+   "note": "Removed in Text 2"
+  }
+ ],
+ "same_meaning": "partly",
+ "better_message": "2",
+ "reason": "Text 2 drops the self-answered 'Awesome' and filler, though both are pitch dumps.",
+ "grade_text1": "weak",
+ "grade_text2": "weak"
+}

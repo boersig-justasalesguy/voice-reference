@@ -1,0 +1,179 @@
+{
+ "id": "T841",
+ "claims": [
+  {
+   "gist": "Pandemic lesson is to expect the unexpected",
+   "type": "evaluative",
+   "evidence": "named_source",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Leaders embracing worker options and transformation are more resilient",
+   "type": "evaluative",
+   "evidence": "named_source",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Resilience must be built in non-traditional ways",
+   "type": "prescriptive",
+   "evidence": "named_source",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "By 2024, 40% of consumers will trick behavior tracking",
+   "type": "predictive",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Consumers increasingly undermine tracking with false details",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Consumers aim to devalue companies' behavioral data",
+   "type": "factual",
+   "evidence": "named_source",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "By 2024, 30% of corporate teams will lack a boss",
+   "type": "predictive",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Pandemic shifted decisions toward peer-to-peer networks",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Removing the manager role can be pragmatic for efficiency",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": true,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Command-and-control managers impede business agility",
+   "type": "evaluative",
+   "evidence": "named_source",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "By 2025 synthetic data will avoid 70% of privacy sanctions",
+   "type": "predictive",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Synthetic data is gaining momentum",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Synthetic data reduces sensitive data collection and sharing",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Synthetic data makes AI prophetic",
+   "type": "evaluative",
+   "evidence": "named_source",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "By 2024 a G20 member will physically retaliate for a cyberattack",
+   "type": "predictive",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Nations historically treated cyberattacks as crime",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Governments are preparing cyber-war defense units",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Enterprises will remain primary cyber defenders near-term",
+   "type": "predictive",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Severe attacks will prompt military involvement and deter actors",
+   "type": "predictive",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "By 2024, 80% of CIOs will cite composability for performance",
+   "type": "predictive",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Market turbulence predates and will outlast COVID-19",
+   "type": "predictive",
+   "evidence": "named_source",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  }
+ ],
+ "named_entities": 2,
+ "named_criticism": 0,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": true,
+ "thesis": "Top predictions for 2022 emphasize resilience: consumers gaming tracking, bossless teams, synthetic data, cyberwar retaliation, composability."
+}

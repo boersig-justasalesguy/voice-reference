@@ -1,0 +1,10 @@
+{"pair":"Q04","units":[
+{"unit":"Addressee Leila named","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Sender Hana Novak from Signalcraft","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Small healthcare teams rewrite downloaded detection content","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Detections written in buyer's own query dialect","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Uses buyer's existing macros and lookups","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Engineers review instead of rewrite","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Call number 555-0189","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Thanks for what your team does","kind":"stance","in_text1":true,"in_text2":false,"altered":null,"note":"Closing thanks and easy out dropped in Text 2"}
+],"same_meaning":"yes","better_message":"1","reason":"Closing thanks and easy out make the voicemail feel less pushy than Text 2.","grade_text1":"average","grade_text2":"average"}

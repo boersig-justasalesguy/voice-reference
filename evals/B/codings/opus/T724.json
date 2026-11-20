@@ -1,0 +1,139 @@
+{
+ "id": "T724",
+ "claims": [
+  {
+   "gist": "By 2027, 60% of large organizations will have formal AI governance",
+   "type": "predictive",
+   "evidence": "data_cited",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Fewer than one in five have such a function today",
+   "type": "factual",
+   "evidence": "data_cited",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "The prediction reflects a shift in treating AI risk",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Volunteer governance groups struggle to keep pace with AI use",
+   "type": "factual",
+   "evidence": "named_source",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Monthly committee model breaks down at scale",
+   "type": "evaluative",
+   "evidence": "named_source",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Governance needs an owner, budget and authority to say no",
+   "type": "prescriptive",
+   "evidence": "named_source",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Organizations lacking governance will answer to regulators next year",
+   "type": "predictive",
+   "evidence": "named_source",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "AI rules are moving to enforcement, often extraterritorially",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Directors increasingly demand evidence AI risks are owned",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "AI incidents made unmanaged AI costs visible to executives",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "About half will place governance under data or risk officers",
+   "type": "predictive",
+   "evidence": "none",
+   "specific": true,
+   "hedged": true,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Inventory all AI systems before writing more policy",
+   "type": "prescriptive",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Define risk tiers for proportionate review",
+   "type": "prescriptive",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Assign one accountable executive with authority to block deployments",
+   "type": "prescriptive",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Measure governance by outcomes, not policy counts",
+   "type": "prescriptive",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Prediction based on 1,200-leader survey and 300 inquiries",
+   "type": "factual",
+   "evidence": "data_cited",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  }
+ ],
+ "named_entities": 1,
+ "named_criticism": 0,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": true,
+ "thesis": "By 2027, 60% of large organizations will formalize AI governance functions driven by regulation, boards and incidents."
+}

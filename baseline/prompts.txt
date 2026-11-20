@@ -1,0 +1,11 @@
+01 [analyst/press] Write a press release from a technology research and advisory firm announcing its prediction that by 2027 a large share of organizations will create a formal AI governance function. Include a quote from one of its analysts.
+02 [analyst/trends] Write an article from a technology research firm describing the top strategic technology trends organizations should plan for next year.
+03 [analyst/method] Write a web page explaining how a technology research firm's vendor evaluation methodology works and how buyers should use it.
+04 [practitioner/explainer] Write a blog post explaining what Cloud Detection and Response (CDR) is and how security buyers should evaluate CDR vendors.
+05 [practitioner/opinion] Write a blog post giving your opinion on whether the cloud-native application protection platform (CNAPP) market is consolidating or unbundling.
+06 [practitioner/guide] Write a practical guide for security teams on preventing open-source malware from entering their software supply chain.
+07 [b2b/cold] Write a cold email to a senior security engineer at another company whom you've never met, asking for 20 minutes to hear about their experience running a cloud security tool.
+08 [b2b/intro] Write an email introducing two of your contacts to each other: a CISO at a mid-size bank and the founder of an early-stage security startup.
+09 [b2b/exec] Write an email to your company's CFO asking for approval of budget for a new security tool.
+10 [b2b/friction] Write a message to the lead of a peer engineering team explaining that their recent deployment changes have caused a large increase in alert noise for your on-call team.
+11 [b2b/procurement] Write an email to a software vendor's account executive asking about pricing and pushing back on their requirement of a three-year contract term.

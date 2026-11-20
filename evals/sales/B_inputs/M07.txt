@@ -1,0 +1,17 @@
+CHANNEL: email
+STAGE: negotiation
+SELLER: Account Executive at Vaultline
+BUYER: Security Lead, Logistics, Driftwood Freight (200-500 employees)
+SUBJECT: Vaultline — where we can and can't flex
+MESSAGE:
+Gunnar,
+
+I know you've been pushed hard from both sides: your CEO wants SOC 2 by Q2 for the enterprise deal, and your CFO wants this under $20k. I'd like to make it easier to defend internally.
+
+Where we can flex: we can start you on the Starter tier at $17,500, which covers SOC 2 for your current 14 integrations. If the enterprise deal closes and you need ISO or HIPAA later, you'd upgrade at that point.
+
+Where we can't: the Starter tier doesn't include the auditor-ready policy pack. Your team would write or adapt policies yourselves, which probably takes 2–3 weeks of someone's time.
+
+I'm happy to share what policies other logistics companies had to write, so you can estimate the lift before deciding.
+
+Adaeze

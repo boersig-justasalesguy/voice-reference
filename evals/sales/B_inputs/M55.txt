@@ -1,0 +1,6 @@
+CHANNEL: linkedin_dm
+STAGE: upsell
+SELLER: Account Manager at Draftkit
+BUYER: General Counsel, Renewable Energy Developer, Brightwell Solar (200-500 employees)
+MESSAGE:
+Rowan - your team has run about 140 land-lease agreements through Draftkit this year. Most include option-exercise and decommissioning-bond deadlines that live in the signed PDF and nowhere else. Our obligation tracking pulls those dates out and alerts the owner. Want me to run it on ten of your signed leases so you can see what it finds?

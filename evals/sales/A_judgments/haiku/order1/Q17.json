@@ -1,0 +1,9 @@
+{"pair":"Q17","units":[
+{"unit":"Onramp renewal reminder to Mireille","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Subscription renews January 15","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Renewal includes 9% price increase","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Price increase tied to updated pricing","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Review attached order form and return signed copy","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Return signed copy at earliest convenience to avoid disruption","kind":"condition","in_text1":true,"in_text2":true,"altered":null,"note":"Implied service risk in both"},
+{"unit":"Reach out with questions","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""}
+],"same_meaning":"yes","better_message":"1","reason":"Direct and concise; Text 2 is more formulaic with a reminder framing.","grade_text1":"average","grade_text2":"average"}

@@ -1,0 +1,46 @@
+CHANNEL: call_script
+STAGE: cold_outreach
+SELLER: Business Development Rep at Shiftwell
+BUYER: Shift Supervisor (answered main line), Fast Casual Restaurants, Greenleaf Bowl Co. (1000-5000 employees)
+
+=== TEXT 1 ===
+[GATEKEEPER — calling a busy restaurant location to find the regional ops contact. Lunch rush is risky; call at 3 p.m.]
+
+"Hi there! I promise I'm not ordering a bowl, and I promise this'll take under a minute. Is now terrible, or do you have sixty seconds?"
+
+[If 'go ahead']
+
+"Thank you. My name's Lorenzo, I'm with a company called Shiftwell — we make the app restaurants use so crew can swap shifts on their phones instead of the group chat. I'm trying to figure out who at Greenleaf handles scheduling for the region. Is that your GM, or is it someone above the store?"
+
+[Supervisor explains: 'GM builds the schedule but corporate picks the software, I think it's the regional ops person.']
+
+"That's really helpful. Do you happen to know their name? And, honest question since you're on the floor — how do swaps work for you all now?"
+
+[Supervisor: 'There's a group text. And a whiteboard. It's chaos when someone calls out on a Saturday.']
+
+"Ha. Whiteboard plus group text is the most common answer I get, so you're in good company. If I mention to the regional person that the folks on the floor would love something better, would that be fair to say?"
+
+[Get name — e.g., 'Jasper Lindgren, he's our area director']
+
+"Amazing, thank you, Tamsin. I'll let you get back to it."
+
+=== TEXT 2 ===
+[GATEKEEPER — calling a busy restaurant location to find the regional ops contact. Lunch rush is risky; call at 3 p.m.]
+
+"Hi there! I'm not ordering a bowl, and this'll take under a minute. Is now terrible, or do you have sixty seconds?"
+
+[If 'go ahead']
+
+"Thanks. I'm Lorenzo, with a company called Shiftwell. We make the app restaurants use so crew can swap shifts on their phones instead of the group chat. I'm trying to find out who at Greenleaf handles scheduling for the region. Is that your GM, or someone above the store?"
+
+[Supervisor explains: 'GM builds the schedule but corporate picks the software, I think it's the regional ops person.']
+
+"That helps. Do you happen to know their name? And since you're on the floor, how do swaps work for you all now?"
+
+[Supervisor: 'There's a group text. And a whiteboard. It's chaos when someone calls out on a Saturday.']
+
+"Ha. Whiteboard plus group text is the most common answer I get, so you're in good company. If I tell the regional person the folks on the floor would love something better, is that fair to say?"
+
+[Get name — e.g., 'Jasper Lindgren, he's our area director']
+
+"Thank you, Tamsin. I'll let you get back to it."

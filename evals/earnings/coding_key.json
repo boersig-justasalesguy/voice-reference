@@ -1,0 +1,386 @@
+{
+ "R001": {
+  "exchange": "AEYE_2021Q3_x1",
+  "source": "sonnet"
+ },
+ "R002": {
+  "exchange": "CMBM_2019Q3_x1",
+  "source": "sonnet"
+ },
+ "R003": {
+  "exchange": "CMBM_2019Q3_x1",
+  "source": "haiku"
+ },
+ "R004": {
+  "exchange": "ZEN_2019Q3_x1",
+  "source": "sonnet"
+ },
+ "R005": {
+  "exchange": "ZEN_2019Q3_x2",
+  "source": "opus"
+ },
+ "R006": {
+  "exchange": "NET_2019Q4_x1",
+  "source": "human"
+ },
+ "R007": {
+  "exchange": "ZEN_2019Q3_x1",
+  "source": "haiku"
+ },
+ "R008": {
+  "exchange": "FISV_2018Q4_x2",
+  "source": "opus"
+ },
+ "R009": {
+  "exchange": "CMBM_2019Q3_x1",
+  "source": "human"
+ },
+ "R010": {
+  "exchange": "NABL_2021Q2_x2",
+  "source": "sonnet"
+ },
+ "R011": {
+  "exchange": "FISV_2018Q4_x1",
+  "source": "opus"
+ },
+ "R012": {
+  "exchange": "IPHI_2019Q3_x2",
+  "source": "opus"
+ },
+ "R013": {
+  "exchange": "DLR_2019Q4_x2",
+  "source": "human"
+ },
+ "R014": {
+  "exchange": "QTWO_2021Q3_x2",
+  "source": "sonnet"
+ },
+ "R015": {
+  "exchange": "QTWO_2021Q3_x2",
+  "source": "human"
+ },
+ "R016": {
+  "exchange": "NET_2019Q4_x2",
+  "source": "opus"
+ },
+ "R017": {
+  "exchange": "TEAM_2023Q4_x1",
+  "source": "human"
+ },
+ "R018": {
+  "exchange": "TYL_2020Q4_x2",
+  "source": "haiku"
+ },
+ "R019": {
+  "exchange": "AEYE_2021Q3_x1",
+  "source": "haiku"
+ },
+ "R020": {
+  "exchange": "TYL_2020Q4_x1",
+  "source": "sonnet"
+ },
+ "R021": {
+  "exchange": "NABL_2021Q2_x1",
+  "source": "human"
+ },
+ "R022": {
+  "exchange": "NET_2019Q4_x2",
+  "source": "human"
+ },
+ "R023": {
+  "exchange": "NET_2020Q3_x1",
+  "source": "opus"
+ },
+ "R024": {
+  "exchange": "QTWO_2021Q3_x2",
+  "source": "haiku"
+ },
+ "R025": {
+  "exchange": "TYL_2020Q4_x1",
+  "source": "opus"
+ },
+ "R026": {
+  "exchange": "QTWO_2021Q3_x1",
+  "source": "haiku"
+ },
+ "R027": {
+  "exchange": "NABL_2021Q2_x1",
+  "source": "opus"
+ },
+ "R028": {
+  "exchange": "DLR_2019Q4_x1",
+  "source": "human"
+ },
+ "R029": {
+  "exchange": "DLR_2019Q4_x1",
+  "source": "opus"
+ },
+ "R030": {
+  "exchange": "TYL_2020Q4_x2",
+  "source": "human"
+ },
+ "R031": {
+  "exchange": "TEAM_2023Q4_x2",
+  "source": "haiku"
+ },
+ "R032": {
+  "exchange": "ZEN_2019Q3_x2",
+  "source": "haiku"
+ },
+ "R033": {
+  "exchange": "TYL_2020Q4_x2",
+  "source": "sonnet"
+ },
+ "R034": {
+  "exchange": "QTWO_2021Q3_x1",
+  "source": "opus"
+ },
+ "R035": {
+  "exchange": "TEAM_2023Q4_x2",
+  "source": "human"
+ },
+ "R036": {
+  "exchange": "AEYE_2021Q3_x2",
+  "source": "opus"
+ },
+ "R037": {
+  "exchange": "NET_2020Q3_x1",
+  "source": "haiku"
+ },
+ "R038": {
+  "exchange": "NET_2020Q3_x1",
+  "source": "human"
+ },
+ "R039": {
+  "exchange": "DLR_2019Q4_x1",
+  "source": "haiku"
+ },
+ "R040": {
+  "exchange": "NET_2020Q3_x1",
+  "source": "sonnet"
+ },
+ "R041": {
+  "exchange": "NET_2019Q4_x2",
+  "source": "haiku"
+ },
+ "R042": {
+  "exchange": "NET_2019Q4_x1",
+  "source": "sonnet"
+ },
+ "R043": {
+  "exchange": "FISV_2018Q4_x2",
+  "source": "haiku"
+ },
+ "R044": {
+  "exchange": "IPHI_2019Q3_x2",
+  "source": "human"
+ },
+ "R045": {
+  "exchange": "NET_2019Q4_x1",
+  "source": "opus"
+ },
+ "R046": {
+  "exchange": "NET_2020Q3_x2",
+  "source": "haiku"
+ },
+ "R047": {
+  "exchange": "DLR_2019Q4_x2",
+  "source": "haiku"
+ },
+ "R048": {
+  "exchange": "TEAM_2023Q4_x1",
+  "source": "haiku"
+ },
+ "R049": {
+  "exchange": "CMBM_2019Q3_x2",
+  "source": "haiku"
+ },
+ "R050": {
+  "exchange": "NABL_2021Q2_x2",
+  "source": "opus"
+ },
+ "R051": {
+  "exchange": "QTWO_2021Q3_x1",
+  "source": "sonnet"
+ },
+ "R052": {
+  "exchange": "AEYE_2021Q3_x2",
+  "source": "sonnet"
+ },
+ "R053": {
+  "exchange": "NET_2020Q3_x2",
+  "source": "sonnet"
+ },
+ "R054": {
+  "exchange": "IPHI_2019Q3_x1",
+  "source": "sonnet"
+ },
+ "R055": {
+  "exchange": "NABL_2021Q2_x2",
+  "source": "haiku"
+ },
+ "R056": {
+  "exchange": "IPHI_2019Q3_x2",
+  "source": "sonnet"
+ },
+ "R057": {
+  "exchange": "TEAM_2023Q4_x1",
+  "source": "sonnet"
+ },
+ "R058": {
+  "exchange": "TEAM_2023Q4_x2",
+  "source": "opus"
+ },
+ "R059": {
+  "exchange": "NABL_2021Q2_x2",
+  "source": "human"
+ },
+ "R060": {
+  "exchange": "CMBM_2019Q3_x2",
+  "source": "human"
+ },
+ "R061": {
+  "exchange": "NET_2019Q4_x2",
+  "source": "sonnet"
+ },
+ "R062": {
+  "exchange": "AEYE_2021Q3_x2",
+  "source": "haiku"
+ },
+ "R063": {
+  "exchange": "AEYE_2021Q3_x2",
+  "source": "human"
+ },
+ "R064": {
+  "exchange": "TEAM_2023Q4_x1",
+  "source": "opus"
+ },
+ "R065": {
+  "exchange": "FISV_2018Q4_x2",
+  "source": "human"
+ },
+ "R066": {
+  "exchange": "FISV_2018Q4_x1",
+  "source": "sonnet"
+ },
+ "R067": {
+  "exchange": "ZEN_2019Q3_x1",
+  "source": "human"
+ },
+ "R068": {
+  "exchange": "IPHI_2019Q3_x1",
+  "source": "haiku"
+ },
+ "R069": {
+  "exchange": "CMBM_2019Q3_x1",
+  "source": "opus"
+ },
+ "R070": {
+  "exchange": "CMBM_2019Q3_x2",
+  "source": "opus"
+ },
+ "R071": {
+  "exchange": "ZEN_2019Q3_x2",
+  "source": "sonnet"
+ },
+ "R072": {
+  "exchange": "NABL_2021Q2_x1",
+  "source": "sonnet"
+ },
+ "R073": {
+  "exchange": "DLR_2019Q4_x2",
+  "source": "opus"
+ },
+ "R074": {
+  "exchange": "NET_2019Q4_x1",
+  "source": "haiku"
+ },
+ "R075": {
+  "exchange": "TYL_2020Q4_x1",
+  "source": "haiku"
+ },
+ "R076": {
+  "exchange": "ZEN_2019Q3_x1",
+  "source": "opus"
+ },
+ "R077": {
+  "exchange": "DLR_2019Q4_x2",
+  "source": "sonnet"
+ },
+ "R078": {
+  "exchange": "NET_2020Q3_x2",
+  "source": "opus"
+ },
+ "R079": {
+  "exchange": "AEYE_2021Q3_x1",
+  "source": "opus"
+ },
+ "R080": {
+  "exchange": "IPHI_2019Q3_x1",
+  "source": "opus"
+ },
+ "R081": {
+  "exchange": "AEYE_2021Q3_x1",
+  "source": "human"
+ },
+ "R082": {
+  "exchange": "QTWO_2021Q3_x1",
+  "source": "human"
+ },
+ "R083": {
+  "exchange": "TYL_2020Q4_x1",
+  "source": "human"
+ },
+ "R084": {
+  "exchange": "TYL_2020Q4_x2",
+  "source": "opus"
+ },
+ "R085": {
+  "exchange": "DLR_2019Q4_x1",
+  "source": "sonnet"
+ },
+ "R086": {
+  "exchange": "ZEN_2019Q3_x2",
+  "source": "human"
+ },
+ "R087": {
+  "exchange": "TEAM_2023Q4_x2",
+  "source": "sonnet"
+ },
+ "R088": {
+  "exchange": "QTWO_2021Q3_x2",
+  "source": "opus"
+ },
+ "R089": {
+  "exchange": "NET_2020Q3_x2",
+  "source": "human"
+ },
+ "R090": {
+  "exchange": "IPHI_2019Q3_x2",
+  "source": "haiku"
+ },
+ "R091": {
+  "exchange": "CMBM_2019Q3_x2",
+  "source": "sonnet"
+ },
+ "R092": {
+  "exchange": "FISV_2018Q4_x1",
+  "source": "human"
+ },
+ "R093": {
+  "exchange": "FISV_2018Q4_x2",
+  "source": "sonnet"
+ },
+ "R094": {
+  "exchange": "FISV_2018Q4_x1",
+  "source": "haiku"
+ },
+ "R095": {
+  "exchange": "NABL_2021Q2_x1",
+  "source": "haiku"
+ },
+ "R096": {
+  "exchange": "IPHI_2019Q3_x1",
+  "source": "human"
+ }
+}

@@ -1,0 +1,16 @@
+CHANNEL: email
+STAGE: objection_handling
+SELLER: Senior Account Executive at Baseline Forge
+BUYER: Principal Security Engineer, Pharmaceuticals, Corvallis Biologics (1000-5000 employees)
+SUBJECT: RE: Data concerns
+MESSAGE:
+Hi Ezra,
+
+I completely understand your concern, but I can assure you that Baseline Forge is completely safe. Security is our top priority and we take data protection very seriously. Our AI is enterprise-grade and we use industry-leading encryption.
+
+Lots of companies in regulated industries use Baseline Forge without any issues, so I really don't think this should be a blocker.
+
+Can we move forward with the pilot next week?
+
+Thanks,
+Mirela

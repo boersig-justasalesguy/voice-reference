@@ -1,0 +1,6 @@
+CHANNEL: voicemail
+STAGE: re_engagement
+SELLER: Account Executive at Draftkit
+BUYER: General Counsel, Aerospace, Altimere Aerospace (1000-5000 employees)
+MESSAGE:
+Good morning, Mr. Asante. This is Philomena Garvey with Draftkit. I understand you joined Altimere as General Counsel this autumn; congratulations. Altimere's commercial team evaluated Draftkit last year for supplier agreements. I would welcome the chance to share what they found and hear your priorities. I can be reached at 206-555-0187. Thank you.

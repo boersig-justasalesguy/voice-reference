@@ -1,0 +1,54 @@
+== Size and label mix
+  earlier: n=835 strong 51% average 29% weak 20%
+  new: n=876 strong 51% average 29% weak 21%
+
+== Marker presence: share of messages containing it | share of those labelled weak | labelled strong
+marker                               earlier                         new
+superlative           3.5%     90%      7%        3.0%     92%      8%
+transform             1.4%     92%      8%        0.6%    100%      0%
+preamble              5.9%     73%     12%        5.0%     70%      9%
+urgency               2.6%     73%     18%        2.2%     89%      5%
+offload_close        13.9%     45%     12%       13.2%     47%      2%
+opt_out               2.8%      9%     87%        1.1%     10%     70%
+placeholders         14.4%     12%     68%       12.0%     16%     66%
+notbut_k              9.6%      0%     85%        9.5%      4%     77%
+triplet_k            33.8%     25%     51%       38.8%     25%     52%
+  any cliché (earlier): present in 21%; 54% of those weak; catches 56% of weak messages
+  any cliché (new): present in 20%; 55% of those weak; catches 52% of weak messages
+
+== Mean by label (strong / weak) per set
+feature     earlier strongearlier weak    new strong    new weak
+words                144.3        78.4         139.6        98.2
+sent_sd                9.3         6.6           9.5         8.0
+triplet_k              2.9         6.3           3.4         6.6
+notbut_k               1.2         0.0           1.1         0.3
+I_k                   21.9        34.1          17.3        32.6
+we_k                  11.9        21.3          12.1        22.7
+you_k                 39.4        45.9          44.3        45.3
+hedge_k                2.3         4.6           2.1         4.2
+num_k                 23.1        17.1          16.8        13.5
+q_k                    7.9        13.8           9.3        10.1
+
+== Within-pair (weak vs strong, same scenario): pairs where weak is higher / lower
+  earlier: 22 weak/strong pairs
+     words          weak higher  0 | lower 21
+     sent_sd        weak higher  2 | lower 20
+     triplet_k      weak higher  8 | lower  2
+     notbut_k       weak higher  0 | lower  4
+     superlative    weak higher  2 | lower  0
+     preamble       weak higher  5 | lower  0
+     opt_out        weak higher  0 | lower  5
+     offload_close  weak higher  6 | lower  0
+  new: 25 weak/strong pairs
+     words          weak higher  4 | lower 21
+     sent_sd        weak higher 13 | lower 12
+     triplet_k      weak higher  7 | lower  5
+     notbut_k       weak higher  0 | lower  2
+     superlative    weak higher  2 | lower  0
+     preamble       weak higher  5 | lower  0
+     opt_out        weak higher  0 | lower  1
+     offload_close  weak higher  4 | lower  0
+
+== Reply sentiment by label
+  earlier: {('strong', 'positive'): 192, ('strong', 'none'): 188, ('average', 'none'): 156, ('weak', 'none'): 94, ('weak', 'negative'): 43, ('average', 'neutral'): 42, ('strong', 'neutral'): 31, ('average', 'objection'): 20}
+  new: {('strong', 'positive'): 202, ('strong', 'none'): 200, ('average', 'none'): 188, ('weak', 'none'): 105, ('weak', 'negative'): 38, ('average', 'neutral'): 27, ('strong', 'neutral'): 22, ('strong', 'objection'): 19}

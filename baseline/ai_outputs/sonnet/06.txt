@@ -1,0 +1,88 @@
+A Practical Guide to Keeping Open-Source Malware Out of Your Software Supply Chain
+
+Open-source packages power nearly every modern application, and attackers know it. Malicious packages are published to public registries every day, using techniques such as typosquatting, dependency confusion, account takeover of legitimate maintainers and deliberately planted backdoors. A single install can run attacker code on a developer laptop or in your build pipeline, where it can reach secrets and production systems.
+
+This guide gives security teams a practical path to reduce that risk. It is organized in the order most teams should tackle it.
+
+Understand how malware gets in
+
+Before choosing controls, know the common paths:
+
+- Typosquatting and lookalike names: a package named reqeusts or colorama-utils that imitates a popular one.
+- Dependency confusion: a public package with the same name as your internal one, published with a higher version number, which your build then prefers.
+- Maintainer account takeover: a legitimate package updated with a malicious version after credentials are stolen.
+- Install-time scripts: code that runs automatically during installation, before any review or scan of the application code.
+- Abandoned packages: a maintainer walks away and a new owner adds malicious code.
+- Transitive dependencies: the malicious package is not one you chose, but one that something you chose depends on.
+
+Step 1: Get visibility
+
+You cannot protect what you cannot see.
+
+- Generate a software bill of materials for every application and build, including transitive dependencies.
+- Inventory where packages are installed: developer machines, CI runners, container images and production.
+- Record which registries and mirrors are in use.
+
+Step 2: Control where packages come from
+
+- Route all installs through an internal proxy or artifact repository rather than allowing direct access to public registries.
+- Configure scoped registries so that internal package names can only resolve to your internal source. This neutralizes dependency confusion.
+- Block unknown or unapproved registries at the network layer from build systems.
+- Reserve your internal package names on public registries where practical.
+
+Step 3: Add a waiting period and screening
+
+Many malicious versions are detected and removed within hours or days.
+
+- Set a minimum package age, such as three to seven days, before a new version can be pulled into builds. Allow an exception process for urgent security fixes.
+- Scan new packages in the proxy for known malware, suspicious install scripts, obfuscated code, unexpected network calls and newly added maintainers.
+- Use a malware intelligence feed or commercial service, and also compare against known-malicious package lists.
+- Flag packages that are very new, have few downloads or have names close to popular packages.
+
+Step 4: Pin and verify
+
+- Use lockfiles and commit them. Require that CI installs from the lockfile and fails if it does not match.
+- Pin exact versions and, where the ecosystem supports it, verify hashes.
+- Review dependency updates as code changes. Automated update tools should open pull requests that a person approves, not merge silently.
+- Prefer packages that publish provenance attestations and signed releases.
+
+Step 5: Reduce what malware can do if it gets in
+
+Assume some will get through.
+
+- Disable install scripts by default where possible, and allow them only for reviewed packages.
+- Run builds in ephemeral, isolated environments with no long-lived credentials.
+- Use short-lived, narrowly scoped tokens for CI and restrict outbound network access from build runners to the destinations they need.
+- Keep production secrets out of build environments entirely.
+- Protect developer machines with endpoint detection and restrict access to cloud credentials stored locally.
+
+Step 6: Detect and respond
+
+- Monitor build and runtime environments for unexpected outbound connections, new processes spawned during installation and access to credential files.
+- Alert when a dependency adds an install script, changes maintainers or suddenly changes size.
+- Keep a runbook: how to identify every place a package was installed, rotate exposed secrets, rebuild affected artifacts and notify stakeholders. Practice it before you need it.
+- Subscribe to advisories for your ecosystems so you hear about compromised packages quickly.
+
+Step 7: Make it workable for developers
+
+Controls that slow developers down get bypassed.
+
+- Make the secure path the easy path: a proxy that works transparently and a clear, fast exception process.
+- Explain the reasons, and give developers feedback in the pull request rather than a failed build days later.
+- Start with monitoring mode, measure the noise, then move to blocking.
+
+A suggested rollout
+
+1. Weeks 1 to 4: inventory, SBOMs, and lockfile enforcement.
+2. Weeks 4 to 8: proxy with scoped registries and malware scanning in monitor mode.
+3. Weeks 8 to 12: minimum package age, install script restrictions, blocking enabled.
+4. Ongoing: credential hardening, detection and incident exercises.
+
+How to measure progress
+
+- Percentage of builds that install through the proxy
+- Percentage of repositories with enforced lockfiles
+- Number of packages blocked or quarantined, and the false positive rate
+- Time to identify affected systems after a malicious package is disclosed
+
+No single control stops every attack. The goal is layers: restrict sources, delay and screen new code, limit the damage a bad package can do, and be ready to respond quickly.

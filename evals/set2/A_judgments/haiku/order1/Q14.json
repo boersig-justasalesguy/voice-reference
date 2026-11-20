@@ -1,0 +1,14 @@
+{"pair":"Q14","units":[
+{"unit":"Addressee Samir named","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Sender Claire from Relaykit","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Additional 25 percent discount approved","kind":"offer","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Total discount now 40 percent off list","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Best pricing the seller has offered","kind":"claim","in_text1":true,"in_text2":true,"altered":"strength_up","note":"Text 2 adds 'really exceptional' and 'honestly' hype"},
+{"unit":"Pricing valid only if order form signed by Friday","kind":"deadline","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Deadline tied to quarter-end","kind":"condition","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Price cannot be guaranteed after Friday","kind":"condition","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Updated order form attached","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Asks for signature by Friday","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Great news enthusiasm and exclamation marks","kind":"stance","in_text1":false,"in_text2":true,"altered":null,"note":"Text 2 only; adds hype"},
+{"unit":"Offers help getting it over the line","kind":"offer","in_text1":false,"in_text2":true,"altered":null,"note":"Text 2 only"}
+],"same_meaning":"yes","better_message":"1","reason":"Plain, factual pressure with a reason; Text 2 reads salesy and overhyped.","grade_text1":"strong","grade_text2":"weak"}

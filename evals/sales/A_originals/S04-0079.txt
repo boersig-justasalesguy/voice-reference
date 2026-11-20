@@ -1,0 +1,6 @@
+CHANNEL: linkedin_dm
+STAGE: objection_handling
+SELLER: Account Executive at Fieldnote
+BUYER: Head of Design, Consumer Apps, Tumbleweed Labs (50-200 employees)
+MESSAGE:
+Sanjay, sorry to hear about the budget cut. Losing a researcher hurts. Honestly, Fieldnote may matter more now, since your designers will be running their own interviews without someone to synthesize them. But I get that new spend is off the table. Want the free plan details so the team can start capturing calls now?

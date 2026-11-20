@@ -1,0 +1,10 @@
+CHANNEL: sms
+STAGE: follow_up
+SELLER: Account Executive at Fieldnote
+BUYER: Head of Product, Fitness Tech, Pulsepoint (100-200 employees)
+
+=== TEXT 1 ===
+Hi Yara, Gaspard from Fieldnote. Saw the new coaching feature launched — congrats! If you're running user interviews on it, happy to set your team up with a free repository for the study. Interested?
+
+=== TEXT 2 ===
+Hi Yara, Gaspard from Fieldnote. Saw the new coaching feature launched, congrats! If you're running user interviews on it, I can set your team up with a free repository for the study. Interested?

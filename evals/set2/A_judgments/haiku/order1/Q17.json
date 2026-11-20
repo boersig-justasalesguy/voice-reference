@@ -1,0 +1,12 @@
+{"pair":"Q17","units":[
+{"unit":"Addressee Wendell named","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Sender Joelle","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Six outreach attempts over the last month","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"No reply, so assumes not interested or too busy","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Detection leaders are excited about Signalcraft","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Surprise that there is no reply","kind":"stance","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Maybe not a priority for Corvid Ledger now","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Will close the file unless reply by Friday end of day","kind":"deadline","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Will stop reaching out after closing the file","kind":"commitment","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Asks for a reply by Friday","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""}
+],"same_meaning":"yes","better_message":"2","reason":"Context first and the deadline last reads as a less pushy breakup than leading with the threat.","grade_text1":"average","grade_text2":"average"}

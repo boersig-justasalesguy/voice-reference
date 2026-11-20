@@ -1,0 +1,15 @@
+CHANNEL: email
+STAGE: negotiation
+SELLER: Account Executive at Clearstack
+BUYER: VP Engineering, Retail, Hollins Grocery Co. (1000-5000 employees)
+SUBJECT: Clearstack — pricing based on spend
+MESSAGE:
+Hi Penelope,
+
+Thanks for the call. As mentioned, Clearstack pricing is based on a percentage of your managed cloud spend. At roughly $4.2M/year in spend, our standard rate would be 2.5%, or about $105,000/year.
+
+You asked about a lower rate. We do have volume tiers; above $5M it drops to 2%. If you expect to cross $5M during the contract, we could apply the 2% from day one on a two-year term.
+
+Let me know what you think.
+
+Tobias

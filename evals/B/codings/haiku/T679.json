@@ -1,0 +1,19 @@
+{
+ "id": "T679",
+ "claims": [
+   {"gist": "Malicious packages are published daily via typosquatting, dependency confusion and takeovers", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Generate SBOMs that include transitive dependencies for visibility", "type": "prescriptive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Route installs through an internal proxy and block public registries from builds", "type": "prescriptive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Wait three to seven days before pulling new package versions into builds", "type": "prescriptive", "evidence": "reasoning_only", "specific": true, "hedged": false, "owner": "impersonal"},
+   {"gist": "Many malicious versions are detected and removed within hours or days", "type": "factual", "evidence": "none", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Commit lockfiles and fail CI when they do not match", "type": "prescriptive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Disable install scripts by default and allow them only for reviewed packages", "type": "prescriptive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Controls that slow developers down get bypassed", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"}
+ ],
+ "named_entities": 0,
+ "named_criticism": 0,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": false,
+ "thesis": "Reduce open-source malware risk through visibility, source control, waiting periods, pinning, limited install scripts and detection."
+}

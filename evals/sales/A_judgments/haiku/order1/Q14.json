@@ -1,0 +1,10 @@
+{"pair":"Q14","units":[
+{"unit":"Re: Fieldnote pricing reply to Sven","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Acknowledges price seems high","kind":"stance","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Fieldnote is an investment, not a cost","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Lists unlimited projects, AI tagging, highlight reels, integrations, security","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"One of the best values on the market","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"15% off first year if signed by end of month","kind":"offer","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Offer cannot be guaranteed later","kind":"condition","in_text1":true,"in_text2":true,"altered":null,"note":"Artificial scarcity in both"},
+{"unit":"Closing enthusiasm for moving forward","kind":"stance","in_text1":true,"in_text2":true,"altered":"strength_up","note":"Text 2 adds exclamation mark to close"}
+],"same_meaning":"yes","better_message":"2","reason":"Smoother transition into the discount; otherwise the same boilerplate pitch.","grade_text1":"average","grade_text2":"average"}

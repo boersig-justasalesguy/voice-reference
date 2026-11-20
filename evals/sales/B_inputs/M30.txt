@@ -1,0 +1,22 @@
+CHANNEL: email
+STAGE: negotiation
+SELLER: Account Executive at Patchbay
+BUYER: Head of IT, Manufacturing, Kestrel Fabrication (500-1000 employees)
+SUBJECT: Re: Patchbay order form - option with a price lock
+MESSAGE:
+Hi Mai,
+
+Thanks for being direct about what matters: you'd rather have a predictable number for three years than the lowest number for one. That's workable, and I'd prefer to solve that than just trim the price.
+
+Here's what I can offer:
+
+- 3-year term, with the annual price locked at year-one levels. No increases until 2030.
+- Year one at the current quote. To make the lock work on our side, we'd ask for annual prepayment, not the full three years upfront.
+- We'd include the second production environment you mentioned for the Juarez plant at no extra cost, since you'd otherwise add it mid-term.
+- If your connector count grows past the 40 in this quote, overage is fixed at the current per-connector rate for the full term.
+
+What I'd ask in return is a signature by December 19, so our implementation team can start with your MES integration before your January shutdown window - which, from what Rahul said, is the easiest time to cut over.
+
+If any of that doesn't match what finance needs, tell me which piece and I'll take it back to our deal desk. I'd rather adjust the structure than send you something you can't approve.
+
+Elias

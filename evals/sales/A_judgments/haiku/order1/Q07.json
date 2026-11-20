@@ -1,0 +1,12 @@
+{"pair":"Q07","units":[
+{"unit":"Vaultline proposal attached for Amara","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Covers SOC 2 Type II and ISO 27001","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Total price $46K per year","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Automated evidence collection","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Policy templates","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Vendor risk management","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Employee security training","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Trust center","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Implementation typically 4-6 weeks","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Ask: let me know if you want to discuss","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""}
+],"same_meaning":"yes","better_message":"2","reason":"Bulleted scope is easier to scan for a CTO; content otherwise identical.","grade_text1":"average","grade_text2":"average"}

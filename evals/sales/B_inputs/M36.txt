@@ -1,0 +1,17 @@
+CHANNEL: email
+STAGE: upsell
+SELLER: Customer Success Manager at Patchbay
+BUYER: CTO, Telehealth, Remedia Health (200-500 employees)
+SUBJECT: Your pharmacy sync jobs - a possible fix
+MESSAGE:
+Hi Kwame,
+
+Something I noticed in Remedia's account while prepping our check-in: your pharmacy-partner integrations poll for prescription status every five minutes, and about 4% of runs over the last 30 days timed out. Those timeouts line up with the support tickets your team flagged in October about patients not seeing 'ready for pickup' updates.
+
+Polling is the wrong shape for that problem. Three of your four pharmacy partners now offer webhooks, and Patchbay Events can receive those, validate them, and replay any that fail - so a status update arrives in seconds and doesn't disappear if your service blips.
+
+The honest tradeoff: it's $1,200/month extra, and the fourth partner still needs polling. Moving the other three would cut roughly 26,000 API calls a day and, if the timeout pattern holds, most of those tickets.
+
+If it's useful, our solutions engineer can migrate one partner in a sandbox so your team can compare. If not, I'd at least suggest raising the timeout threshold on the current jobs - I can show Mei how.
+
+Rosalind

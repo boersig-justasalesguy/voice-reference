@@ -1,0 +1,99 @@
+{
+ "id": "T781",
+ "claims": [
+  {
+   "gist": "By 2025, 70% of organizations will shift to small and wide data",
+   "type": "predictive",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Pandemic disruption made historical data obsolete, breaking AI models",
+   "type": "factual",
+   "evidence": "named_source",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Decision-making is overly reliant on data-hungry deep learning",
+   "type": "evaluative",
+   "evidence": "named_source",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "D&A leaders need small and wide data techniques",
+   "type": "prescriptive",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Small and wide data use available data more effectively",
+   "type": "evaluative",
+   "evidence": "named_source",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Small data requires less data yet yields useful insights",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Wide data enables analysis across diverse data formats",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Both approaches enable more robust analytics and reduce big data dependence",
+   "type": "evaluative",
+   "evidence": "named_source",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Leaders apply both to address scarce training data",
+   "type": "factual",
+   "evidence": "named_source",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Potential uses include retail forecasting and customer service",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": true,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Other potential uses include fraud detection and autonomous robots",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": true,
+   "owner": "impersonal"
+  }
+ ],
+ "named_entities": 2,
+ "named_criticism": 0,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": true,
+ "thesis": "By 2025, 70% of organizations will shift from big data to small and wide data for more robust AI."
+}

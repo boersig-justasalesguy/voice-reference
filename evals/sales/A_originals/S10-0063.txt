@@ -1,0 +1,16 @@
+CHANNEL: email
+STAGE: follow_up
+SELLER: Account Executive at Pipewise
+BUYER: Director of Revenue Operations, Cybersecurity, Ironhelm Security (500-1000 employees)
+SUBJECT: Following up
+MESSAGE:
+Hi Desmond,
+
+Just following up on my previous email. I know you're busy, but I wanted to make sure this didn't slip through the cracks.
+
+As I mentioned, Pipewise helps RevOps teams improve forecast accuracy and pipeline visibility. I think it could be a great fit for Ironhelm.
+
+Do you have time for a quick call this week?
+
+Thanks,
+Ingrid

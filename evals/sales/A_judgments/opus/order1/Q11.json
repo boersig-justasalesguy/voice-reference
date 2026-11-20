@@ -1,0 +1,67 @@
+{
+ "pair": "Q11",
+ "units": [
+  {
+   "unit": "Recording of Thursday's health score workshop",
+   "kind": "offer",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Scoring worksheet included",
+   "kind": "offer",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Thanks for joining",
+   "kind": "stance",
+   "in_text1": false,
+   "in_text2": true,
+   "altered": null,
+   "note": "Only Text 2 thanks her"
+  },
+  {
+   "unit": "Health score is CSM gut feel, monthly RYG",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "More common than people admit",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Second tab blends sentiment with objective signals",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Usually easiest first step",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Offer call to adapt to Sentinelpoint data",
+   "kind": "offer",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "tie",
+ "reason": "Same helpful, low-pressure follow-up; Text 2 adds a thank-you.",
+ "grade_text1": "strong",
+ "grade_text2": "strong"
+}

@@ -1,0 +1,17 @@
+{
+ "id": "T841",
+ "claims": [
+   {"gist": "By 2024, 40% of consumers will manipulate tracking metrics to devalue their data", "type": "predictive", "evidence": "data_cited", "specific": true, "hedged": false, "owner": "attributed"},
+   {"gist": "By 2024, 30% of corporate teams will operate without a boss", "type": "predictive", "evidence": "data_cited", "specific": true, "hedged": false, "owner": "attributed"},
+   {"gist": "Decouple management from the manager role to gain agility in hybrid work", "type": "prescriptive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "attributed"},
+   {"gist": "By 2025, synthetic data will avoid 70% of privacy violation sanctions", "type": "predictive", "evidence": "data_cited", "specific": true, "hedged": false, "owner": "attributed"},
+   {"gist": "By 2024, a cyberattack will prompt a G20 member to respond with physical attack", "type": "predictive", "evidence": "reasoning_only", "specific": true, "hedged": false, "owner": "attributed"},
+   {"gist": "By 2024, 80% of CIOs will cite modular redesign as a top-five performance driver", "type": "predictive", "evidence": "data_cited", "specific": true, "hedged": false, "owner": "attributed"}
+ ],
+ "named_entities": 0,
+ "named_criticism": 0,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": true,
+ "thesis": "Predictions to 2024-2025: consumers sabotage data, teams go bossless, synthetic data curbs privacy sanctions, cyberattacks provoke retaliation."
+}

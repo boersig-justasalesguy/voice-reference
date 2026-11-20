@@ -1,0 +1,10 @@
+{"pair":"Q04","units":[
+{"unit":"Oksana said they already bought RIs and savings plans","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Coverage level set from early-year usage snapshot","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"New analytics feature changes workload and instance types","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Commitments lower price but do not show if running is right","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Clearstack finds under-used commitments and idle infrastructure","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Offer: analysis with exact findings","kind":"offer","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Ask: would an analysis help","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"If declined, ask when commitments are revisited","kind":"condition","in_text1":true,"in_text2":true,"altered":null,"note":""}
+],"same_meaning":"yes","better_message":"2","reason":"Same objection handling; T2 flows more naturally as spoken dialogue.","grade_text1":"strong","grade_text2":"strong"}

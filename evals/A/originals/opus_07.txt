@@ -1,0 +1,22 @@
+Subject: 20 minutes on your experience running [Tool]?
+
+Hi [Name],
+
+I came across your [talk at X / post on Y / comment in Z] about [specific topic, e.g. cutting alert noise from your cloud runtime sensors], and the point about [specific detail] stuck with me.
+
+I'm a [your role] at [your company]. We're evaluating [Tool] for our cloud environment, and I'd much rather learn from someone who has run it in production than from another vendor demo.
+
+Would you be open to a 20-minute call in the next couple of weeks? I'd mainly like to ask:
+
+- What surprised you after deployment, good or bad
+- How much tuning it took before your team trusted the alerts
+- What you'd do differently if you were rolling it out again
+
+This isn't a sales pitch. I'm not selling anything, and I'm glad to keep it off the record. If it helps, I'm happy to share what we learn from our own evaluation, or to return the favor on anything we've worked through, like [an area your team knows well].
+
+If you're too busy, no worries at all. And if someone else on your team would be a better person to talk to, I'd appreciate a pointer.
+
+Thanks,
+[Your name]
+[Title, Company]
+[LinkedIn or phone]

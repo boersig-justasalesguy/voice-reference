@@ -1,0 +1,130 @@
+{
+ "pair": "P04",
+ "units": [
+  {
+   "unit": "Deployment changes shipped on [date]",
+   "kind": "deadline",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Large increase in alert noise",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": false,
+   "altered": null,
+   "note": "'large increase' characterization dropped in Text 2"
+  },
+  {
+   "unit": "Roughly [number] additional alerts per day",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Most from [service or alert name]",
+   "kind": "placeholder",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Alerts fire on conditions needing no response",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Harder to spot real alerts",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Acknowledges their team doing important improvements",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Not second-guessing the change itself",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Problem is effect on on-call rotation",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Two people woken overnight by self-resolving alerts",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": "strength_up",
+   "note": "Text 1 says 'reported'; Text 2 states it as fact"
+  },
+  {
+   "unit": "Triage time diverted from real incidents",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Ask: 30 minutes this week together",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Review affected alerts and thresholds/logic",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Will temporarily [mute or downgrade specific alerts]",
+   "kind": "commitment",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Will tell exactly which alerts muted",
+   "kind": "commitment",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Prefer fixing together over complaints",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Thanks for your help",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": false,
+   "altered": null,
+   "note": "thanks dropped in Text 2"
+  }
+ ],
+ "same_meaning": "yes",
+ "more_human": "2",
+ "human_reason": "Direct and concise, opens on the issue; Text 1 has more stock hedging."
+}

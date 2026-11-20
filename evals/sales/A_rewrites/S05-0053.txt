@@ -1,0 +1,14 @@
+SUBJECT: Beacon CX recap and questions
+
+Hi Sabine,
+
+Thanks for the demo today. Here's what I heard:
+
+- 9 CSMs managing ~350 broker accounts
+- No consistent health score today; each CSM uses their own judgment
+- Main goal is to identify at-risk brokers before renewal and prioritize CSM time
+- You'd want to start with usage and support data
+
+I've attached a sample health score configuration based on what you described. Two questions before I put a proposal together. Should CSMs see the score, or managers only at first? And is there a renewal date or planning cycle we should be working toward?
+
+Odalric

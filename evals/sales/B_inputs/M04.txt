@@ -1,0 +1,6 @@
+CHANNEL: linkedin_dm
+STAGE: cold_outreach
+SELLER: Sales Development Rep at Quorum HQ
+BUYER: CEO, Biotech, Corvane Therapeutics (50-100 employees)
+MESSAGE:
+Eleanor - congrats on the Series B. A pattern we see after biotech raises: the board grows from 3 to 6, two new funds want monthly updates, and clinical milestones get reported three different ways. Quorum HQ keeps one source of truth for the board pack and investor updates. Worth a look before your first post-raise board meeting, or too early?

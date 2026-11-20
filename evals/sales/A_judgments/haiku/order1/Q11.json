@@ -1,0 +1,11 @@
+{"pair":"Q11","units":[
+{"unit":"Sending recording of Thursday's health score workshop","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Scoring worksheet attached","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Lydia said health score is mostly CSM gut feel","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Scores entered red/yellow/green monthly","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Common practice claim: more common than admitted","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Worksheet tab two blends sentiment with objective signals","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Blending is usually the easiest first step","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Offer: help adapt worksheet to Sentinelpoint data via call","kind":"offer","in_text1":true,"in_text2":true,"altered":null,"note":"Conditioned on buyer interest"},
+{"unit":"No-pressure close: otherwise enjoy the worksheet","kind":"stance","in_text1":true,"in_text2":true,"altered":null,"note":""}
+],"same_meaning":"yes","better_message":"tie","reason":"Same personalized follow-up; only an opener differs in wording.","grade_text1":"strong","grade_text2":"strong"}

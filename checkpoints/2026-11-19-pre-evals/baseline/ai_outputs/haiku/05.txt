@@ -1,0 +1,17 @@
+Is the CNAPP Market Consolidating or Unbundling? My Honest Take
+
+A few years ago, the cloud-native application protection platform, or CNAPP, looked like the answer to a simple question: how do we secure cloud workloads without buying twelve separate tools? Vendors promised one platform covering posture management, vulnerability management, workload protection, infrastructure-as-code scanning, identity analysis, and cloud detection and response. Buyers were tired of tool sprawl, so many listened.
+
+Now the picture is more complicated. I want to argue a position, because I think the honest answer is more interesting than "both."
+
+My view: the market is consolidating at the platform layer and unbundling at the capability layer. Those two forces are happening at the same time, and buyers who treat them as the same trend will make expensive mistakes.
+
+Consolidation is real. Large security vendors have acquired cloud security startups, and many buyers now want a shared data model, one set of policies, and one place to see risk. Consolidation reduces integration work and makes it easier to connect a misconfiguration to an identity risk to a live alert. For mid-sized organizations without large security engineering teams, a platform is often the right call.
+
+But unbundling is also real. Some of the most valuable cloud security capabilities are narrow and deep: runtime protection for Kubernetes, sophisticated identity entitlement analysis, or code-to-cloud tracing. Buyers with mature programs are choosing best-of-breed tools for these areas and feeding their findings into a shared data lake or SIEM. Platforms that claim to be best at everything often end up adequate at several things.
+
+So where do I land? I think the platform will win the baseline: posture, basic workload coverage, and common compliance checks. Specialist vendors will survive by being clearly better at a hard problem, and they will integrate tightly with the platforms rather than trying to replace them. Standalone tools that only do what a platform already does will struggle.
+
+What should buyers do with this? Three things. First, be explicit about which capabilities you need to be good at versus which you need to be good enough. Second, insist on open data export and APIs so you are not locked into a single console. Third, measure a platform's claims in a proof of concept against your hardest use case, not its demo.
+
+I would welcome disagreement. If you think the market is simply consolidating and unbundling is a temporary phase, I would like to hear the case. The answer will matter for the next several years of security budgets.

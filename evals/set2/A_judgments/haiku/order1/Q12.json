@@ -1,0 +1,15 @@
+{"pair":"Q12","units":[
+{"unit":"Addressee Yasmin named","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Sender Marcel from Coverwise","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Met at Ironbridge Security Forum","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Several outreach attempts without reply","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Three possible reasons for no reply","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"This is the last message for now","kind":"commitment","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Plant coverage based on rules, not telemetry","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Check five OT detections' log source activity","kind":"ask","in_text1":true,"in_text2":true,"altered":"strength_up","note":"Text 2 frames it as a direct instruction, not an optional idea"},
+{"unit":"Check takes about an hour","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Acquired plants often have a source quiet for months","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Forwarding config not rebuilt after hardware replacement","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Coverwise can automate the check for every technique","kind":"offer","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Good luck with the plant rollouts","kind":"stance","in_text1":true,"in_text2":true,"altered":null,"note":""}
+],"same_meaning":"yes","better_message":"1","reason":"Optional framing ('if you ever want') suits a breakup message better than Text 2's imperative.","grade_text1":"average","grade_text2":"average"}

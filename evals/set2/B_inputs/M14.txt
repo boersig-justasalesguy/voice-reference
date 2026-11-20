@@ -1,0 +1,16 @@
+CHANNEL: email
+STAGE: renewal
+SELLER: Account Manager at Sieveline
+BUYER: CISO, Logistics, Crossroads Freightways (5000-10000 employees)
+SUBJECT: Sieveline renewal pricing for FY27
+MESSAGE:
+Dear Renata,
+
+I am writing to let you know that Sieveline list pricing will increase by 8% effective with your April renewal. This reflects continued investment in our routing engine and new destination support.
+
+Over the past year, Sieveline reduced Crossroads' SIEM ingest by an average of 34%, which your team estimated at a meaningful reduction in your annual licensing cost. We also added support for your new telematics log source in Q3.
+
+Your renewal quote will reflect the new pricing. If you would like to discuss options, including a multi-year agreement that would hold your current rate, please let me know a convenient time.
+
+Best regards,
+Gareth Imbroglio

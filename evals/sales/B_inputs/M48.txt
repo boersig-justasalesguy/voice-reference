@@ -1,0 +1,15 @@
+CHANNEL: email
+STAGE: follow_up
+SELLER: Account Executive at Ledgerline
+BUYER: Controller, Architecture & Engineering Firm, Strand & Meyer (200-500 employees)
+SUBJECT: Unmatched deposits
+MESSAGE:
+Hi Winifred,
+
+My last note was about close speed. I'm guessing the real headache for a firm with project billing is different: unapplied customer deposits and retainers that sit on the balance sheet until someone untangles them.
+
+Ledgerline matches incoming payments to project invoices automatically and surfaces only the ones it can't resolve. A similar-sized engineering firm cut their month-end unapplied cash review from two days to a couple of hours.
+
+Is that a problem you recognize?
+
+Barnaby

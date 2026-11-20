@@ -1,0 +1,18 @@
+{
+ "id": "T888",
+ "claims": [
+   {"gist": "A typical application may pull in hundreds or thousands of open-source packages", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Route installs through an approved internal proxy, not direct public registry pulls", "type": "prescriptive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Block packages below a minimum age or with few downloads until reviewed", "type": "prescriptive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Pin exact versions and commit lockfiles to prevent silent upgrades", "type": "prescriptive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Disable install-time scripts by default, allowing them only for reviewed packages", "type": "prescriptive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Scan for known malicious packages, not only known vulnerabilities", "type": "prescriptive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "SBOMs, proxy routing and lockfile pinning are the fastest wins", "type": "prescriptive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"}
+ ],
+ "named_entities": 0,
+ "named_criticism": 0,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": false,
+ "thesis": "Reduce open-source supply chain risk: know dependencies, gate registries, vet packages, pin versions and limit install scripts."
+}

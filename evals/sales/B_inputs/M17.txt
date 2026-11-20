@@ -1,0 +1,24 @@
+CHANNEL: email
+STAGE: renewal
+SELLER: Account Manager at Clearstack
+BUYER: Head of FinOps, E-commerce, Basketry (500-1000 employees)
+SUBJECT: Clearstack renewal - savings recap and a pricing heads-up
+MESSAGE:
+Hi Shreya,
+
+Your renewal is in about six weeks, and I want to flag the pricing early because it will be higher than last year, and I don't want it to be a surprise.
+
+Why it's going up: Clearstack is priced on cloud spend under management, and Basketry's monthly bill went from roughly $310K to $470K this year, mostly from the warehouse-system migration. At our standard rate, that takes the renewal from $46,500 to $64,800.
+
+What you got for it this year:
+- $1.14M in annualized savings from rightsizing and commitment purchases your team approved through Clearstack.
+- The duplicate staging environments from the migration were caught in week three instead of at quarter end - about $90K on their own.
+
+Options I can offer:
+1. Exclude the migration staging accounts from spend under management through June, since they're temporary. That brings the renewal to about $55,000.
+2. A two-year term at a fixed price of $58,000 per year, regardless of further spend growth.
+3. Renew as is.
+
+Happy to walk through the numbers with you or with procurement - whichever is more useful. Would early next week work?
+
+Ivo

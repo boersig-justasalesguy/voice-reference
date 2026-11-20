@@ -1,0 +1,19 @@
+{
+ "id": "T720",
+ "claims": [
+   {"gist": "Wiz Code is the best CNAPP offering, better than legacy scanners but short of modern ASPMs", "type": "evaluative", "evidence": "first_hand", "specific": true, "hedged": false, "owner": "author"},
+   {"gist": "Wiz Code adds repo-level SCA, IaC and secrets scanning through a GitHub app", "type": "factual", "evidence": "first_hand", "specific": true, "hedged": false, "owner": "author"},
+   {"gist": "Pipelineless scanning through a GitHub integration is genuinely good", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "author"},
+   {"gist": "SCA without reachability, SBOM generation and IaC scanning are not impressive new features", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "author"},
+   {"gist": "Rollup, reachability and malware detail separate noisy scanners from fixable findings", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "author"},
+   {"gist": "Wiz has a real shot at pulling off the CNAPP nightmare", "type": "predictive", "evidence": "reasoning_only", "specific": false, "hedged": true, "owner": "author"},
+   {"gist": "Wiz's data architecture and UX give it an advantage others will find hard to match", "type": "predictive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "author"},
+   {"gist": "I have taken $0 from any CNAPP provider", "type": "factual", "evidence": "none", "specific": true, "hedged": false, "owner": "author"}
+ ],
+ "named_entities": 3,
+ "named_criticism": 1,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": true,
+ "thesis": "Wiz Code is a good CNAPP offering with pipelineless scanning, but its AppSec depth falls short of modern ASPMs."
+}

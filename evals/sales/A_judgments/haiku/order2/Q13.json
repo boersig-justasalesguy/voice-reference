@@ -1,0 +1,11 @@
+{"pair":"Q13","units":[
+{"unit":"Patchbay is an iPaaS integration platform","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Over 600 pre-built connectors","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Feature list incl. RBAC, SOC 2 Type II, SDK","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Most customers up and running in a few weeks","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Patchbay is really fast","kind":"claim","in_text1":false,"in_text2":true,"altered":null,"note":"Extra speed claim only in T2"},
+{"unit":"Engineers waste time on integrations","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Ask: set up 45-minute demo","kind":"ask","in_text1":true,"in_text2":true,"altered":"strength_down","note":"T2 softens to 'I just want to see if it makes sense'"},
+{"unit":"Faster and cheaper than alternatives, can save money","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Close: Thursday or Friday invite","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""}
+],"same_meaning":"partly","better_message":"1","reason":"T2 softens the demo ask and adds a filler speed claim; T1 is firmer and cleaner.","grade_text1":"average","grade_text2":"average"}

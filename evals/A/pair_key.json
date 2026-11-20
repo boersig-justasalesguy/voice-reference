@@ -1,0 +1,77 @@
+{
+ "P01": {
+  "source": "haiku_07",
+  "text1": "original",
+  "text2": "rewrite"
+ },
+ "P02": {
+  "source": "haiku_08",
+  "text1": "rewrite",
+  "text2": "original"
+ },
+ "P03": {
+  "source": "haiku_09",
+  "text1": "rewrite",
+  "text2": "original"
+ },
+ "P04": {
+  "source": "haiku_10",
+  "text1": "original",
+  "text2": "rewrite"
+ },
+ "P05": {
+  "source": "haiku_11",
+  "text1": "original",
+  "text2": "rewrite"
+ },
+ "P06": {
+  "source": "opus_07",
+  "text1": "original",
+  "text2": "rewrite"
+ },
+ "P07": {
+  "source": "opus_08",
+  "text1": "rewrite",
+  "text2": "original"
+ },
+ "P08": {
+  "source": "opus_09",
+  "text1": "original",
+  "text2": "rewrite"
+ },
+ "P09": {
+  "source": "opus_10",
+  "text1": "rewrite",
+  "text2": "original"
+ },
+ "P10": {
+  "source": "opus_11",
+  "text1": "rewrite",
+  "text2": "original"
+ },
+ "P11": {
+  "source": "sonnet_07",
+  "text1": "original",
+  "text2": "rewrite"
+ },
+ "P12": {
+  "source": "sonnet_08",
+  "text1": "rewrite",
+  "text2": "original"
+ },
+ "P13": {
+  "source": "sonnet_09",
+  "text1": "original",
+  "text2": "rewrite"
+ },
+ "P14": {
+  "source": "sonnet_10",
+  "text1": "original",
+  "text2": "rewrite"
+ },
+ "P15": {
+  "source": "sonnet_11",
+  "text1": "original",
+  "text2": "rewrite"
+ }
+}

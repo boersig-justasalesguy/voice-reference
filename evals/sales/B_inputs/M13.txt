@@ -1,0 +1,16 @@
+CHANNEL: email
+STAGE: cold_outreach
+SELLER: Account Executive at Draftkit
+BUYER: Director of Legal Operations, Franchise Restaurants, Sunfield Hospitality Brands (1000-5000 employees)
+SUBJECT: Lawyers hate redlining (and we can prove it)
+MESSAGE:
+Hi Beatriz,
+
+Quick question: what do lawyers and cats have in common? They both hate getting into contracts they didn't sign up for! 😄
+
+OK, bad joke. But seriously - Draftkit is the AI-powered contract drafting and redlining tool that legal teams love. We help you draft faster, negotiate smarter, and close deals sooner. With Draftkit, your team can automate redlines, enforce your playbook, compare versions, and collaborate in real time.
+
+Want to see it in action? Book a time here: [link]
+
+Cheers,
+Wendell

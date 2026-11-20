@@ -1,0 +1,7 @@
+{"pair":"Q24","units":[
+{"unit":"Following up on previous email","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Pipewise helps RevOps improve forecast accuracy and visibility","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Great fit for Ironhelm","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Ask: quick call this week","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":"T1 leads with the ask, T2 places it last"},
+{"unit":"Make sure it did not slip through the cracks","kind":"stance","in_text1":true,"in_text2":true,"altered":null,"note":""}
+],"same_meaning":"yes","better_message":"2","reason":"T1 opens with the ask before any context, which reads abrupt; T2 flows more naturally.","grade_text1":"weak","grade_text2":"average"}

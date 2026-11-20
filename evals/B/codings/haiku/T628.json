@@ -1,0 +1,18 @@
+{
+ "id": "T628",
+ "claims": [
+   {"gist": "CDR detects and responds to threats inside cloud environments as they happen", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "CDR is distinct from posture management and endpoint detection", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Evaluate CDR on coverage, detection quality, correlation, data, response and fit", "type": "prescriptive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Volume-based pricing can quickly change CDR economics", "type": "predictive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Run a proof of concept in a non-production account with simulated attacks", "type": "prescriptive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Vendor demos show best cases; your environment shows the real ones", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Validate every vendor claim with your own data", "type": "prescriptive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"}
+ ],
+ "named_entities": 0,
+ "named_criticism": 0,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": false,
+ "thesis": "Evaluate CDR vendors on coverage, detection quality and data economics, and validate every claim in a proof of concept."
+}

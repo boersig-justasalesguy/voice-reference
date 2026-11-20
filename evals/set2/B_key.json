@@ -1,0 +1,464 @@
+{
+ "M01": {
+  "id": "S10-0069",
+  "quality": "weak",
+  "pair": "S10-P035",
+  "channel": "voicemail",
+  "words": 63
+ },
+ "M02": {
+  "id": "S06-0067",
+  "quality": "average",
+  "pair": null,
+  "channel": "sms",
+  "words": 22
+ },
+ "M03": {
+  "id": "S10-0020",
+  "quality": "strong",
+  "pair": "S10-P010",
+  "channel": "call_script",
+  "words": 360
+ },
+ "M04": {
+  "id": "S08-0049",
+  "quality": "average",
+  "pair": null,
+  "channel": "voicemail",
+  "words": 98
+ },
+ "M05": {
+  "id": "S07-0019",
+  "quality": "average",
+  "pair": null,
+  "channel": "linkedin_dm",
+  "words": 43
+ },
+ "M06": {
+  "id": "S04-0015",
+  "quality": "average",
+  "pair": null,
+  "channel": "email",
+  "words": 117
+ },
+ "M07": {
+  "id": "S10-0011",
+  "quality": "weak",
+  "pair": "S10-P006",
+  "channel": "voicemail",
+  "words": 125
+ },
+ "M08": {
+  "id": "S10-0061",
+  "quality": "weak",
+  "pair": "S10-P031",
+  "channel": "linkedin_dm",
+  "words": 43
+ },
+ "M09": {
+  "id": "S08-0088",
+  "quality": "average",
+  "pair": null,
+  "channel": "linkedin_dm",
+  "words": 40
+ },
+ "M10": {
+  "id": "S10-0030",
+  "quality": "strong",
+  "pair": "S10-P015",
+  "channel": "email",
+  "words": 110
+ },
+ "M11": {
+  "id": "S10-0043",
+  "quality": "weak",
+  "pair": "S10-P022",
+  "channel": "email",
+  "words": 100
+ },
+ "M12": {
+  "id": "S10-0028",
+  "quality": "strong",
+  "pair": "S10-P014",
+  "channel": "voicemail",
+  "words": 107
+ },
+ "M13": {
+  "id": "S10-0023",
+  "quality": "weak",
+  "pair": "S10-P012",
+  "channel": "email",
+  "words": 234
+ },
+ "M14": {
+  "id": "S07-0003",
+  "quality": "average",
+  "pair": null,
+  "channel": "email",
+  "words": 109
+ },
+ "M15": {
+  "id": "S10-0027",
+  "quality": "weak",
+  "pair": "S10-P014",
+  "channel": "voicemail",
+  "words": 86
+ },
+ "M16": {
+  "id": "S10-0010",
+  "quality": "strong",
+  "pair": "S10-P005",
+  "channel": "sms",
+  "words": 34
+ },
+ "M17": {
+  "id": "S10-0051",
+  "quality": "weak",
+  "pair": "S10-P026",
+  "channel": "linkedin_dm",
+  "words": 42
+ },
+ "M18": {
+  "id": "S10-0055",
+  "quality": "weak",
+  "pair": "S10-P028",
+  "channel": "sms",
+  "words": 32
+ },
+ "M19": {
+  "id": "S10-0002",
+  "quality": "strong",
+  "pair": "S10-P001",
+  "channel": "email",
+  "words": 135
+ },
+ "M20": {
+  "id": "S10-0009",
+  "quality": "weak",
+  "pair": "S10-P005",
+  "channel": "sms",
+  "words": 35
+ },
+ "M21": {
+  "id": "S10-0044",
+  "quality": "strong",
+  "pair": "S10-P022",
+  "channel": "email",
+  "words": 135
+ },
+ "M22": {
+  "id": "S10-0029",
+  "quality": "weak",
+  "pair": "S10-P015",
+  "channel": "email",
+  "words": 90
+ },
+ "M23": {
+  "id": "S10-0004",
+  "quality": "strong",
+  "pair": "S10-P002",
+  "channel": "linkedin_dm",
+  "words": 70
+ },
+ "M24": {
+  "id": "S10-0016",
+  "quality": "strong",
+  "pair": "S10-P008",
+  "channel": "video_script",
+  "words": 305
+ },
+ "M25": {
+  "id": "S10-0005",
+  "quality": "weak",
+  "pair": "S10-P003",
+  "channel": "call_script",
+  "words": 275
+ },
+ "M26": {
+  "id": "S10-0052",
+  "quality": "strong",
+  "pair": "S10-P026",
+  "channel": "linkedin_dm",
+  "words": 49
+ },
+ "M27": {
+  "id": "S06-0086",
+  "quality": "average",
+  "pair": null,
+  "channel": "linkedin_dm",
+  "words": 41
+ },
+ "M28": {
+  "id": "S10-0012",
+  "quality": "strong",
+  "pair": "S10-P006",
+  "channel": "voicemail",
+  "words": 96
+ },
+ "M29": {
+  "id": "S07-0064",
+  "quality": "average",
+  "pair": null,
+  "channel": "email",
+  "words": 124
+ },
+ "M30": {
+  "id": "S04-0039",
+  "quality": "average",
+  "pair": null,
+  "channel": "call_script",
+  "words": 218
+ },
+ "M31": {
+  "id": "S10-0001",
+  "quality": "weak",
+  "pair": "S10-P001",
+  "channel": "email",
+  "words": 131
+ },
+ "M32": {
+  "id": "S10-0071",
+  "quality": "weak",
+  "pair": "S10-P036",
+  "channel": "email",
+  "words": 76
+ },
+ "M33": {
+  "id": "S10-0041",
+  "quality": "weak",
+  "pair": "S10-P021",
+  "channel": "voicemail",
+  "words": 67
+ },
+ "M34": {
+  "id": "S10-0014",
+  "quality": "strong",
+  "pair": "S10-P007",
+  "channel": "email",
+  "words": 122
+ },
+ "M35": {
+  "id": "S10-0045",
+  "quality": "weak",
+  "pair": "S10-P023",
+  "channel": "call_script",
+  "words": 247
+ },
+ "M36": {
+  "id": "S10-0037",
+  "quality": "weak",
+  "pair": "S10-P019",
+  "channel": "call_script",
+  "words": 244
+ },
+ "M37": {
+  "id": "S10-0073",
+  "quality": "weak",
+  "pair": "S10-P037",
+  "channel": "call_script",
+  "words": 227
+ },
+ "M38": {
+  "id": "S07-0011",
+  "quality": "average",
+  "pair": null,
+  "channel": "call_script",
+  "words": 254
+ },
+ "M39": {
+  "id": "S10-0050",
+  "quality": "strong",
+  "pair": "S10-P025",
+  "channel": "video_script",
+  "words": 253
+ },
+ "M40": {
+  "id": "S10-0025",
+  "quality": "weak",
+  "pair": "S10-P013",
+  "channel": "sms",
+  "words": 25
+ },
+ "M41": {
+  "id": "S10-0049",
+  "quality": "weak",
+  "pair": "S10-P025",
+  "channel": "video_script",
+  "words": 247
+ },
+ "M42": {
+  "id": "S10-0024",
+  "quality": "strong",
+  "pair": "S10-P012",
+  "channel": "email",
+  "words": 177
+ },
+ "M43": {
+  "id": "S10-0065",
+  "quality": "weak",
+  "pair": "S10-P033",
+  "channel": "email",
+  "words": 72
+ },
+ "M44": {
+  "id": "S06-0062",
+  "quality": "average",
+  "pair": null,
+  "channel": "email",
+  "words": 61
+ },
+ "M45": {
+  "id": "S10-0074",
+  "quality": "strong",
+  "pair": "S10-P037",
+  "channel": "call_script",
+  "words": 298
+ },
+ "M46": {
+  "id": "S07-0043",
+  "quality": "average",
+  "pair": null,
+  "channel": "call_script",
+  "words": 217
+ },
+ "M47": {
+  "id": "S10-0013",
+  "quality": "weak",
+  "pair": "S10-P007",
+  "channel": "email",
+  "words": 116
+ },
+ "M48": {
+  "id": "S10-0060",
+  "quality": "strong",
+  "pair": "S10-P030",
+  "channel": "email",
+  "words": 162
+ },
+ "M49": {
+  "id": "S10-0003",
+  "quality": "weak",
+  "pair": "S10-P002",
+  "channel": "linkedin_dm",
+  "words": 50
+ },
+ "M50": {
+  "id": "S10-0015",
+  "quality": "weak",
+  "pair": "S10-P008",
+  "channel": "video_script",
+  "words": 256
+ },
+ "M51": {
+  "id": "S10-0062",
+  "quality": "strong",
+  "pair": "S10-P031",
+  "channel": "linkedin_dm",
+  "words": 41
+ },
+ "M52": {
+  "id": "S10-0070",
+  "quality": "strong",
+  "pair": "S10-P035",
+  "channel": "voicemail",
+  "words": 76
+ },
+ "M53": {
+  "id": "S02-0100",
+  "quality": "average",
+  "pair": null,
+  "channel": "email",
+  "words": 118
+ },
+ "M54": {
+  "id": "S08-0074",
+  "quality": "average",
+  "pair": null,
+  "channel": "linkedin_dm",
+  "words": 48
+ },
+ "M55": {
+  "id": "S10-0026",
+  "quality": "strong",
+  "pair": "S10-P013",
+  "channel": "sms",
+  "words": 30
+ },
+ "M56": {
+  "id": "S10-0059",
+  "quality": "weak",
+  "pair": "S10-P030",
+  "channel": "email",
+  "words": 91
+ },
+ "M57": {
+  "id": "S10-0046",
+  "quality": "strong",
+  "pair": "S10-P023",
+  "channel": "call_script",
+  "words": 368
+ },
+ "M58": {
+  "id": "S10-0019",
+  "quality": "weak",
+  "pair": "S10-P010",
+  "channel": "call_script",
+  "words": 275
+ },
+ "M59": {
+  "id": "S10-0072",
+  "quality": "strong",
+  "pair": "S10-P036",
+  "channel": "email",
+  "words": 136
+ },
+ "M60": {
+  "id": "S10-0006",
+  "quality": "strong",
+  "pair": "S10-P003",
+  "channel": "call_script",
+  "words": 357
+ },
+ "M61": {
+  "id": "S10-0056",
+  "quality": "strong",
+  "pair": "S10-P028",
+  "channel": "sms",
+  "words": 41
+ },
+ "M62": {
+  "id": "S10-0066",
+  "quality": "strong",
+  "pair": "S10-P033",
+  "channel": "email",
+  "words": 169
+ },
+ "M63": {
+  "id": "S10-0038",
+  "quality": "strong",
+  "pair": "S10-P019",
+  "channel": "call_script",
+  "words": 382
+ },
+ "M64": {
+  "id": "S08-0010",
+  "quality": "average",
+  "pair": null,
+  "channel": "email",
+  "words": 89
+ },
+ "M65": {
+  "id": "S02-0015",
+  "quality": "average",
+  "pair": null,
+  "channel": "linkedin_dm",
+  "words": 47
+ },
+ "M66": {
+  "id": "S10-0042",
+  "quality": "strong",
+  "pair": "S10-P021",
+  "channel": "voicemail",
+  "words": 90
+ }
+}

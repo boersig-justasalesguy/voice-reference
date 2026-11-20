@@ -1,0 +1,6 @@
+{"pair":"Q08","units":[
+{"unit":"Contract attached for Alistair","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Contract includes changes discussed earlier","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Invite questions or flag anything off","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Thanks sign-off","kind":"stance","in_text1":true,"in_text2":true,"altered":null,"note":"Pleasantry present only in Text 1"}
+],"same_meaning":"yes","better_message":"tie","reason":"Same generic contract send; only a pleasantry differs.","grade_text1":"average","grade_text2":"average"}

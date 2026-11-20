@@ -1,0 +1,15 @@
+CHANNEL: email
+STAGE: re_engagement
+SELLER: Account Executive at Logatlas
+BUYER: Security Data Engineer, Logistics, Swiftmarch Logistics (1000-5000 employees)
+SUBJECT: Your yard-telematics map in Logatlas
+MESSAGE:
+Delphine,
+
+I noticed you built out 11 log sources in the free community edition last spring, and the yard-telematics one is the most detailed field map anyone has made for that kind of data. Then activity stopped in June.
+
+Two honest guesses: either it did its job and you got what you needed, or it got stuck on something. If it's the second, I'd like to know what. A common one is that the sample events go stale once a source changes schema, which the free tier doesn't refresh.
+
+No upgrade pitch in this email. If you'd be up for sharing that telematics map in the community library (anonymized, credited to you), a lot of logistics teams would use it. And if something broke, reply with one line and I'll get an engineer to look.
+
+Quentin

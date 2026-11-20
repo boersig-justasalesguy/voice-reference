@@ -1,0 +1,10 @@
+SUBJECT: Macro expansion and lookup translation for your SIEM migration
+Hi Nikhil,
+
+Crossover translates detection logic between SIEM query dialects. Our parser handles nested macro expansion, multi-value field handling, subsearch flattening, lookup-table translation and data-model acceleration equivalents. It also covers regex dialect differences, time-modifier normalization and case-sensitivity rules.
+
+We handle the edge cases that break most translation scripts too: eval chains with conditional logic, transaction-style correlation, and statistical commands that don't have a one-to-one equivalent on the target platform. Each translated rule includes a diff against the original and a syntax validation result.
+
+Would your team be open to a technical deep dive with one of our engineers?
+
+Beatrix

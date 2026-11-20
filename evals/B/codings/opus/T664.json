@@ -1,0 +1,211 @@
+{
+ "id": "T664",
+ "claims": [
+  {
+   "gist": "Two PHP CVEs affected most of the internet within 72 hours",
+   "type": "factual",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Other vulnerabilities and incidents hit Gitlab, Node, React, LiteLLM, Railway",
+   "type": "factual",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "PHP runs almost 70% of websites, largely via WordPress",
+   "type": "factual",
+   "evidence": "data_cited",
+   "specific": true,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "The vulnerabilities affect almost all PHP sites",
+   "type": "factual",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Wiz and Calif resources are very helpful for patching",
+   "type": "evaluative",
+   "evidence": "named_source",
+   "specific": true,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "PHP 5.4 through PHP 8 are affected",
+   "type": "factual",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "This forces migration to PHP 8",
+   "type": "predictive",
+   "evidence": "reasoning_only",
+   "specific": true,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Disclosures sparked debate over credit and embargo breach",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Both debates reflect a new vulnerability discovery reality",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "PHP blog confirms LCFR found the vulnerabilities first",
+   "type": "factual",
+   "evidence": "named_source",
+   "specific": true,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Wiz may have independently found them too",
+   "type": "factual",
+   "evidence": "reasoning_only",
+   "specific": true,
+   "hedged": true,
+   "owner": "author"
+  },
+  {
+   "gist": "Multiple researchers now independently find the same issues",
+   "type": "factual",
+   "evidence": "named_example",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Who was first is less meaningful than before",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Proper attribution and timelines always matter",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Not being first does not imply copying",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Discovery overlaps will grow with frontier lab initiatives",
+   "type": "predictive",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": true,
+   "owner": "author"
+  },
+  {
+   "gist": "Independent discovery will become increasingly common",
+   "type": "predictive",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Privatization of vulnerability research has downsides",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Emphasize actionable guidance over who found it first",
+   "type": "prescriptive",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "OpenAI, Calif and Wiz all seem key to disclosure",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": true,
+   "hedged": true,
+   "owner": "author"
+  },
+  {
+   "gist": "Give research teams the benefit of the doubt",
+   "type": "prescriptive",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Everyone involved deserves thanks",
+   "type": "prescriptive",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "PHP Foundation criticized Chainguard for pre-embargo publishing",
+   "type": "factual",
+   "evidence": "named_source",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Embargo breaches are unfortunate",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Decentralized ecosystem makes coordinated disclosure harder",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  }
+ ],
+ "named_entities": 14,
+ "named_criticism": 1,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": true,
+ "thesis": "PHP vulnerability disputes show independent AI-driven discovery is normal; focus on guidance over credit and accept disclosure limits."
+}

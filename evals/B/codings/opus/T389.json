@@ -1,0 +1,155 @@
+{
+ "id": "T389",
+ "claims": [
+  {
+   "gist": "Hype Cycle highlights 30 technologies changing society in 5-10 years",
+   "type": "predictive",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Chinese cities require the Health Code app for access",
+   "type": "factual",
+   "evidence": "named_example",
+   "specific": true,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "India's Aarogya Setu app indicates safe rail and air travelers",
+   "type": "factual",
+   "evidence": "named_example",
+   "specific": true,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "UAE's ALHOSN app is used to grant air travel access",
+   "type": "factual",
+   "evidence": "named_example",
+   "specific": true,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Health passports reached unprecedented 5-20% penetration on entry",
+   "type": "factual",
+   "evidence": "data_cited",
+   "specific": true,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "These technologies will significantly affect business and society",
+   "type": "predictive",
+   "evidence": "named_source",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Hype Cycle distills over 1,700 technologies",
+   "type": "factual",
+   "evidence": "data_cited",
+   "specific": true,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Organizations need more agile, responsive architectures",
+   "type": "prescriptive",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Composable enterprise increases business resilience",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Many organizations apply composable principles piecemeal",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Composable thinking creates innovation, lower costs, better partnerships",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Data exposure, fake news and biased AI shifted trust to algorithms",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Algorithmic trust models ensure privacy, provenance and identity",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Blockchain can only track information it is given",
+   "type": "factual",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Counterfeit data entered on blockchain stays verified as authentic",
+   "type": "factual",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Blockchain interest will create more authentication options",
+   "type": "predictive",
+   "evidence": "none",
+   "specific": true,
+   "hedged": true,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Silicon is reaching physical limits relative to Moore's Law",
+   "type": "factual",
+   "evidence": "named_source",
+   "specific": true,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Silicon limits drove development of new advanced materials",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  }
+ ],
+ "named_entities": 5,
+ "named_criticism": 0,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": true,
+ "thesis": "The 2020 Hype Cycle highlights 30 emerging technologies across five trends, including health passports, composability and algorithmic trust."
+}

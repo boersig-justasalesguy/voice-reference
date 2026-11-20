@@ -1,0 +1,8 @@
+{"pair":"Q21","units":[
+{"unit":"Draftkit is AI contract drafting and redlining","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Draft faster, negotiate smarter, close sooner","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Automate redlines, enforce playbook, compare versions, collaborate","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Ask: book a time via link","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Placeholder link","kind":"placeholder","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Lawyers and cats joke","kind":"stance","in_text1":true,"in_text2":true,"altered":null,"note":"Same joke, placed first in T2 and last in T1"}
+],"same_meaning":"yes","better_message":"2","reason":"T1 leads with a CTA before any hook; T2 builds to the ask more naturally, though the joke is weak.","grade_text1":"weak","grade_text2":"average"}

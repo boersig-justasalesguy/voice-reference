@@ -1,0 +1,14 @@
+{"pair":"P11","units":[
+{"unit":"Asks for a 20-minute call or a few questions answered","kind":"ask","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Sender is a security engineer at [Company]","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Evaluating [Tool] for about two months","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Saw on LinkedIn that contact has run it at [Their Company]","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Not a vendor and not selling anything","kind":"stance","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Asks how much tuning before alerts were useful","kind":"ask","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Asks what surprised them after six months","kind":"ask","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Asks what they would do differently","kind":"ask","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Twenty minutes is enough; works around schedule","kind":"offer","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Can send the questions in writing instead","kind":"offer","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Will share learnings from own evaluation in return","kind":"offer","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"No problem if not the right person or no time","kind":"condition","in_text1":true,"in_text2":true,"altered":null}
+],"same_meaning":"yes","more_human":"2","human_reason":"Text 2 folds the questions into conversational prose; Text 1 uses a bulleted list that reads more like a survey."}

@@ -1,0 +1,31 @@
+=== TEXT 1 ===
+Subject: Alert noise from the recent deployment changes
+
+Hi [Name],
+
+I wanted to reach out directly about the deployment changes your team shipped on [date]. Since they went out, our on-call team has seen a large increase in alert noise, roughly [number] additional alerts per day, most of them from [service or alert name]. Several of those alerts are firing on conditions that don't need a person to respond, and it's making it harder for the team to spot the ones that do.
+
+I want to be clear that I know your team is working on important improvements, and I'm not trying to second-guess the change itself. The problem is the effect on our on-call rotation. Two people have reported being woken up overnight for alerts that resolved on their own, and we're spending time on triage that we'd rather use on real incidents.
+
+Could we find 30 minutes this week to look at it together? It would help to see which alerts your change affected and whether the thresholds or the alert logic should be adjusted. In the meantime, we're going to temporarily [mute or downgrade specific alerts, if applicable], and I'll let you know exactly which ones so nothing gets lost.
+
+Thanks for your help. I'd rather fix this together than hand you a list of complaints.
+
+[Your Name]
+[Your Title], [Your Team]
+
+=== TEXT 2 ===
+Subject: Alert noise from the recent deployment changes
+
+Hi [Name],
+
+Since your team's deployment changes on [date], our on-call team has been getting roughly [number] additional alerts per day, most of them from [service or alert name]. Several fire on conditions that don't need a person to respond, and that makes it harder to spot the ones that do.
+
+I'm not second-guessing the change itself. I know your team is working on important improvements. The problem is what it's doing to our on-call rotation. Two people have been woken up overnight for alerts that resolved on their own, and we're spending triage time we'd rather put on real incidents.
+
+Could we find 30 minutes this week to look at it together? It would help to see which alerts your change affected and whether the thresholds or the alert logic should be adjusted. In the meantime we're going to temporarily [mute or downgrade specific alerts, if applicable], and I'll tell you exactly which ones so nothing gets lost.
+
+I'd rather fix this together than hand you a list of complaints.
+
+[Your Name]
+[Your Title], [Your Team]

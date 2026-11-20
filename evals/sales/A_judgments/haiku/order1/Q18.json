@@ -1,0 +1,13 @@
+{"pair":"Q18","units":[
+{"unit":"Follow-up call with Victor on AI concerns","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Team will not trust AI redlines and worries about confidentiality","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Lawyers are nervous about change","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":"Dismisses concern in both"},
+{"unit":"98% accuracy rate","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":"Unsourced statistic"},
+{"unit":"Models trained on millions of contracts","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"SOC 2 compliant with bank-level encryption","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Data is completely safe; no need to worry","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Firms not adopting AI will fall behind","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Offer two-week trial","kind":"offer","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Partner demo if partners need to review","kind":"offer","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Ask: can trial be set up this week","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""}
+],"same_meaning":"yes","better_message":"2","reason":"Trims filler; both still dismiss the buyer's confidentiality concern, so both stay weak.","grade_text1":"weak","grade_text2":"weak"}

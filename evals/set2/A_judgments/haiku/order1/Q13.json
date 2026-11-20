@@ -1,0 +1,13 @@
+{"pair":"Q13","units":[
+{"unit":"Addressee Mei-Lin named","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Caller Dmitri Halvorsen from Threadline","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Threadline is an emerging threat research platform","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Helps threat intel teams turn advisories into detections","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Works with financial services and payments companies","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Covers research, detection engineering, hunting, reporting","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Will also send an email","kind":"commitment","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Callback number 555-0142","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Wants to learn about Copperleaf and see fit","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Eagerness to tell more about the platform","kind":"stance","in_text1":true,"in_text2":true,"altered":"strength_down","note":"'I'd love' softened to 'I'd like' in Text 2"},
+{"unit":"Platform has a lot of great capabilities","kind":"claim","in_text1":true,"in_text2":false,"altered":null,"note":"Hype line dropped in Text 2"}
+],"same_meaning":"yes","better_message":"2","reason":"Drops the generic hype and repeats name and number cleanly for a voicemail.","grade_text1":"average","grade_text2":"average"}

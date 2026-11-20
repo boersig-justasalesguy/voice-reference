@@ -1,0 +1,83 @@
+{
+ "pair": "Q15",
+ "units": [
+  {
+   "unit": "Ask for 30 minutes for demo",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Recording to put face to name",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Founded four years ago by analysts and data scientists",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "150+ employees, Series B, analyst recognition",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Proud of culture",
+   "kind": "claim",
+   "in_text1": false,
+   "in_text2": true,
+   "altered": null,
+   "note": "Added in Text 2"
+  },
+  {
+   "unit": "Builds statistical, behavioral, ML detections",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Works with major SIEMs and data lakes",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": "strength_up",
+   "note": "Adds 'super flexible'"
+  },
+  {
+   "unit": "Customer success every step",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Many insurance/financial customers",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": "strength_up",
+   "note": "Adds 'amazing results' claim"
+  },
+  {
+   "unit": "Calendar link below",
+   "kind": "offer",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  }
+ ],
+ "same_meaning": "partly",
+ "better_message": "1",
+ "reason": "Text 1 leads with the ask and avoids Text 2's hype.",
+ "grade_text1": "weak",
+ "grade_text2": "weak"
+}

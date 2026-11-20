@@ -1,0 +1,12 @@
+{"pair":"P02","units":[
+{"unit":"Introducing the bank CISO and startup founder to each other","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"CISO is CISO at [Bank Name], mid-sized bank, [detail]","kind":"entity","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"CISO leads [relevant area] work at the bank","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Sender finds CISO's practical security views very useful","kind":"stance","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Founder is CEO of [Startup Name], building [one-line description]","kind":"entity","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Founder background: [X years] on [relevant background]","kind":"number","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Founder wants candid feedback on [specific problem]","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Mutual value: CISO sees new approach; founder draws on CISO experience","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Reply-all to arrange a time","kind":"ask","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Sender steps back; recipients may say they would rather not have intro","kind":"condition","in_text1":true,"in_text2":true,"altered":null}
+],"same_meaning":"yes","more_human":"1","human_reason":"Text 1 is more direct and conversational; Text 2 uses slightly stiffer phrasing like Feel free and arrange."}

@@ -1,0 +1,22 @@
+CHANNEL: call_script
+STAGE: negotiation
+SELLER: Account Executive at Quorum HQ
+BUYER: CFO, Venture-backed Consumer Hardware, Kindlewick Home (100-200 employees)
+MESSAGE:
+[Context: Harriet has asked for 25% off the annual price and says a competitor quoted lower.]
+
+Harriet, thanks for getting on. I got your note about 25%. Before I respond with a number, can I ask a couple of questions so I'm solving the right problem?
+
+Is the 25% about the total budget you have for this, or about matching the other quote?
+
+[Listen. If it's budget:] What number do you need to land at for this year? ... And is that a hard cap from the board, or a target?
+
+[If it's the competitor:] That's fair - you should compare. Would you be willing to tell me what's in their quote? Not the price necessarily, but what it includes. In particular, whether investor-update distribution and the e-signature for board consents are included or extra. Those were two of the three things you said mattered most.
+
+[Listen and note differences honestly. If the competitor's scope is genuinely equivalent:] If they really cover the same scope at that price, I'm not going to tell you they're worse. They're a reasonable product. Here's where I think we're different: you told me the reason you're buying now is that your Series C investors want monthly KPI packs, and our KPI templates are built for hardware companies - unit economics, inventory turns, warranty reserve. That's the part you'd otherwise build by hand.
+
+[On price - only after understanding the driver:] Here's what I can do. I can't get to 25% on a one-year deal. If we move to a two-year term with annual billing, I can do 15% off and lock that price for both years. I can also drop the seat count from 25 to 15 - you mentioned only about a dozen people actually need logins, with investors on free viewer access - which brings the total down another chunk. Together that lands about 28% below the original quote on an annual basis.
+
+[If she needs to think:] Of course. That offer doesn't expire this week - it's tied to the two-year term and seat count, not a deadline. I'll put it in writing today so you can lay it next to the other quote.
+
+[Close:] Does the two-year term work for you, or is a one-year commitment non-negotiable on your side?

@@ -1,0 +1,16 @@
+CHANNEL: email
+STAGE: negotiation
+SELLER: Account Executive at Clearstack
+BUYER: CTO, Healthcare Tech, Meadowlark Health (200-500 employees)
+SUBJECT: Clearstack — payment terms and the BAA
+MESSAGE:
+Sanjay,
+
+Two updates:
+
+1. Our BAA is signed and attached. Clearstack only processes billing metadata and resource tags, not PHI, but we signed it because your policy requires one for any cloud-touching vendor.
+2. Payment terms: your finance team asked for semiannual billing. Approved at the same annual price, $46,000, billed $23,000 in January and July.
+
+That should clear both items your procurement team listed. Anything else on their side?
+
+Ottilie

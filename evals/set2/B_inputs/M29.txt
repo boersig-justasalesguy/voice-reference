@@ -1,0 +1,17 @@
+CHANNEL: email
+STAGE: upsell
+SELLER: Account Executive at Coverwise
+BUYER: CISO, Media & entertainment, Brightrook Media Group (1000-5000 employees)
+SUBJECT: Coverage view for your three new studios
+MESSAGE:
+Hi Kofi,
+
+Congratulations on closing the three studio acquisitions. Your board deck from last quarter used Coverwise's coverage chart for the core business, and I assume the next question from the board will be how the new studios compare.
+
+Today they're outside your Coverwise scope. Each runs its own logging and none has a mature detection program. We could add them as separate environments so you'd see each studio's coverage against your shared threat model, plus one combined view.
+
+That gives you a factual starting point for the integration plan and an easy way to show progress over the next few quarters.
+
+Should I send over pricing for the three environments, or would you prefer to wait until integration planning is further along?
+
+Delia

@@ -1,0 +1,70 @@
+
+== Judge haiku: 24 pairs
+  position of pick (all orders): {'tie': 16, '2': 17, '1': 15}
+  better message, consistent across both orders: {'inconsistent': 11, 'rewrite': 9, 'original': 4}
+  dataset label weak   : preference {'rewrite': 7, 'original': 3, 'inconsistent': 2}; mean grade original 0.62 -> rewrite 0.96 (0=weak,1=avg,2=strong)
+  dataset label average: preference {'inconsistent': 9, 'rewrite': 2, 'original': 1}; mean grade original 1.25 -> rewrite 1.46 (0=weak,1=avg,2=strong)
+  meaning changes (summed over both orders): {('altered', 'ask', 'strength_down'): 4, ('dropped', 'stance', None): 14, ('dropped', 'ask', None): 3, ('dropped', 'offer', None): 5, ('altered', 'ask', 'strength_up'): 3, ('altered', 'condition', 'strength_down'): 1, ('dropped', 'claim', None): 8, ('altered', 'stance', 'strength_down'): 2, ('altered', 'claim', 'strength_up'): 1, ('altered', 'claim', 'strength_down'): 2, ('altered', 'stance', 'strength_up'): 1, ('dropped', 'deadline', 'strength_down'): 1}
+  same_meaning: {'yes': 43, 'partly': 5}
+  flagged for a meaning change in BOTH orders: ['S06-0043', 'S06-0045', 'S09-0024', 'S09-0052', 'S10-0013', 'S10-0015', 'S10-0023', 'S10-0049', 'S10-0059', 'S10-0061', 'S10-0071']
+     S06-0043 dropped ask  | Invites further questions | Closing invitation dropped in Text 2
+     S06-0045 dropped ask  | Looking forward to hearing thoughts | Soft response invite dropped in Text 2
+     S09-0024 dropped stance  | Thanks for a great year | Closing thanks dropped in Text 2
+     S09-0052 altered ask strength_up | Check five OT detections' log source activity | Text 2 frames it as a direct instruction, not an optional idea
+     S10-0013 dropped stance  | Great news enthusiasm and exclamation marks | Text 2 only; adds hype
+     S10-0013 dropped offer  | Offers help getting it over the line | Text 2 only
+     S10-0013 altered claim strength_up | Best pricing the seller has offered | Text 2 adds 'really exceptional' and 'honestly' hype
+     S10-0015 dropped claim  | Customers have seen amazing results | Unsupported claim added in Text 2
+     S10-0015 dropped claim  | Platform is super flexible | Hype added in Text 2
+     S10-0015 dropped stance  | Proud of the culture built here | Text 2 only
+     S10-0023 dropped claim  | Value in collaboration, visibility and outcomes | Closing value summary dropped in Text 2
+     S10-0023 dropped offer  | Invitation to contact with questions | Dropped in Text 2
+     S10-0049 dropped stance  | Thanks for being a great partner | Warm thanks dropped in Text 2
+     S10-0049 dropped stance  | Excited about what's ahead, big year | Enthusiasm dropped in Text 2
+     S10-0059 dropped stance  | Honest candor about the team's workload | 'Honestly' dropped in Text 2
+     S10-0059 altered ask strength_down | Asks for help speeding up the review | Text 2 drops 'really' and softens the appreciation
+     S10-0059 altered claim strength_down | SOC manager excited to get started | Exclamation removed in Text 2
+     S10-0061 dropped stance  | Acknowledges the reader is busy | Empathy line dropped in Text 2
+     S10-0061 altered ask strength_down | Wants 30 minutes this week or next | 'Would love' softened to 'I'd like' in Text 2
+     S10-0071 dropped stance  | Do not lose access to your work | Loss-aversion hook added in Text 2
+     S10-0071 dropped claim  | Offer is for a limited time | Added urgency claim in Text 2
+     S10-0071 altered ask strength_up | Click button below to upgrade | Text 2 uses 'Upgrade now' urgency
+
+== Judge opus: 24 pairs
+  position of pick (all orders): {'tie': 17, '1': 17, '2': 14}
+  better message, consistent across both orders: {'inconsistent': 13, 'original': 1, 'rewrite': 10}
+  dataset label weak   : preference {'rewrite': 8, 'inconsistent': 4}; mean grade original 0.17 -> rewrite 0.58 (0=weak,1=avg,2=strong)
+  dataset label average: preference {'inconsistent': 9, 'original': 1, 'rewrite': 2}; mean grade original 1.54 -> rewrite 1.67 (0=weak,1=avg,2=strong)
+  meaning changes (summed over both orders): {('altered', 'ask', 'strength_up'): 4, ('altered', 'ask', 'strength_down'): 6, ('dropped', 'stance', None): 19, ('dropped', 'offer', None): 6, ('dropped', 'fact', None): 1, ('dropped', 'ask', None): 1, ('altered', 'offer', 'strength_down'): 1, ('altered', 'claim', 'strength_down'): 2, ('altered', 'claim', 'strength_up'): 5, ('dropped', 'claim', None): 5, ('altered', 'stance', 'strength_down'): 2, ('altered', 'stance', 'strength_up'): 3, ('added', 'fact', None): 2}
+  same_meaning: {'yes': 42, 'partly': 6}
+  flagged for a meaning change in BOTH orders: ['S02-0077', 'S03-0046', 'S06-0043', 'S06-0045', 'S09-0024', 'S09-0052', 'S10-0011', 'S10-0013', 'S10-0015', 'S10-0023', 'S10-0041', 'S10-0049', 'S10-0059', 'S10-0061', 'S10-0071', 'S10-0073']
+     S02-0077 altered ask strength_up | How are you tracking hunts today | Indirect interest becomes direct question
+     S02-0077 altered ask strength_up | Would shared procedure library be useful | Indirect interest becomes direct question
+     S03-0046 dropped stance  | Thanks for what your team does | Closing appreciation dropped in Text 2
+     S06-0043 dropped offer  | Invites further questions | Closing offer to answer questions dropped
+     S06-0045 dropped fact  | Thanks for Monday | Thanks dropped; Monday still referenced
+     S06-0045 dropped ask  | Looking forward to your thoughts | Soft request for response dropped
+     S09-0024 dropped stance  | Thanks for a great year | Closing gratitude dropped in Text 2
+     S09-0052 dropped stance  | Thanks, Yasmin | Closing thanks dropped
+     S10-0011 dropped stance  | Hope you're having a great week | Pleasantry dropped
+     S10-0011 altered claim strength_down | Lots of great capabilities across four areas | 'Great capabilities' becomes neutral 'platform covers'
+     S10-0011 altered ask strength_down | Learn about Copperleaf, explore fit | 'I'd love' becomes 'I'd like'
+     S10-0013 dropped offer  | Offer to help close | Added in Text 2
+     S10-0013 dropped stance  | Enthusiasm: 'Great news!' | Added hype in Text 2
+     S10-0013 altered claim strength_up | Best pricing ever offered | Adds 'really exceptional deal', 'honestly'
+     S10-0015 dropped claim  | Proud of culture | Added in Text 2
+     S10-0015 altered claim strength_up | Works with major SIEMs and data lakes | Adds 'super flexible'
+     S10-0015 altered claim strength_up | Many insurance/financial customers | Adds 'amazing results' claim
+     S10-0023 dropped claim  | Will deliver significant value | Value statement dropped
+     S10-0023 dropped offer  | Contact me with questions | Dropped
+     S10-0041 added fact  | Number repeated with name | Text 2 repeats callback number
+     S10-0041 altered ask strength_down | Find time to chat about Lantana | 'I'd love' becomes 'I'd like'
+     S10-0049 dropped stance  | Thanks for being great partner | Gratitude dropped
+     S10-0049 dropped stance  | Excited about what's ahead | Enthusiasm dropped
+     S10-0059 altered ask strength_down | Speed up review appreciated | Drops 'really'
+     S10-0061 dropped stance  | I know things get busy | Empathy line dropped
+     S10-0061 altered ask strength_down | 30 minutes this week or next | 'Would love' becomes 'I'd like'
+     S10-0071 dropped stance  | Don't lose your work | Added urgency in Text 2
+     S10-0071 dropped stance  | Limited time framing | Added urgency
+     S10-0071 altered ask strength_up | Click button to upgrade | 'Upgrade now', 'today' added
+     S10-0073 altered claim strength_down | Tunebench pays for itself | Drops 'honestly'

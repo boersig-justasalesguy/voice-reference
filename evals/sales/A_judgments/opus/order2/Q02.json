@@ -1,0 +1,53 @@
+{
+ "pair": "Q02",
+ "units": [
+  {
+   "unit": "Gaspard from Fieldnote",
+   "kind": "entity",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Congrats on new coaching feature launch",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Offer free repository for user interview study",
+   "kind": "offer",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Conditional on running user interviews",
+   "kind": "condition",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Ask if interested",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Offer phrasing: 'I can set up' vs 'happy to'",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": "strength_down",
+   "note": "Text 2 softer, more casual offer framing"
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "tie",
+ "reason": "Essentially identical short, relevant SMS with a clear free offer.",
+ "grade_text1": "strong",
+ "grade_text2": "strong"
+}

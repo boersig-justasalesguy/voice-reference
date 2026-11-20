@@ -1,0 +1,11 @@
+{"pair":"Q06","units":[
+{"unit":"Demo happened today","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"9 CSMs managing about 350 broker accounts","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"No consistent health score today","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Goal: find at-risk brokers before renewal","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Start with usage and support data","kind":"condition","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Attached sample health score configuration","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Question: CSMs see score or managers only","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Question: renewal date or planning cycle","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Proposal to follow after answers","kind":"commitment","in_text1":true,"in_text2":true,"altered":null,"note":""}
+],"same_meaning":"yes","better_message":"tie","reason":"Same recap and questions; T1 numbers questions, T2 reads as conversational.","grade_text1":"strong","grade_text2":"strong"}

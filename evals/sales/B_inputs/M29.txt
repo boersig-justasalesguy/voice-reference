@@ -1,0 +1,24 @@
+CHANNEL: call_script
+STAGE: renewal
+SELLER: Customer Success Manager at Fieldnote
+BUYER: Director of UX Research, Banking, Calderbrook Bank (5000+ employees)
+MESSAGE:
+[Context: Calderbrook renews in 10 weeks. Procurement has requested a vendor review. Usage is healthy but concentrated in the research team; product managers rarely log in.]
+
+Good morning, Rutger. This is Philomena Akande from Fieldnote. Thank you for your time.
+
+The purpose of today's call is to prepare for your renewal and the vendor review your procurement team has requested. I'd like to make sure you have what you need for that review and to understand any changes in your plans for next year.
+
+First, I'll share a brief summary. Your research team has run 236 studies in Fieldnote this year, and the repository now holds about 1,900 tagged insights. Your researchers log in an average of four days a week.
+
+Where adoption is lower is with product managers. About 15 percent of the product managers with access opened Fieldnote in the last quarter. Is that consistent with what you see, and is wider adoption a goal for next year?
+
+[Listen.]
+
+For the vendor review, I'll provide our security documentation, the updated data processing addendum, and a usage report. Is there anything specific procurement has asked for?
+
+[Listen and note requirements.]
+
+On pricing, your renewal is at the same rate as this year. If you'd like to discuss adding PM-focused training, we can include that at no additional cost.
+
+May I follow up by email with the documentation and propose a time in two weeks to review any questions?

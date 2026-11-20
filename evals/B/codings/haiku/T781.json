@@ -1,0 +1,16 @@
+{
+ "id": "T781",
+ "claims": [
+   {"gist": "By 2025, 70% of organizations will shift focus from big to small and wide data", "type": "predictive", "evidence": "data_cited", "specific": true, "hedged": false, "owner": "attributed"},
+   {"gist": "COVID-19 made historical data obsolete, breaking production AI and ML models", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "attributed"},
+   {"gist": "Small and wide data make analytics and AI more robust and less big-data dependent", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "attributed"},
+   {"gist": "Small and wide data could serve demand forecasting, personalization and fraud detection", "type": "predictive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "attributed"},
+   {"gist": "D&A leaders must turn to small and wide data techniques", "type": "prescriptive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "attributed"}
+ ],
+ "named_entities": 0,
+ "named_criticism": 0,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": true,
+ "thesis": "By 2025 most organizations will shift to small and wide data, making AI less data-hungry and more robust."
+}

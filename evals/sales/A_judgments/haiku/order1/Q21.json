@@ -1,0 +1,9 @@
+{"pair":"Q21","units":[
+{"unit":"Cold email to Beatriz from Wendell","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Draftkit is AI contract drafting and redlining tool","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Helps draft faster, negotiate smarter, close sooner","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Automated redlines, playbook enforcement, version compare, real-time collaboration","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Cat joke about lawyers hating contracts","kind":"stance","in_text1":true,"in_text2":true,"altered":null,"note":"Joke present in both; placed differently"},
+{"unit":"Booking link placeholder","kind":"placeholder","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Ask: want to see Draftkit in action","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":"Text 2 leads with ask"}
+],"same_meaning":"yes","better_message":"1","reason":"Joke then pitch reads coherently; Text 2 jumbles the ask and the joke.","grade_text1":"weak","grade_text2":"weak"}

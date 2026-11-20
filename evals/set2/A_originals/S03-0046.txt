@@ -1,0 +1,6 @@
+CHANNEL: voicemail
+STAGE: cold_outreach
+SELLER: Account Executive at Signalcraft
+BUYER: Security Engineering Manager, Healthcare, Blue Heron Medical Group (1000-5000 employees)
+MESSAGE:
+Hi Leila, Hana Novak from Signalcraft. I know small security teams in healthcare often end up downloading detection content and then spending days rewriting it to fit their own SIEM setup. We write detections directly in your query dialect, using the macros and lookups you already have, so your engineers review instead of rewrite. If that rewrite work sounds familiar, I'm at 555-0189. Either way, thanks for what your team does.

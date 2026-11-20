@@ -1,0 +1,6 @@
+CHANNEL: linkedin_dm
+STAGE: cold_outreach
+SELLER: Enterprise Account Executive at Sieveline
+BUYER: CISO, Convenience Retail, Harborway Markets (5000-10000 employees)
+MESSAGE:
+Hi Daniel! Our Q4 pricing promotion ends Friday and I'd hate for Harborway to miss out. Sieveline is the #1 platform for cutting SIEM costs and our customers LOVE us. Do you have 15 minutes tomorrow or Thursday for a quick intro call? I promise it'll be worth your time!

@@ -1,0 +1,6 @@
+CHANNEL: sms
+STAGE: follow_up
+SELLER: Sales Development Rep at Shiftwell
+BUYER: Director of Operations, Healthcare - Urgent Care, BrightPath Urgent Care (500-1000 employees)
+MESSAGE:
+Hi Renata!! Just following up AGAIN on Shiftwell. Our Q4 pricing ends Friday so you really need to act now. Can we get a call on the books today? Reply YES

@@ -1,0 +1,60 @@
+{
+ "pair": "Q21",
+ "units": [
+  {
+   "unit": "140-question questionnaire",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "SOC 2 Type II attached",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Ask: accept report instead of questionnaire",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Security team stretched, takes weeks",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Want contract signed before month-end",
+   "kind": "deadline",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Ask: speed up review",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": "strength_up",
+   "note": "Text 2 adds 'really' and 'Honestly'"
+  },
+  {
+   "unit": "SOC manager excited",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "1",
+ "reason": "Text 1 slightly less gushy; both pressure a risk analyst poorly.",
+ "grade_text1": "weak",
+ "grade_text2": "weak"
+}

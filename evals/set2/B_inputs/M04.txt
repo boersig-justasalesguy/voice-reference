@@ -1,0 +1,6 @@
+CHANNEL: voicemail
+STAGE: re_engagement
+SELLER: Account Executive at Signalcraft
+BUYER: SOC Manager, State & Local Government, City of Port Ellison (500-1000 employees)
+MESSAGE:
+Hi Hailey, this is Marcel Dupree from Signalcraft, we met at the Great Lakes Public Sector Security Forum last year and talked about how your team writes most detections by copying community rules and then fixing the field names by hand. I just wanted to see if that's still the process and if you're still interested, because we have a new version out and I'd love to show it to you sometime. You can call me back at 555-0174 whenever is convenient, or just reply to the email I'm about to send. Thanks so much, Hailey, talk soon.

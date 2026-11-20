@@ -1,0 +1,38 @@
+{
+ "pair": "Q01",
+ "units": [
+  {
+   "unit": "Asks if engineers reviewed plant-segment rule rewrite",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Plant-segment rule rewrite",
+   "kind": "entity",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Thumbs up or down is enough",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Feedback decides whether seller keeps going",
+   "kind": "condition",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "tie",
+ "reason": "Texts are identical.",
+ "grade_text1": "strong",
+ "grade_text2": "strong"
+}

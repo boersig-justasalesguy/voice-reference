@@ -1,0 +1,6 @@
+CHANNEL: linkedin_dm
+STAGE: re_engagement
+SELLER: Account Executive at Fieldnote
+BUYER: Director of UX Research, Travel Booking, Wayfarer Lane (500-1000 employees)
+MESSAGE:
+Hi Malik, it's been a while! Just wanted to bump this back to the top of your inbox. Are you still looking at research repositories? Let me know if you want to reconnect!

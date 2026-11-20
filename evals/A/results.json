@@ -1,0 +1,548 @@
+{
+ "haiku": {
+  "P01": {
+   "source": "haiku_07",
+   "n_orig": 9,
+   "dropped": [],
+   "added": [],
+   "altered": [],
+   "preserved": 1.0,
+   "same": "yes",
+   "pick": "original",
+   "reason": "Text 1 is warmer and fuller; Text 2 front-loads the ask and reads a bit clipped."
+  },
+  "P02": {
+   "source": "haiku_08",
+   "n_orig": 10,
+   "dropped": [],
+   "added": [],
+   "altered": [],
+   "preserved": 1.0,
+   "same": "yes",
+   "pick": "rewrite",
+   "reason": "Text 1 is more direct and conversational; Text 2 uses slightly stiffer phrasing like Feel free and arrange."
+  },
+  "P03": {
+   "source": "haiku_09",
+   "n_orig": 16,
+   "dropped": [],
+   "added": [],
+   "altered": [],
+   "preserved": 1.0,
+   "same": "yes",
+   "pick": "rewrite",
+   "reason": "Text 1 reads as natural prose; Text 2 uses memo headers and bullets that feel templated for a personal request."
+  },
+  "P04": {
+   "source": "haiku_10",
+   "n_orig": 13,
+   "dropped": [],
+   "added": [],
+   "altered": [],
+   "preserved": 1.0,
+   "same": "yes",
+   "pick": "original",
+   "reason": "Text 1 opens more personally and adds a warm thanks; Text 2 is tighter but still natural."
+  },
+  "P05": {
+   "source": "haiku_11",
+   "n_orig": 16,
+   "dropped": [],
+   "added": [],
+   "altered": [
+    {
+     "unit": "Needs pricing clarity before internal review",
+     "kind": "stance",
+     "in_text1": true,
+     "in_text2": true,
+     "altered": "strength_up",
+     "note": "Text 2 says I need clarity; Text 1 says I'd like to get clarity."
+    }
+   ],
+   "preserved": 0.9375,
+   "same": "yes",
+   "pick": "original",
+   "reason": "Text 1 is more courteous and fully phrased; Text 2 is terser and its I need is blunter, though both read naturally."
+  },
+  "P06": {
+   "source": "opus_07",
+   "n_orig": 12,
+   "dropped": [],
+   "added": [],
+   "altered": [],
+   "preserved": 1.0,
+   "same": "yes",
+   "pick": "rewrite",
+   "reason": "Text 2 folds the questions into prose like a personal note; Text 1 bullets them, which reads more like a survey."
+  },
+  "P07": {
+   "source": "opus_08",
+   "n_orig": 9,
+   "dropped": [],
+   "added": [],
+   "altered": [],
+   "preserved": 1.0,
+   "same": "yes",
+   "pick": "rewrite",
+   "reason": "Both read like real intros; Text 2 adds stiffer phrasing like To be clear and I think you would both get something."
+  },
+  "P08": {
+   "source": "opus_09",
+   "n_orig": 18,
+   "dropped": [],
+   "added": [],
+   "altered": [],
+   "preserved": 1.0,
+   "same": "yes",
+   "pick": "tie",
+   "reason": "Both are the same bracketed template; Text 1 keeps a fuller polite close, Text 2 is terser."
+  },
+  "P09": {
+   "source": "opus_10",
+   "n_orig": 15,
+   "dropped": [],
+   "added": [],
+   "altered": [
+    {
+     "unit": "Alert load is wearing people down",
+     "kind": "stance",
+     "in_text1": true,
+     "in_text2": true,
+     "altered": "strength_up",
+     "note": "Text 1 says It's wearing people down; Text 2 softens to starting to wear people down."
+    },
+    {
+     "unit": "Thresholds and new behavior do not fit; some fix on our side",
+     "kind": "stance",
+     "in_text1": true,
+     "in_text2": true,
+     "altered": "strength_up",
+     "note": "Text 2 hedges the cause with It looks like; Text 1 states it flatly."
+    }
+   ],
+   "preserved": 0.8666666666666667,
+   "same": "yes",
+   "pick": "rewrite",
+   "reason": "Text 1 has blunt fragments like It's wearing people down that read naturally; Text 2 is smoother and more hedged."
+  },
+  "P10": {
+   "source": "opus_11",
+   "n_orig": 17,
+   "dropped": [],
+   "added": [],
+   "altered": [],
+   "preserved": 1.0,
+   "same": "yes",
+   "pick": "rewrite",
+   "reason": "Text 1 explains the term reasons in flowing prose like a real email; Text 2 bullets them in a memo style."
+  },
+  "P11": {
+   "source": "sonnet_07",
+   "n_orig": 12,
+   "dropped": [],
+   "added": [],
+   "altered": [],
+   "preserved": 1.0,
+   "same": "yes",
+   "pick": "rewrite",
+   "reason": "Text 2 folds the questions into conversational prose; Text 1 uses a bulleted list that reads more like a survey."
+  },
+  "P12": {
+   "source": "sonnet_08",
+   "n_orig": 12,
+   "dropped": [],
+   "added": [],
+   "altered": [
+    {
+     "unit": "Sender's enthusiasm about the introduction",
+     "kind": "stance",
+     "in_text1": true,
+     "in_text2": true,
+     "altered": "strength_down",
+     "note": "Text 2 opens with I'm delighted; Text 1 is a plain I'd like to introduce."
+    }
+   ],
+   "preserved": 0.9166666666666666,
+   "same": "yes",
+   "pick": "rewrite",
+   "reason": "Text 1 is plainer and matches a typical intro; Text 2's I'm delighted reads a bit effusive."
+  },
+  "P13": {
+   "source": "sonnet_09",
+   "n_orig": 18,
+   "dropped": [],
+   "added": [],
+   "altered": [],
+   "preserved": 1.0,
+   "same": "yes",
+   "pick": "tie",
+   "reason": "Both are the same structured business memo with headers and bullets; neither reads more personal than the other."
+  },
+  "P14": {
+   "source": "sonnet_10",
+   "n_orig": 15,
+   "dropped": [],
+   "added": [],
+   "altered": [],
+   "preserved": 1.0,
+   "same": "yes",
+   "pick": "tie",
+   "reason": "Near-identical wording with the same numbered list; differences are only minor phrasing and a closing thanks in Text 1."
+  },
+  "P15": {
+   "source": "sonnet_11",
+   "n_orig": 22,
+   "dropped": [],
+   "added": [],
+   "altered": [
+    {
+     "unit": "Needs pricing clarity before going further",
+     "kind": "ask",
+     "in_text1": true,
+     "in_text2": true,
+     "altered": "strength_up",
+     "note": "Text 2 says I need clarity; Text 1 says I'd like to get clarity."
+    }
+   ],
+   "preserved": 0.9545454545454546,
+   "same": "yes",
+   "pick": "original",
+   "reason": "Text 1 is more courteous and fully phrased; Text 2 has blunter I need phrasing, though both read naturally."
+  }
+ },
+ "opus": {
+  "P01": {
+   "source": "haiku_07",
+   "n_orig": 15,
+   "dropped": [
+    {
+     "unit": "Thanks for considering it",
+     "kind": "stance",
+     "in_text1": true,
+     "in_text2": false,
+     "altered": null,
+     "note": "closing thanks dropped in Text 2"
+    }
+   ],
+   "added": [],
+   "altered": [],
+   "preserved": 0.9333333333333333,
+   "same": "yes",
+   "pick": "original",
+   "reason": "Introduces self before asking; Text 2's opening ask and fragment feel abrupt."
+  },
+  "P02": {
+   "source": "haiku_08",
+   "n_orig": 15,
+   "dropped": [],
+   "added": [],
+   "altered": [],
+   "preserved": 1.0,
+   "same": "yes",
+   "pick": "rewrite",
+   "reason": "Plainer, more conversational phrasing like 'I figure'; Text 2 is more formulaic."
+  },
+  "P03": {
+   "source": "haiku_09",
+   "n_orig": 18,
+   "dropped": [
+    {
+     "unit": "Thank you for considering it",
+     "kind": "stance",
+     "in_text1": false,
+     "in_text2": true,
+     "altered": null,
+     "note": "closing thanks added in Text 2"
+    }
+   ],
+   "added": [],
+   "altered": [
+    {
+     "unit": "Ongoing [$Amount] per year after year one",
+     "kind": "number",
+     "in_text1": true,
+     "in_text2": true,
+     "altered": "strength_up",
+     "note": "Text 2 labels the ongoing cost as 'expected'"
+    }
+   ],
+   "preserved": 0.8888888888888888,
+   "same": "yes",
+   "pick": "rewrite",
+   "reason": "Text 1 reads as a natural email; Text 2's section headers feel templated."
+  },
+  "P04": {
+   "source": "haiku_10",
+   "n_orig": 17,
+   "dropped": [
+    {
+     "unit": "Large increase in alert noise",
+     "kind": "stance",
+     "in_text1": true,
+     "in_text2": false,
+     "altered": null,
+     "note": "'large increase' characterization dropped in Text 2"
+    },
+    {
+     "unit": "Thanks for your help",
+     "kind": "stance",
+     "in_text1": true,
+     "in_text2": false,
+     "altered": null,
+     "note": "thanks dropped in Text 2"
+    }
+   ],
+   "added": [],
+   "altered": [
+    {
+     "unit": "Two people woken overnight by self-resolving alerts",
+     "kind": "fact",
+     "in_text1": true,
+     "in_text2": true,
+     "altered": "strength_up",
+     "note": "Text 1 says 'reported'; Text 2 states it as fact"
+    }
+   ],
+   "preserved": 0.8235294117647058,
+   "same": "yes",
+   "pick": "rewrite",
+   "reason": "Direct and concise, opens on the issue; Text 1 has more stock hedging."
+  },
+  "P05": {
+   "source": "haiku_11",
+   "n_orig": 16,
+   "dropped": [],
+   "added": [],
+   "altered": [
+    {
+     "unit": "Need clarity on pricing before internal review",
+     "kind": "ask",
+     "in_text1": true,
+     "in_text2": true,
+     "altered": "strength_up",
+     "note": "'I'd like to get' became 'I need'"
+    }
+   ],
+   "preserved": 0.9375,
+   "same": "yes",
+   "pick": "rewrite",
+   "reason": "Tighter, more direct questions read like a real buyer."
+  },
+  "P06": {
+   "source": "opus_07",
+   "n_orig": 17,
+   "dropped": [
+    {
+     "unit": "This isn't a sales pitch",
+     "kind": "stance",
+     "in_text1": true,
+     "in_text2": false,
+     "altered": null,
+     "note": "explicit 'not a sales pitch' line dropped; 'not selling' kept"
+    }
+   ],
+   "added": [],
+   "altered": [],
+   "preserved": 0.9411764705882353,
+   "same": "yes",
+   "pick": "original",
+   "reason": "Context before ask and bulleted questions feel natural; Text 2 opens abruptly."
+  },
+  "P07": {
+   "source": "opus_08",
+   "n_orig": 14,
+   "dropped": [],
+   "added": [],
+   "altered": [],
+   "preserved": 1.0,
+   "same": "yes",
+   "pick": "rewrite",
+   "reason": "Short punchy sentences read slightly more natural; nearly identical though."
+  },
+  "P08": {
+   "source": "opus_09",
+   "n_orig": 21,
+   "dropped": [
+    {
+     "unit": "Thanks for considering it",
+     "kind": "stance",
+     "in_text1": true,
+     "in_text2": false,
+     "altered": null,
+     "note": "closing thanks dropped in Text 2"
+    }
+   ],
+   "added": [],
+   "altered": [],
+   "preserved": 0.9523809523809523,
+   "same": "yes",
+   "pick": "tie",
+   "reason": "Essentially identical template; only a closing pleasantry differs."
+  },
+  "P09": {
+   "source": "opus_10",
+   "n_orig": 21,
+   "dropped": [],
+   "added": [],
+   "altered": [
+    {
+     "unit": "Alerts wearing people down",
+     "kind": "stance",
+     "in_text1": true,
+     "in_text2": true,
+     "altered": "strength_up",
+     "note": "'It's wearing' softened to 'starting to wear'"
+    },
+    {
+     "unit": "Thresholds and new behavior don't fit yet",
+     "kind": "fact",
+     "in_text1": true,
+     "in_text2": true,
+     "altered": "strength_up",
+     "note": "Text 2 hedges with 'It looks like'"
+    }
+   ],
+   "preserved": 0.9047619047619048,
+   "same": "yes",
+   "pick": "original",
+   "reason": "Slightly warmer framing ('raise something directly') reads like a colleague's note."
+  },
+  "P10": {
+   "source": "opus_11",
+   "n_orig": 21,
+   "dropped": [
+    {
+     "unit": "Thanks for time spent on evaluation",
+     "kind": "stance",
+     "in_text1": false,
+     "in_text2": true,
+     "altered": null,
+     "note": "appreciation opener added in Text 2"
+    }
+   ],
+   "added": [],
+   "altered": [],
+   "preserved": 0.9523809523809523,
+   "same": "yes",
+   "pick": "rewrite",
+   "reason": "Prose reasoning reads like a person; Text 2's bulleted concerns feel templated."
+  },
+  "P11": {
+   "source": "sonnet_07",
+   "n_orig": 15,
+   "dropped": [
+    {
+     "unit": "Thanks for reading",
+     "kind": "stance",
+     "in_text1": true,
+     "in_text2": false,
+     "altered": null,
+     "note": "thanks dropped in Text 2"
+    }
+   ],
+   "added": [],
+   "altered": [
+    {
+     "unit": "About two months into evaluating [Tool Name]",
+     "kind": "number",
+     "in_text1": true,
+     "in_text2": true,
+     "altered": "meaning_change",
+     "note": "'We're' (team) became 'I'm' (individual) evaluating"
+    }
+   ],
+   "preserved": 0.8666666666666667,
+   "same": "partly",
+   "pick": "original",
+   "reason": "Natural flow; Text 2's 'That's hard to learn from demos' has an unclear referent."
+  },
+  "P12": {
+   "source": "sonnet_08",
+   "n_orig": 14,
+   "dropped": [
+    {
+     "unit": "Thanks to you both",
+     "kind": "stance",
+     "in_text1": false,
+     "in_text2": true,
+     "altered": null,
+     "note": "thanks added in Text 2"
+    }
+   ],
+   "added": [],
+   "altered": [
+    {
+     "unit": "Introduction enthusiasm",
+     "kind": "stance",
+     "in_text1": true,
+     "in_text2": true,
+     "altered": "strength_down",
+     "note": "'I'd like to introduce' became 'I'm delighted to introduce'"
+    }
+   ],
+   "preserved": 0.8571428571428571,
+   "same": "yes",
+   "pick": "rewrite",
+   "reason": "Plainer and less effusive; 'delighted' in Text 2 feels formulaic."
+  },
+  "P13": {
+   "source": "sonnet_09",
+   "n_orig": 22,
+   "dropped": [],
+   "added": [],
+   "altered": [],
+   "preserved": 1.0,
+   "same": "yes",
+   "pick": "tie",
+   "reason": "Nearly identical; minor heading removal doesn't change voice."
+  },
+  "P14": {
+   "source": "sonnet_10",
+   "n_orig": 18,
+   "dropped": [
+    {
+     "unit": "Thanks for looking at this",
+     "kind": "stance",
+     "in_text1": true,
+     "in_text2": false,
+     "altered": null,
+     "note": "closing thanks dropped in Text 2"
+    }
+   ],
+   "added": [],
+   "altered": [],
+   "preserved": 0.9444444444444444,
+   "same": "yes",
+   "pick": "tie",
+   "reason": "Virtually identical; only a closing thanks differs."
+  },
+  "P15": {
+   "source": "sonnet_11",
+   "n_orig": 22,
+   "dropped": [],
+   "added": [],
+   "altered": [
+    {
+     "unit": "Need clarity on pricing",
+     "kind": "ask",
+     "in_text1": true,
+     "in_text2": true,
+     "altered": "strength_up",
+     "note": "'I'd like to get clarity' became 'I need clarity'"
+    },
+    {
+     "unit": "Decision by [date]",
+     "kind": "deadline",
+     "in_text1": true,
+     "in_text2": true,
+     "altered": "strength_down",
+     "note": "'Our timeline is to' softened to 'We're aiming to'"
+    }
+   ],
+   "preserved": 0.9090909090909091,
+   "same": "yes",
+   "pick": "rewrite",
+   "reason": "More direct, conversational phrasing like 'we're aiming to decide'."
+  }
+ }
+}

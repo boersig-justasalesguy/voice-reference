@@ -1,0 +1,172 @@
+{
+ "T913": {
+  "group": "AI analyst",
+  "source": "haiku_01",
+  "words": 280
+ },
+ "T592": {
+  "group": "AI analyst",
+  "source": "haiku_02",
+  "words": 452
+ },
+ "T822": {
+  "group": "AI analyst",
+  "source": "haiku_03",
+  "words": 396
+ },
+ "T628": {
+  "group": "AI practitioner",
+  "source": "haiku_04",
+  "words": 492
+ },
+ "T831": {
+  "group": "AI practitioner",
+  "source": "haiku_05",
+  "words": 419
+ },
+ "T888": {
+  "group": "AI practitioner",
+  "source": "haiku_06",
+  "words": 506
+ },
+ "T724": {
+  "group": "AI analyst",
+  "source": "sonnet_01",
+  "words": 520
+ },
+ "T321": {
+  "group": "AI analyst",
+  "source": "sonnet_02",
+  "words": 637
+ },
+ "T965": {
+  "group": "AI analyst",
+  "source": "sonnet_03",
+  "words": 611
+ },
+ "T121": {
+  "group": "AI practitioner",
+  "source": "sonnet_04",
+  "words": 690
+ },
+ "T360": {
+  "group": "AI practitioner",
+  "source": "sonnet_05",
+  "words": 672
+ },
+ "T679": {
+  "group": "AI practitioner",
+  "source": "sonnet_06",
+  "words": 689
+ },
+ "T809": {
+  "group": "AI analyst",
+  "source": "opus_01",
+  "words": 681
+ },
+ "T554": {
+  "group": "AI analyst",
+  "source": "opus_02",
+  "words": 696
+ },
+ "T470": {
+  "group": "AI analyst",
+  "source": "opus_03",
+  "words": 700
+ },
+ "T982": {
+  "group": "AI practitioner",
+  "source": "opus_04",
+  "words": 684
+ },
+ "T156": {
+  "group": "AI practitioner",
+  "source": "opus_05",
+  "words": 693
+ },
+ "T381": {
+  "group": "AI practitioner",
+  "source": "opus_06",
+  "words": 699
+ },
+ "T722": {
+  "group": "Gartner/IDC",
+  "source": "b_h1.txt",
+  "words": 444
+ },
+ "T151": {
+  "group": "Gartner/IDC",
+  "source": "b_i1.txt",
+  "words": 677
+ },
+ "T794": {
+  "group": "Gartner/IDC",
+  "source": "b_m1.txt",
+  "words": 525
+ },
+ "T781": {
+  "group": "Gartner/IDC",
+  "source": "b_p1.txt",
+  "words": 394
+ },
+ "T286": {
+  "group": "Gartner/IDC",
+  "source": "b_p2.txt",
+  "words": 566
+ },
+ "T841": {
+  "group": "Gartner/IDC",
+  "source": "b_p4.txt",
+  "words": 691
+ },
+ "T389": {
+  "group": "Gartner/IDC",
+  "source": "b_s1.txt",
+  "words": 698
+ },
+ "T128": {
+  "group": "Gartner/IDC",
+  "source": "b_s2.txt",
+  "words": 663
+ },
+ "T720": {
+  "group": "Latio early",
+  "source": "what-do-i-think-about-wiz-code",
+  "words": 693
+ },
+ "T598": {
+  "group": "Latio early",
+  "source": "wtf-is-cdr-part-13",
+  "words": 700
+ },
+ "T619": {
+  "group": "Latio early",
+  "source": "the-great-cnapp-re-bundle",
+  "words": 688
+ },
+ "T438": {
+  "group": "Latio transition",
+  "source": "emerging-categories-the-evolution",
+  "words": 675
+ },
+ "T406": {
+  "group": "Latio transition",
+  "source": "the-5-security-features-that-will",
+  "words": 699
+ },
+ "T929": {
+  "group": "Latio late",
+  "source": "the-complete-guide-to-preventing",
+  "words": 694
+ },
+ "T674": {
+  "group": "Latio late",
+  "source": "the-privatization-of-vulnerability",
+  "words": 684
+ },
+ "T664": {
+  "group": "Latio late",
+  "source": "the-new-normal-what-the-recent-incidents",
+  "words": 695
+ }
+}

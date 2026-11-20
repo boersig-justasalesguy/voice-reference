@@ -1,0 +1,17 @@
+{
+ "id": "M58",
+ "buyer_specific_trigger": true,
+ "industry_specific_pain": false,
+ "proof": "none",
+ "unsupported_claims": 2,
+ "feature_list_items": 1,
+ "buyer_centric_sentences_pct": 30,
+ "mechanism_explained": false,
+ "ask": "meeting_>20min_or_demo",
+ "ask_pressure": "high",
+ "opt_out_offered": false,
+ "value_before_ask": false,
+ "manufactured_urgency": true,
+ "self_introduction_first": false,
+ "disputable_point_of_view": true
+}

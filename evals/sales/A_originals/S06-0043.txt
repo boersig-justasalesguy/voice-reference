@@ -1,0 +1,12 @@
+CHANNEL: email
+STAGE: negotiation
+SELLER: Account Executive at Beacon CX
+BUYER: VP Customer Success, Healthcare Tech, Pulsemark Health (200-500 employees)
+SUBJECT: Beacon CX contract
+MESSAGE:
+Hi Alistair,
+
+Attached is the contract with the changes we talked about. Let me know if you have any questions or if anything looks off.
+
+Thanks!
+Gemma

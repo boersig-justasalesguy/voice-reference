@@ -1,0 +1,14 @@
+{"pair":"Q01","units":[
+{"unit":"Follow-up on earlier email sent the 4th","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Pawsitive added 22 clinics in 18 months","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Each acquired clinic has its own chart of accounts","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Team re-maps acquired books by hand at month-end","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Ledgerline pays for itself in roll-up businesses","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Mapping defined once per acquired clinic","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Future closes pull trial balances automatically","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Next acquisition onboarding is a one-afternoon task","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Offer: sample consolidation built for veterinary roll-up","kind":"offer","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Demo length: 20 minutes","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Ask whether a sample would help","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":"Same ask, different phrasing"},
+{"unit":"Hook on what buyer said about acquisitions","kind":"stance","in_text1":true,"in_text2":true,"altered":null,"note":"Wording only; both reference buyer's comments"}
+],"same_meaning":"yes","better_message":"1","reason":"Personal hook on what the buyer said reads more human; otherwise near-identical.","grade_text1":"strong","grade_text2":"average"}

@@ -1,0 +1,6 @@
+CHANNEL: linkedin_dm
+STAGE: upsell
+SELLER: Account Executive, Expansion at Ledgerline
+BUYER: Controller, Veterinary Clinics, Pawsworth Animal Hospitals (500-1000 employees)
+MESSAGE:
+Hi Piers! Loved your post about the 4-day close. Have you thought about Ledgerline Flux Analysis? It's the natural next step for teams like yours. Happy to share more!

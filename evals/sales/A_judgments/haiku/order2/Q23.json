@@ -1,0 +1,10 @@
+{"pair":"Q23","units":[
+{"unit":"Harriet asked for 25% off","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Cannot get 25% approved","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Competitor product worse, has security issues (hearsay)","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"15% if signed today","kind":"offer","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"20% if signed by Friday, pending manager approval","kind":"offer","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Multi-year possible but unlikely for their size","kind":"condition","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Pricing only good this week","kind":"deadline","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Ask: wrap up today at 15%","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""}
+],"same_meaning":"yes","better_message":"tie","reason":"Identical script; both disparage a competitor on hearsay and use pressure tactics.","grade_text1":"weak","grade_text2":"weak"}

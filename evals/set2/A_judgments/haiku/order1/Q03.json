@@ -1,0 +1,9 @@
+{"pair":"Q03","units":[
+{"unit":"Addressee Marisol named","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Sender Ingeborg Lund from Quietwatch","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Colleague on platform team asked for scope document","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Scope document sent to both recipients","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Read access needed for cloud audit health check","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Document covers scope, access and end-of-week deliverable","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Call 555-0115 to change scope before security review","kind":"offer","in_text1":true,"in_text2":true,"altered":null,"note":""}
+],"same_meaning":"yes","better_message":"tie","reason":"Same facts and ask; wording differences are minor for a voicemail.","grade_text1":"average","grade_text2":"average"}

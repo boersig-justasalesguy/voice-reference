@@ -1,0 +1,14 @@
+{"pair":"Q13","units":[
+{"unit":"Keiko from Patchbay calling Imran","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Patchbay is an iPaaS API integration platform","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Over 600 pre-built connectors","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Visual builder, monitoring, error handling, RBAC","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"SOC 2 Type II certified and SDK for custom connectors","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Most customers up and running in a few weeks","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Speed emphasis: we are also really fast","kind":"claim","in_text1":true,"in_text2":false,"altered":null,"note":"Text 2 drops the really fast framing"},
+{"unit":"Patchbay takes integration work off engineers","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Busy branch: see if a 45-minute demo makes sense","kind":"ask","in_text1":true,"in_text2":true,"altered":"strength_up","note":"Text 2 states the demo as a direct proposal"},
+{"unit":"Other-tool branch: usually faster and cheaper; may save money","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Not-interested branch: offer quick demo anyway","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Close: Thursday or Friday calendar invite now","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""}
+],"same_meaning":"partly","better_message":"2","reason":"Tighter and less pushy-sounding with fewer filler phrases; both are feature-heavy cold pitches.","grade_text1":"average","grade_text2":"average"}

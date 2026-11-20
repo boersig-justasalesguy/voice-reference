@@ -1,0 +1,6 @@
+CHANNEL: sms
+STAGE: renewal
+SELLER: Account Manager at Quietwatch
+BUYER: SIEM Engineer, Logistics, Bluewake Freight (1000-5000 employees)
+MESSAGE:
+Hi Felipe, your Quietwatch subscription renews on 12/15. Renewal paperwork was sent to your email. Please sign ASAP so there's no interruption in service. Thanks!

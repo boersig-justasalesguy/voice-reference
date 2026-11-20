@@ -1,0 +1,8 @@
+CHANNEL: linkedin_dm
+STAGE: cold_outreach
+SELLER: Enterprise Account Executive at Sieveline
+BUYER: CISO, Convenience Retail, Harborway Markets (5000-10000 employees)
+MESSAGE:
+Daniel, saw Harborway added fuel-pump payment terminals at another 300 stores this year. That usually means a big jump in point-of-sale and network logs landing in the SIEM, and a bill that grows faster than the security team.
+
+We typically cut ingest 30-40% by filtering events no detection uses, then keep what maps to the threats you actually care about. Open to comparing notes on how you're handling the growth?

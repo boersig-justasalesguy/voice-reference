@@ -1,0 +1,81 @@
+{
+ "pair": "Q06",
+ "units": [
+  {
+   "unit": "Thanks for the demo today",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "9 CSMs managing ~350 broker accounts",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "No consistent health score; CSM judgment",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Goal: identify at-risk brokers before renewal",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Start with usage and support data",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Attached sample health score configuration",
+   "kind": "offer",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Proposal to follow",
+   "kind": "commitment",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Ask: CSMs see score or managers only",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Ask renewal date or planning cycle",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Questions as numbered list vs prose",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null,
+   "note": "Formatting only"
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "1",
+ "reason": "Numbered questions are easier to answer; 'what I heard' is minor.",
+ "grade_text1": "strong",
+ "grade_text2": "strong"
+}

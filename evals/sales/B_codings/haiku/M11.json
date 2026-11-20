@@ -1,0 +1,17 @@
+{
+ "id": "M11",
+ "buyer_specific_trigger": false,
+ "industry_specific_pain": false,
+ "proof": "none",
+ "unsupported_claims": 1,
+ "feature_list_items": 0,
+ "buyer_centric_sentences_pct": 35,
+ "mechanism_explained": false,
+ "ask": "short_call_<=20min",
+ "ask_pressure": "low",
+ "opt_out_offered": false,
+ "value_before_ask": false,
+ "manufactured_urgency": false,
+ "self_introduction_first": false,
+ "disputable_point_of_view": true
+}

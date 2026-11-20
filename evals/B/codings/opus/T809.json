@@ -1,0 +1,163 @@
+{
+ "id": "T809",
+ "claims": [
+  {
+   "gist": "Most companies adopt AI faster than they can oversee it",
+   "type": "evaluative",
+   "evidence": "data_cited",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "By 2027, 60% of 5,000+ employee organizations will formalize AI governance",
+   "type": "predictive",
+   "evidence": "data_cited",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Fewer than 20% of such organizations have one today",
+   "type": "factual",
+   "evidence": "data_cited",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Prediction draws on 1,200-leader survey and 400 conversations",
+   "type": "factual",
+   "evidence": "data_cited",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Most enterprises run dozens to hundreds of AI use cases, often SaaS-sourced",
+   "type": "factual",
+   "evidence": "data_cited",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Current AI oversight is mostly informal working groups",
+   "type": "factual",
+   "evidence": "data_cited",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "EU AI Act and state laws require documented assessments",
+   "type": "factual",
+   "evidence": "named_source",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "41% of organizations reported an AI incident in 12 months",
+   "type": "factual",
+   "evidence": "data_cited",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Nearly half of those could not identify accountability quickly",
+   "type": "factual",
+   "evidence": "data_cited",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "68% of boards requested AI risk reports, up from 29%",
+   "type": "factual",
+   "evidence": "data_cited",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Client questions shifted to who is in charge of AI",
+   "type": "factual",
+   "evidence": "named_source",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Monthly working groups cannot keep pace with 200 models",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Leading organizations will build governance as operating function",
+   "type": "predictive",
+   "evidence": "named_source",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Laggards will build governance after incidents at higher cost",
+   "type": "predictive",
+   "evidence": "named_source",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Name a single accountable executive for AI risk",
+   "type": "prescriptive",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Maintain a complete AI inventory including third-party AI",
+   "type": "prescriptive",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Tier AI use cases by risk",
+   "type": "prescriptive",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Give governance power to pause or block deployments",
+   "type": "prescriptive",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Track approval speed to avoid pushing teams to shadow AI",
+   "type": "prescriptive",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  }
+ ],
+ "named_entities": 3,
+ "named_criticism": 0,
+ "admitted_limits": 1,
+ "stake_disclosure": false,
+ "disputable_thesis": true,
+ "thesis": "By 2027, 60% of large organizations will create funded, empowered AI governance functions as regulation, incidents and boards press."
+}

@@ -1,0 +1,17 @@
+CHANNEL: email
+STAGE: objection_handling
+SELLER: Account Executive at Tallyhouse
+BUYER: CFO, Construction, Ironvale Builders (500-1000 employees)
+SUBJECT: Re: we already have an ERP
+MESSAGE:
+Hi Lionel,
+
+That's a fair objection, and if your ERP is handling procurement well, you shouldn't add another system.
+
+The one place I'd push back gently is the issue you described on our call: site supervisors committing to subcontractor and equipment-rental spend by phone, and the PO getting raised in the ERP after the work is done. Your ERP records that spend accurately - it just records it too late to stop it. That's why the Harbor Point job ran $310K over on rentals before anyone in finance saw it.
+
+Tallyhouse doesn't replace the ERP. It sits in front of it: a supervisor requests the rental on their phone, it routes to the project manager for approval against the job budget, and the approved request creates the PO in your ERP automatically. Your PMs still work in the ERP; the supervisors just stop working around it.
+
+If that gap isn't real across your other jobs, Harbor Point may have been a one-off and you can ignore me. If it is, I'd suggest a pilot on two active jobs for 60 days - we'd compare committed versus budgeted spend against two similar jobs without it.
+
+Sabine

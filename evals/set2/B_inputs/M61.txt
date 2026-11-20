@@ -1,0 +1,6 @@
+CHANNEL: sms
+STAGE: event_followup
+SELLER: Regional Sales Director at Signalcraft
+BUYER: Detection Engineering Lead, Automotive, Torvik Automotive (10000+ employees)
+MESSAGE:
+Hana, Mateo from last night's dinner (the one who lost the debate on whether CAN-bus logs belong in a SIEM). The dealer-network detection you described is the one I'd like to draft for you in your dialect. Fair trade for losing?

@@ -1,0 +1,16 @@
+CHANNEL: email
+STAGE: negotiation
+SELLER: Account Executive at Patchbay
+BUYER: Head of IT, Manufacturing, Kestrel Fabrication (500-1000 employees)
+SUBJECT: Re: Patchbay order form
+MESSAGE:
+Hi Mai,
+
+I spoke with my manager and we can do 10% off if you sign this week, but that's really the best we can do. Our quarter ends Friday and I need to get this in.
+
+I know your team asked for a 3-year term with a price lock, but that's not something we normally offer. Can we just go with the 1-year and figure out the rest later?
+
+Please let me know ASAP so I can get the paperwork over.
+
+Thanks,
+Elias

@@ -1,0 +1,19 @@
+{
+ "id": "T809",
+ "claims": [
+   {"gist": "By 2027, 60% of organizations over 5,000 employees will have a formal AI governance function", "type": "predictive", "evidence": "data_cited", "specific": true, "hedged": false, "owner": "attributed"},
+   {"gist": "Fewer than 20% of such organizations have a formal AI governance function today", "type": "factual", "evidence": "data_cited", "specific": true, "hedged": false, "owner": "attributed"},
+   {"gist": "41% of surveyed organizations reported at least one AI-related incident in 12 months", "type": "factual", "evidence": "data_cited", "specific": true, "hedged": false, "owner": "attributed"},
+   {"gist": "68% of respondents said their board asked for a formal AI risk report, up from 29%", "type": "factual", "evidence": "data_cited", "specific": true, "hedged": false, "owner": "attributed"},
+   {"gist": "Current AI oversight is mostly informal working groups without enforcement power", "type": "factual", "evidence": "data_cited", "specific": false, "hedged": false, "owner": "attributed"},
+   {"gist": "EU AI Act and state laws require documented risk assessments and human oversight", "type": "factual", "evidence": "named_source", "specific": true, "hedged": false, "owner": "attributed"},
+   {"gist": "Governance should be an operating function with people, tooling and decision rights", "type": "prescriptive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "attributed"},
+   {"gist": "Governance should measure approval speed as well as safety to avoid shadow AI", "type": "prescriptive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "attributed"}
+ ],
+ "named_entities": 1,
+ "named_criticism": 0,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": true,
+ "thesis": "Sixty percent of large organizations will formalize AI governance by 2027, driven by regulation, incidents and board scrutiny."
+}

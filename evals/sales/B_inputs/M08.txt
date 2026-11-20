@@ -1,0 +1,16 @@
+CHANNEL: email
+STAGE: cold_outreach
+SELLER: Account Executive at Ledgerline
+BUYER: Controller, Specialty Food Distribution, Harrow & Pike Provisions (200-500 employees)
+SUBJECT: Rebate accruals at Harrow & Pike
+MESSAGE:
+Hi Desmond,
+
+Most food distributors I talk to have one reconciliation that eats the back half of close: supplier rebates and promotional allowances. The accrual gets booked on an estimate, the vendor statement arrives three weeks later, and somebody on your team rebuilds the tie-out in a spreadsheet every single month.
+
+Ledgerline matches vendor statements against your accruals automatically and flags only the lines that are actually off, so the review becomes a list of exceptions instead of a full rebuild. A regional distributor about your size, Coldwater Fresh, went from a nine-day close to six, and their senior accountant got most of her week back.
+
+Not sure rebates are your bottleneck - it could just as easily be intercompany between your two warehouses. If you tell me which rec your team dreads most, I'll send a short write-up of how we'd handle that one specifically. No demo required.
+
+Marisol Ventura
+Ledgerline

@@ -1,0 +1,16 @@
+Subject: 20 minutes on your experience running [Tool Name]?
+
+Hi [Name],
+
+Could I ask you a few questions about how [Tool Name] has held up in practice? I'm [Your Name], a security engineer at [Company]. I'm about two months into evaluating it for our cloud environment, and I saw on LinkedIn that you've been running it at [Their Company] for a while. I'm not a vendor and I'm not selling anything.
+
+That's hard to learn from demos. How much tuning did it need before the alerts were useful? What surprised you after the first six months? Is there anything you'd do differently if you were deploying it again?
+
+Twenty minutes would be plenty, and I can work around your schedule. If it's easier, I can send the questions in writing and you can answer whichever ones you like. I'd be glad to share what we learn from our own evaluation in return.
+
+If you're not the right person or don't have time, no problem.
+
+Best,
+[Your Name]
+[Title], [Company]
+[Phone or LinkedIn]

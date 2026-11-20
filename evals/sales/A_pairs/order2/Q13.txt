@@ -1,0 +1,34 @@
+CHANNEL: call_script
+STAGE: cold_outreach
+SELLER: Account Executive at Patchbay
+BUYER: Engineering Manager, Insurtech, Fernway Mutual Digital (100-200 employees)
+
+=== TEXT 1 ===
+Hi, is this Imran? Great. Imran, this is Keiko calling from Patchbay. How are you doing today?
+
+I'm calling because Patchbay is an API integration platform, also known as an iPaaS, and we help companies like yours connect their different systems. We have over 600 pre-built connectors, a visual workflow builder, real-time monitoring, error handling and retries, role-based access controls, SOC 2 Type II certification, and an SDK for building custom connectors. Most customers are up and running in a few weeks.
+
+A lot of engineering teams spend way too much time on integrations, and Patchbay takes that off your plate so your developers can focus on what really matters.
+
+[If they say they're busy:] Understood, I'll be quick. I'd like to set up a 45-minute demo with one of our solution engineers so they can walk you through the platform end to end.
+
+[If they say they already have something:] A lot of our customers had something before they switched to us. What are you using today? Patchbay is usually faster and cheaper than the alternatives, and we can probably save you money.
+
+[If they say they're not interested:] I hear you. Can I ask why? Most people who say that just haven't seen what Patchbay can do. Would you be open to a quick demo anyway, just so you know what's out there?
+
+[Close:] What does your calendar look like Thursday or Friday? I can send over an invite right now.
+
+=== TEXT 2 ===
+Hi, is this Imran? Great. Imran, this is Keiko calling from Patchbay, how are you doing today? Awesome.
+
+So the reason I'm calling is that Patchbay is an API integration platform, also known as an iPaaS, and we help companies like yours connect all their different systems together. We have over 600 pre-built connectors, a visual workflow builder, real-time monitoring, error handling and retries, role-based access controls, SOC 2 Type II certification, and an SDK for building custom connectors. We're also really fast - most customers are up and running in a few weeks.
+
+A lot of engineering teams spend way too much time on integrations, and Patchbay basically takes that off your plate so your developers can focus on what really matters.
+
+[If they say they're busy:] Totally understand, I'll be quick. I just want to see if it makes sense to set up a 45-minute demo with one of our solution engineers so they can walk you through the platform end to end.
+
+[If they say they already have something:] A lot of our customers had something before they switched to us. What are you using today? Patchbay is usually faster and cheaper than the alternatives, and we can probably save you money.
+
+[If they say they're not interested:] I hear you. Can I ask why? Most people who say that just haven't seen what Patchbay can do. Would you be open to a quick demo anyway, just so you know what's out there?
+
+[Close:] So what does your calendar look like Thursday or Friday? I can send over an invite right now.

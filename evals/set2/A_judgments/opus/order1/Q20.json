@@ -1,0 +1,89 @@
+{
+ "pair": "Q20",
+ "units": [
+  {
+   "unit": "One year since Brassmoor joined",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Thanks for being great partner",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": false,
+   "altered": null,
+   "note": "Gratitude dropped"
+  },
+  {
+   "unit": "Excited about what's ahead",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": false,
+   "altered": null,
+   "note": "Enthusiasm dropped"
+  },
+  {
+   "unit": "40+ features shipped, four named",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Customer community launched, want Brassmoor there",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Next year: AI recommendations, integrations, mobile app",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Renewal January 31st",
+   "kind": "deadline",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Order form in inbox",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "About 7% price adjustment",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Sign before Dec 20 locks pricing extra month",
+   "kind": "condition",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Reply or ask account manager",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  }
+ ],
+ "same_meaning": "partly",
+ "better_message": "2",
+ "reason": "Text 2 leads with the renewal facts and cuts the forced cheer.",
+ "grade_text1": "weak",
+ "grade_text2": "average"
+}

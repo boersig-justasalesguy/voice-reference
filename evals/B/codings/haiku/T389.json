@@ -1,0 +1,17 @@
+{
+ "id": "T389",
+ "claims": [
+   {"gist": "Aarogya Setu and ALHOSN UAE use color status to gate travel", "type": "factual", "evidence": "named_example", "specific": true, "hedged": false, "owner": "attributed"},
+   {"gist": "Health passports reached 5% to 20% market penetration, unprecedented for a new entry", "type": "factual", "evidence": "data_cited", "specific": true, "hedged": false, "owner": "attributed"},
+   {"gist": "Composable enterprises gain resilience by recomposing modular business capabilities", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "attributed"},
+   {"gist": "Organizations are shifting trust from central authorities to algorithms", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "attributed"},
+   {"gist": "Blockchain can only verify the information it is given, so bad inputs stay verified", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Silicon is reaching physical limits, driving advanced materials research", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "attributed"}
+ ],
+ "named_entities": 3,
+ "named_criticism": 0,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": true,
+ "thesis": "Hype Cycle trends such as composable architecture and algorithmic trust will significantly affect business within five to ten years."
+}

@@ -1,0 +1,11 @@
+{"pair":"P01","units":[
+{"unit":"20-minute call in the next few weeks","kind":"ask","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Sender identity placeholders: name, title, company","kind":"placeholder","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Reason for outreach: came across work on [specific thing]","kind":"placeholder","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Purpose: evaluating how cloud security teams get value from tools","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Wants to learn what worked, what didn't, what they'd have known","kind":"ask","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Not selling anything","kind":"stance","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Will share what sender learns from other conversations","kind":"offer","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Pointer to another team member if call does not fit","kind":"ask","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Contact placeholder: [Phone or LinkedIn URL]","kind":"placeholder","in_text1":true,"in_text2":true,"altered":null}
+],"same_meaning":"yes","more_human":"1","human_reason":"Text 1 is warmer and fuller; Text 2 front-loads the ask and reads a bit clipped."}

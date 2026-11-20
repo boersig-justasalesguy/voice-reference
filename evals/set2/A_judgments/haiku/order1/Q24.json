@@ -1,0 +1,14 @@
+{"pair":"Q24","units":[
+{"unit":"Names Bettina, Cassius and Tunebench","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"No budget this year after security spend froze","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Tunebench pays for itself","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Analysts spend hours on false positives","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Suggests taking a business case to the CFO","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Will send ROI calculator","kind":"commitment","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Repurpose leftover training or services budget","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"20 percent discount if signed this quarter","kind":"offer","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Discount may avoid CFO approval threshold","kind":"condition","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Will check back in a month","kind":"commitment","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Empathy for the budget situation","kind":"stance","in_text1":true,"in_text2":true,"altered":"strength_down","note":"'Totally get it' becomes flatter 'Understood' in Text 2"},
+{"unit":"Candid 'honestly' framing of the value claim","kind":"stance","in_text1":true,"in_text2":false,"altered":null,"note":"Dropped in Text 2"}
+],"same_meaning":"yes","better_message":"1","reason":"Warmer, more natural objection handling; Text 2 sounds more clipped and scripted.","grade_text1":"average","grade_text2":"average"}

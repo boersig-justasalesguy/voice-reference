@@ -1,0 +1,47 @@
+=== TEXT 1 ===
+Hi [Name],
+
+Since your team's [deployment / change, e.g. the move to the new autoscaling config] on [date], our on-call rotation has been getting far more alerts. Over the past [two weeks], pages went from about [X] a week to [Y], and most of the new ones trace back to [service / component].
+
+What we're seeing:
+- [e.g. Health checks fail briefly during scale-up and then recover on their own. Each one fires a page.]
+- [e.g. Error-rate alerts spike during each deploy window, then clear within a few minutes.]
+- [e.g. Duplicate alerts for the same event from both the old and new monitoring paths.]
+
+As far as we can tell, almost none of these have needed action, but someone still has to wake up, look, and confirm. It's wearing people down. I'm worried it makes a real incident easier to miss in the noise.
+
+I don't think anyone did anything wrong. Our alert thresholds and your new behavior just don't fit together yet, and some of the fix is likely on our side too.
+
+Could we find 30 minutes this week to go through it? I'll bring the alert data. We could talk about:
+- Adjusting our thresholds or adding a short grace period around your deploys
+- Having your team own or route alerts for [component] directly
+- Suppressing alerts during planned deploy windows
+
+Let me know what time works. If this is already on your radar, I'd like to hear what you're planning.
+
+Thanks,
+[Your name]
+
+=== TEXT 2 ===
+Hi [Name],
+
+I wanted to raise something with you directly. Since your team's [deployment / change, e.g. the move to the new autoscaling config] on [date], our on-call rotation has been getting far more alerts than before. Over the past [two weeks], pages went from about [X] a week to [Y], and most of the new ones trace back to [service / component].
+
+Here's what we're seeing:
+- [e.g. Health checks fail briefly during scale-up and then recover on their own. Each one fires a page.]
+- [e.g. Error-rate alerts spike during each deploy window, then clear within a few minutes.]
+- [e.g. Duplicate alerts for the same event from both the old and new monitoring paths.]
+
+As far as we can tell, almost none of these have needed action, but someone still has to wake up, look, and confirm. That's starting to wear people down, and I'm worried it will make it easier to miss a real incident in the noise.
+
+I don't think anyone did anything wrong here. It looks like our alert thresholds and your new behavior just don't fit together yet. Some of the fix is likely on our side too.
+
+Could we find 30 minutes this week to go through it? I'll bring the alert data. A few options we could talk about:
+- Adjusting our thresholds or adding a short grace period around your deploys
+- Having your team own or route alerts for [component] directly
+- Suppressing alerts during planned deploy windows
+
+Let me know what time works. And if this is already on your radar, I'd be glad to hear what you're planning.
+
+Thanks,
+[Your name]

@@ -1,0 +1,10 @@
+CHANNEL: voicemail
+STAGE: referral
+SELLER: Account Executive at Tallyhouse
+BUYER: Director of Finance, Nonprofit, Brightwater Foundation (200-500 employees)
+
+=== TEXT 1 ===
+Hi Bernard, Odalys Ferrer at Tallyhouse. Your former colleague Grace Mbatha at Harrowgate Trust suggested I call. She said Brightwater is getting a lot of grant-funded vendor spend and needs cleaner tracking for restricted funds, and her team uses us for exactly that. Call me at 503-555-0161, or reply to my email.
+
+=== TEXT 2 ===
+Hi Bernard, Odalys Ferrer at Tallyhouse. Your former colleague Grace Mbatha at Harrowgate Trust suggested I call. She said Brightwater is getting a lot of grant-funded vendor spend and needs cleaner tracking for restricted funds. Grace's team uses us for exactly that. Call me at 503-555-0161 or reply to my email.

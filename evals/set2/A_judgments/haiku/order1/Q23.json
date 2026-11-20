@@ -1,0 +1,12 @@
+{"pair":"Q23","units":[
+{"unit":"Names Delphine and Logatlas Team","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Trial expired 30 days ago","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Upgrade to keep data dictionary","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Team plan gives unlimited log sources","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Premium features: schema-drift alerts, sample refresh, agent export","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"20 percent off first year","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Upgrade before end of the month","kind":"deadline","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Click button below to upgrade","kind":"ask","in_text1":true,"in_text2":true,"altered":"strength_up","note":"Text 2 uses 'Upgrade now' urgency"},
+{"unit":"Do not lose access to your work","kind":"stance","in_text1":false,"in_text2":true,"altered":null,"note":"Loss-aversion hook added in Text 2"},
+{"unit":"Offer is for a limited time","kind":"claim","in_text1":false,"in_text2":true,"altered":null,"note":"Added urgency claim in Text 2"}
+],"same_meaning":"partly","better_message":"1","reason":"Text 2 adds hype, loss pressure and a limited-time claim; Text 1 is plainer and more credible.","grade_text1":"average","grade_text2":"weak"}

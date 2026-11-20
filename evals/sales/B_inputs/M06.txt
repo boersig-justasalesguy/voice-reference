@@ -1,0 +1,6 @@
+CHANNEL: voicemail
+STAGE: re_engagement
+SELLER: Account Executive at Vaultline
+BUYER: CISO, Healthtech, Meridale Health Systems (1000-5000 employees)
+MESSAGE:
+Hey Carmen, it's Darnell from Vaultline, just checking in! It's been a while since we last spoke and I wanted to see if anything has changed on your end with compliance. We've got a lot of exciting new features we'd love to show you. Give me a call back when you get a chance at 555-0147. Again that's Darnell, Vaultline, 555-0147. Thanks!

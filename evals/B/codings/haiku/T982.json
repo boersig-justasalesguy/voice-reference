@@ -1,0 +1,20 @@
+{
+ "id": "T982",
+ "claims": [
+   {"gist": "Most cloud security programs began with posture, which answers what could go wrong", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "CDR answers what is going wrong now by detecting and responding to active threats", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Context turns a single API call into a meaningful signal", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "CSPM is preventive and snapshot-based; CDR is detective and near real-time", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "EDR cannot see control-plane attacks, such as stolen keys copying storage through APIs", "type": "factual", "evidence": "reasoning_only", "specific": true, "hedged": false, "owner": "impersonal"},
+   {"gist": "Cloud-native detections like GuardDuty are usually limited to one cloud with less context", "type": "evaluative", "evidence": "reasoning_only", "specific": true, "hedged": false, "owner": "impersonal"},
+   {"gist": "Demos look good, so measure detection quality in your own environment", "type": "prescriptive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Run a proof of concept on real accounts for at least two weeks with simulated attacks", "type": "prescriptive", "evidence": "reasoning_only", "specific": true, "hedged": false, "owner": "impersonal"},
+   {"gist": "Noisy detection tools will be ignored within a month", "type": "predictive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"}
+ ],
+ "named_entities": 13,
+ "named_criticism": 1,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": false,
+ "thesis": "CDR answers what is going wrong now; evaluate vendors on real-environment detection quality, coverage, noise and identity context."
+}

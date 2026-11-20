@@ -1,0 +1,171 @@
+{
+ "id": "T128",
+ "claims": [
+  {
+   "gist": "Returning industrial-site workers were monitored by sensors and computer vision",
+   "type": "factual",
+   "evidence": "named_example",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Organizations analyzed behavioral data to influence workplace behavior",
+   "type": "factual",
+   "evidence": "named_example",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "IoB will continue to affect how organizations interact with people",
+   "type": "predictive",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "IoB is one of nine trends enabling business plasticity",
+   "type": "predictive",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "2020 challenges demand organizational plasticity to transform the future",
+   "type": "evaluative",
+   "evidence": "named_source",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "People remain at the center of business and need digital processes",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "COVID-19 shifted where employees, customers and suppliers physically exist",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Location independence requires a technology shift",
+   "type": "prescriptive",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Organizations prepared to pivot will weather all disruptions",
+   "type": "predictive",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "The nine trends build on and reinforce each other",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Trends will guide organizations over the next five to ten years",
+   "type": "predictive",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Telematics data can improve commercial driver performance and safety",
+   "type": "factual",
+   "evidence": "named_example",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "IoB combines customer, government, social media, facial recognition and location data",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "More sophisticated processing technology has enabled IoB growth",
+   "type": "factual",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "IoB raises ethical and societal concerns, e.g., insurers tracking groceries",
+   "type": "evaluative",
+   "evidence": "named_example",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Regional privacy laws will greatly impact IoB adoption",
+   "type": "predictive",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Total experience links customer, employee and user experience",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Linking experiences creates hard-to-replicate competitive advantage",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Total experience helps capitalize on remote and distributed disruptors",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "A telecom firm transformed customer experience via app-based appointments",
+   "type": "factual",
+   "evidence": "named_example",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  }
+ ],
+ "named_entities": 2,
+ "named_criticism": 0,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": true,
+ "thesis": "Nine strategic technology trends, led by Internet of Behaviors, enable organizational plasticity after COVID-19 disruption."
+}

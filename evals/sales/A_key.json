@@ -1,0 +1,122 @@
+{
+ "S10-0023": {
+  "quality": "weak",
+  "channel": "call_script",
+  "pair": "S10-P012"
+ },
+ "S10-0017": {
+  "quality": "weak",
+  "channel": "email",
+  "pair": "S10-P009"
+ },
+ "S10-0039": {
+  "quality": "weak",
+  "channel": "sms",
+  "pair": "S10-P020"
+ },
+ "S10-0015": {
+  "quality": "weak",
+  "channel": "video_script",
+  "pair": "S10-P008"
+ },
+ "S10-0051": {
+  "quality": "weak",
+  "channel": "email",
+  "pair": "S10-P026"
+ },
+ "S10-0047": {
+  "quality": "weak",
+  "channel": "email",
+  "pair": "S10-P024"
+ },
+ "S10-0063": {
+  "quality": "weak",
+  "channel": "email",
+  "pair": "S10-P032"
+ },
+ "S10-0005": {
+  "quality": "weak",
+  "channel": "call_script",
+  "pair": "S10-P003"
+ },
+ "S10-0013": {
+  "quality": "weak",
+  "channel": "voicemail",
+  "pair": "S10-P007"
+ },
+ "S10-0043": {
+  "quality": "weak",
+  "channel": "email",
+  "pair": "S10-P022"
+ },
+ "S10-0011": {
+  "quality": "weak",
+  "channel": "email",
+  "pair": "S10-P006"
+ },
+ "S10-0057": {
+  "quality": "weak",
+  "channel": "call_script",
+  "pair": "S10-P029"
+ },
+ "S08-0054": {
+  "quality": "average",
+  "channel": "voicemail",
+  "pair": null
+ },
+ "S04-0079": {
+  "quality": "average",
+  "channel": "linkedin_dm",
+  "pair": null
+ },
+ "S03-0028": {
+  "quality": "average",
+  "channel": "call_script",
+  "pair": null
+ },
+ "S06-0043": {
+  "quality": "average",
+  "channel": "email",
+  "pair": null
+ },
+ "S02-0037": {
+  "quality": "average",
+  "channel": "email",
+  "pair": null
+ },
+ "S06-0047": {
+  "quality": "average",
+  "channel": "email",
+  "pair": null
+ },
+ "S09-0058": {
+  "quality": "average",
+  "channel": "email",
+  "pair": null
+ },
+ "S02-0054": {
+  "quality": "average",
+  "channel": "sms",
+  "pair": null
+ },
+ "S09-0059": {
+  "quality": "average",
+  "channel": "video_script",
+  "pair": null
+ },
+ "S03-0025": {
+  "quality": "average",
+  "channel": "call_script",
+  "pair": null
+ },
+ "S05-0053": {
+  "quality": "average",
+  "channel": "email",
+  "pair": null
+ },
+ "S05-0055": {
+  "quality": "average",
+  "channel": "email",
+  "pair": null
+ }
+}

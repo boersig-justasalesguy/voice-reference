@@ -1,0 +1,18 @@
+{
+ "id": "T929",
+ "claims": [
+   {"gist": "Sonatype cataloged over 877,000 known malicious packages last year", "type": "factual", "evidence": "data_cited", "specific": true, "hedged": false, "owner": "attributed"},
+   {"gist": "Packages pushed to open-source repositories now exceed 100,000 a day", "type": "factual", "evidence": "data_cited", "specific": true, "hedged": false, "owner": "impersonal"},
+   {"gist": "Security teams prioritize vulnerabilities and ignore malware-driven risk blind spots", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "CVE scanning misses active exploits and image scanning misses compromised build pipelines", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Teams should audit GitHub Actions, Terraform modules, IDE extensions and ML models", "type": "prescriptive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Immediate actions: pin dependencies, require cooldowns, disable install scripts", "type": "prescriptive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Installing the Claude Code plugin and running /audit-supply-chain fixes immediate issues", "type": "prescriptive", "evidence": "none", "specific": true, "hedged": false, "owner": "impersonal"}
+ ],
+ "named_entities": 25,
+ "named_criticism": 0,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": false,
+ "thesis": "Open-source malware needs controls beyond CVE scanning: pinned dependencies, cooldowns, script limits, and a checklist plugin."
+}

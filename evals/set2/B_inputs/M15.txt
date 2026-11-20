@@ -1,0 +1,6 @@
+CHANNEL: voicemail
+STAGE: re_engagement
+SELLER: Account Executive at Sieveline
+BUYER: Director of Security Operations, Pharmaceuticals, Halvard Therapeutics (1000-5000 employees)
+MESSAGE:
+Hey Sunita, it's Brendan from Sieveline. It's been a while since we last talked, I think it was back in the spring, and I just wanted to check in and see if anything has changed on your end. I know the timing wasn't right before, but I wanted to see if things might be different now. We've also added a lot of new features since then, so it might be worth taking another look. Give me a call back when you get a chance, 555-0173. Thanks!

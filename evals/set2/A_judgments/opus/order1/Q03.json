@@ -1,0 +1,52 @@
+{
+ "pair": "Q03",
+ "units": [
+  {
+   "unit": "Sent short scope document to Marisol and colleague",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Platform team colleague requested it",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Discussed read access for cloud audit health check",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Covers scope, access needed, end-of-week deliverable",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Call 555-0115 if changes needed before security review",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "555-0115",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "2",
+ "reason": "Text 2 tells the sequence clearly; Text 1's 'He asked for it' reads choppy.",
+ "grade_text1": "strong",
+ "grade_text2": "strong"
+}

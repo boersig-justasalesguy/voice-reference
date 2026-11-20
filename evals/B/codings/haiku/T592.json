@@ -1,0 +1,17 @@
+{
+ "id": "T592",
+ "claims": [
+   {"gist": "Agentic AI is moving from pilots into customer service, IT and finance processes", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Treat AI agents as a new identity class with their own access controls", "type": "prescriptive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "AI governance will be built into procurement, security reviews and product development", "type": "predictive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Organizations are reorganizing data into managed data products with owners and schemas", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Security budgets will shift toward incident response, backup integrity and containment", "type": "predictive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Energy and carbon pressures make workload energy profiles a design constraint", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"}
+ ],
+ "named_entities": 0,
+ "named_criticism": 0,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": true,
+ "thesis": "Five 2027 trends span agents, AI governance, data products, resilience and sustainable computing; fund those matching business priorities."
+}

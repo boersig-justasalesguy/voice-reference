@@ -1,0 +1,6 @@
+CHANNEL: voicemail
+STAGE: cold_outreach
+SELLER: Enterprise Account Executive at Threadline
+BUYER: Threat Intel Manager, Payments, Copperleaf Pay (1000-5000 employees)
+MESSAGE:
+Mei-Lin, Dmitri Halvorsen with Threadline. Calling about this week's advisory on the payment-gateway plugin exploit, the one with a working proof of concept out since Monday. We turned it into analysis plus four portable detections and two hunts within about six hours. I'm happy to send the package over, no meeting required, so your team can compare it with what they've built. If it's useful, we can talk about doing that for every advisory that matters to Copperleaf. My number is 555-0142, and I'll also send it by email with the subject line "gateway plugin detections".

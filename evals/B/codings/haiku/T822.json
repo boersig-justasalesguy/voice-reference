@@ -1,0 +1,18 @@
+{
+ "id": "T822",
+ "claims": [
+   {"gist": "Choosing a vendor is hard because products describe themselves in different terms", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Analysts verify vendor claims through demonstrations, references and testing where feasible", "type": "factual", "evidence": "none", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Start with your own weights, since default weights reflect a typical buyer", "type": "prescriptive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Shortlist three to five vendors, then test finalists against your own use cases", "type": "prescriptive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "No evaluation replaces a proof of concept in your own environment", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Scores reflect a product's state at review time, and vendors change quickly", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "The firm does not accept payment for inclusion or favorable placement", "type": "factual", "evidence": "none", "specific": false, "hedged": false, "owner": "impersonal"}
+ ],
+ "named_entities": 0,
+ "named_criticism": 0,
+ "admitted_limits": 1,
+ "stake_disclosure": false,
+ "disputable_thesis": false,
+ "thesis": "Vendor evaluations give consistent scoring; buyers should reweight criteria and validate finalists with their own proofs of concept."
+}

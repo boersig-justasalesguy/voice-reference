@@ -1,0 +1,8 @@
+SUBJECT: RE: Security questionnaire
+Hi Esther,
+
+Thanks for sending the questionnaire. Most of these 140 questions are covered by our SOC 2 Type II report, which I've attached, so I'm hoping we can skip the questionnaire and use the report instead. Our security team is pretty stretched, and filling these out usually takes a few weeks.
+
+We're trying to get the contract signed before the end of the month, so anything you can do to speed up the review would be appreciated. Your SOC manager is excited to get started.
+
+Victor

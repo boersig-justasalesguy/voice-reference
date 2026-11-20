@@ -1,0 +1,12 @@
+CHANNEL: video_script
+STAGE: breakup
+SELLER: Account Executive at Coverwise
+BUYER: Director of Detection & Response, Manufacturing, Kessler Industrial Holdings (5000-10000 employees)
+MESSAGE:
+Hi Yasmin, Marcel from Coverwise. I've reached out a few times since we met at the Ironbridge Security Forum, and I haven't heard back, which usually means one of three things: the timing is wrong, the problem isn't a priority, or my emails are landing somewhere between a phishing simulation and the spam folder.
+
+Any of those is fine. This will be my last message for now.
+
+Just to leave you with something useful: when we spoke, you mentioned that your coverage reporting for the plant networks was mostly based on what rules exist, not on whether the operational technology telemetry those rules need is actually being collected. If you ever want a quick way to sanity check that, pick five of your OT-related detections and look at when their underlying log sources last sent data. That check takes about an hour and it usually tells you whether a deeper coverage review is worth doing. In my experience, at plants that grew through acquisitions, at least one of those five sources has been quiet for months, usually because a historian server or a firewall was replaced and the forwarding config never got rebuilt. Nobody's fault, it just happens when the OT and IT teams have separate change processes.
+
+If you ever do want to go deeper, Coverwise can automate that check for every technique in your threat model. My details are in the email. Thanks, Yasmin, and good luck with the plant rollouts.

@@ -1,0 +1,14 @@
+{"pair":"P06","units":[
+{"unit":"Wants a 20-minute call in the next couple of weeks","kind":"ask","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Referenced [talk/post/comment] on [topic]; [specific detail] stuck","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Sender's role; evaluating [Tool] for cloud environment","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Prefers learning from production users over vendor demos","kind":"stance","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Asks what surprised them after deployment","kind":"ask","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Asks how much tuning before the team trusted alerts","kind":"ask","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Asks what they would do differently rolling it out again","kind":"ask","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Not selling anything; happy to keep it off the record","kind":"stance","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Will share learnings from own evaluation","kind":"offer","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Offers to return the favor on [area team knows]","kind":"offer","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"If too busy, no worries","kind":"condition","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Asks for a pointer to a better colleague if applicable","kind":"ask","in_text1":true,"in_text2":true,"altered":null}
+],"same_meaning":"yes","more_human":"2","human_reason":"Text 2 folds the questions into prose like a personal note; Text 1 bullets them, which reads more like a survey."}

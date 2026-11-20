@@ -1,0 +1,18 @@
+CHANNEL: email
+STAGE: objection_handling
+SELLER: Account Executive at Sieveline
+BUYER: Procurement Manager, Hospitality, Saltmarsh Resorts Group (5000-10000 employees)
+SUBJECT: Pricing question from your review
+MESSAGE:
+Hi Nadia,
+
+Thanks for flagging that the quote came in above what you'd budgeted for log tooling this year. I appreciate you being upfront.
+
+To give some context, Sieveline's pricing is based on the volume of data we process, and in most environments the savings on SIEM ingest exceed the subscription within the first year. Your security team estimated around 30% reduction is realistic for your environment.
+
+There are a few options we could explore: a phased rollout starting with your highest-volume sources, a longer term with a lower annual rate, or adjusting the scope.
+
+Let me know which of these you'd like me to model out and I can turn it around quickly.
+
+Kind regards,
+Bartholomew

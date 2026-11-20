@@ -1,0 +1,39 @@
+=== TEXT 1 ===
+Subject: 20 minutes on your experience running [Tool Name]?
+
+Hi [Name],
+
+I'm [Your Name], a security engineer at [Company]. We're about two months into evaluating [Tool Name] for our cloud environment, and I noticed from your LinkedIn that you've been running it at [Their Company] for a while. I'm not selling anything, and I'm not a vendor.
+
+I'm hoping to ask you a few questions about how it has held up in practice, since that's difficult to learn from demos. In particular:
+
+- How much tuning did it need before the alerts were useful?
+- What surprised you after the first six months?
+- Is there anything you'd do differently if you were deploying it again?
+
+Twenty minutes would be plenty, and I'm happy to work around your schedule. If it's easier, I can also send the questions in writing and you can answer whichever ones you like. I'd be glad to share what we learn from our own evaluation in return.
+
+If you're not the right person or just don't have time, no problem at all, and thanks for reading.
+
+Best,
+[Your Name]
+[Title], [Company]
+[Phone or LinkedIn]
+
+=== TEXT 2 ===
+Subject: 20 minutes on your experience running [Tool Name]?
+
+Hi [Name],
+
+Could I ask you a few questions about how [Tool Name] has held up in practice? I'm [Your Name], a security engineer at [Company]. I'm about two months into evaluating it for our cloud environment, and I saw on LinkedIn that you've been running it at [Their Company] for a while. I'm not a vendor and I'm not selling anything.
+
+That's hard to learn from demos. How much tuning did it need before the alerts were useful? What surprised you after the first six months? Is there anything you'd do differently if you were deploying it again?
+
+Twenty minutes would be plenty, and I can work around your schedule. If it's easier, I can send the questions in writing and you can answer whichever ones you like. I'd be glad to share what we learn from our own evaluation in return.
+
+If you're not the right person or don't have time, no problem.
+
+Best,
+[Your Name]
+[Title], [Company]
+[Phone or LinkedIn]

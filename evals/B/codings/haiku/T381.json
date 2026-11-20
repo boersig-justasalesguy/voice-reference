@@ -1,0 +1,19 @@
+{
+ "id": "T381",
+ "claims": [
+   {"gist": "Malware is deliberate, unlike vulnerabilities, which are accidental bugs", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "SCA scanners miss malware because malicious packages usually receive no CVEs", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "A controlled proxy in front of public registries is the most important control", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "A seven-day wait before adopting new versions blocks many account-takeover attacks", "type": "predictive", "evidence": "reasoning_only", "specific": true, "hedged": false, "owner": "impersonal"},
+   {"gist": "Lockfiles and hash pinning stop silent swaps of same-version packages", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Disable install scripts by default and allow them only for reviewed packages", "type": "prescriptive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Use short-lived SSO credentials, not long-lived cloud keys on developer laptops", "type": "prescriptive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Most malicious package versions are found and removed within days", "type": "factual", "evidence": "none", "specific": false, "hedged": false, "owner": "impersonal"}
+ ],
+ "named_entities": 6,
+ "named_criticism": 0,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": false,
+ "thesis": "Stop open-source malware with registry gating, release cooldowns, pinning, and limits on install-time code execution."
+}

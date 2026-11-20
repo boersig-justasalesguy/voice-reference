@@ -1,0 +1,31 @@
+Subject: Budget approval request: cloud security detection tool ($145K/year)
+
+Hi [CFO Name],
+
+I'd like your approval for $145,000 in annual budget for a cloud threat detection and response tool. The case is below, and I can walk through details whenever suits you.
+
+The problem
+Our cloud footprint has grown about 40% in the past year, but our ability to detect an active attack in it hasn't. Today we rely on logs that nobody has time to review in real time. Our last incident review showed it took us [X] days to spot suspicious activity that a purpose-built tool would likely have caught within minutes. A breach in these environments could expose customer data, trigger notification and regulatory costs and interrupt revenue-generating systems.
+
+The proposal
+After evaluating three vendors, we recommend [Vendor], which monitors cloud activity, flags attacks in progress and gives the team the context to respond quickly.
+
+The cost
+- Year 1: $145,000 license plus approximately $15,000 for implementation
+- Years 2 and 3: $145,000 per year, with a price cap of 5% on renewal
+- Compared with the other finalists, this is $30,000 per year lower than the highest bid and in line with the other
+
+The return
+- Risk reduction: industry data puts the average cost of a cloud-related breach in the millions of dollars, and our cyber insurance renewal asks directly about detection capability. [Confirm with broker whether this affects premiums.]
+- Efficiency: we estimate this will save about [X] analyst hours a month, which would otherwise require an additional hire.
+- Compliance: it supports the monitoring requirements in [SOC 2 / PCI / customer contracts].
+
+If we don't do it, we keep the current gap, and the risk grows with our cloud usage.
+
+If you approve, we can sign by [date] to hold the quoted pricing and begin rollout in [month]. I'm happy to negotiate a shorter commitment or a phased start if that works better for cash flow.
+
+Could we find 20 minutes this week to discuss? I can bring the vendor comparison and a one-page summary.
+
+Thank you,
+[Your Name]
+[Title]

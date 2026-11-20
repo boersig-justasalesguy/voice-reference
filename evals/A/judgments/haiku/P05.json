@@ -1,0 +1,18 @@
+{"pair":"P05","units":[
+{"unit":"Interested in moving forward on [Product Name] proposal","kind":"stance","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Needs pricing clarity before internal review","kind":"stance","in_text1":true,"in_text2":true,"altered":"strength_up","note":"Text 2 says I need clarity; Text 1 says I'd like to get clarity."},
+{"unit":"Asks how the [$Amount] annual price was calculated","kind":"ask","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Asks unit basis: users, endpoints, or usage","kind":"ask","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Asks what the base tier includes","kind":"ask","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Asks what triggers additional charges","kind":"ask","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Asks whether volume discounts apply at [number of units]","kind":"ask","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Proposal requires a three-year term","kind":"fact","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Three-year term cannot be accepted as written","kind":"stance","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Open to longer term in exchange for meaningful value","kind":"offer","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Needs flexibility if requirements change","kind":"condition","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Option: one-year term renewable at same rate","kind":"offer","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Option: three-year term with annual opt-out and price protection","kind":"offer","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Asks for three-year discount as a percentage or dollar amount","kind":"ask","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Legal and procurement review if terms work for both","kind":"condition","in_text1":true,"in_text2":true,"altered":null},
+{"unit":"Call later this week","kind":"ask","in_text1":true,"in_text2":true,"altered":null}
+],"same_meaning":"yes","more_human":"1","human_reason":"Text 1 is more courteous and fully phrased; Text 2 is terser and its I need is blunter, though both read naturally."}

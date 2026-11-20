@@ -1,0 +1,52 @@
+{
+ "pair": "Q10",
+ "units": [
+  {
+   "unit": "Odalys Ferrer at Tallyhouse",
+   "kind": "entity",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Referred by Grace Mbatha, Harrowgate Trust",
+   "kind": "entity",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Brightwater has grant-funded vendor spend",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Needs cleaner restricted-fund tracking",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Grace's team uses Tallyhouse for that",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Call 503-555-0161 or reply to email",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "tie",
+ "reason": "Identical content; sentence joining only.",
+ "grade_text1": "strong",
+ "grade_text2": "strong"
+}

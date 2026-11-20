@@ -1,0 +1,13 @@
+CHANNEL: email
+STAGE: event_followup
+SELLER: Account Executive at Sieveline
+BUYER: Security Data Engineering Lead, Telecommunications, Ostwind Mobile (10000+ employees)
+SUBJECT: Ingest reduction webinar: the routing question
+MESSAGE:
+Benedikt,
+
+Thanks for attending Wednesday's session on threat-informed ingest reduction. A couple of attendees asked how Sieveline coexists with an existing log pipeline, so a quick note in case that's on your mind too: Sieveline doesn't replace your pipeline. It decides what should be filtered, sampled or routed, and pushes those rules into the pipeline you already run.
+
+For a carrier your size, the usual first targets are network element syslog and duplicate flow records. Most carriers we work with see 30–40% ingest reduction.
+
+Would a 30-minute call to look at your top ten sources by volume make sense?

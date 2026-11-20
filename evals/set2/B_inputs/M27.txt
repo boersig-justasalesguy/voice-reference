@@ -1,0 +1,6 @@
+CHANNEL: linkedin_dm
+STAGE: negotiation
+SELLER: Account Executive at Signalcraft
+BUYER: SOC Manager, Higher Education, Carrollton University (5000-10000 employees)
+MESSAGE:
+Mr. Gutierrez, our team has reviewed your institution's purchasing requirements. We can accept your standard terms and conditions for Signalcraft, with our data processing addendum attached as an exhibit. Please let me know whom to coordinate with in your purchasing office.

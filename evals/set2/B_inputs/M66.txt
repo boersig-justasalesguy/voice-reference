@@ -1,0 +1,6 @@
+CHANNEL: voicemail
+STAGE: referral
+SELLER: Account Executive at Huntdeck
+BUYER: SOC Director, Hospitality, Lantana Resorts (5000-10000 employees)
+MESSAGE:
+Calvin, Simone Achterberg from Huntdeck. Dana Whitlock at Coralline Hotels suggested I call. She said you two compared notes at the hospitality security roundtable about guest-Wi-Fi and property-management-system hunts, and that your team runs great hunts but they live in individual analysts' notebooks. Dana's team put their hunt library into Huntdeck this year and now runs 14 of them weekly on a schedule. She offered to get on a call with you herself if you want the unfiltered version. 555-0118, or reply to the email I'm sending with Dana copied.

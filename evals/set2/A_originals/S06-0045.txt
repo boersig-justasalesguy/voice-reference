@@ -1,0 +1,7 @@
+CHANNEL: email
+STAGE: negotiation
+SELLER: Account Executive at Baseline Forge
+BUYER: Principal Detection Engineer, Airlines, Southwind Air (5000-10000 employees)
+SUBJECT: Baseline Forge pricing options
+MESSAGE:
+Hi Kenji, Thanks for the time on Monday. As discussed, here are three pricing options for Baseline Forge. Option 1: One-year term, $102K. Option 2: Two-year term, $94K per year. Option 3: Three-year term, $88K per year. All options include onboarding, support, and access to new features as they are released. We are also happy to discuss other structures if none of these work for you. Looking forward to hearing your thoughts. Rosalind

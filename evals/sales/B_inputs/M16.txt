@@ -1,0 +1,15 @@
+CHANNEL: email
+STAGE: objection_handling
+SELLER: Account Executive at Fieldnote
+BUYER: UX Research Lead, Education Technology, Brightquill Learning (200-500 employees)
+SUBJECT: Re: Fieldnote pricing
+MESSAGE:
+Hi Sven,
+
+I understand the price seems high, but Fieldnote is really an investment, not a cost. Our customers find that the value far outweighs the price. When you consider all the features you get - unlimited projects, AI tagging, highlight reels, integrations, and enterprise security - it's actually one of the best values on the market.
+
+That said, if you sign by the end of the month I can offer you 15% off the first year. This is a special offer and I can't guarantee it will be available later.
+
+Let me know if you'd like to move forward!
+
+Priyanka

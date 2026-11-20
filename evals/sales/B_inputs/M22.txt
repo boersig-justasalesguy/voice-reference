@@ -1,0 +1,6 @@
+CHANNEL: sms
+STAGE: follow_up
+SELLER: Sales Development Rep at Shiftwell
+BUYER: Director of Operations, Healthcare - Urgent Care, BrightPath Urgent Care (500-1000 employees)
+MESSAGE:
+Hi Renata, Tobias from Shiftwell. You mentioned flu-season call-outs were wrecking weekend coverage at the Elm St clinic. Want the 1-page on how open-shift texting fills those in under an hour? Happy to just send it.

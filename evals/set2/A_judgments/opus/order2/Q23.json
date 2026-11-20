@@ -1,0 +1,75 @@
+{
+ "pair": "Q23",
+ "units": [
+  {
+   "unit": "Trial expired 30 days ago",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Upgrade to Team keeps data dictionary",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Don't lose your work",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": false,
+   "altered": null,
+   "note": "Loss-aversion line dropped in Text 2"
+  },
+  {
+   "unit": "Unlimited log sources",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Premium: schema-drift alerts, sample refresh, agent export",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "20% off first year",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Before end of month",
+   "kind": "deadline",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Limited time urgency",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": "strength_down",
+   "note": "Text 2 drops 'limited time' and 'upgrade now'"
+  },
+  {
+   "unit": "Ask: click button to upgrade",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  }
+ ],
+ "same_meaning": "partly",
+ "better_message": "2",
+ "reason": "Text 2 drops the hype and pushy loss framing.",
+ "grade_text1": "weak",
+ "grade_text2": "average"
+}

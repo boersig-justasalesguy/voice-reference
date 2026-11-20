@@ -1,0 +1,19 @@
+{
+ "id": "T438",
+ "claims": [
+   {"gist": "Mate Security provided product access and sponsored the post's AI SOC coverage", "type": "factual", "evidence": "none", "specific": true, "hedged": false, "owner": "author"},
+   {"gist": "First-generation AI SOC summaries add little value; analysts end up reading raw JSON", "type": "evaluative", "evidence": "first_hand", "specific": false, "hedged": false, "owner": "author"},
+   {"gist": "First-generation AI SOC tools raised costs with unoptimized queries", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "author"},
+   {"gist": "Early AI SOC tools were too SOAR-like, adding abstraction instead of copilot help", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "author"},
+   {"gist": "Second-generation AI SOC copilots investigate alongside analysts and take actions for them", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "author"},
+   {"gist": "Continuous learning of organizational context is a key differentiator", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "author"},
+   {"gist": "Mate and Legion are the leading second-generation AI SOC tools", "type": "factual", "evidence": "reasoning_only", "specific": true, "hedged": false, "owner": "author"},
+   {"gist": "Tines and Torq added AI to SOAR tooling, diluting AI SOC differentiation", "type": "factual", "evidence": "named_example", "specific": true, "hedged": false, "owner": "impersonal"}
+ ],
+ "named_entities": 6,
+ "named_criticism": 0,
+ "admitted_limits": 0,
+ "stake_disclosure": true,
+ "disputable_thesis": true,
+ "thesis": "Second-wave AI SOC copilots such as Mate beat first-generation SOAR-like tools by working alongside analysts."
+}

@@ -1,0 +1,30 @@
+Subject: [Product] pricing and contract term
+
+Hi [Name],
+
+Thanks for the time on Tuesday and for the demo. Our team came away impressed and we'd like to keep moving, but I need clarity on pricing and I have a concern about the contract term.
+
+Pricing
+Could you send a written quote that includes:
+- Unit pricing and what the metric is (per user, per workload, per GB, etc.), with tiers or volume breaks
+- Which modules or features are included in the quoted tier, and which cost extra
+- One-time fees for implementation, onboarding and training
+- Support levels and what each costs
+- Renewal pricing, including any cap on annual increases
+- What happens to the price if our usage grows or shrinks during the term
+
+Contract length
+We understand your standard agreement is three years. That's longer than we can commit to. We're a growing team in a fast-moving category, our needs may change, and we haven't yet had the chance to see the product perform in our own environment. A three-year commitment before that is a larger risk than we can responsibly take.
+
+We'd like to propose one of these:
+1. A one-year agreement with renewal options at a pre-agreed price cap
+2. A one-year initial term, followed by a two-year option if we decide to extend
+3. A three-year term with an annual opt-out, or a termination right if agreed performance targets are not met
+
+A longer term typically comes with a better rate, and we're open to discussing that. If you can show us the price difference between one-, two- and three-year options, we can weigh the trade-off properly. A paid pilot that converts to a longer term if it succeeds could also work well for both sides.
+
+Could you let me know what flexibility you have? If it helps, I'm glad to jump on a call with you or your manager this week. We're aiming to decide by [date].
+
+Thanks,
+[Your Name]
+[Title], [Company]

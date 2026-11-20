@@ -1,0 +1,29 @@
+CHANNEL: email
+STAGE: renewal
+SELLER: Account Manager at Clearstack
+BUYER: Head of FinOps, E-commerce, Basketry (500-1000 employees)
+
+=== TEXT 1 ===
+SUBJECT: ACTION REQUIRED: Clearstack renewal
+Hi Shreya,
+
+Your Clearstack contract expires in 30 days. To avoid losing access to your dashboards and historical data, please sign the attached renewal by December 15.
+
+Renewal pricing is based on your current cloud spend under management, which has grown since last year, so your new annual total is $64,800.
+
+Let me know if you have any questions.
+
+Ivo
+
+=== TEXT 2 ===
+SUBJECT: ACTION REQUIRED: Clearstack renewal
+
+Hi Shreya,
+
+Your Clearstack contract expires in 30 days. To avoid losing access to your dashboards and historical data, please sign the attached renewal by December 15.
+
+Renewal pricing is based on your current cloud spend under management, which has grown since last year, so your new annual total is $64,800.
+
+Let me know if you have any questions.
+
+Ivo

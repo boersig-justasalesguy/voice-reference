@@ -1,0 +1,187 @@
+{
+ "id": "T438",
+ "claims": [
+  {
+   "gist": "AI SOC has earned mixed reviews and changed massively",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "When AI SOC tools work they feel magical",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "AI SOC tools too often mislead analysts and raise costs",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Second-wave tools address concerns with AI-native experience",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Transformed UX gets closer to expected AI outcomes",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Data-platform AI SOC tools like Exaforce have fewer vendors",
+   "type": "factual",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "First movers in new categories face challenges",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "First-generation summaries add little value beyond alerts",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Their enrichments are cheaper done natively in SIEM",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Unoptimized queries increased tool costs",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "First-gen tools required manual knowledge base maintenance",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "First-gen tools failed by being too much like SOAR",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Author checks raw JSON rather than trusting AI summaries",
+   "type": "factual",
+   "evidence": "first_hand",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Many first-gen AI SOC platforms became SOAR-like",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Tines and Torq added AI, diluting AI SOC differentiation",
+   "type": "factual",
+   "evidence": "named_example",
+   "specific": true,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Poor tools waste money on meaningless lookups like localhost IPs",
+   "type": "evaluative",
+   "evidence": "named_example",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Second-gen tools act as contextual copilots",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "They provide a \"Claude Code for SOC\" experience",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Copilot features set second-gen tools up for success",
+   "type": "evaluative",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "impersonal"
+  },
+  {
+   "gist": "Mate and Legion lead the new category",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Mapping organizational context is a top SOC challenge",
+   "type": "evaluative",
+   "evidence": "first_hand",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  },
+  {
+   "gist": "Tracking alert ownership requires constant updates",
+   "type": "factual",
+   "evidence": "first_hand",
+   "specific": false,
+   "hedged": false,
+   "owner": "author"
+  }
+ ],
+ "named_entities": 7,
+ "named_criticism": 0,
+ "admitted_limits": 0,
+ "stake_disclosure": true,
+ "disputable_thesis": true,
+ "thesis": "First-wave AI SOC tools disappointed; second-wave copilot tools like Mate deliver better AI-native analyst workflows."
+}

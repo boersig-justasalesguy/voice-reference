@@ -1,0 +1,18 @@
+CHANNEL: video_script
+STAGE: event_followup
+SELLER: Account Executive at Tallyhouse
+BUYER: Procurement Director, Higher Education, Larkspur University (5000+ employees)
+MESSAGE:
+[Beatrix, quiet office, about 90 seconds]
+
+Gareth, Beatrix Holloway from Tallyhouse - we talked at the Campus Procurement Forum about grant-funded purchases.
+
+You said the hardest part at Larkspur isn't the volume, it's that principal investigators buy lab equipment on grant funds, and procurement finds out after the fact whether the vendor met the grant's sourcing rules. Then someone in sponsored research has to unwind it at audit time.
+
+[Screen share: an intake form with a 'Funding source' field]
+
+Here's a quick look at how Riverside State handled that. When a researcher picks a grant as the funding source, the request automatically checks the grant's rules - for example, competitive quotes above a threshold, or approved vendor lists for federal awards. If something's missing, the requester is prompted before the PO exists, not after. Sponsored research approves in the same flow.
+
+[Back to Beatrix]
+
+Their audit findings on grant purchasing went from eleven to two in a year. I don't know if your rules are as complicated as theirs, but if you send me one grant's sourcing requirements, I'll configure this exact form against them and send you a link to try it. No demo, no call needed.

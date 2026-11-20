@@ -1,0 +1,9 @@
+{"pair":"Q19","units":[
+{"unit":"Names Nikhil, Beatrix and Crossover","kind":"entity","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Translates detection logic between SIEM query dialects","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Handles nested macros, multi-value fields, subsearches, lookups","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Covers regex, time-modifier and case-sensitivity differences","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Handles eval chains, transactions, statistical commands","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Each translated rule includes diff and syntax validation","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Asks for technical deep dive with an engineer","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""}
+],"same_meaning":"yes","better_message":"tie","reason":"Same capability list and ask; only sentence structure differs.","grade_text1":"average","grade_text2":"average"}

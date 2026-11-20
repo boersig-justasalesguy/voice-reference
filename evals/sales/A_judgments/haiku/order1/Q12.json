@@ -1,0 +1,12 @@
+{"pair":"Q12","units":[
+{"unit":"Imani from Draftkit, met Gareth at Houston reception Monday","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Gareth quote: two lawyers and a shared inbox","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Handles land lease agreements for new wind sites","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Many leases return with handwritten edits or redlines","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Draftkit compares changes against standard positions","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Works on Word documents","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Version tracking across rounds of changes","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Clause library keeps approved easement language current","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Unsure about scanned handwritten edits; will check with product team","kind":"stance","in_text1":true,"in_text2":true,"altered":null,"note":"Hedge kept; Text 1 adds honestly"},
+{"unit":"Ask: up for a call to talk through workflow","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""}
+],"same_meaning":"yes","better_message":"1","reason":"Smoother handling of the handwriting caveat; Text 2 reads choppier.","grade_text1":"strong","grade_text2":"strong"}

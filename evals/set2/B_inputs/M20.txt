@@ -1,0 +1,6 @@
+CHANNEL: sms
+STAGE: follow_up
+SELLER: Account Executive at Tunebench
+BUYER: SOC Manager, Healthcare System, Brightwater Health Partners (5000-10000 employees)
+MESSAGE:
+Hey Jordan!! Just bumping this to the top of your inbox :) Did you get a chance to look at my last few emails about Tunebench? Would love to connect this week, let me know!!

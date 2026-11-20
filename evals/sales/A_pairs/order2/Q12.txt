@@ -1,0 +1,34 @@
+CHANNEL: video_script
+STAGE: event_followup
+SELLER: Account Executive at Draftkit
+BUYER: General Counsel, Renewable Energy, Brightfield Wind (200-500 employees)
+
+=== TEXT 1 ===
+[Imani on camera, casual sweater, bookshelf behind her]
+
+Hi Gareth, Imani from Draftkit. We met at the energy counsel reception in Houston on Monday. You said your team is "two lawyers and a shared inbox," and I've been thinking about that all week.
+
+Quick follow-up. You said you handle a lot of land lease agreements with landowners for new wind sites, and plenty of them come back with handwritten edits or redlines from the landowner's attorney.
+
+Draftkit can help with contract redlining. You set up your standard positions and it compares incoming changes against them. It works on Word documents.
+
+It also tracks versions, so if a landowner's attorney sends back a second or third round, you can see what moved between rounds. And there's a clause library, so your standard easement and access language is always the current approved version, not whatever was in the last lease someone copied from.
+
+Scanned handwritten edits, I'm not sure how well it handles those. I'd want to check with our product team before promising anything.
+
+Would you be up for a call to talk through your workflow? Let me know.
+
+=== TEXT 2 ===
+[Imani on camera, casual sweater, bookshelf behind her]
+
+Hi Gareth, Imani from Draftkit. We met at the energy counsel reception in Houston on Monday. You were the one who said your team is "two lawyers and a shared inbox," which I've been thinking about all week.
+
+So, a quick follow-up. You mentioned you handle a lot of land lease agreements with landowners for new wind sites, and that a lot of them come back with handwritten edits or redlines from the landowner's attorney.
+
+Draftkit can help with contract redlining. You set up your standard positions and it compares incoming changes against them. It works on Word documents.
+
+It also keeps track of versions, so if a landowner's attorney sends back a second or third round of changes, you can see what moved between rounds. And there's a clause library, so your standard easement and access language is always the current approved version rather than whatever was in the last lease someone copied from.
+
+I'm not sure how well it handles scanned handwritten edits, honestly, so I'd want to check with our product team before promising anything there.
+
+Would you be up for a call to talk through your workflow? Let me know.

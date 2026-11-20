@@ -1,0 +1,24 @@
+CHANNEL: call_script
+STAGE: cold_outreach
+SELLER: Sales Development Representative at Logatlas
+BUYER: CIO, Healthcare System, Saint Brigid Community Health (1000-5000 employees)
+MESSAGE:
+[Dial the CIO's office line. Executive assistant answers.]
+
+Assistant: Dr. Isaacs' office, this is Maureen.
+
+Dorian: Hi Maureen, I'm Dorian Whitfield with a company called Logatlas. I'll be straight with you: this is a cold call, and I'm hoping you can help me figure out whether Dr. Isaacs is even the right person, or whether I should be talking to someone on his team.
+
+[Usually she'll ask what it's about.]
+
+Dorian: We help hospitals answer a simple question that turns out to be hard: what security data do we actually have, and can we trust it? When a hospital adds a new clinical system or a new clinic, the security team often doesn't know which logs are arriving or what the fields mean, and that knowledge tends to live with one engineer. I'd guess that's a CIO-level concern at budget time, but it might be his security lead who owns it day to day.
+
+[If she names someone else, e.g., the security manager:] That's really helpful, thank you. Would it be all right if I mentioned you pointed me to them? And is email the best way to reach them?
+
+[If she says it's Dr. Isaacs:] Great. What's the best way to get on his radar? I'm happy to send a short email that you can put in front of him, three or four sentences, and if he's not interested I won't keep calling.
+
+[If she says he doesn't take vendor calls:] Completely understand. Could I send that short note to you, and you can decide whether it's worth passing on?
+
+[Close:] Thank you, Maureen. I'll send it this afternoon with the subject line "Saint Brigid security data, from Dorian" so it's easy to find.
+
+[If you reach Dr. Isaacs directly:] "Dr. Isaacs, Dorian Whitfield with Logatlas; this is a cold call. One question and I'll let you go: when Saint Brigid onboarded the new outpatient clinics this year, how confident are you that their logs are actually reaching your SIEM with usable fields? If the honest answer is 'I'd have to ask Pete,' that's the problem we solve. Would a 15-minute look at a sample data dictionary be worth it, or should I talk to Pete first?"

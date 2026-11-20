@@ -1,0 +1,47 @@
+{
+ "pair": "Q02",
+ "units": [
+  {
+   "unit": "Following up on earlier Huntdeck note",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Team presented hunting maturity at state banking forum",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Ask how they track hunts today",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": "strength_down",
+   "note": "Direct question in Text 1; indirect 'would be interested' in Text 2"
+  },
+  {
+   "unit": "Ask whether shared procedure library is useful",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": "strength_down",
+   "note": "Direct question vs indirect interest statement"
+  },
+  {
+   "unit": "Offer to share more",
+   "kind": "offer",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "2",
+ "reason": "Text 2 opens with context naturally; Text 1's trailing follow-up line is awkward.",
+ "grade_text1": "average",
+ "grade_text2": "average"
+}

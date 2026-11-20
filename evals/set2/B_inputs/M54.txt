@@ -1,0 +1,6 @@
+CHANNEL: linkedin_dm
+STAGE: referral
+SELLER: Partner Manager at Quietwatch
+BUYER: Practice Director, IT Consulting, Kearney Hollis Consulting (200-500 employees)
+MESSAGE:
+Siobhan, your SOC maturity assessments often recommend "validate that detections still work." Quietwatch automates that check across the whole rule set in a couple of days. Would your team be open to using it in your next assessment, with a referral arrangement if the client wants ongoing monitoring?

@@ -1,0 +1,1956 @@
+{
+ "haiku": {
+  "Q01": {
+   "order1": {
+    "dropped": [],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "tie",
+    "pos": "tie",
+    "grade_orig": 1,
+    "grade_rw": 1
+   },
+   "order2": {
+    "dropped": [],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "tie",
+    "pos": "tie",
+    "grade_orig": 1,
+    "grade_rw": 1
+   }
+  },
+  "Q02": {
+   "order1": {
+    "dropped": [],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "rewrite",
+    "pos": "2",
+    "grade_orig": 1,
+    "grade_rw": 1
+   },
+   "order2": {
+    "dropped": [],
+    "added": [],
+    "altered": [
+     {
+      "unit": "Asks how the team currently tracks hunts",
+      "kind": "ask",
+      "in_text1": true,
+      "in_text2": true,
+      "altered": "strength_down",
+      "note": "T2 frames it as curiosity rather than a direct question"
+     }
+    ],
+    "same": "yes",
+    "pick": "original",
+    "pos": "2",
+    "grade_orig": 1,
+    "grade_rw": 1
+   }
+  },
+  "Q03": {
+   "order1": {
+    "dropped": [],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "tie",
+    "pos": "tie",
+    "grade_orig": 1,
+    "grade_rw": 1
+   },
+   "order2": {
+    "dropped": [],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "tie",
+    "pos": "tie",
+    "grade_orig": 1,
+    "grade_rw": 1
+   }
+  },
+  "Q04": {
+   "order1": {
+    "dropped": [
+     {
+      "unit": "Thanks for what your team does",
+      "kind": "stance",
+      "in_text1": true,
+      "in_text2": false,
+      "altered": null,
+      "note": "Closing thanks and easy out dropped in Text 2"
+     }
+    ],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "original",
+    "pos": "1",
+    "grade_orig": 1,
+    "grade_rw": 1
+   },
+   "order2": {
+    "dropped": [],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "tie",
+    "pos": "tie",
+    "grade_orig": 1,
+    "grade_rw": 1
+   }
+  },
+  "Q05": {
+   "order1": {
+    "dropped": [],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "original",
+    "pos": "1",
+    "grade_orig": 1,
+    "grade_rw": 1
+   },
+   "order2": {
+    "dropped": [],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "tie",
+    "pos": "tie",
+    "grade_orig": 2,
+    "grade_rw": 2
+   }
+  },
+  "Q06": {
+   "order1": {
+    "dropped": [],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "tie",
+    "pos": "tie",
+    "grade_orig": 2,
+    "grade_rw": 2
+   },
+   "order2": {
+    "dropped": [],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "tie",
+    "pos": "tie",
+    "grade_orig": 1,
+    "grade_rw": 1
+   }
+  },
+  "Q07": {
+   "order1": {
+    "dropped": [],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "tie",
+    "pos": "tie",
+    "grade_orig": 2,
+    "grade_rw": 2
+   },
+   "order2": {
+    "dropped": [],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "tie",
+    "pos": "tie",
+    "grade_orig": 2,
+    "grade_rw": 2
+   }
+  },
+  "Q08": {
+   "order1": {
+    "dropped": [
+     {
+      "unit": "Invites further questions",
+      "kind": "ask",
+      "in_text1": true,
+      "in_text2": false,
+      "altered": null,
+      "note": "Closing invitation dropped in Text 2"
+     }
+    ],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "rewrite",
+    "pos": "2",
+    "grade_orig": 1,
+    "grade_rw": 2
+   },
+   "order2": {
+    "dropped": [
+     {
+      "unit": "Open invitation for further questions",
+      "kind": "offer",
+      "in_text1": false,
+      "in_text2": true,
+      "altered": null,
+      "note": "Only T2 invites further questions"
+     }
+    ],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "rewrite",
+    "pos": "1",
+    "grade_orig": 0,
+    "grade_rw": 1
+   }
+  },
+  "Q09": {
+   "order1": {
+    "dropped": [
+     {
+      "unit": "Looking forward to hearing thoughts",
+      "kind": "ask",
+      "in_text1": true,
+      "in_text2": false,
+      "altered": null,
+      "note": "Soft response invite dropped in Text 2"
+     }
+    ],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "rewrite",
+    "pos": "2",
+    "grade_orig": 1,
+    "grade_rw": 2
+   },
+   "order2": {
+    "dropped": [
+     {
+      "unit": "Looking forward to hearing thoughts on the options",
+      "kind": "ask",
+      "in_text1": false,
+      "in_text2": true,
+      "altered": null,
+      "note": "Only T2 asks for a reply"
+     }
+    ],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "rewrite",
+    "pos": "1",
+    "grade_orig": 1,
+    "grade_rw": 2
+   }
+  },
+  "Q10": {
+   "order1": {
+    "dropped": [
+     {
+      "unit": "Thanks for a great year",
+      "kind": "stance",
+      "in_text1": true,
+      "in_text2": false,
+      "altered": null,
+      "note": "Closing thanks dropped in Text 2"
+     }
+    ],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "rewrite",
+    "pos": "2",
+    "grade_orig": 1,
+    "grade_rw": 2
+   },
+   "order2": {
+    "dropped": [
+     {
+      "unit": "Thanks for a great year",
+      "kind": "stance",
+      "in_text1": false,
+      "in_text2": true,
+      "altered": null,
+      "note": "Warm closing appreciation only in T2"
+     }
+    ],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "tie",
+    "pos": "tie",
+    "grade_orig": 2,
+    "grade_rw": 2
+   }
+  },
+  "Q11": {
+   "order1": {
+    "dropped": [],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "tie",
+    "pos": "tie",
+    "grade_orig": 1,
+    "grade_rw": 1
+   },
+   "order2": {
+    "dropped": [],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "tie",
+    "pos": "tie",
+    "grade_orig": 2,
+    "grade_rw": 2
+   }
+  },
+  "Q12": {
+   "order1": {
+    "dropped": [],
+    "added": [],
+    "altered": [
+     {
+      "unit": "Check five OT detections' log source activity",
+      "kind": "ask",
+      "in_text1": true,
+      "in_text2": true,
+      "altered": "strength_up",
+      "note": "Text 2 frames it as a direct instruction, not an optional idea"
+     }
+    ],
+    "same": "yes",
+    "pick": "original",
+    "pos": "1",
+    "grade_orig": 1,
+    "grade_rw": 1
+   },
+   "order2": {
+    "dropped": [],
+    "added": [],
+    "altered": [
+     {
+      "unit": "Going deeper is an option the buyer may want",
+      "kind": "condition",
+      "in_text1": true,
+      "in_text2": true,
+      "altered": "strength_down",
+      "note": "T2 says 'if you ever do', softer than T1"
+     }
+    ],
+    "same": "yes",
+    "pick": "original",
+    "pos": "2",
+    "grade_orig": 2,
+    "grade_rw": 2
+   }
+  },
+  "Q13": {
+   "order1": {
+    "dropped": [
+     {
+      "unit": "Platform has a lot of great capabilities",
+      "kind": "claim",
+      "in_text1": true,
+      "in_text2": false,
+      "altered": null,
+      "note": "Hype line dropped in Text 2"
+     }
+    ],
+    "added": [],
+    "altered": [
+     {
+      "unit": "Eagerness to tell more about the platform",
+      "kind": "stance",
+      "in_text1": true,
+      "in_text2": true,
+      "altered": "strength_down",
+      "note": "'I'd love' softened to 'I'd like' in Text 2"
+     }
+    ],
+    "same": "yes",
+    "pick": "rewrite",
+    "pos": "2",
+    "grade_orig": 1,
+    "grade_rw": 1
+   },
+   "order2": {
+    "dropped": [],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "rewrite",
+    "pos": "1",
+    "grade_orig": 0,
+    "grade_rw": 1
+   }
+  },
+  "Q14": {
+   "order1": {
+    "dropped": [
+     {
+      "unit": "Great news enthusiasm and exclamation marks",
+      "kind": "stance",
+      "in_text1": false,
+      "in_text2": true,
+      "altered": null,
+      "note": "Text 2 only; adds hype"
+     },
+     {
+      "unit": "Offers help getting it over the line",
+      "kind": "offer",
+      "in_text1": false,
+      "in_text2": true,
+      "altered": null,
+      "note": "Text 2 only"
+     }
+    ],
+    "added": [],
+    "altered": [
+     {
+      "unit": "Best pricing the seller has offered",
+      "kind": "claim",
+      "in_text1": true,
+      "in_text2": true,
+      "altered": "strength_up",
+      "note": "Text 2 adds 'really exceptional' and 'honestly' hype"
+     }
+    ],
+    "same": "yes",
+    "pick": "rewrite",
+    "pos": "1",
+    "grade_orig": 0,
+    "grade_rw": 2
+   },
+   "order2": {
+    "dropped": [
+     {
+      "unit": "Offers help getting it over the line",
+      "kind": "offer",
+      "in_text1": true,
+      "in_text2": false,
+      "altered": null,
+      "note": "Only in T1"
+     }
+    ],
+    "added": [],
+    "altered": [
+     {
+      "unit": "Pricing described as the best ever offered",
+      "kind": "claim",
+      "in_text1": true,
+      "in_text2": true,
+      "altered": "strength_down",
+      "note": "T1 says 'really exceptional' and 'honestly'; T2 is calmer"
+     }
+    ],
+    "same": "yes",
+    "pick": "rewrite",
+    "pos": "2",
+    "grade_orig": 0,
+    "grade_rw": 1
+   }
+  },
+  "Q15": {
+   "order1": {
+    "dropped": [
+     {
+      "unit": "Customers have seen amazing results",
+      "kind": "claim",
+      "in_text1": false,
+      "in_text2": true,
+      "altered": null,
+      "note": "Unsupported claim added in Text 2"
+     },
+     {
+      "unit": "Platform is super flexible",
+      "kind": "claim",
+      "in_text1": false,
+      "in_text2": true,
+      "altered": null,
+      "note": "Hype added in Text 2"
+     },
+     {
+      "unit": "Proud of the culture built here",
+      "kind": "stance",
+      "in_text1": false,
+      "in_text2": true,
+      "altered": null,
+      "note": "Text 2 only"
+     }
+    ],
+    "added": [],
+    "altered": [],
+    "same": "partly",
+    "pick": "rewrite",
+    "pos": "1",
+    "grade_orig": 0,
+    "grade_rw": 1
+   },
+   "order2": {
+    "dropped": [
+     {
+      "unit": "Customers have seen amazing results",
+      "kind": "claim",
+      "in_text1": true,
+      "in_text2": false,
+      "altered": null,
+      "note": "Result claim dropped in T2"
+     }
+    ],
+    "added": [],
+    "altered": [],
+    "same": "partly",
+    "pick": "rewrite",
+    "pos": "2",
+    "grade_orig": 0,
+    "grade_rw": 1
+   }
+  },
+  "Q16": {
+   "order1": {
+    "dropped": [
+     {
+      "unit": "Value in collaboration, visibility and outcomes",
+      "kind": "claim",
+      "in_text1": true,
+      "in_text2": false,
+      "altered": null,
+      "note": "Closing value summary dropped in Text 2"
+     },
+     {
+      "unit": "Invitation to contact with questions",
+      "kind": "offer",
+      "in_text1": true,
+      "in_text2": false,
+      "altered": null,
+      "note": "Dropped in Text 2"
+     }
+    ],
+    "added": [],
+    "altered": [],
+    "same": "partly",
+    "pick": "rewrite",
+    "pos": "2",
+    "grade_orig": 1,
+    "grade_rw": 1
+   },
+   "order2": {
+    "dropped": [
+     {
+      "unit": "Proposal will deliver significant value",
+      "kind": "claim",
+      "in_text1": false,
+      "in_text2": true,
+      "altered": null,
+      "note": "Generic value claim only in T2"
+     },
+     {
+      "unit": "Invites questions by contacting the sender",
+      "kind": "offer",
+      "in_text1": false,
+      "in_text2": true,
+      "altered": null,
+      "note": "Only T2 invites contact"
+     }
+    ],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "rewrite",
+    "pos": "1",
+    "grade_orig": 1,
+    "grade_rw": 1
+   }
+  },
+  "Q17": {
+   "order1": {
+    "dropped": [],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "original",
+    "pos": "2",
+    "grade_orig": 1,
+    "grade_rw": 1
+   },
+   "order2": {
+    "dropped": [],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "original",
+    "pos": "1",
+    "grade_orig": 1,
+    "grade_rw": 1
+   }
+  },
+  "Q18": {
+   "order1": {
+    "dropped": [],
+    "added": [],
+    "altered": [
+     {
+      "unit": "Wants to find time to chat",
+      "kind": "ask",
+      "in_text1": true,
+      "in_text2": true,
+      "altered": "strength_down",
+      "note": "'I'd love' softened to 'I'd like' in Text 2"
+     }
+    ],
+    "same": "yes",
+    "pick": "rewrite",
+    "pos": "2",
+    "grade_orig": 1,
+    "grade_rw": 1
+   },
+   "order2": {
+    "dropped": [],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "tie",
+    "pos": "tie",
+    "grade_orig": 1,
+    "grade_rw": 1
+   }
+  },
+  "Q19": {
+   "order1": {
+    "dropped": [],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "tie",
+    "pos": "tie",
+    "grade_orig": 1,
+    "grade_rw": 1
+   },
+   "order2": {
+    "dropped": [],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "tie",
+    "pos": "tie",
+    "grade_orig": 1,
+    "grade_rw": 1
+   }
+  },
+  "Q20": {
+   "order1": {
+    "dropped": [
+     {
+      "unit": "Thanks for being a great partner",
+      "kind": "stance",
+      "in_text1": true,
+      "in_text2": false,
+      "altered": null,
+      "note": "Warm thanks dropped in Text 2"
+     },
+     {
+      "unit": "Excited about what's ahead, big year",
+      "kind": "stance",
+      "in_text1": true,
+      "in_text2": false,
+      "altered": null,
+      "note": "Enthusiasm dropped in Text 2"
+     }
+    ],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "original",
+    "pos": "1",
+    "grade_orig": 1,
+    "grade_rw": 1
+   },
+   "order2": {
+    "dropped": [
+     {
+      "unit": "Thanks and warm enthusiasm for the partnership",
+      "kind": "stance",
+      "in_text1": false,
+      "in_text2": true,
+      "altered": null,
+      "note": "Warm thanks and excitement appear only in T2"
+     }
+    ],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "original",
+    "pos": "2",
+    "grade_orig": 1,
+    "grade_rw": 1
+   }
+  },
+  "Q21": {
+   "order1": {
+    "dropped": [
+     {
+      "unit": "Honest candor about the team's workload",
+      "kind": "stance",
+      "in_text1": true,
+      "in_text2": false,
+      "altered": null,
+      "note": "'Honestly' dropped in Text 2"
+     }
+    ],
+    "added": [],
+    "altered": [
+     {
+      "unit": "Asks for help speeding up the review",
+      "kind": "ask",
+      "in_text1": true,
+      "in_text2": true,
+      "altered": "strength_down",
+      "note": "Text 2 drops 'really' and softens the appreciation"
+     },
+     {
+      "unit": "SOC manager excited to get started",
+      "kind": "claim",
+      "in_text1": true,
+      "in_text2": true,
+      "altered": "strength_down",
+      "note": "Exclamation removed in Text 2"
+     }
+    ],
+    "same": "yes",
+    "pick": "rewrite",
+    "pos": "2",
+    "grade_orig": 1,
+    "grade_rw": 1
+   },
+   "order2": {
+    "dropped": [],
+    "added": [],
+    "altered": [
+     {
+      "unit": "Asks for help speeding up review",
+      "kind": "ask",
+      "in_text1": true,
+      "in_text2": true,
+      "altered": "strength_up",
+      "note": "T2 says 'really appreciated', a slightly firmer request"
+     },
+     {
+      "unit": "SOC manager is excited to get started",
+      "kind": "stance",
+      "in_text1": true,
+      "in_text2": true,
+      "altered": "strength_up",
+      "note": "T2 adds exclamation, more enthusiasm"
+     }
+    ],
+    "same": "yes",
+    "pick": "rewrite",
+    "pos": "1",
+    "grade_orig": 1,
+    "grade_rw": 1
+   }
+  },
+  "Q22": {
+   "order1": {
+    "dropped": [
+     {
+      "unit": "Acknowledges the reader is busy",
+      "kind": "stance",
+      "in_text1": true,
+      "in_text2": false,
+      "altered": null,
+      "note": "Empathy line dropped in Text 2"
+     }
+    ],
+    "added": [],
+    "altered": [
+     {
+      "unit": "Wants 30 minutes this week or next",
+      "kind": "ask",
+      "in_text1": true,
+      "in_text2": true,
+      "altered": "strength_down",
+      "note": "'Would love' softened to 'I'd like' in Text 2"
+     }
+    ],
+    "same": "yes",
+    "pick": "rewrite",
+    "pos": "2",
+    "grade_orig": 0,
+    "grade_rw": 1
+   },
+   "order2": {
+    "dropped": [
+     {
+      "unit": "Acknowledges the buyer is busy",
+      "kind": "stance",
+      "in_text1": false,
+      "in_text2": true,
+      "altered": null,
+      "note": "Only T2 includes 'I know things get busy'"
+     },
+     {
+      "unit": "Expresses eagerness to connect",
+      "kind": "stance",
+      "in_text1": false,
+      "in_text2": true,
+      "altered": null,
+      "note": "Only T2 says 'Would love to'"
+     }
+    ],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "rewrite",
+    "pos": "1",
+    "grade_orig": 0,
+    "grade_rw": 0
+   }
+  },
+  "Q23": {
+   "order1": {
+    "dropped": [
+     {
+      "unit": "Do not lose access to your work",
+      "kind": "stance",
+      "in_text1": false,
+      "in_text2": true,
+      "altered": null,
+      "note": "Loss-aversion hook added in Text 2"
+     },
+     {
+      "unit": "Offer is for a limited time",
+      "kind": "claim",
+      "in_text1": false,
+      "in_text2": true,
+      "altered": null,
+      "note": "Added urgency claim in Text 2"
+     }
+    ],
+    "added": [],
+    "altered": [
+     {
+      "unit": "Click button below to upgrade",
+      "kind": "ask",
+      "in_text1": true,
+      "in_text2": true,
+      "altered": "strength_up",
+      "note": "Text 2 uses 'Upgrade now' urgency"
+     }
+    ],
+    "same": "partly",
+    "pick": "rewrite",
+    "pos": "1",
+    "grade_orig": 0,
+    "grade_rw": 1
+   },
+   "order2": {
+    "dropped": [
+     {
+      "unit": "Don't lose access to work done",
+      "kind": "claim",
+      "in_text1": true,
+      "in_text2": false,
+      "altered": null,
+      "note": "Loss-of-access warning only in T1"
+     },
+     {
+      "unit": "Limited-time urgency on the offer",
+      "kind": "deadline",
+      "in_text1": true,
+      "in_text2": false,
+      "altered": "strength_down",
+      "note": "T2 drops 'limited time' framing, keeps month-end deadline"
+     }
+    ],
+    "added": [],
+    "altered": [],
+    "same": "partly",
+    "pick": "rewrite",
+    "pos": "2",
+    "grade_orig": 0,
+    "grade_rw": 1
+   }
+  },
+  "Q24": {
+   "order1": {
+    "dropped": [
+     {
+      "unit": "Candid 'honestly' framing of the value claim",
+      "kind": "stance",
+      "in_text1": true,
+      "in_text2": false,
+      "altered": null,
+      "note": "Dropped in Text 2"
+     }
+    ],
+    "added": [],
+    "altered": [
+     {
+      "unit": "Empathy for the budget situation",
+      "kind": "stance",
+      "in_text1": true,
+      "in_text2": true,
+      "altered": "strength_down",
+      "note": "'Totally get it' becomes flatter 'Understood' in Text 2"
+     }
+    ],
+    "same": "yes",
+    "pick": "original",
+    "pos": "1",
+    "grade_orig": 1,
+    "grade_rw": 1
+   },
+   "order2": {
+    "dropped": [],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "original",
+    "pos": "2",
+    "grade_orig": 1,
+    "grade_rw": 0
+   }
+  }
+ },
+ "opus": {
+  "Q01": {
+   "order1": {
+    "dropped": [],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "tie",
+    "pos": "tie",
+    "grade_orig": 2,
+    "grade_rw": 2
+   },
+   "order2": {
+    "dropped": [],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "tie",
+    "pos": "tie",
+    "grade_orig": 2,
+    "grade_rw": 2
+   }
+  },
+  "Q02": {
+   "order1": {
+    "dropped": [],
+    "added": [],
+    "altered": [
+     {
+      "unit": "How are you tracking hunts today",
+      "kind": "ask",
+      "in_text1": true,
+      "in_text2": true,
+      "altered": "strength_up",
+      "note": "Indirect interest becomes direct question"
+     },
+     {
+      "unit": "Would shared procedure library be useful",
+      "kind": "ask",
+      "in_text1": true,
+      "in_text2": true,
+      "altered": "strength_up",
+      "note": "Indirect interest becomes direct question"
+     }
+    ],
+    "same": "yes",
+    "pick": "original",
+    "pos": "1",
+    "grade_orig": 1,
+    "grade_rw": 1
+   },
+   "order2": {
+    "dropped": [],
+    "added": [],
+    "altered": [
+     {
+      "unit": "Ask how they track hunts today",
+      "kind": "ask",
+      "in_text1": true,
+      "in_text2": true,
+      "altered": "strength_down",
+      "note": "Direct question in Text 1; indirect 'would be interested' in Text 2"
+     },
+     {
+      "unit": "Ask whether shared procedure library is useful",
+      "kind": "ask",
+      "in_text1": true,
+      "in_text2": true,
+      "altered": "strength_down",
+      "note": "Direct question vs indirect interest statement"
+     }
+    ],
+    "same": "yes",
+    "pick": "original",
+    "pos": "2",
+    "grade_orig": 1,
+    "grade_rw": 1
+   }
+  },
+  "Q03": {
+   "order1": {
+    "dropped": [],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "original",
+    "pos": "2",
+    "grade_orig": 2,
+    "grade_rw": 2
+   },
+   "order2": {
+    "dropped": [],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "rewrite",
+    "pos": "2",
+    "grade_orig": 2,
+    "grade_rw": 2
+   }
+  },
+  "Q04": {
+   "order1": {
+    "dropped": [
+     {
+      "unit": "Thanks for what your team does",
+      "kind": "stance",
+      "in_text1": true,
+      "in_text2": false,
+      "altered": null,
+      "note": "Closing appreciation dropped in Text 2"
+     }
+    ],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "original",
+    "pos": "1",
+    "grade_orig": 2,
+    "grade_rw": 2
+   },
+   "order2": {
+    "dropped": [
+     {
+      "unit": "Thanks for what your team does",
+      "kind": "stance",
+      "in_text1": false,
+      "in_text2": true,
+      "altered": null,
+      "note": "Added closing appreciation in Text 2"
+     }
+    ],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "rewrite",
+    "pos": "1",
+    "grade_orig": 2,
+    "grade_rw": 2
+   }
+  },
+  "Q05": {
+   "order1": {
+    "dropped": [],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "tie",
+    "pos": "tie",
+    "grade_orig": 1,
+    "grade_rw": 1
+   },
+   "order2": {
+    "dropped": [],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "tie",
+    "pos": "tie",
+    "grade_orig": 1,
+    "grade_rw": 1
+   }
+  },
+  "Q06": {
+   "order1": {
+    "dropped": [],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "tie",
+    "pos": "tie",
+    "grade_orig": 1,
+    "grade_rw": 1
+   },
+   "order2": {
+    "dropped": [],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "tie",
+    "pos": "tie",
+    "grade_orig": 1,
+    "grade_rw": 1
+   }
+  },
+  "Q07": {
+   "order1": {
+    "dropped": [],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "tie",
+    "pos": "tie",
+    "grade_orig": 2,
+    "grade_rw": 2
+   },
+   "order2": {
+    "dropped": [],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "tie",
+    "pos": "tie",
+    "grade_orig": 2,
+    "grade_rw": 2
+   }
+  },
+  "Q08": {
+   "order1": {
+    "dropped": [
+     {
+      "unit": "Invites further questions",
+      "kind": "offer",
+      "in_text1": true,
+      "in_text2": false,
+      "altered": null,
+      "note": "Closing offer to answer questions dropped"
+     }
+    ],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "rewrite",
+    "pos": "2",
+    "grade_orig": 1,
+    "grade_rw": 2
+   },
+   "order2": {
+    "dropped": [
+     {
+      "unit": "Invite further questions",
+      "kind": "offer",
+      "in_text1": false,
+      "in_text2": true,
+      "altered": null,
+      "note": "Text 2 adds offer to answer more questions"
+     }
+    ],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "rewrite",
+    "pos": "1",
+    "grade_orig": 0,
+    "grade_rw": 1
+   }
+  },
+  "Q09": {
+   "order1": {
+    "dropped": [
+     {
+      "unit": "Thanks for Monday",
+      "kind": "fact",
+      "in_text1": true,
+      "in_text2": false,
+      "altered": null,
+      "note": "Thanks dropped; Monday still referenced"
+     },
+     {
+      "unit": "Looking forward to your thoughts",
+      "kind": "ask",
+      "in_text1": true,
+      "in_text2": false,
+      "altered": null,
+      "note": "Soft request for response dropped"
+     }
+    ],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "rewrite",
+    "pos": "2",
+    "grade_orig": 1,
+    "grade_rw": 1
+   },
+   "order2": {
+    "dropped": [
+     {
+      "unit": "Looking forward to your thoughts",
+      "kind": "stance",
+      "in_text1": false,
+      "in_text2": true,
+      "altered": null,
+      "note": "Added soft closing in Text 2"
+     }
+    ],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "rewrite",
+    "pos": "1",
+    "grade_orig": 1,
+    "grade_rw": 2
+   }
+  },
+  "Q10": {
+   "order1": {
+    "dropped": [
+     {
+      "unit": "Thanks for a great year",
+      "kind": "stance",
+      "in_text1": true,
+      "in_text2": false,
+      "altered": null,
+      "note": "Closing gratitude dropped in Text 2"
+     }
+    ],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "original",
+    "pos": "1",
+    "grade_orig": 2,
+    "grade_rw": 2
+   },
+   "order2": {
+    "dropped": [
+     {
+      "unit": "Thanks for a great year",
+      "kind": "stance",
+      "in_text1": false,
+      "in_text2": true,
+      "altered": null,
+      "note": "Added in Text 2"
+     }
+    ],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "rewrite",
+    "pos": "1",
+    "grade_orig": 2,
+    "grade_rw": 2
+   }
+  },
+  "Q11": {
+   "order1": {
+    "dropped": [],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "tie",
+    "pos": "tie",
+    "grade_orig": 2,
+    "grade_rw": 2
+   },
+   "order2": {
+    "dropped": [],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "tie",
+    "pos": "tie",
+    "grade_orig": 2,
+    "grade_rw": 2
+   }
+  },
+  "Q12": {
+   "order1": {
+    "dropped": [
+     {
+      "unit": "Thanks, Yasmin",
+      "kind": "stance",
+      "in_text1": true,
+      "in_text2": false,
+      "altered": null,
+      "note": "Closing thanks dropped"
+     }
+    ],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "tie",
+    "pos": "tie",
+    "grade_orig": 2,
+    "grade_rw": 2
+   },
+   "order2": {
+    "dropped": [],
+    "added": [],
+    "altered": [
+     {
+      "unit": "Suggest checking five OT detections' log sources",
+      "kind": "offer",
+      "in_text1": true,
+      "in_text2": true,
+      "altered": "strength_down",
+      "note": "Imperative in Text 1; 'if you ever want' in Text 2"
+     }
+    ],
+    "same": "yes",
+    "pick": "original",
+    "pos": "2",
+    "grade_orig": 2,
+    "grade_rw": 2
+   }
+  },
+  "Q13": {
+   "order1": {
+    "dropped": [
+     {
+      "unit": "Hope you're having a great week",
+      "kind": "stance",
+      "in_text1": true,
+      "in_text2": false,
+      "altered": null,
+      "note": "Pleasantry dropped"
+     }
+    ],
+    "added": [],
+    "altered": [
+     {
+      "unit": "Lots of great capabilities across four areas",
+      "kind": "claim",
+      "in_text1": true,
+      "in_text2": true,
+      "altered": "strength_down",
+      "note": "'Great capabilities' becomes neutral 'platform covers'"
+     },
+     {
+      "unit": "Learn about Copperleaf, explore fit",
+      "kind": "ask",
+      "in_text1": true,
+      "in_text2": true,
+      "altered": "strength_down",
+      "note": "'I'd love' becomes 'I'd like'"
+     }
+    ],
+    "same": "yes",
+    "pick": "rewrite",
+    "pos": "2",
+    "grade_orig": 0,
+    "grade_rw": 1
+   },
+   "order2": {
+    "dropped": [
+     {
+      "unit": "Hope you're having a great week",
+      "kind": "stance",
+      "in_text1": false,
+      "in_text2": true,
+      "altered": null,
+      "note": "Filler pleasantries added in Text 2"
+     }
+    ],
+    "added": [],
+    "altered": [
+     {
+      "unit": "Covers research, detection, hunting, reporting",
+      "kind": "claim",
+      "in_text1": true,
+      "in_text2": true,
+      "altered": "strength_up",
+      "note": "Text 2 adds 'a lot of great capabilities' puffery"
+     }
+    ],
+    "same": "yes",
+    "pick": "rewrite",
+    "pos": "1",
+    "grade_orig": 0,
+    "grade_rw": 1
+   }
+  },
+  "Q14": {
+   "order1": {
+    "dropped": [
+     {
+      "unit": "Offer to help close",
+      "kind": "offer",
+      "in_text1": false,
+      "in_text2": true,
+      "altered": null,
+      "note": "Added in Text 2"
+     },
+     {
+      "unit": "Enthusiasm: 'Great news!'",
+      "kind": "stance",
+      "in_text1": false,
+      "in_text2": true,
+      "altered": null,
+      "note": "Added hype in Text 2"
+     }
+    ],
+    "added": [],
+    "altered": [
+     {
+      "unit": "Best pricing ever offered",
+      "kind": "claim",
+      "in_text1": true,
+      "in_text2": true,
+      "altered": "strength_up",
+      "note": "Adds 'really exceptional deal', 'honestly'"
+     }
+    ],
+    "same": "partly",
+    "pick": "rewrite",
+    "pos": "1",
+    "grade_orig": 0,
+    "grade_rw": 1
+   },
+   "order2": {
+    "dropped": [
+     {
+      "unit": "Offer to help get it over the line",
+      "kind": "offer",
+      "in_text1": true,
+      "in_text2": false,
+      "altered": null,
+      "note": "Dropped in Text 2"
+     },
+     {
+      "unit": "Excited 'Great news!' tone",
+      "kind": "stance",
+      "in_text1": true,
+      "in_text2": false,
+      "altered": null,
+      "note": "Hype removed in Text 2"
+     }
+    ],
+    "added": [],
+    "altered": [
+     {
+      "unit": "Best pricing ever offered",
+      "kind": "claim",
+      "in_text1": true,
+      "in_text2": true,
+      "altered": "strength_up",
+      "note": "Text 1 adds 'really exceptional deal and honestly'"
+     }
+    ],
+    "same": "yes",
+    "pick": "rewrite",
+    "pos": "2",
+    "grade_orig": 0,
+    "grade_rw": 1
+   }
+  },
+  "Q15": {
+   "order1": {
+    "dropped": [
+     {
+      "unit": "Proud of culture",
+      "kind": "claim",
+      "in_text1": false,
+      "in_text2": true,
+      "altered": null,
+      "note": "Added in Text 2"
+     }
+    ],
+    "added": [],
+    "altered": [
+     {
+      "unit": "Works with major SIEMs and data lakes",
+      "kind": "claim",
+      "in_text1": true,
+      "in_text2": true,
+      "altered": "strength_up",
+      "note": "Adds 'super flexible'"
+     },
+     {
+      "unit": "Many insurance/financial customers",
+      "kind": "claim",
+      "in_text1": true,
+      "in_text2": true,
+      "altered": "strength_up",
+      "note": "Adds 'amazing results' claim"
+     }
+    ],
+    "same": "partly",
+    "pick": "rewrite",
+    "pos": "1",
+    "grade_orig": 0,
+    "grade_rw": 0
+   },
+   "order2": {
+    "dropped": [
+     {
+      "unit": "Proud of culture",
+      "kind": "stance",
+      "in_text1": true,
+      "in_text2": false,
+      "altered": null,
+      "note": "Dropped in Text 2"
+     },
+     {
+      "unit": "Platform super flexible",
+      "kind": "claim",
+      "in_text1": true,
+      "in_text2": false,
+      "altered": null,
+      "note": "Dropped in Text 2"
+     },
+     {
+      "unit": "Customers saw amazing results",
+      "kind": "claim",
+      "in_text1": true,
+      "in_text2": false,
+      "altered": null,
+      "note": "Dropped in Text 2"
+     }
+    ],
+    "added": [],
+    "altered": [
+     {
+      "unit": "Enthusiastic tone, exclamations",
+      "kind": "stance",
+      "in_text1": true,
+      "in_text2": true,
+      "altered": "strength_down",
+      "note": "Text 2 is calmer"
+     }
+    ],
+    "same": "partly",
+    "pick": "rewrite",
+    "pos": "2",
+    "grade_orig": 0,
+    "grade_rw": 1
+   }
+  },
+  "Q16": {
+   "order1": {
+    "dropped": [
+     {
+      "unit": "Will deliver significant value",
+      "kind": "claim",
+      "in_text1": true,
+      "in_text2": false,
+      "altered": null,
+      "note": "Value statement dropped"
+     },
+     {
+      "unit": "Contact me with questions",
+      "kind": "offer",
+      "in_text1": true,
+      "in_text2": false,
+      "altered": null,
+      "note": "Dropped"
+     }
+    ],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "rewrite",
+    "pos": "2",
+    "grade_orig": 0,
+    "grade_rw": 1
+   },
+   "order2": {
+    "dropped": [
+     {
+      "unit": "Will deliver significant value",
+      "kind": "claim",
+      "in_text1": false,
+      "in_text2": true,
+      "altered": null,
+      "note": "Generic value claim added in Text 2"
+     },
+     {
+      "unit": "Invite questions",
+      "kind": "offer",
+      "in_text1": false,
+      "in_text2": true,
+      "altered": null,
+      "note": "Added in Text 2"
+     }
+    ],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "rewrite",
+    "pos": "1",
+    "grade_orig": 1,
+    "grade_rw": 1
+   }
+  },
+  "Q17": {
+   "order1": {
+    "dropped": [],
+    "added": [],
+    "altered": [
+     {
+      "unit": "Maybe not a priority now",
+      "kind": "stance",
+      "in_text1": true,
+      "in_text2": true,
+      "altered": "strength_up",
+      "note": "Adds 'I understand', slightly more empathetic"
+     }
+    ],
+    "same": "yes",
+    "pick": "tie",
+    "pos": "tie",
+    "grade_orig": 0,
+    "grade_rw": 0
+   },
+   "order2": {
+    "dropped": [],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "tie",
+    "pos": "tie",
+    "grade_orig": 0,
+    "grade_rw": 0
+   }
+  },
+  "Q18": {
+   "order1": {
+    "dropped": [],
+    "added": [
+     {
+      "unit": "Number repeated with name",
+      "kind": "fact",
+      "in_text1": false,
+      "in_text2": true,
+      "altered": null,
+      "note": "Text 2 repeats callback number"
+     }
+    ],
+    "altered": [
+     {
+      "unit": "Find time to chat about Lantana",
+      "kind": "ask",
+      "in_text1": true,
+      "in_text2": true,
+      "altered": "strength_down",
+      "note": "'I'd love' becomes 'I'd like'"
+     }
+    ],
+    "same": "yes",
+    "pick": "rewrite",
+    "pos": "2",
+    "grade_orig": 1,
+    "grade_rw": 1
+   },
+   "order2": {
+    "dropped": [],
+    "added": [
+     {
+      "unit": "Number repeated with name",
+      "kind": "fact",
+      "in_text1": true,
+      "in_text2": false,
+      "altered": null,
+      "note": "Text 2 doesn't repeat number"
+     }
+    ],
+    "altered": [],
+    "same": "yes",
+    "pick": "rewrite",
+    "pos": "1",
+    "grade_orig": 1,
+    "grade_rw": 1
+   }
+  },
+  "Q19": {
+   "order1": {
+    "dropped": [],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "tie",
+    "pos": "tie",
+    "grade_orig": 0,
+    "grade_rw": 0
+   },
+   "order2": {
+    "dropped": [],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "tie",
+    "pos": "tie",
+    "grade_orig": 1,
+    "grade_rw": 1
+   }
+  },
+  "Q20": {
+   "order1": {
+    "dropped": [
+     {
+      "unit": "Thanks for being great partner",
+      "kind": "stance",
+      "in_text1": true,
+      "in_text2": false,
+      "altered": null,
+      "note": "Gratitude dropped"
+     },
+     {
+      "unit": "Excited about what's ahead",
+      "kind": "stance",
+      "in_text1": true,
+      "in_text2": false,
+      "altered": null,
+      "note": "Enthusiasm dropped"
+     }
+    ],
+    "added": [],
+    "altered": [],
+    "same": "partly",
+    "pick": "rewrite",
+    "pos": "2",
+    "grade_orig": 0,
+    "grade_rw": 1
+   },
+   "order2": {
+    "dropped": [
+     {
+      "unit": "Thanks for being a great partner",
+      "kind": "stance",
+      "in_text1": false,
+      "in_text2": true,
+      "altered": null,
+      "note": "Added in Text 2"
+     }
+    ],
+    "added": [],
+    "altered": [
+     {
+      "unit": "Celebratory enthusiasm",
+      "kind": "stance",
+      "in_text1": true,
+      "in_text2": true,
+      "altered": "strength_up",
+      "note": "Text 2 much more effusive"
+     }
+    ],
+    "same": "yes",
+    "pick": "rewrite",
+    "pos": "1",
+    "grade_orig": 0,
+    "grade_rw": 1
+   }
+  },
+  "Q21": {
+   "order1": {
+    "dropped": [],
+    "added": [],
+    "altered": [
+     {
+      "unit": "Speed up review appreciated",
+      "kind": "ask",
+      "in_text1": true,
+      "in_text2": true,
+      "altered": "strength_down",
+      "note": "Drops 'really'"
+     }
+    ],
+    "same": "yes",
+    "pick": "tie",
+    "pos": "tie",
+    "grade_orig": 0,
+    "grade_rw": 0
+   },
+   "order2": {
+    "dropped": [],
+    "added": [],
+    "altered": [
+     {
+      "unit": "Ask: speed up review",
+      "kind": "ask",
+      "in_text1": true,
+      "in_text2": true,
+      "altered": "strength_up",
+      "note": "Text 2 adds 'really' and 'Honestly'"
+     }
+    ],
+    "same": "yes",
+    "pick": "rewrite",
+    "pos": "1",
+    "grade_orig": 0,
+    "grade_rw": 0
+   }
+  },
+  "Q22": {
+   "order1": {
+    "dropped": [
+     {
+      "unit": "I know things get busy",
+      "kind": "stance",
+      "in_text1": true,
+      "in_text2": false,
+      "altered": null,
+      "note": "Empathy line dropped"
+     }
+    ],
+    "added": [],
+    "altered": [
+     {
+      "unit": "30 minutes this week or next",
+      "kind": "ask",
+      "in_text1": true,
+      "in_text2": true,
+      "altered": "strength_down",
+      "note": "'Would love' becomes 'I'd like'"
+     }
+    ],
+    "same": "yes",
+    "pick": "rewrite",
+    "pos": "2",
+    "grade_orig": 0,
+    "grade_rw": 0
+   },
+   "order2": {
+    "dropped": [
+     {
+      "unit": "I know things get busy",
+      "kind": "stance",
+      "in_text1": false,
+      "in_text2": true,
+      "altered": null,
+      "note": "Filler empathy added in Text 2"
+     }
+    ],
+    "added": [],
+    "altered": [],
+    "same": "yes",
+    "pick": "rewrite",
+    "pos": "1",
+    "grade_orig": 0,
+    "grade_rw": 0
+   }
+  },
+  "Q23": {
+   "order1": {
+    "dropped": [
+     {
+      "unit": "Don't lose your work",
+      "kind": "stance",
+      "in_text1": false,
+      "in_text2": true,
+      "altered": null,
+      "note": "Added urgency in Text 2"
+     },
+     {
+      "unit": "Limited time framing",
+      "kind": "stance",
+      "in_text1": false,
+      "in_text2": true,
+      "altered": null,
+      "note": "Added urgency"
+     }
+    ],
+    "added": [],
+    "altered": [
+     {
+      "unit": "Click button to upgrade",
+      "kind": "ask",
+      "in_text1": true,
+      "in_text2": true,
+      "altered": "strength_up",
+      "note": "'Upgrade now', 'today' added"
+     }
+    ],
+    "same": "partly",
+    "pick": "rewrite",
+    "pos": "1",
+    "grade_orig": 0,
+    "grade_rw": 1
+   },
+   "order2": {
+    "dropped": [
+     {
+      "unit": "Don't lose your work",
+      "kind": "stance",
+      "in_text1": true,
+      "in_text2": false,
+      "altered": null,
+      "note": "Loss-aversion line dropped in Text 2"
+     }
+    ],
+    "added": [],
+    "altered": [
+     {
+      "unit": "Limited time urgency",
+      "kind": "stance",
+      "in_text1": true,
+      "in_text2": true,
+      "altered": "strength_down",
+      "note": "Text 2 drops 'limited time' and 'upgrade now'"
+     }
+    ],
+    "same": "partly",
+    "pick": "rewrite",
+    "pos": "2",
+    "grade_orig": 0,
+    "grade_rw": 1
+   }
+  },
+  "Q24": {
+   "order1": {
+    "dropped": [],
+    "added": [],
+    "altered": [
+     {
+      "unit": "Tunebench pays for itself",
+      "kind": "claim",
+      "in_text1": true,
+      "in_text2": true,
+      "altered": "strength_down",
+      "note": "Drops 'honestly'"
+     }
+    ],
+    "same": "yes",
+    "pick": "tie",
+    "pos": "tie",
+    "grade_orig": 0,
+    "grade_rw": 0
+   },
+   "order2": {
+    "dropped": [],
+    "added": [],
+    "altered": [
+     {
+      "unit": "Casual 'honestly', 'totally get it' tone",
+      "kind": "stance",
+      "in_text1": true,
+      "in_text2": true,
+      "altered": "strength_up",
+      "note": "Text 2 adds verbal filler and 'but' pushback"
+     }
+    ],
+    "same": "yes",
+    "pick": "rewrite",
+    "pos": "1",
+    "grade_orig": 0,
+    "grade_rw": 0
+   }
+  }
+ }
+}

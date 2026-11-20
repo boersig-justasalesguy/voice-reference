@@ -1,0 +1,20 @@
+CHANNEL: video_script
+STAGE: cold_outreach
+SELLER: Account Executive at Pipewise
+BUYER: Chief Revenue Officer, Industrial IoT, Torchline Sensors (500-1000 employees)
+MESSAGE:
+[Open on Lena, plain background, about 75 seconds total]
+
+Grant, Lena Marchetti from Pipewise. I'll keep this under two minutes.
+
+I listened to your interview on the Industrial Revenue podcast, where you said the hardest part of forecasting at Torchline is that a deal can sit at 'technical validation' for four months and then close in a week - or never. That's a pattern we see a lot with sensor and hardware companies, because the real decision happens in a pilot on a customer's factory floor, not in the CRM.
+
+[Screen share: a simple chart, 'Stage age vs. close rate', with anonymized data]
+
+This is from a company that sells condition-monitoring hardware, similar deal sizes to yours. On the left, deals by how long they've sat in pilot. You can see that past about 70 days, close rates fall off a cliff - except when there's a second engineering contact active on the account. Their old forecast treated all of those deals the same. Once they weighted by stage age and contact activity, their quarter-end call got within about 6% of actual, from around 20%.
+
+[Back to Lena]
+
+I don't know if Torchline's data shows the same cliff - it might not. If you're open to it, I can run the same stage-age analysis on an export of your last eight quarters, under NDA, and send you the chart. It takes us about a week, and you'd keep it either way.
+
+If that's useful, just reply 'send the NDA.' If not, no hard feelings - thanks for the podcast, it was a good one.

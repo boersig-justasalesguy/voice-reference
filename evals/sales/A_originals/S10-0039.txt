@@ -1,0 +1,6 @@
+CHANNEL: sms
+STAGE: event_followup
+SELLER: Account Executive at Pipewise
+BUYER: VP Sales, Commercial Insurance Brokerage, Aldermoor Risk Partners (200-500 employees)
+MESSAGE:
+Hey Jolene! Great meeting you at RevSummit!! Pipewise = better forecasts, better pipeline, better results. Let's grab time next week, here's my link: [calendar link]

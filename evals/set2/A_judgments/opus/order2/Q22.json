@@ -1,0 +1,39 @@
+{
+ "pair": "Q22",
+ "units": [
+  {
+   "unit": "Following up on last message",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Ask: is Threadline a fit for Quayside",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Ask: 30 minutes this week or next",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "I know things get busy",
+   "kind": "stance",
+   "in_text1": false,
+   "in_text2": true,
+   "altered": null,
+   "note": "Filler empathy added in Text 2"
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "1",
+ "reason": "Text 1 is crisper; Text 2 adds filler and exclamation points.",
+ "grade_text1": "weak",
+ "grade_text2": "weak"
+}

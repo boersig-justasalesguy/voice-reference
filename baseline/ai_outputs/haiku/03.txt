@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>How the Northbridge Vendor Evaluation Methodology Works</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<header>
+<p>Northbridge Research Group</p>
+<h1>How Our Vendor Evaluation Methodology Works</h1>
+<p>A transparent, repeatable process for assessing technology vendors and helping buyers make better decisions.</p>
+</header>
+
+<main>
+<section>
+<h2>Purpose</h2>
+<p>Choosing a technology vendor is hard because buyers must compare products that describe themselves in different terms, against criteria that change from one organization to the next. Our methodology gives buyers a consistent framework for evaluating vendors on the capabilities that matter, backed by documented research and a clear scoring process.</p>
+</section>
+
+<section>
+<h2>How the evaluation works</h2>
+<ol>
+<li><strong>Define the market.</strong> Analysts set the boundaries of each category and the buyer problems it solves.</li>
+<li><strong>Establish criteria.</strong> Evaluation criteria are drawn from buyer interviews, product documentation, and analyst expertise. Each criterion is defined in writing.</li>
+<li><strong>Collect evidence.</strong> Vendors provide product information and briefings. Analysts verify claims through demonstrations, customer references, and independent testing where feasible.</li>
+<li><strong>Score and weight.</strong> Each vendor is scored against each criterion. Weights reflect how much each criterion typically matters to buyers in the category.</li>
+<li><strong>Review and publish.</strong> Scores are reviewed by a second analyst and, where relevant, a methodology panel before publication.</li>
+</ol>
+</section>
+
+<section>
+<h2>How buyers should use it</h2>
+<ul>
+<li><strong>Start with your own weights.</strong> Our default weights reflect the typical buyer. Adjust them to match your priorities, such as data residency, integration depth, or cost.</li>
+<li><strong>Shortlist, then verify.</strong> Use the evaluation to narrow the field to three to five vendors, then test the finalists against your own use cases.</li>
+<li><strong>Check the evidence.</strong> Look at the criteria behind each score, not only the overall ranking.</li>
+<li><strong>Involve the people who will operate the product.</strong> Practitioners often identify gaps that analysts do not.</li>
+</ul>
+</section>
+
+<section>
+<h2>Limitations</h2>
+<p>No evaluation replaces a proof of concept in your own environment. Scores reflect the state of a product at the time of review, and vendors change quickly. Ratings describe relative strengths for typical use cases and should not be read as guarantees of fit for a specific organization.</p>
+</section>
+
+<section>
+<h2>Independence</h2>
+<p>Northbridge Research Group does not accept payment for inclusion in an evaluation or for a favorable placement. Vendors may purchase research access, but ratings are not influenced by those relationships. Conflicts of interest are disclosed where they exist.</p>
+</section>
+</main>
+
+<footer>
+<p>Questions about our methodology? Contact methodology@northbridgeresearch.example.</p>
+<p>&copy; Northbridge Research Group</p>
+</footer>
+</body>
+</html>

@@ -1,0 +1,17 @@
+Hi [Name],
+
+I wanted to flag something that's been affecting my team and see if we can sort it out together.
+
+Since your team's deployment changes on [date], alert volume on our on-call rotation has gone up sharply. We're averaging roughly [X] alerts per night, up from about [Y] before, and most of them are non-actionable. Last week [Name] was paged [N] times in a single shift. We're starting to see the effects: slower response to real issues and people dreading their rotations.
+
+From what we can tell, the main sources are [e.g. the new health check thresholds, the retry behavior on service Z, the changed log levels]. I've put the alert breakdown in [link] so you can see what we're looking at.
+
+I'm not assuming anything was done carelessly. The changes may well have been necessary, and I'd rather understand the reasoning than guess at it. What I'd like to do:
+
+1. Walk through the top few alert sources together and decide which are real signals and which are noise.
+2. Agree on adjustments, whether that's thresholds on your side or alert rules on ours.
+3. Set up a lightweight way to give each other a heads-up before changes that could affect paging.
+
+Could we get 30 minutes this week? I'm free [times], and happy to join your standup if that's easier. If your team is stretched, I can have someone from my side do the first pass on proposed tuning, and you can just review.
+
+[Your Name]

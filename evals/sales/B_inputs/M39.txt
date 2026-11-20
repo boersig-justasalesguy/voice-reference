@@ -1,0 +1,6 @@
+CHANNEL: sms
+STAGE: event_followup
+SELLER: Account Executive at Pipewise
+BUYER: VP Sales, Commercial Insurance Brokerage, Aldermoor Risk Partners (200-500 employees)
+MESSAGE:
+Jolene, Clement from Pipewise - we chatted by the coffee line at RevSummit about renewals getting forecast like new business. Here's that broker renewal-risk view I mentioned: [link]. Curious if it matches how your team thinks about it.

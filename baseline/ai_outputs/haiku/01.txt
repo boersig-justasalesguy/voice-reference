@@ -1,0 +1,23 @@
+FOR IMMEDIATE RELEASE
+
+Northbridge Research Group Predicts Majority of Large Enterprises Will Formalize AI Governance by 2027
+
+BOSTON, March 4, 2026 - Northbridge Research Group today predicted that by 2027, a large share of organizations will create a formal AI governance function, with dedicated budget, defined ownership, and documented policies for how artificial intelligence is built, bought, and used.
+
+According to Northbridge, the shift is being driven by regulatory pressure, rising board-level scrutiny, and the rapid spread of generative AI tools across business units. Many organizations today rely on informal guidance and individual judgment. Northbridge expects that model to break down as AI moves from experimentation into core business processes.
+
+"AI governance is quickly moving from a policy document to an operating function," said Dana Whitfield, Vice President and Principal Analyst at Northbridge Research Group. "The organizations that will do this well are the ones that treat governance as a way to move faster with confidence, not as a brake on innovation. They will assign clear accountability, connect governance to risk and procurement, and measure whether their controls work."
+
+Northbridge advises technology and risk leaders to begin by inventorying current AI use, identifying a single accountable executive, and defining a small set of policies covering data use, model risk, vendor due diligence, and acceptable use. Governance functions should be scaled to the organization's risk profile and reviewed regularly as the technology and regulations change.
+
+About Northbridge Research Group
+Northbridge Research Group is a technology research and advisory firm that helps business and technology leaders make informed decisions about technology investments, strategy, and vendor selection. Its research covers enterprise software, security, data and AI, and digital transformation.
+
+Media Contact
+Priya Raman
+Director, Corporate Communications
+Northbridge Research Group
+press@northbridgeresearch.example
++1 617 555 0142
+
+###

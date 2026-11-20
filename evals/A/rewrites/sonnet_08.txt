@@ -1,0 +1,16 @@
+Subject: Introduction: Maria Chen (First Meridian Bank) and Sam Okafor (Lattice Security)
+
+Hi Maria and Sam,
+
+I'd like to introduce you to each other.
+
+Maria is the CISO at First Meridian Bank, where she leads security for a regional bank with roughly 3,000 employees. She's been spending a lot of time on third-party risk and on securing cloud workloads as the bank moves more of its core systems off premises.
+
+Sam is the founder and CEO of Lattice Security, an early-stage company building tooling to detect credential abuse in cloud environments. Before starting Lattice, he led detection engineering at a large fintech, so he knows the regulated-industry side well.
+
+Maria has been wrestling with exactly the problem Sam's team is working on. Sam wants candid feedback from a security leader in financial services on what a bank would actually need before trusting a young company. Neither of you is obliged to do anything, but I suspect you'd enjoy the conversation.
+
+I'll let you take it from here. Please don't feel you need to reply-all to me.
+
+Best,
+[Your Name]

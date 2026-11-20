@@ -1,0 +1,30 @@
+CHANNEL: email
+STAGE: proposal
+SELLER: Enterprise Account Executive at Commonground
+BUYER: VP Security Operations, Telecommunications, Meridian Reach Wireless (10000+ employees)
+SUBJECT: Commonground Proposal for Meridian Reach Wireless
+MESSAGE:
+Dear Valerie,
+
+Please find below our proposal for Commonground at Meridian Reach Wireless.
+
+Commonground is a cyber-defense program hub that breaks down silos between the SOC, incident response, threat intelligence, detection engineering and red team. It provides a shared backlog, cross-team workflow automation, outcome reporting, executive dashboards, a program maturity model, red-team finding intake, threat-intel requirement tracking, detection request management, incident lessons-learned capture, integration with your ticket queue and SIEM, role-based access control, single sign-on via your SSO provider, audit logging, data residency options and a 99.9% uptime SLA.
+
+Pricing:
+- Commonground Enterprise Platform: 250 users, annual subscription
+- Premium Support: 24x7, 1-hour response for severity 1
+- Professional Services: 120 hours implementation
+- Training: 4 sessions, up to 25 attendees each
+- Executive Reporting Module (add-on)
+- Red Team Integration Module (add-on)
+
+Full pricing details are in the attached quote, valid for 30 days. Payment terms are net 30, annual in advance. Pricing assumes a three-year commitment; one-year terms are available at a 12% uplift.
+
+Our implementation methodology consists of five phases: discovery, design, configuration, integration and adoption. Each phase includes defined deliverables and acceptance criteria. A detailed statement of work will follow upon acceptance of this proposal.
+
+We believe Commonground will deliver significant value to Meridian Reach Wireless by improving collaboration, increasing visibility and accelerating program outcomes.
+
+Please do not hesitate to contact me if you have any questions.
+
+Sincerely,
+Owen Kessler

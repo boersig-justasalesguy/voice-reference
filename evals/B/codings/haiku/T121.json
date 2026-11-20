@@ -1,0 +1,17 @@
+{
+ "id": "T121",
+ "claims": [
+   {"gist": "CDR detects active cloud threats, unlike posture tools that flag misconfigurations", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "EDR and XDR have limited visibility into cloud control-plane activity and identity abuse", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "SIEMs need manual detection building and usually have thin cloud context", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Test vendor detection quality with attack simulations, not just demos", "type": "prescriptive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Automated response that cannot be controlled is a risk", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Model CDR vendor pricing at real scale, including ephemeral resources", "type": "prescriptive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"}
+ ],
+ "named_entities": 3,
+ "named_criticism": 0,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": false,
+ "thesis": "CDR targets active cloud attacks; buyers should judge vendors on detection quality, context, response control and cost."
+}

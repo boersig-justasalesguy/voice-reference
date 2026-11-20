@@ -1,0 +1,179 @@
+{
+ "id": "T151",
+ "claims": [
+  {
+   "gist": "Digital economy is approaching a critical tipping point",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "By 2023 over half of global GDP comes from digitally transformed enterprises",
+   "type": "predictive",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Enterprises unable to compete digitally will lose core markets",
+   "type": "predictive",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "A new species of enterprise will be required to compete",
+   "type": "predictive",
+   "evidence": "named_source",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Enterprises will accelerate investment to become hyperspeed, hyperscaled, hyperconnected",
+   "type": "predictive",
+   "evidence": "named_source",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "By 2023 over 50% of ICT spend goes to transformation, from 27%",
+   "type": "predictive",
+   "evidence": "data_cited",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Enterprises will shift traditional ICT to cloud for efficiency",
+   "type": "predictive",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Digital services must be able to run anywhere and anytime",
+   "type": "prescriptive",
+   "evidence": "reasoning_only",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "By 2022, 70% of enterprises will integrate public and private clouds",
+   "type": "predictive",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Edge deployment reasons shifting toward critical activities",
+   "type": "factual",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "By 2023 over half of new infrastructure at edge, up from 10%",
+   "type": "predictive",
+   "evidence": "data_cited",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "By 2024 edge apps will increase 800%",
+   "type": "predictive",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Digital innovation factory is core to competitive differentiation",
+   "type": "evaluative",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "By 2025 two thirds of enterprises will be prolific software producers",
+   "type": "predictive",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "By 2023 over 500 million cloud-native apps will be deployed",
+   "type": "predictive",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Most new apps will target industry-specific transformation",
+   "type": "predictive",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "App explosion will set new minimum competitive requirements",
+   "type": "predictive",
+   "evidence": "none",
+   "specific": false,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "By 2025 at least 90% of new enterprise apps embed AI",
+   "type": "predictive",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "Disruptive AI-led apps will be about 10% of apps by 2025",
+   "type": "predictive",
+   "evidence": "none",
+   "specific": true,
+   "hedged": true,
+   "owner": "attributed"
+  },
+  {
+   "gist": "By 2024 over 50% of UI interactions use AI-enabled vision or speech",
+   "type": "predictive",
+   "evidence": "none",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  },
+  {
+   "gist": "AI's impact on enterprises is hard to overstate",
+   "type": "evaluative",
+   "evidence": "named_source",
+   "specific": true,
+   "hedged": false,
+   "owner": "attributed"
+  }
+ ],
+ "named_entities": 2,
+ "named_criticism": 0,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": true,
+ "thesis": "By 2023 digital transformation will dominate the economy, forcing enterprises into hyperscaled, cloud, edge and AI-driven operating models."
+}

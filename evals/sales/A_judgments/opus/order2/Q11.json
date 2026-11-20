@@ -1,0 +1,60 @@
+{
+ "pair": "Q11",
+ "units": [
+  {
+   "unit": "Thanks for joining workshop",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": false,
+   "altered": null,
+   "note": "Text 2 drops explicit thanks"
+  },
+  {
+   "unit": "Recording and scoring worksheet shared",
+   "kind": "offer",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Health score is CSM gut feel, monthly RYG",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "More common than people admit",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Worksheet tab 2 blends sentiment with objective signals",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Easiest first step",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Offer call to adapt to Sentinelpoint data",
+   "kind": "offer",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "tie",
+ "reason": "Both personalized, helpful, low-pressure; differences trivial.",
+ "grade_text1": "strong",
+ "grade_text2": "strong"
+}

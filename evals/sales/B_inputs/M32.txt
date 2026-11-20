@@ -1,0 +1,6 @@
+CHANNEL: linkedin_dm
+STAGE: cold_outreach
+SELLER: Account Executive at Shiftwell
+BUYER: VP Operations, Fitness Clubs, Pulsewell Gyms (1000-5000 employees)
+MESSAGE:
+Hi Arturo! I'd love to add you to my network. I help operations leaders like you optimize workforce scheduling, reduce labor costs, and improve employee satisfaction with Shiftwell's AI-powered platform. Open to a quick chat sometime?

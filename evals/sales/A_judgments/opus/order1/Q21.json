@@ -1,0 +1,67 @@
+{
+ "pair": "Q21",
+ "units": [
+  {
+   "unit": "Lawyers and cats joke",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Self-deprecating 'bad joke, but seriously'",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": "strength_down",
+   "note": "Text 2 just 'Bad joke.' at end"
+  },
+  {
+   "unit": "AI contract drafting and redlining tool",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Legal teams love it",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Draft faster, negotiate smarter, close sooner",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Automate redlines, playbook, compare, collaborate",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Book a time",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "[link]",
+   "kind": "placeholder",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "1",
+ "reason": "Text 2's ask-first, joke-last order reads abrupt and odd; both generic.",
+ "grade_text1": "weak",
+ "grade_text2": "weak"
+}

@@ -1,0 +1,18 @@
+{
+ "id": "T724",
+ "claims": [
+   {"gist": "60% of large organizations will have a formal AI governance function by 2027", "type": "predictive", "evidence": "data_cited", "specific": true, "hedged": false, "owner": "attributed"},
+   {"gist": "Fewer than one in five large organizations have a formal AI governance function today", "type": "factual", "evidence": "data_cited", "specific": true, "hedged": false, "owner": "attributed"},
+   {"gist": "Volunteer governance working groups struggle to keep pace with AI use cases", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "attributed"},
+   {"gist": "Governance needs an owner, a budget and authority to say no", "type": "prescriptive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "attributed"},
+   {"gist": "Regulation, board attention and operational incidents are driving the shift", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "attributed"},
+   {"gist": "Organizations without governance will have to explain the gap to regulators and customers", "type": "predictive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "attributed"},
+   {"gist": "Prediction rests on a survey of 1,200 leaders and 300 client inquiries", "type": "factual", "evidence": "data_cited", "specific": true, "hedged": false, "owner": "attributed"}
+ ],
+ "named_entities": 0,
+ "named_criticism": 0,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": true,
+ "thesis": "Firm predicts 60% of large organizations will formalize AI governance by 2027, driven by regulation, boards and incidents."
+}

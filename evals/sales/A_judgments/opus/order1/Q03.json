@@ -1,0 +1,104 @@
+{
+ "pair": "Q03",
+ "units": [
+  {
+   "unit": "Call at 3 p.m., avoid lunch rush",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Not ordering; under a minute",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Asks for sixty seconds",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Lorenzo from Shiftwell",
+   "kind": "entity",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "App for crew shift swaps on phones",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Who handles regional scheduling: GM or above?",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Ask for regional contact's name",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Ask how swaps work now",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Whiteboard plus group text most common",
+   "kind": "claim",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Permission to relay floor staff interest",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Promise emphasis on brevity",
+   "kind": "stance",
+   "in_text1": false,
+   "in_text2": true,
+   "altered": "strength_up",
+   "note": "Text 2 adds 'I promise' twice"
+  },
+  {
+   "unit": "Enthusiastic thanks (really helpful, amazing)",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": "strength_up",
+   "note": "Text 2 more effusive"
+  },
+  {
+   "unit": "Honest question framing",
+   "kind": "stance",
+   "in_text1": false,
+   "in_text2": true,
+   "altered": null,
+   "note": "Only in Text 2"
+  }
+ ],
+ "same_meaning": "yes",
+ "better_message": "1",
+ "reason": "Text 1 is crisper; Text 2's repeated promises and 'amazing' feel overdone.",
+ "grade_text1": "strong",
+ "grade_text2": "strong"
+}

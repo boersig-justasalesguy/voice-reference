@@ -1,0 +1,115 @@
+{
+ "pair": "P11",
+ "units": [
+  {
+   "unit": "Sender [Your Name], security engineer at [Company]",
+   "kind": "placeholder",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "About two months into evaluating [Tool Name]",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": "meaning_change",
+   "note": "'We're' (team) became 'I'm' (individual) evaluating"
+  },
+  {
+   "unit": "Saw on LinkedIn recipient runs it at [Their Company]",
+   "kind": "fact",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Not selling, not a vendor",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Ask questions on how it held up",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Hard to learn from demos",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Question: tuning before alerts useful",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Question: surprises after six months",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Question: what to do differently",
+   "kind": "ask",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Twenty minutes would be plenty",
+   "kind": "number",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Will work around recipient's schedule",
+   "kind": "offer",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Offer written questions alternative",
+   "kind": "offer",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Offer to share evaluation learnings",
+   "kind": "offer",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "No problem if wrong person or no time",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": true,
+   "altered": null
+  },
+  {
+   "unit": "Thanks for reading",
+   "kind": "stance",
+   "in_text1": true,
+   "in_text2": false,
+   "altered": null,
+   "note": "thanks dropped in Text 2"
+  }
+ ],
+ "same_meaning": "partly",
+ "more_human": "1",
+ "human_reason": "Natural flow; Text 2's 'That's hard to learn from demos' has an unclear referent."
+}

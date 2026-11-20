@@ -1,0 +1,15 @@
+CHANNEL: email
+STAGE: follow_up
+SELLER: Account Executive at Pipewise
+BUYER: Director of Revenue Operations, Cybersecurity, Ironhelm Security (500-1000 employees)
+SUBJECT: One thing about security deal slippage
+MESSAGE:
+Hi Desmond,
+
+Adding one thing to my last note, then I'll leave you alone.
+
+In cybersecurity sales specifically, we see one predictable source of forecast slippage: deals that reach the security-questionnaire stage late. When a buyer's security review starts in the last three weeks of the quarter, those deals slip about 60% of the time across the companies we work with. When it starts earlier, it's closer to 20%.
+
+Your CRM almost certainly has the data to check this - it's just usually not tracked as a field. If you want, I'll send the two-line report definition we use, and you can run it yourself against Ironhelm's last four quarters. No need to talk to me.
+
+Ingrid

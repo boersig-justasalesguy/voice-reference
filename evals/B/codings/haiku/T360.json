@@ -1,0 +1,18 @@
+{
+ "id": "T360",
+ "claims": [
+   {"gist": "Platform layer of CNAPP is consolidating while the capability layer unbundles", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "author"},
+   {"gist": "Suite acquisitions integrated in slide decks first make modules uneven in quality", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Specialists keep emerging in runtime, identity, data security and supply chain", "type": "factual", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Pick a platform for the shared layer, but score it module by module", "type": "prescriptive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Keep specialists where gaps affect real risk and feed their findings to the central view", "type": "prescriptive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Bundled discounts often sell shelfware, so avoid unused modules", "type": "evaluative", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"},
+   {"gist": "Today's specialist is next year's feature, and sometimes the reverse", "type": "predictive", "evidence": "reasoning_only", "specific": false, "hedged": false, "owner": "impersonal"}
+ ],
+ "named_entities": 0,
+ "named_criticism": 0,
+ "admitted_limits": 0,
+ "stake_disclosure": false,
+ "disputable_thesis": true,
+ "thesis": "CNAPP consolidates at the shared platform layer but unbundles at the capability layer; buyers should treat them differently."
+}

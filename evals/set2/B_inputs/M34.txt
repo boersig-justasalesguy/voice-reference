@@ -1,0 +1,17 @@
+CHANNEL: email
+STAGE: negotiation
+SELLER: Regional Sales Director at Relaykit
+BUYER: CTO, MSSP/MDR, Northbeam Managed Security (200-500 employees)
+SUBJECT: Relaykit pricing: two options for Northbeam
+MESSAGE:
+Samir,
+
+You asked whether we could get closer to your per-tenant budget. Here are two honest options:
+
+Option A, one year: list pricing for 40 tenants, with the 15% discount we already discussed. No commitment beyond twelve months.
+
+Option B, three years: 28% off, price locked for the term, and tenants 41-60 at the same per-tenant rate as you grow. In return, we'd ask for a joint case study after month six, focused on how your team authors once and adapts per client.
+
+Either way, the onboarding plan and SLA don't change. I'd rather you choose the structure that fits how fast you expect to add clients than rush anything for my quarter.
+
+Which one is closer, or what would you change?

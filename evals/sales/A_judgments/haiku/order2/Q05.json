@@ -1,0 +1,9 @@
+{"pair":"Q05","units":[
+{"unit":"Sorry about the budget cut","kind":"stance","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Losing a researcher hurts","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Fieldnote may matter more now","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Designers will run interviews without a synthesizer","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"New spend is off the table","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Offer: free plan details","kind":"offer","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Ask: want the free plan details","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""}
+],"same_meaning":"yes","better_message":"tie","reason":"Same empathy, claim and free-plan ask; only a filler word differs.","grade_text1":"strong","grade_text2":"strong"}

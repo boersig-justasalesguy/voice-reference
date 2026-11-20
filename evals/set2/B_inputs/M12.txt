@@ -1,0 +1,6 @@
+CHANNEL: voicemail
+STAGE: re_engagement
+SELLER: Account Executive at Sieveline
+BUYER: Director of Security Operations, Pharmaceuticals, Halvard Therapeutics (1000-5000 employees)
+MESSAGE:
+Sunita, Brendan Achebe from Sieveline. When we spoke in April, the blocker was timing: your SIEM contract didn't come up until next year. Two things have changed. Halvard announced the acquisition of the Ridgeback lab sites last week, which usually means new log sources landing in your SIEM fast. And your renewal is now about five months out, which is the window where an ingest reduction actually changes the number you negotiate. If it's useful, I can send a one-page estimate of what the lab sites would add to your ingest and what we could filter. 555-0173. I'll also email it so you have it in writing.

@@ -1,0 +1,11 @@
+{"pair":"Q06","units":[
+{"unit":"Thanks Sabine for today's demo","kind":"stance","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"9 CSMs managing about 350 broker accounts","kind":"number","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"No consistent health score; judgment varies by CSM","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Goal: identify at-risk brokers before renewal","kind":"claim","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Start with usage and support data","kind":"fact","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Attached sample health score configuration","kind":"offer","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Question: should CSMs see the score or managers first","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Question: renewal date or planning cycle","kind":"ask","in_text1":true,"in_text2":true,"altered":null,"note":""},
+{"unit":"Proposal to follow after answers","kind":"commitment","in_text1":true,"in_text2":true,"altered":null,"note":""}
+],"same_meaning":"yes","better_message":"2","reason":"Numbered questions make the two asks easier to answer; same content.","grade_text1":"strong","grade_text2":"strong"}
